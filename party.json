@@ -1,14 +1,21 @@
 {
   "awards": {
-    "ballotOpen": true,
+    "ballotOpen": false,
     "currentSession": 1,
     "pendingVotes": {},
-    "sessions": [],
+    "sessions": [
+      {
+        "session": 1,
+        "combat": null,
+        "rp": null,
+        "mvp": null
+      }
+    ],
     "totals": {
       "combat": {},
       "rp": {},
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-10T22:51:54.057Z"
+  "updatedAt": "2026-07-10T22:52:02.152Z"
 }
