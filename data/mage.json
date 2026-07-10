@@ -189,6 +189,26 @@
             "player": "mage",
             "character": "Sample Mage",
             "__fxDone": true
+          },
+          {
+            "kind": "roll",
+            "label": "Unarmed Strike Hit",
+            "formula": "1d20+12",
+            "total": 14,
+            "dice": [
+              {
+                "sides": 20,
+                "value": 2,
+                "sign": 1
+              }
+            ],
+            "text": "Unarmed Strike Hit: 1d20+12 = 14",
+            "detail": "1d20 [2] +12",
+            "id": "roll-mrfjfi79-xvi1tv",
+            "at": 1783724361957,
+            "player": "mage",
+            "character": "Sample Mage",
+            "__fxDone": true
           }
         ]
       },
