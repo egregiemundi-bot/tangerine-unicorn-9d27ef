@@ -208,6 +208,26 @@
             "player": "warrior",
             "character": "Sample Warrior",
             "__fxDone": true
+          },
+          {
+            "kind": "roll",
+            "label": "Spell Attack",
+            "formula": "1d20+2",
+            "total": 6,
+            "dice": [
+              {
+                "sides": 20,
+                "value": 4,
+                "sign": 1
+              }
+            ],
+            "text": "Spell Attack: 1d20+2 = 6",
+            "detail": "1d20 [4] +2",
+            "id": "roll-mrfjao5g-uj6xnw",
+            "at": 1783724136388,
+            "player": "warrior",
+            "character": "Sample Warrior",
+            "__fxDone": true
           }
         ]
       },
