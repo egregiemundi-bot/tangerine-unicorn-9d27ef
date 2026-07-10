@@ -88,8 +88,8 @@
     "activePlanetId": "planet_mrfjdrju_5r8l9rk",
     "favoriteSpells": [],
     "ui": {
-      "tab": "planets",
-      "form": "divine",
+      "tab": "combat",
+      "form": "planet",
       "activePlanetId": "",
       "expanded": {},
       "pinned": [],
