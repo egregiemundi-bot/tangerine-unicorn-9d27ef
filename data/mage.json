@@ -91,7 +91,9 @@
       "tab": "combat",
       "form": "planet",
       "activePlanetId": "",
-      "expanded": {},
+      "expanded": {
+        "spell:mind spike": true
+      },
       "pinned": [],
       "searchFilters": [],
       "searchMode": "AND",
