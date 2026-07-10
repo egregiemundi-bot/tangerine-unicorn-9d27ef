@@ -300,6 +300,58 @@
             "player": "mage",
             "character": "Sample Mage",
             "__fxDone": true
+          },
+          {
+            "kind": "dc",
+            "label": "Mind Spike — WIS save",
+            "total": "17",
+            "text": "Mind Spike — WIS save: DC 17",
+            "detail": "No dice rolled.",
+            "id": "roll-mrfjfu37-vhbumf",
+            "at": 1783724377363,
+            "player": "mage",
+            "character": "Sample Mage"
+          },
+          {
+            "kind": "roll",
+            "label": "Mind Spike Damage",
+            "formula": "3d8",
+            "total": 16,
+            "dice": [
+              {
+                "sides": 8,
+                "value": 4,
+                "sign": 1
+              },
+              {
+                "sides": 8,
+                "value": 4,
+                "sign": 1
+              },
+              {
+                "sides": 8,
+                "value": 8,
+                "sign": 1
+              }
+            ],
+            "text": "Mind Spike Damage: 3d8 = 16",
+            "detail": "3d8 [4, 4, 8]",
+            "id": "roll-mrfjfubx-70y9ec",
+            "at": 1783724377677,
+            "player": "mage",
+            "character": "Sample Mage",
+            "__fxDone": true
+          },
+          {
+            "kind": "dc",
+            "label": "Mind Spike — WIS save",
+            "total": "17",
+            "text": "Mind Spike — WIS save: DC 17",
+            "detail": "No dice rolled.",
+            "id": "roll-mrfjfunz-0z8pq9",
+            "at": 1783724378111,
+            "player": "mage",
+            "character": "Sample Mage"
           }
         ]
       },
