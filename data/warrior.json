@@ -654,8 +654,8 @@
     "_legacyCurrentHP": 0
   },
   "_divineCache": {
-    "generatedAt": 1783723934809,
-    "totalLevel": 1,
+    "generatedAt": 1783724270961,
+    "totalLevel": 2,
     "hp": {
       "max": 0
     },
@@ -727,7 +727,7 @@
     "epicBoons": [],
     "asi": [],
     "counts": {
-      "planets": 1,
+      "planets": 2,
       "classes": 1,
       "subclasses": 0,
       "features": 0,
@@ -748,10 +748,10 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 0,
+  "_divineCacheRev": 1,
   "_divine": {
-    "generatedAt": 1783723934809,
-    "totalLevel": 1,
+    "generatedAt": 1783724270961,
+    "totalLevel": 2,
     "hp": {
       "max": 0
     },
@@ -823,7 +823,7 @@
     "epicBoons": [],
     "asi": [],
     "counts": {
-      "planets": 1,
+      "planets": 2,
       "classes": 1,
       "subclasses": 0,
       "features": 0,
