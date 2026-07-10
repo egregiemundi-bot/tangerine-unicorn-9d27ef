@@ -209,6 +209,26 @@
             "player": "mage",
             "character": "Sample Mage",
             "__fxDone": true
+          },
+          {
+            "kind": "roll",
+            "label": "Prayer of Healing Hit",
+            "formula": "1d20+9",
+            "total": 24,
+            "dice": [
+              {
+                "sides": 20,
+                "value": 15,
+                "sign": 1
+              }
+            ],
+            "text": "Prayer of Healing Hit: 1d20+9 = 24",
+            "detail": "1d20 [15] +9",
+            "id": "roll-mrfjfrsa-mz05lr",
+            "at": 1783724374378,
+            "player": "mage",
+            "character": "Sample Mage",
+            "__fxDone": true
           }
         ]
       },
