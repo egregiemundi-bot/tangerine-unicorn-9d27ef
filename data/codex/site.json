@@ -85,9 +85,9 @@
       "player": "Player One",
       "sigil": "Shield",
       "accent": "#b07a38",
+      "portrait": "uploads/placeholders/sample-warrior.jpg",
       "door": "room-assets/vrakqin-door.png",
-      "room": "room-assets/vrakqin-room.png",
-      "portrait": "uploads/placeholders/sample-warrior.jpg"
+      "room": "room-assets/vrakqin-room.png"
     },
     {
       "id": "elara",
@@ -95,9 +95,9 @@
       "player": "Player Two",
       "sigil": "Arcana",
       "accent": "#9c6a3a",
+      "portrait": "uploads/placeholders/sample-mage.jpg",
       "door": "room-assets/elara-door.png",
-      "room": "room-assets/elara-room.png",
-      "portrait": "uploads/placeholders/sample-mage.jpg"
+      "room": "room-assets/elara-room.png"
     },
     {
       "id": "alteriaus",
@@ -105,9 +105,9 @@
       "player": "Player Three",
       "sigil": "Trail",
       "accent": "#8a7a3a",
+      "portrait": "uploads/placeholders/sample-ranger.jpg",
       "door": "room-assets/alteriaus-door.png",
-      "room": "room-assets/alteriaus-room.png",
-      "portrait": "uploads/placeholders/sample-ranger.jpg"
+      "room": "room-assets/alteriaus-room.png"
     },
     {
       "id": "herman",
@@ -115,11 +115,11 @@
       "player": "Player Four",
       "sigil": "Oath",
       "accent": "#a8844a",
+      "portrait": "uploads/placeholders/sample-cleric.jpg",
       "door": "room-assets/herman-door.png",
-      "room": "room-assets/herman-room.png",
-      "portrait": "uploads/placeholders/sample-cleric.jpg"
+      "room": "room-assets/herman-room.png"
     }
   ],
   "productVersion": "1.0 Foundation",
-  "updatedAt": "2026-07-10T12:00:50.845Z"
+  "updatedAt": "2026-07-10T22:43:20.493Z"
 }
