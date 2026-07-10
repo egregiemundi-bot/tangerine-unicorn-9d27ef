@@ -169,6 +169,26 @@
             "at": 1783724356607,
             "player": "mage",
             "character": "Sample Mage"
+          },
+          {
+            "kind": "roll",
+            "label": "Eldritch Blast Damage",
+            "formula": "1d10",
+            "total": 6,
+            "dice": [
+              {
+                "sides": 10,
+                "value": 6,
+                "sign": 1
+              }
+            ],
+            "text": "Eldritch Blast Damage: 1d10 = 6",
+            "detail": "1d10 [6]",
+            "id": "roll-mrfjfg2e-jdouix",
+            "at": 1783724359190,
+            "player": "mage",
+            "character": "Sample Mage",
+            "__fxDone": true
           }
         ]
       },
