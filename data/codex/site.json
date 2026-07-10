@@ -6,7 +6,7 @@
   "welcome": "Welcome to",
   "description": "Replace this text in Admin Mode. Introduce your world, your party, your campaign tone, and the reason your players should open this site between sessions.",
   "statusBadge": "Template Ready · Edit in Admin Mode",
-  "setupComplete": false,
+  "setupComplete": true,
   "footerBranding": "Powered by The Adventurer’s Campaign Codex",
   "theme": {
     "accent": "#3d25b6",
@@ -114,5 +114,5 @@
     }
   ],
   "productVersion": "1.0 Foundation",
-  "updatedAt": "2026-07-10T22:48:53.472Z"
+  "updatedAt": "2026-07-10T23:08:48.225Z"
 }
