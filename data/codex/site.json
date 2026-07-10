@@ -6,9 +6,10 @@
   "welcome": "Welcome to",
   "description": "Replace this text in Admin Mode. Introduce your world, your party, your campaign tone, and the reason your players should open this site between sessions.",
   "statusBadge": "Template Ready · Edit in Admin Mode",
+  "setupComplete": true,
   "footerBranding": "Powered by The Adventurer’s Campaign Codex",
   "theme": {
-    "accent": "#d8aa4b",
+    "accent": "#0622ac",
     "secondary": "#8f5f2e",
     "background": "#17110b",
     "surface": "#241a11",
@@ -17,7 +18,6 @@
   },
   "modules": {
     "advancedCharacterSystem": false,
-    "playerRooms": false,
     "combatMode": true,
     "threeDDice": true,
     "partyInventory": true,
@@ -26,7 +26,8 @@
     "worldAtlas": true,
     "gallery": true,
     "npcDirectory": true,
-    "sessionNotes": true
+    "sessionNotes": true,
+    "playerRooms": false
   },
   "homeCards": [
     {
@@ -121,5 +122,5 @@
     }
   ],
   "productVersion": "1.0 Foundation",
-  "updatedAt": "2026-07-10T22:43:20.493Z"
+  "updatedAt": "2026-07-10T22:47:23.687Z"
 }
