@@ -150,7 +150,27 @@
         },
         "wallpaper": "",
         "slotsUsed": {},
-        "rollLog": []
+        "rollLog": [
+          {
+            "kind": "roll",
+            "label": "Charisma Check",
+            "formula": "1d20+0",
+            "total": 5,
+            "dice": [
+              {
+                "sides": 20,
+                "value": 5,
+                "sign": 1
+              }
+            ],
+            "text": "Charisma Check: 1d20+0 = 5",
+            "detail": "1d20 [5]",
+            "id": "roll-mrfjai8u-g7gcpx",
+            "at": 1783724128734,
+            "player": "warrior",
+            "character": "Sample Warrior"
+          }
+        ]
       },
       "wizardDraft": {
         "registryId": "home_realm",
