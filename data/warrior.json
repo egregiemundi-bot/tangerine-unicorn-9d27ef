@@ -101,7 +101,7 @@
         "mod": 0
       },
       "combat": {
-        "currentHp": null,
+        "currentHp": 0,
         "tempHp": 0,
         "notes": "",
         "conditions": [],
@@ -115,7 +115,7 @@
           "body": "#171004",
           "num": "#f4c867",
           "edge": "#b98a3b",
-          "texture": "none",
+          "texture": "crimsontide",
           "customUrl": ""
         },
         "colors": {
