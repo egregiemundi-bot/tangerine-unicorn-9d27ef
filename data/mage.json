@@ -229,6 +229,77 @@
             "player": "mage",
             "character": "Sample Mage",
             "__fxDone": true
+          },
+          {
+            "kind": "roll",
+            "label": "Mind Spike Damage",
+            "formula": "3d8",
+            "total": 10,
+            "dice": [
+              {
+                "sides": 8,
+                "value": 6,
+                "sign": 1
+              },
+              {
+                "sides": 8,
+                "value": 3,
+                "sign": 1
+              },
+              {
+                "sides": 8,
+                "value": 1,
+                "sign": 1
+              }
+            ],
+            "text": "Mind Spike Damage: 3d8 = 10",
+            "detail": "3d8 [6, 3, 1]",
+            "id": "roll-mrfjfszb-ddpytj",
+            "at": 1783724375927,
+            "player": "mage",
+            "character": "Sample Mage",
+            "__fxDone": true
+          },
+          {
+            "kind": "dc",
+            "label": "Mind Spike — WIS save",
+            "total": "17",
+            "text": "Mind Spike — WIS save: DC 17",
+            "detail": "No dice rolled.",
+            "id": "roll-mrfjft9e-1cucgi",
+            "at": 1783724376291,
+            "player": "mage",
+            "character": "Sample Mage"
+          },
+          {
+            "kind": "roll",
+            "label": "Mind Spike Damage",
+            "formula": "3d8",
+            "total": 11,
+            "dice": [
+              {
+                "sides": 8,
+                "value": 1,
+                "sign": 1
+              },
+              {
+                "sides": 8,
+                "value": 7,
+                "sign": 1
+              },
+              {
+                "sides": 8,
+                "value": 3,
+                "sign": 1
+              }
+            ],
+            "text": "Mind Spike Damage: 3d8 = 11",
+            "detail": "3d8 [1, 7, 3]",
+            "id": "roll-mrfjftiz-jgxrli",
+            "at": 1783724376635,
+            "player": "mage",
+            "character": "Sample Mage",
+            "__fxDone": true
           }
         ]
       },
