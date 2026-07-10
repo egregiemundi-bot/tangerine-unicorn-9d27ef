@@ -392,6 +392,26 @@
             "player": "mage",
             "character": "Sample Mage",
             "__fxDone": true
+          },
+          {
+            "kind": "roll",
+            "label": "Dexterity Check",
+            "formula": "1d20+6",
+            "total": 21,
+            "dice": [
+              {
+                "sides": 20,
+                "value": 15,
+                "sign": 1
+              }
+            ],
+            "text": "Dexterity Check: 1d20+6 = 21",
+            "detail": "1d20 [15] +6",
+            "id": "roll-mrfjgaox-uemqmq",
+            "at": 1783724398881,
+            "player": "mage",
+            "character": "Sample Mage",
+            "__fxDone": true
           }
         ]
       },
