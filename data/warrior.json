@@ -84,12 +84,12 @@
   "currentHP": 0,
   "divine": {
     "version": 3,
-    "form": "divine",
+    "form": "planet",
     "activePlanetId": "planet_mrfj6cm0_2dqkn1x",
     "favoriteSpells": [],
     "ui": {
       "tab": "combat",
-      "form": "divine",
+      "form": "planet",
       "activePlanetId": "",
       "expanded": {},
       "pinned": [],
