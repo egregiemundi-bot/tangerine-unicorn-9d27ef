@@ -91,7 +91,9 @@
       "tab": "combat",
       "form": "planet",
       "activePlanetId": "",
-      "expanded": {},
+      "expanded": {
+        "spell:prayer of healing": true
+      },
       "pinned": [],
       "searchFilters": [],
       "searchMode": "AND",
