@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-11T22:28:00.464Z",
+  "updatedAt": "2026-07-11T22:28:12.680Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -158,8 +158,8 @@
       "cards": [
         {
           "id": "cmrgxqvav1nh",
-          "x": 57,
-          "y": 284,
+          "x": 22,
+          "y": 319,
           "title": "The adventure begins",
           "text": "The party assembles.",
           "img": "",
