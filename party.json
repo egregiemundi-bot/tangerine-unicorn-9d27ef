@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-11T12:11:15.018Z",
+  "updatedAt": "2026-07-11T12:11:19.130Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -103,7 +103,7 @@
     {
       "name": "town guard",
       "tag": "Role · Location",
-      "desc": "well liked by the ",
+      "desc": "well liked by the city",
       "status": "Alive",
       "id": "new-npc"
     }
