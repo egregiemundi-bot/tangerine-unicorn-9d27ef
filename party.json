@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-11T17:59:50.438Z",
+  "updatedAt": "2026-07-11T17:59:57.099Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -29,12 +29,12 @@
         "y": 172
       },
       "the-faction-envoy": {
-        "x": 526,
-        "y": 358
+        "x": 439,
+        "y": 528
       },
       "the-hidden-villain": {
-        "x": 295,
-        "y": 295
+        "x": 696,
+        "y": 353
       },
       "the-local-sage": {
         "x": 804,
