@@ -398,11 +398,11 @@
       },
       {
         "id": "planet_mrfjcjxx_4wt7k0y",
-        "registryId": "planet_mrfj6cm0_2dqkn1x",
+        "registryId": "main_character",
         "index": 2,
         "name": "",
-        "planetName": "planet_mrfj6cm0_2dqkn1x",
-        "planetImage": "",
+        "planetName": "Character Sheet",
+        "planetImage": "https://www.dndbeyond.com/characters/168260838/77WG20",
         "status": "active",
         "level": 1,
         "xp": 0,
@@ -474,13 +474,13 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 0
+        "lastModified": 1783789422251
       }
     ],
     "_legacyCurrentHP": 0
   },
   "_divineCache": {
-    "generatedAt": 1783724270961,
+    "generatedAt": 1783789422953,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -574,9 +574,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 1,
+  "_divineCacheRev": 3,
   "_divine": {
-    "generatedAt": 1783724270961,
+    "generatedAt": 1783789422953,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -670,5 +670,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 2
+  "_rev": 3
 }
