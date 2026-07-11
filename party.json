@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-11T22:28:12.680Z",
+  "updatedAt": "2026-07-11T22:28:13.529Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -164,6 +164,15 @@
           "text": "The party assembles.",
           "img": "",
           "label": "Year 125"
+        },
+        {
+          "id": "cmrgxrab03wn",
+          "x": 270,
+          "y": 490,
+          "title": "1",
+          "text": "1",
+          "img": "",
+          "label": "1"
         }
       ]
     }
