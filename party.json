@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-11T18:00:07.594Z",
+  "updatedAt": "2026-07-11T18:00:09.891Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -41,8 +41,8 @@
         "y": 89
       },
       "new-npc": {
-        "x": 506,
-        "y": 510
+        "x": 481,
+        "y": 512
       }
     },
     "edges": [
