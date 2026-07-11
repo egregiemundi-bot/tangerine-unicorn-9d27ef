@@ -1,0 +1,433 @@
+{
+  "name": "Sample Ranger",
+  "epithet": "Wildland Scout",
+  "portrait": "uploads/placeholders/sample-ranger.jpg",
+  "player": "Player Three",
+  "race": "Half-Elf",
+  "charClass": "Ranger",
+  "alignment": "Chaotic Good",
+  "status": "Active",
+  "location": "The Campaign Hub",
+  "godForm": "Advanced form placeholder. Enable the Advanced Campaign Module if your campaign uses merged forms, ascensions, awakenings, or multi-world progression.",
+  "worldLevels": [
+    {
+      "world": "Starting Region",
+      "level": "1"
+    }
+  ],
+  "divineGodForm": "Advanced Form Placeholder",
+  "divineDomain": "Paths, Beasts, Survival",
+  "divineStatus": "Optional Module Disabled",
+  "divinePatron": "None Yet",
+  "divinePurpose": "Find the path forward when the map runs out.",
+  "biography": "Replace this biography with homeland, enemies, bonds, survival instincts, and the wilderness that shaped this character.",
+  "accomplishments": [
+    "Add this character's first major accomplishment here."
+  ],
+  "items": [
+    {
+      "name": "Notched Bow",
+      "type": "Weapon",
+      "desc": "A reliable weapon with room for history.",
+      "img": ""
+    }
+  ],
+  "relationships": [
+    {
+      "name": "The Party",
+      "role": "Companions",
+      "desc": "Shared history will grow through sessions."
+    }
+  ],
+  "quotes": [
+    "The road is telling us something. Walk softer."
+  ],
+  "footerQuote": "The wild remembers every footprint.",
+  "planetRuns": [
+    {
+      "planet": "Starting Region",
+      "cls": "Ranger",
+      "subclass": "",
+      "level": "1",
+      "hp": ""
+    }
+  ],
+  "stackedSlots": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "stacked": [],
+  "coreStats": {
+    "str": "",
+    "dex": "",
+    "con": "",
+    "int": "",
+    "wis": "",
+    "cha": ""
+  },
+  "combatAbilities": [],
+  "divineResources": [],
+  "spellbook": [],
+  "resistances": [],
+  "immunities": [],
+  "skills": [],
+  "epicBoons": [],
+  "asiLog": [],
+  "combatMode": "Character Sheet",
+  "currentHP": 0,
+  "divine": {
+    "version": 3,
+    "form": "divine",
+    "activePlanetId": "planet_mrgy0dkg_1xs4lv6",
+    "favoriteSpells": [],
+    "ui": {
+      "tab": "combat",
+      "form": "divine",
+      "activePlanetId": "",
+      "expanded": {},
+      "pinned": [],
+      "searchFilters": [],
+      "searchMode": "AND",
+      "dice": {
+        "count": 1,
+        "sides": 20,
+        "mod": 0
+      },
+      "combat": {
+        "currentHp": null,
+        "tempHp": 0,
+        "notes": "",
+        "conditions": [],
+        "concentration": "",
+        "spellSearch": "",
+        "hpAdjustAmount": 10,
+        "mobileTab": "combat",
+        "sendRoll20": false,
+        "dice3d": false,
+        "diceStyle": {
+          "body": "#171004",
+          "num": "#f4c867",
+          "edge": "#b98a3b",
+          "texture": "none",
+          "customUrl": ""
+        },
+        "colors": {
+          "accent": "#d6a647",
+          "secondary": "#8b6b2f",
+          "panel": "#14120c",
+          "background": "#080603"
+        },
+        "customization": {
+          "textSize": "normal",
+          "density": "normal",
+          "buttonStyle": "rounded",
+          "hpStyle": "classic",
+          "diceTheme": "classic",
+          "sections": {
+            "hp": true,
+            "vitals": true,
+            "abilities": true,
+            "skills": true,
+            "concentration": true,
+            "conditions": true,
+            "dice": true,
+            "notes": true,
+            "actions": true,
+            "bonus": true,
+            "reactions": true,
+            "resources": true,
+            "slots": true,
+            "spells": true,
+            "rolls": true
+          }
+        },
+        "wallpaper": "",
+        "slotsUsed": {},
+        "rollLog": []
+      }
+    },
+    "artifacts": [],
+    "awards": [],
+    "planets": [
+      {
+        "id": "planet_mrgy0dkg_1xs4lv6",
+        "registryId": "main_character",
+        "index": 1,
+        "name": "",
+        "planetName": "Starting Region",
+        "planetImage": "",
+        "status": "active",
+        "level": 1,
+        "xp": 0,
+        "className": "Ranger",
+        "subclass": "",
+        "background": "",
+        "alignment": "",
+        "species": "",
+        "classes": [
+          {
+            "className": "Ranger",
+            "subclass": "",
+            "level": 1
+          }
+        ],
+        "spellcasting": [],
+        "spellSlots": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0,
+          "7": 0,
+          "8": 0,
+          "9": 0
+        },
+        "spellSaveDC": 0,
+        "spellAttackBonus": 0,
+        "abilityScores": {
+          "str": 10,
+          "dex": 10,
+          "con": 10,
+          "int": 10,
+          "wis": 10,
+          "cha": 10
+        },
+        "savingThrows": [],
+        "skills": [],
+        "hp": {
+          "max": 0,
+          "current": 0,
+          "temp": 0
+        },
+        "hitDice": "",
+        "deathSaves": {
+          "successes": 0,
+          "failures": 0
+        },
+        "ac": 10,
+        "initiativeBonus": 0,
+        "speed": 30,
+        "resources": [],
+        "spells": [],
+        "features": [],
+        "feats": [],
+        "epicBoons": [],
+        "asi": [],
+        "resistances": [],
+        "immunities": [],
+        "weaponProfs": [],
+        "armorProfs": [],
+        "toolProfs": [],
+        "languages": [],
+        "inventory": [],
+        "gold": 0,
+        "notes": "",
+        "history": "",
+        "journal": [],
+        "relationships": [],
+        "quests": [],
+        "lastModified": 0
+      }
+    ],
+    "_legacyCurrentHP": 0
+  },
+  "_divineCache": {
+    "generatedAt": 1783809316531,
+    "totalLevel": 1,
+    "hp": {
+      "max": 0
+    },
+    "proficiencyBonus": 2,
+    "peakAbilityScores": {
+      "str": 10,
+      "dex": 10,
+      "con": 10,
+      "int": 10,
+      "wis": 10,
+      "cha": 10
+    },
+    "classes": [
+      {
+        "className": "Ranger",
+        "levels": 1,
+        "subclasses": [],
+        "planets": [
+          "Starting Region"
+        ]
+      }
+    ],
+    "subclasses": [],
+    "features": [],
+    "actions": [],
+    "bonusActions": [],
+    "reactions": [],
+    "passives": [],
+    "freeActions": [],
+    "legendaryActions": [],
+    "otherActions": [],
+    "spells": [],
+    "spellsByLevel": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": [],
+      "4": [],
+      "5": [],
+      "6": [],
+      "7": [],
+      "8": [],
+      "9": [],
+      "unassigned": []
+    },
+    "spellSlots": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0
+    },
+    "spellSaveDC": 10,
+    "spellAttackBonus": 2,
+    "resources": [],
+    "skills": [],
+    "expertise": [],
+    "savingThrows": [],
+    "resistances": [],
+    "immunities": [],
+    "languages": [],
+    "weaponProfs": [],
+    "toolProfs": [],
+    "feats": [],
+    "epicBoons": [],
+    "asi": [],
+    "counts": {
+      "planets": 1,
+      "classes": 1,
+      "subclasses": 0,
+      "features": 0,
+      "actions": 0,
+      "bonusActions": 0,
+      "reactions": 0,
+      "passives": 0,
+      "spells": 0,
+      "cantrips": 0,
+      "resources": 0,
+      "skills": 0,
+      "expertise": 0,
+      "savingThrows": 0,
+      "languages": 0,
+      "resistances": 0,
+      "immunities": 0,
+      "feats": 0,
+      "epicBoons": 0
+    }
+  },
+  "_divineCacheRev": 0,
+  "_divine": {
+    "generatedAt": 1783809316531,
+    "totalLevel": 1,
+    "hp": {
+      "max": 0
+    },
+    "proficiencyBonus": 2,
+    "peakAbilityScores": {
+      "str": 10,
+      "dex": 10,
+      "con": 10,
+      "int": 10,
+      "wis": 10,
+      "cha": 10
+    },
+    "classes": [
+      {
+        "className": "Ranger",
+        "levels": 1,
+        "subclasses": [],
+        "planets": [
+          "Starting Region"
+        ]
+      }
+    ],
+    "subclasses": [],
+    "features": [],
+    "actions": [],
+    "bonusActions": [],
+    "reactions": [],
+    "passives": [],
+    "freeActions": [],
+    "legendaryActions": [],
+    "otherActions": [],
+    "spells": [],
+    "spellsByLevel": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": [],
+      "4": [],
+      "5": [],
+      "6": [],
+      "7": [],
+      "8": [],
+      "9": [],
+      "unassigned": []
+    },
+    "spellSlots": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0
+    },
+    "spellSaveDC": 10,
+    "spellAttackBonus": 2,
+    "resources": [],
+    "skills": [],
+    "expertise": [],
+    "savingThrows": [],
+    "resistances": [],
+    "immunities": [],
+    "languages": [],
+    "weaponProfs": [],
+    "toolProfs": [],
+    "feats": [],
+    "epicBoons": [],
+    "asi": [],
+    "counts": {
+      "planets": 1,
+      "classes": 1,
+      "subclasses": 0,
+      "features": 0,
+      "actions": 0,
+      "bonusActions": 0,
+      "reactions": 0,
+      "passives": 0,
+      "spells": 0,
+      "cantrips": 0,
+      "resources": 0,
+      "skills": 0,
+      "expertise": 0,
+      "savingThrows": 0,
+      "languages": 0,
+      "resistances": 0,
+      "immunities": 0,
+      "feats": 0,
+      "epicBoons": 0
+    }
+  }
+}
