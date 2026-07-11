@@ -17,20 +17,20 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-11T18:00:03.591Z",
+  "updatedAt": "2026-07-11T18:00:06.031Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
-        "x": 798,
-        "y": 397
+        "x": 795,
+        "y": 451
       },
       "the-rival-adventurer": {
         "x": 422,
         "y": 161
       },
       "the-faction-envoy": {
-        "x": 439,
-        "y": 528
+        "x": 248,
+        "y": 432
       },
       "the-hidden-villain": {
         "x": 632,
