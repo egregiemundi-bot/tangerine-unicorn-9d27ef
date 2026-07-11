@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-11T12:10:48.770Z",
+  "updatedAt": "2026-07-11T12:10:56.840Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -63,5 +63,49 @@
         "type": "colleagues"
       }
     ]
-  }
+  },
+  "npcs": [
+    {
+      "name": "The Helpful Innkeeper",
+      "tag": "Starting Town · Contact",
+      "desc": "A reliable local contact. Replace this with the first NPC your players trust, owe, or annoy.",
+      "status": "Alive",
+      "id": "the-helpful-innkeeper"
+    },
+    {
+      "name": "The Rival Adventurer",
+      "tag": "Recurring Rival · Unknown Allegiance",
+      "desc": "A competitor who wants the same treasure, contract, or secret as the party.",
+      "status": "Active",
+      "id": "the-rival-adventurer"
+    },
+    {
+      "name": "The Faction Envoy",
+      "tag": "Politics · Quest Hook",
+      "desc": "A messenger from a guild, noble house, temple, order, or patron faction.",
+      "status": "Active",
+      "id": "the-faction-envoy"
+    },
+    {
+      "name": "The Hidden Villain",
+      "tag": "Antagonist · Secret",
+      "desc": "A campaign enemy whose public face may not match their true intentions.",
+      "status": "Unknown",
+      "id": "the-hidden-villain"
+    },
+    {
+      "name": "The Local Sage",
+      "tag": "Lorekeeper · Research",
+      "desc": "A scholar, priest, witch, elder, or historian who can answer dangerous questions.",
+      "status": "Alive",
+      "id": "the-local-sage"
+    },
+    {
+      "name": "New NPC",
+      "tag": "Role · Location",
+      "desc": "Description.",
+      "status": "Alive",
+      "id": "new-npc"
+    }
+  ]
 }
