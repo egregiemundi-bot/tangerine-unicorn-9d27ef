@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-11T12:10:29.313Z",
+  "updatedAt": "2026-07-11T12:10:36.297Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -55,6 +55,11 @@
       {
         "a": "the-rival-adventurer",
         "b": "the-faction-envoy",
+        "type": "colleagues"
+      },
+      {
+        "a": "the-local-sage",
+        "b": "the-helpful-innkeeper",
         "type": "colleagues"
       }
     ]
