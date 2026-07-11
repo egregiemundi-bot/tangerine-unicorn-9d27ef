@@ -309,6 +309,25 @@
             "player": "warrior",
             "character": "Sample Warrior",
             "__fxDone": true
+          },
+          {
+            "kind": "roll",
+            "label": "1d20",
+            "formula": "1d20",
+            "total": 1,
+            "dice": [
+              {
+                "sides": 20,
+                "value": 1
+              }
+            ],
+            "text": "1d20 = 1",
+            "detail": "1",
+            "id": "roll-mrgykq3q-nxd0y9",
+            "at": 1783810265894,
+            "player": "warrior",
+            "character": "Sample Warrior",
+            "__fxDone": true
           }
         ]
       },
