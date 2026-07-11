@@ -1,13 +1,3 @@
 {
-  "pages": [
-    {
-      "id": "00",
-      "title": "00",
-      "parentId": "",
-      "secret": false,
-      "links": [],
-      "excerpt": "00",
-      "updated": 1783789175042
-    }
-  ]
+  "pages": []
 }
