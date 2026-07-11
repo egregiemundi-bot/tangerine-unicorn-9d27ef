@@ -423,6 +423,25 @@
             "player": "warrior",
             "character": "Sample Warrior",
             "__fxDone": true
+          },
+          {
+            "kind": "roll",
+            "label": "1d4",
+            "formula": "1d4",
+            "total": 2,
+            "dice": [
+              {
+                "sides": 4,
+                "value": 2
+              }
+            ],
+            "text": "1d4 = 2",
+            "detail": "2",
+            "id": "roll-mrgyl8h8-tbbura",
+            "at": 1783810289708,
+            "player": "warrior",
+            "character": "Sample Warrior",
+            "__fxDone": true
           }
         ]
       },
