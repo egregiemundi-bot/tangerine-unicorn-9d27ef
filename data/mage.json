@@ -84,11 +84,11 @@
   "currentHP": 0,
   "divine": {
     "version": 3,
-    "form": "planet",
+    "form": "divine",
     "activePlanetId": "planet_mrfjdw8o_69rc5va",
     "favoriteSpells": [],
     "ui": {
-      "tab": "combat",
+      "tab": "spells",
       "form": "planet",
       "activePlanetId": "",
       "expanded": {},
@@ -670,10 +670,10 @@
       },
       {
         "id": "planet_mrfjdw8o_69rc5va",
-        "registryId": "planet_mrfjdrju_5r8l9rk",
+        "registryId": "main_character",
         "index": 2,
         "name": "Alteriaus The Ancients Sword",
-        "planetName": "planet_mrfjdrju_5r8l9rk",
+        "planetName": "Character Sheet",
         "planetImage": "",
         "status": "active",
         "level": 14,
