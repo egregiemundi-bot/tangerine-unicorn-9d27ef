@@ -499,6 +499,63 @@
             "player": "warrior",
             "character": "Sample Warrior",
             "__fxDone": true
+          },
+          {
+            "kind": "roll",
+            "label": "1d8",
+            "formula": "1d8",
+            "total": 1,
+            "dice": [
+              {
+                "sides": 8,
+                "value": 1
+              }
+            ],
+            "text": "1d8 = 1",
+            "detail": "1",
+            "id": "roll-mrgylc29-wb47m0",
+            "at": 1783810294353,
+            "player": "warrior",
+            "character": "Sample Warrior",
+            "__fxDone": true
+          },
+          {
+            "kind": "roll",
+            "label": "1d8",
+            "formula": "1d8",
+            "total": 4,
+            "dice": [
+              {
+                "sides": 8,
+                "value": 4
+              }
+            ],
+            "text": "1d8 = 4",
+            "detail": "4",
+            "id": "roll-mrgylg6h-6le6yv",
+            "at": 1783810299689,
+            "player": "warrior",
+            "character": "Sample Warrior",
+            "__fxDone": true
+          },
+          {
+            "kind": "roll",
+            "label": "1d8",
+            "formula": "1d8",
+            "total": 5,
+            "dice": [
+              {
+                "sides": 8,
+                "value": 5
+              }
+            ],
+            "text": "1d8 = 5",
+            "detail": "5",
+            "id": "roll-mrgylgat-wd8c6v",
+            "at": 1783810299845,
+            "player": "warrior",
+            "character": "Sample Warrior",
+            "__fxDone": true
           }
         ]
       },
