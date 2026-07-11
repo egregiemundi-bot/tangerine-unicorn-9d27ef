@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-11T12:12:51.240Z",
+  "updatedAt": "2026-07-11T12:12:56.850Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -86,7 +86,8 @@
       "tag": "Recurring Rival · Unknown Allegiance",
       "desc": "A competitor who wants the same treasure, contract, or secret as the party.",
       "status": "Active",
-      "id": "the-rival-adventurer"
+      "id": "the-rival-adventurer",
+      "img": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/npcs/web-the-rival-adventurer.jpg?v=1783771976480"
     },
     {
       "name": "The Faction Envoy",
