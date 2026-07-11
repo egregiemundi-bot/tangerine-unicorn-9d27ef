@@ -270,6 +270,26 @@
             "player": "warrior",
             "character": "Sample Warrior",
             "__fxDone": true
+          },
+          {
+            "kind": "roll",
+            "label": "Nature Check",
+            "formula": "1d20+10",
+            "total": 28,
+            "dice": [
+              {
+                "sides": 20,
+                "value": 18,
+                "sign": 1
+              }
+            ],
+            "text": "Nature Check: 1d20+10 = 28",
+            "detail": "1d20 [18] +10",
+            "id": "roll-mrgykmi5-r87zdi",
+            "at": 1783810261229,
+            "player": "warrior",
+            "character": "Sample Warrior",
+            "__fxDone": true
           }
         ]
       },
