@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-11T12:10:05.191Z",
+  "updatedAt": "2026-07-11T12:10:13.873Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -25,8 +25,8 @@
         "y": 466.14424281035986
       },
       "the-rival-adventurer": {
-        "x": 608,
-        "y": 179
+        "x": 550,
+        "y": 172
       },
       "the-faction-envoy": {
         "x": 703.2377651114886,
