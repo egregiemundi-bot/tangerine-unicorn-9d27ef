@@ -3000,7 +3000,7 @@
             "desc": "",
             "rarity": "",
             "attuned": false,
-            "location": "backpack"
+            "location": "room"
           },
           {
             "name": "ATTU",
@@ -11622,5 +11622,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 2
+  "_rev": 3
 }
