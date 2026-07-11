@@ -92,8 +92,7 @@
       "form": "planet",
       "activePlanetId": "",
       "expanded": {
-        "spell:feather fall": true,
-        "spell:thunderwave": true
+        "spell:feather fall": true
       },
       "pinned": [],
       "searchFilters": [],
