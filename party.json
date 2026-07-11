@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-11T12:10:16.244Z",
+  "updatedAt": "2026-07-11T12:10:29.313Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -51,6 +51,11 @@
         "a": "the-hidden-villain",
         "b": "the-rival-adventurer",
         "type": "enemies"
+      },
+      {
+        "a": "the-rival-adventurer",
+        "b": "the-faction-envoy",
+        "type": "colleagues"
       }
     ]
   }
