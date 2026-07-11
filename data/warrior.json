@@ -230,6 +230,26 @@
             "player": "warrior",
             "character": "Sample Warrior",
             "__fxDone": true
+          },
+          {
+            "kind": "roll",
+            "label": "Burning Hands Hit",
+            "formula": "1d20+10",
+            "total": 22,
+            "dice": [
+              {
+                "sides": 20,
+                "value": 12,
+                "sign": 1
+              }
+            ],
+            "text": "Burning Hands Hit: 1d20+10 = 22",
+            "detail": "1d20 [12] +10",
+            "id": "roll-mrgyk4u3-skunoe",
+            "at": 1783810238331,
+            "player": "warrior",
+            "character": "Sample Warrior",
+            "__fxDone": true
           }
         ]
       },
