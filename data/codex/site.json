@@ -87,7 +87,7 @@
       "player": "Player One",
       "sigil": "Shield",
       "accent": "#1e3c94",
-      "portrait": "uploads/placeholders/sample-warrior.jpg"
+      "portrait": "uploads/npcs/web-the-rival-adventurer.jpg"
     },
     {
       "id": "elara",
@@ -115,5 +115,5 @@
     }
   ],
   "productVersion": "1.0 Foundation",
-  "updatedAt": "2026-07-11T23:06:16.494Z"
+  "updatedAt": "2026-07-11T23:12:47.503Z"
 }
