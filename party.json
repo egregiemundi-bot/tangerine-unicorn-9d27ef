@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-11T22:29:28.214Z",
+  "updatedAt": "2026-07-11T22:29:31.192Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -167,8 +167,8 @@
         },
         {
           "id": "cmrgxrab03wn",
-          "x": 44,
-          "y": 458,
+          "x": 109,
+          "y": 461,
           "title": "1",
           "text": "1",
           "img": "",
@@ -185,8 +185,8 @@
         },
         {
           "id": "cmrgxrvl9e7",
-          "x": 335,
-          "y": 470,
+          "x": 462,
+          "y": 478,
           "title": "3",
           "text": "3",
           "img": "",
