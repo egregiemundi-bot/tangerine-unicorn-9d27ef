@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-11T18:00:06.031Z",
+  "updatedAt": "2026-07-11T18:00:07.594Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -29,8 +29,8 @@
         "y": 161
       },
       "the-faction-envoy": {
-        "x": 248,
-        "y": 432
+        "x": 259,
+        "y": 448
       },
       "the-hidden-villain": {
         "x": 632,
@@ -41,8 +41,8 @@
         "y": 89
       },
       "new-npc": {
-        "x": 570,
-        "y": 532
+        "x": 506,
+        "y": 510
       }
     },
     "edges": [
