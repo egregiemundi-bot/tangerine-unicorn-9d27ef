@@ -33,51 +33,51 @@
   "homeCards": [
     {
       "title": "Characters",
-      "text": "Player rooms, character sheets, inventory, combat tools, and custom 3D dice.",
       "icon": "⚔",
-      "image": "characters_card.jpg",
+      "image": "Alteriaus-bedroom.png",
       "page": "party",
-      "cta": "View Characters ↗"
+      "cta": "View Characters ↗",
+      "text": "Player rooms, character sheets, inventory, combat tools, and custom 3D dice."
     },
     {
       "title": "Powers",
-      "text": "Gods, factions, patrons, guilds, empires, and the forces moving behind the screen.",
       "icon": "♜",
       "image": "gods_card.jpg",
       "page": "four-gods",
-      "cta": "View Powers ↗"
+      "cta": "View Powers ↗",
+      "text": "Gods, factions, patrons, guilds, empires, and the forces moving behind the screen."
     },
     {
       "title": "Atlas",
-      "text": "Maps for worlds, cities, regions, planes, dungeons, and private DM notes.",
       "icon": "⌖",
       "image": "atlas-maps/world-map-placeholder.jpg",
       "page": "atlas",
-      "cta": "View Atlas ↗"
+      "cta": "View Atlas ↗",
+      "text": "Maps for worlds, cities, regions, planes, dungeons, and private DM notes."
     },
     {
       "title": "Items",
-      "text": "Relics, treasure, artifacts, attunement notes, item art, and party loot.",
       "icon": "✥",
       "image": "artifacts_card.jpg",
       "page": "items",
-      "cta": "View Items ↗"
+      "cta": "View Items ↗",
+      "text": "Relics, treasure, artifacts, attunement notes, item art, and party loot."
     },
     {
       "title": "Story",
-      "text": "Session history, major arcs, turning points, consequences, and campaign records.",
       "icon": "✷",
       "image": "events_card.jpg",
       "page": "story",
-      "cta": "View Story ↗"
+      "cta": "View Story ↗",
+      "text": "Session history, major arcs, turning points, consequences, and campaign records."
     },
     {
       "title": "Gallery",
-      "text": "Campaign art, battle maps, handouts, portraits, screenshots, and table memories.",
       "icon": "△",
       "image": "gallery_card.jpg",
       "page": "gallery",
-      "cta": "View Gallery ↗"
+      "cta": "View Gallery ↗",
+      "text": "Campaign art, battle maps, handouts, portraits, screenshots, and table memories."
     }
   ],
   "characters": [
@@ -115,5 +115,5 @@
     }
   ],
   "productVersion": "1.0 Foundation",
-  "updatedAt": "2026-07-11T23:13:25.445Z"
+  "updatedAt": "2026-07-11T23:14:11.476Z"
 }
