@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-11T12:13:04.958Z",
+  "updatedAt": "2026-07-11T17:59:39.649Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -70,6 +70,11 @@
         "a": "the-rival-adventurer",
         "b": "new-npc",
         "type": "related"
+      },
+      {
+        "a": "new-npc",
+        "b": "the-helpful-innkeeper",
+        "type": "colleagues"
       }
     ]
   },
