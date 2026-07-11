@@ -84,7 +84,7 @@
   "currentHP": 0,
   "divine": {
     "version": 3,
-    "form": "planet",
+    "form": "divine",
     "activePlanetId": "planet_mrfjcjxx_4wt7k0y",
     "favoriteSpells": [],
     "ui": {
@@ -317,90 +317,7 @@
         },
         "original": null
       },
-      "lastImportBackup": {
-        "planetId": "planet_mrfjcjxx_4wt7k0y",
-        "ts": 1783724247269,
-        "snapshot": {
-          "id": "planet_mrfjcjxx_4wt7k0y",
-          "registryId": "planet_mrfj6cm0_2dqkn1x",
-          "index": 2,
-          "name": "",
-          "planetName": "planet_mrfj6cm0_2dqkn1x",
-          "planetImage": "",
-          "status": "active",
-          "level": 1,
-          "xp": 0,
-          "className": "",
-          "subclass": "",
-          "background": "",
-          "alignment": "",
-          "species": "",
-          "classes": [
-            {
-              "className": "",
-              "subclass": "",
-              "level": 1
-            }
-          ],
-          "spellcasting": [],
-          "spellSlots": {
-            "1": 0,
-            "2": 0,
-            "3": 0,
-            "4": 0,
-            "5": 0,
-            "6": 0,
-            "7": 0,
-            "8": 0,
-            "9": 0
-          },
-          "spellSaveDC": 0,
-          "spellAttackBonus": 0,
-          "abilityScores": {
-            "str": 10,
-            "dex": 10,
-            "con": 10,
-            "int": 10,
-            "wis": 10,
-            "cha": 10
-          },
-          "savingThrows": [],
-          "skills": [],
-          "hp": {
-            "max": 0,
-            "current": 0,
-            "temp": 0
-          },
-          "hitDice": "",
-          "deathSaves": {
-            "successes": 0,
-            "failures": 0
-          },
-          "ac": 10,
-          "initiativeBonus": 0,
-          "speed": 30,
-          "resources": [],
-          "spells": [],
-          "features": [],
-          "feats": [],
-          "epicBoons": [],
-          "asi": [],
-          "resistances": [],
-          "immunities": [],
-          "weaponProfs": [],
-          "armorProfs": [],
-          "toolProfs": [],
-          "languages": [],
-          "inventory": [],
-          "gold": 0,
-          "notes": "",
-          "history": "",
-          "journal": [],
-          "relationships": [],
-          "quests": [],
-          "lastModified": 0
-        }
-      }
+      "lastImportBackup": null
     },
     "artifacts": [],
     "awards": [],
@@ -483,7 +400,7 @@
         "id": "planet_mrfjcjxx_4wt7k0y",
         "registryId": "planet_mrfj6cm0_2dqkn1x",
         "index": 2,
-        "name": "STRENGTH",
+        "name": "",
         "planetName": "planet_mrfj6cm0_2dqkn1x",
         "planetImage": "",
         "status": "active",
@@ -491,9 +408,9 @@
         "xp": 0,
         "className": "",
         "subclass": "",
-        "background": "ARMOR",
+        "background": "",
         "alignment": "",
-        "species": "BACKGROUND",
+        "species": "",
         "classes": [
           {
             "className": "",
@@ -524,98 +441,7 @@
           "cha": 10
         },
         "savingThrows": [],
-        "skills": [
-          {
-            "name": "Acrobatics",
-            "proficient": false,
-            "expertise": false
-          },
-          {
-            "name": "Animal Handling",
-            "proficient": false,
-            "expertise": false
-          },
-          {
-            "name": "Arcana",
-            "proficient": false,
-            "expertise": false
-          },
-          {
-            "name": "Athletics",
-            "proficient": false,
-            "expertise": false
-          },
-          {
-            "name": "Deception",
-            "proficient": false,
-            "expertise": false
-          },
-          {
-            "name": "History",
-            "proficient": false,
-            "expertise": false
-          },
-          {
-            "name": "Insight",
-            "proficient": false,
-            "expertise": false
-          },
-          {
-            "name": "Intimidation",
-            "proficient": false,
-            "expertise": false
-          },
-          {
-            "name": "Investigation",
-            "proficient": false,
-            "expertise": false
-          },
-          {
-            "name": "Medicine",
-            "proficient": false,
-            "expertise": false
-          },
-          {
-            "name": "Nature",
-            "proficient": false,
-            "expertise": false
-          },
-          {
-            "name": "Perception",
-            "proficient": false,
-            "expertise": false
-          },
-          {
-            "name": "Performance",
-            "proficient": false,
-            "expertise": false
-          },
-          {
-            "name": "Persuasion",
-            "proficient": false,
-            "expertise": false
-          },
-          {
-            "name": "Religion",
-            "proficient": false,
-            "expertise": false
-          },
-          {
-            "name": "Sleight of Hand",
-            "proficient": false,
-            "expertise": false
-          },
-          {
-            "name": "Stealth",
-            "proficient": false,
-            "expertise": false
-          },
-          {
-            "name": "Survival",
-            "proficient": false,
-            "expertise": false
-          }
-        ],
+        "skills": [],
         "hp": {
           "max": 0,
           "current": 0,
@@ -643,8 +469,8 @@
         "languages": [],
         "inventory": [],
         "gold": 0,
-        "notes": "Personality: IDEALS\nIdeals: BONDS\nBonds: FLAWS CHARACTER APPEARANCE\nFlaws: CHARACTER APPEARANCE",
-        "history": "ADDITIONAL NOTES TM & © 2018 Wizards of the Coast LLC. ©2018 D&D Beyond | All Rights Reserved. Permission is granted to photo copy this document for personal use. SPELLCASTING SPELL SAVE DC SPELL ATTACK SPELLCASTING ABILITY BONUS CLASS P REP SPELL NAME SOURCE SAVE/ATK TIME RANGE COMP DURATION PAGE REF NOTES",
+        "notes": "",
+        "history": "",
         "journal": [],
         "relationships": [],
         "quests": [],
@@ -844,5 +670,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 1
+  "_rev": 2
 }
