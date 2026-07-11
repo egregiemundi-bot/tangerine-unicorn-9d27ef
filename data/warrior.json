@@ -442,6 +442,44 @@
             "player": "warrior",
             "character": "Sample Warrior",
             "__fxDone": true
+          },
+          {
+            "kind": "roll",
+            "label": "1d6",
+            "formula": "1d6",
+            "total": 6,
+            "dice": [
+              {
+                "sides": 6,
+                "value": 6
+              }
+            ],
+            "text": "1d6 = 6",
+            "detail": "6",
+            "id": "roll-mrgylapf-7lpow6",
+            "at": 1783810292595,
+            "player": "warrior",
+            "character": "Sample Warrior",
+            "__fxDone": true
+          },
+          {
+            "kind": "roll",
+            "label": "1d8",
+            "formula": "1d8",
+            "total": 3,
+            "dice": [
+              {
+                "sides": 8,
+                "value": 3
+              }
+            ],
+            "text": "1d8 = 3",
+            "detail": "3",
+            "id": "roll-mrgylb21-bnutx7",
+            "at": 1783810293049,
+            "player": "warrior",
+            "character": "Sample Warrior",
+            "__fxDone": true
           }
         ]
       },
