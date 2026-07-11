@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-11T12:09:42.139Z",
+  "updatedAt": "2026-07-11T12:09:49.807Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -41,6 +41,12 @@
         "y": 325.4688173658655
       }
     },
-    "edges": []
+    "edges": [
+      {
+        "a": "the-rival-adventurer",
+        "b": "the-local-sage",
+        "type": "friends"
+      }
+    ]
   }
 }
