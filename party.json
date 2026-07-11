@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-11T17:59:57.099Z",
+  "updatedAt": "2026-07-11T18:00:00.379Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -25,24 +25,24 @@
         "y": 397
       },
       "the-rival-adventurer": {
-        "x": 550,
-        "y": 172
+        "x": 389,
+        "y": 142
       },
       "the-faction-envoy": {
         "x": 439,
         "y": 528
       },
       "the-hidden-villain": {
-        "x": 696,
-        "y": 353
+        "x": 689,
+        "y": 288
       },
       "the-local-sage": {
         "x": 804,
         "y": 174
       },
       "new-npc": {
-        "x": 661,
-        "y": 511
+        "x": 570,
+        "y": 532
       }
     },
     "edges": [
