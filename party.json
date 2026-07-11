@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-11T12:10:13.873Z",
+  "updatedAt": "2026-07-11T12:10:16.244Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -46,6 +46,11 @@
         "a": "the-rival-adventurer",
         "b": "the-local-sage",
         "type": "friends"
+      },
+      {
+        "a": "the-hidden-villain",
+        "b": "the-rival-adventurer",
+        "type": "enemies"
       }
     ]
   }
