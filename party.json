@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-11T22:22:43.383Z",
+  "updatedAt": "2026-07-11T22:27:55.390Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -151,5 +151,21 @@
       }
     },
     "edges": []
+  },
+  "whiteboards": {
+    "timeline-story": {
+      "timeline": true,
+      "cards": [
+        {
+          "id": "cmrgxqvav1nh",
+          "x": 80,
+          "y": 230,
+          "title": "The adventure begins",
+          "text": "The party assembles.",
+          "img": "",
+          "label": "Year 125"
+        }
+      ]
+    }
   }
 }
