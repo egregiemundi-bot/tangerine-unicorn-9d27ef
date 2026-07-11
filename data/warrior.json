@@ -91,7 +91,9 @@
       "tab": "combat",
       "form": "planet",
       "activePlanetId": "",
-      "expanded": {},
+      "expanded": {
+        "spell:feather fall": true
+      },
       "pinned": [],
       "searchFilters": [],
       "searchMode": "AND",
