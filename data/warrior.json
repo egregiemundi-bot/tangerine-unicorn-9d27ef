@@ -290,6 +290,25 @@
             "player": "warrior",
             "character": "Sample Warrior",
             "__fxDone": true
+          },
+          {
+            "kind": "roll",
+            "label": "1d100",
+            "formula": "1d100",
+            "total": 80,
+            "dice": [
+              {
+                "sides": 100,
+                "value": 80
+              }
+            ],
+            "text": "1d100 = 80",
+            "detail": "80",
+            "id": "roll-mrgykpd5-1y02fq",
+            "at": 1783810264937,
+            "player": "warrior",
+            "character": "Sample Warrior",
+            "__fxDone": true
           }
         ]
       },
