@@ -1,6 +1,6 @@
 {
   "productName": "The Adventurer’s Campaign Codex",
-  "campaignName": "apples",
+  "campaignName": "Your Campaign Name",
   "campaignSubtitle": "A Tabletop RPG Campaign",
   "tagline": "A Living Archive for Your Table",
   "welcome": "Welcome to",
@@ -9,8 +9,8 @@
   "setupComplete": true,
   "footerBranding": "Powered by The Adventurer’s Campaign Codex",
   "theme": {
-    "accent": "#3d25b6",
-    "secondary": "#96178b",
+    "accent": "#04ff00",
+    "secondary": "#ffd500",
     "background": "#17110b",
     "surface": "#241a11",
     "text": "#f2e4c8",
@@ -115,5 +115,5 @@
     }
   ],
   "productVersion": "1.0 Foundation",
-  "updatedAt": "2026-07-11T17:55:45.946Z"
+  "updatedAt": "2026-07-11T23:06:16.494Z"
 }
