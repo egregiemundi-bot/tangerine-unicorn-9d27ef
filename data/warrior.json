@@ -480,6 +480,25 @@
             "player": "warrior",
             "character": "Sample Warrior",
             "__fxDone": true
+          },
+          {
+            "kind": "roll",
+            "label": "1d6",
+            "formula": "1d6",
+            "total": 3,
+            "dice": [
+              {
+                "sides": 6,
+                "value": 3
+              }
+            ],
+            "text": "1d6 = 3",
+            "detail": "3",
+            "id": "roll-mrgylbkf-bhia1r",
+            "at": 1783810293711,
+            "player": "warrior",
+            "character": "Sample Warrior",
+            "__fxDone": true
           }
         ]
       },
