@@ -250,6 +250,26 @@
             "player": "warrior",
             "character": "Sample Warrior",
             "__fxDone": true
+          },
+          {
+            "kind": "roll",
+            "label": "Initiative",
+            "formula": "1d20+3",
+            "total": 15,
+            "dice": [
+              {
+                "sides": 20,
+                "value": 12,
+                "sign": 1
+              }
+            ],
+            "text": "Initiative: 1d20+3 = 15",
+            "detail": "1d20 [12] +3",
+            "id": "roll-mrgykhuv-z8ziac",
+            "at": 1783810255207,
+            "player": "warrior",
+            "character": "Sample Warrior",
+            "__fxDone": true
           }
         ]
       },
