@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-11T18:00:09.891Z",
+  "updatedAt": "2026-07-11T22:22:38.920Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -134,5 +134,22 @@
       "status": "Alive",
       "id": "new-npc"
     }
-  ]
+  ],
+  "factionweb": {
+    "nodes": [
+      {
+        "id": "knights",
+        "name": "knights",
+        "tag": "knights",
+        "status": "Active"
+      }
+    ],
+    "positions": {
+      "knights": {
+        "x": 600,
+        "y": 380
+      }
+    },
+    "edges": []
+  }
 }
