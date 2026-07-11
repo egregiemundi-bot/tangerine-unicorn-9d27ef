@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-11T12:12:41.229Z",
+  "updatedAt": "2026-07-11T12:12:46.058Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -107,8 +107,7 @@
       "tag": "Lorekeeper · Research",
       "desc": "A scholar, priest, witch, elder, or historian who can answer dangerous questions.",
       "status": "Alive",
-      "id": "the-local-sage",
-      "img": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/npcs/web-the-local-sage.jpg?v=1783771960909"
+      "id": "the-local-sage"
     },
     {
       "name": "town guard",
