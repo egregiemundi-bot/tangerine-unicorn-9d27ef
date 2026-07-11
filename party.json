@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-11T17:59:39.649Z",
+  "updatedAt": "2026-07-11T17:59:45.740Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -75,6 +75,11 @@
         "a": "new-npc",
         "b": "the-helpful-innkeeper",
         "type": "colleagues"
+      },
+      {
+        "a": "the-helpful-innkeeper",
+        "b": "the-hidden-villain",
+        "type": "enemies"
       }
     ]
   },
