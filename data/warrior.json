@@ -88,11 +88,12 @@
     "activePlanetId": "planet_mrfjcjxx_4wt7k0y",
     "favoriteSpells": [],
     "ui": {
-      "tab": "spells",
+      "tab": "inventory",
       "form": "planet",
       "activePlanetId": "",
       "expanded": {
-        "lspell:ray of frost": true
+        "lspell:ray of frost": true,
+        "lspell:feather fall": true
       },
       "pinned": [],
       "searchFilters": [],
@@ -1328,7 +1329,8 @@
         "inventory": [
           {
             "name": "Coins: 60 gp",
-            "qty": 1
+            "qty": 1,
+            "location": "backpack"
           }
         ],
         "gold": 0,
