@@ -88,7 +88,7 @@
     "activePlanetId": "planet_mrfjcjxx_4wt7k0y",
     "favoriteSpells": [],
     "ui": {
-      "tab": "summary",
+      "tab": "inventory",
       "form": "planet",
       "activePlanetId": "",
       "expanded": {
@@ -1329,7 +1329,8 @@
         "inventory": [
           {
             "name": "Coins: 60 gp",
-            "qty": 1
+            "qty": 1,
+            "location": "room"
           }
         ],
         "gold": 0,
@@ -3172,5 +3173,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 7
+  "_rev": 8
 }
