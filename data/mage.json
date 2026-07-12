@@ -91,9 +91,7 @@
       "tab": "summary",
       "form": "planet",
       "activePlanetId": "",
-      "expanded": {
-        "feat:sovereign of the battlefield": true
-      },
+      "expanded": {},
       "pinned": [],
       "searchFilters": [],
       "searchMode": "AND",
