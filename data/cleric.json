@@ -151,6 +151,90 @@
         "wallpaper": "",
         "slotsUsed": {},
         "rollLog": []
+      },
+      "lastImportBackup": {
+        "planetId": "planet_mrgyiws6_5pn8nsi",
+        "ts": 1783818682418,
+        "snapshot": {
+          "id": "planet_mrgyiws6_5pn8nsi",
+          "registryId": "main_character",
+          "index": 1,
+          "name": "",
+          "planetName": "Starting Region",
+          "planetImage": "",
+          "status": "active",
+          "level": 1,
+          "xp": 0,
+          "className": "Cleric",
+          "subclass": "",
+          "background": "",
+          "alignment": "",
+          "species": "",
+          "classes": [
+            {
+              "className": "Cleric",
+              "subclass": "",
+              "level": 1
+            }
+          ],
+          "spellcasting": [],
+          "spellSlots": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 0,
+            "9": 0
+          },
+          "spellSaveDC": 0,
+          "spellAttackBonus": 0,
+          "abilityScores": {
+            "str": 10,
+            "dex": 10,
+            "con": 10,
+            "int": 10,
+            "wis": 10,
+            "cha": 10
+          },
+          "savingThrows": [],
+          "skills": [],
+          "hp": {
+            "max": 0,
+            "current": 0,
+            "temp": 0
+          },
+          "hitDice": "",
+          "deathSaves": {
+            "successes": 0,
+            "failures": 0
+          },
+          "ac": 10,
+          "initiativeBonus": 0,
+          "speed": 30,
+          "resources": [],
+          "spells": [],
+          "features": [],
+          "feats": [],
+          "epicBoons": [],
+          "asi": [],
+          "resistances": [],
+          "immunities": [],
+          "weaponProfs": [],
+          "armorProfs": [],
+          "toolProfs": [],
+          "languages": [],
+          "inventory": [],
+          "gold": 0,
+          "notes": "",
+          "history": "",
+          "journal": [],
+          "relationships": [],
+          "quests": [],
+          "lastModified": 0
+        }
       }
     },
     "artifacts": [],
@@ -160,18 +244,29 @@
         "id": "planet_mrgyiws6_5pn8nsi",
         "registryId": "main_character",
         "index": 1,
-        "name": "",
+        "name": "Herman Ploobert (Prime)",
         "planetName": "Starting Region",
         "planetImage": "",
         "status": "active",
-        "level": 1,
-        "xp": 0,
+        "level": 12,
+        "xp": 107041,
         "className": "Cleric",
-        "subclass": "",
-        "background": "",
-        "alignment": "",
-        "species": "",
-        "classes": [],
+        "subclass": "Knowledge Domain",
+        "background": "Acolyte",
+        "alignment": "Lawful Neutral",
+        "species": "Variant Human",
+        "classes": [
+          {
+            "className": "Cleric",
+            "subclass": "Knowledge Domain",
+            "level": 11
+          },
+          {
+            "className": "Monk",
+            "subclass": "",
+            "level": 1
+          }
+        ],
         "spellcasting": [],
         "spellSlots": {
           "1": 0,
@@ -187,18 +282,59 @@
         "spellSaveDC": 0,
         "spellAttackBonus": 0,
         "abilityScores": {
-          "str": 10,
-          "dex": 10,
-          "con": 10,
-          "int": 10,
-          "wis": 10,
-          "cha": 10
+          "str": 8,
+          "dex": 18,
+          "con": 16,
+          "int": 14,
+          "wis": 20,
+          "cha": 12
         },
-        "savingThrows": [],
-        "skills": [],
+        "savingThrows": [
+          "STR",
+          "DEX",
+          "WIS",
+          "CHA"
+        ],
+        "skills": [
+          {
+            "name": "History",
+            "proficient": true,
+            "expertise": true
+          },
+          {
+            "name": "Insight",
+            "proficient": true,
+            "expertise": false
+          },
+          {
+            "name": "Investigation",
+            "proficient": true,
+            "expertise": false
+          },
+          {
+            "name": "Perception",
+            "proficient": true,
+            "expertise": false
+          },
+          {
+            "name": "Persuasion",
+            "proficient": true,
+            "expertise": false
+          },
+          {
+            "name": "Religion",
+            "proficient": true,
+            "expertise": true
+          },
+          {
+            "name": "Survival",
+            "proficient": true,
+            "expertise": false
+          }
+        ],
         "hp": {
-          "max": 0,
-          "current": 0,
+          "max": 99,
+          "current": 99,
           "temp": 0
         },
         "hitDice": "",
@@ -206,25 +342,416 @@
           "successes": 0,
           "failures": 0
         },
-        "ac": 10,
-        "initiativeBonus": 0,
+        "ac": 14,
+        "initiativeBonus": 4,
         "speed": 30,
         "resources": [],
-        "spells": [],
-        "features": [],
+        "spells": [
+          {
+            "name": "Thaumaturgy",
+            "level": 0,
+            "school": "Transmutation",
+            "text": "",
+            "prepared": false
+          },
+          {
+            "name": "Mending",
+            "level": 0,
+            "school": "Transmutation",
+            "text": "",
+            "prepared": false
+          },
+          {
+            "name": "Sacred Flame",
+            "level": 0,
+            "school": "Evocation",
+            "text": "",
+            "prepared": false
+          },
+          {
+            "name": "Spare the Dying",
+            "level": 0,
+            "school": "Necromancy",
+            "text": "",
+            "prepared": false
+          },
+          {
+            "name": "Inflict Wounds",
+            "level": 1,
+            "school": "Necromancy",
+            "text": "",
+            "prepared": true
+          },
+          {
+            "name": "Guiding Bolt",
+            "level": 1,
+            "school": "Evocation",
+            "text": "",
+            "prepared": true
+          },
+          {
+            "name": "Silence",
+            "level": 2,
+            "school": "Illusion",
+            "text": "",
+            "prepared": true
+          },
+          {
+            "name": "Spirit Guardians",
+            "level": 3,
+            "school": "Conjuration",
+            "text": "",
+            "prepared": true
+          },
+          {
+            "name": "Glyph of Warding",
+            "level": 3,
+            "school": "Abjuration",
+            "text": "",
+            "prepared": true
+          },
+          {
+            "name": "Banishment",
+            "level": 4,
+            "school": "Abjuration",
+            "text": "",
+            "prepared": true
+          },
+          {
+            "name": "Healing Word",
+            "level": 1,
+            "school": "Evocation",
+            "text": "",
+            "prepared": true
+          },
+          {
+            "name": "Hallow",
+            "level": 5,
+            "school": "Evocation",
+            "text": "",
+            "prepared": true
+          },
+          {
+            "name": "Mass Cure Wounds",
+            "level": 5,
+            "school": "Evocation",
+            "text": "",
+            "prepared": true
+          },
+          {
+            "name": "Light",
+            "level": 0,
+            "school": "Evocation",
+            "text": "",
+            "prepared": false
+          },
+          {
+            "name": "Revivify",
+            "level": 3,
+            "school": "Necromancy",
+            "text": "",
+            "prepared": true
+          },
+          {
+            "name": "Raise Dead",
+            "level": 5,
+            "school": "Necromancy",
+            "text": "",
+            "prepared": true
+          },
+          {
+            "name": "Death Ward",
+            "level": 4,
+            "school": "Abjuration",
+            "text": "",
+            "prepared": true
+          },
+          {
+            "name": "Mass Healing Word",
+            "level": 3,
+            "school": "Evocation",
+            "text": "",
+            "prepared": true
+          },
+          {
+            "name": "Bestow Curse",
+            "level": 3,
+            "school": "Necromancy",
+            "text": "",
+            "prepared": true
+          },
+          {
+            "name": "Antiballistics Field",
+            "level": 6,
+            "school": "Abjuration",
+            "text": "",
+            "prepared": true
+          },
+          {
+            "name": "Harm",
+            "level": 6,
+            "school": "Necromancy",
+            "text": "",
+            "prepared": true
+          },
+          {
+            "name": "Beacon of Hope",
+            "level": 3,
+            "school": "Abjuration",
+            "text": "",
+            "prepared": false
+          },
+          {
+            "name": "Lesser Restoration",
+            "level": 2,
+            "school": "Abjuration",
+            "text": "",
+            "prepared": false
+          },
+          {
+            "name": "Shield of Faith",
+            "level": 1,
+            "school": "Abjuration",
+            "text": "",
+            "prepared": false
+          },
+          {
+            "name": "Watcher's Rebuke (1/day)",
+            "level": 0,
+            "school": "Evocation",
+            "text": "",
+            "prepared": false
+          },
+          {
+            "name": "Eyes of the Divine (1/day)",
+            "level": 0,
+            "school": "Enchantment",
+            "text": "",
+            "prepared": false
+          },
+          {
+            "name": "Radiant Truth",
+            "level": 0,
+            "school": "Evocation",
+            "text": "",
+            "prepared": false
+          },
+          {
+            "name": "Healer's Boon",
+            "level": 0,
+            "school": "Abjuration",
+            "text": "",
+            "prepared": false
+          },
+          {
+            "name": "Knowledge's Embrace",
+            "level": 0,
+            "school": "Enchantment",
+            "text": "",
+            "prepared": false
+          },
+          {
+            "name": "Whispered Guiadance (2/day)",
+            "level": 0,
+            "school": "Enchantment",
+            "text": "",
+            "prepared": false
+          },
+          {
+            "name": "Mantle of Sanctuary (1/day)",
+            "level": 0,
+            "school": "Abjuration",
+            "text": "",
+            "prepared": false
+          }
+        ],
+        "features": [
+          {
+            "name": "Blessings of Knowledge",
+            "text": "You learn two additional languages and skills. Your proficiency bonus is doubled for any check you make with the chosen skills.",
+            "source": "Cleric"
+          },
+          {
+            "name": "Channel Divinity: Knowledge of the Ages",
+            "text": "As an action, you can use Channel Divinity to gain proficiency with any skill or tool for 10 minutes.",
+            "source": "Cleric"
+          },
+          {
+            "name": "Channel Divinity: Read Thoughts",
+            "text": "As an action, you can use Channel Divinity to choose one creature that you can see within 60 ft. That creature must make a WIS saving throw ({{savedc:wis}}). On success, you can’t use this feature on it again until you finish a long rest. On failure, you can read its surface thoughts while within 60 ft. for 1 minute. During that time, you can cast suggestion as an action on the target without expending a spell slot.",
+            "source": "Cleric"
+          },
+          {
+            "name": "Potent Spellcasting",
+            "text": "You add {{modifier:wis}} to the damage you deal with any cleric cantrip.",
+            "source": "Cleric"
+          },
+          {
+            "name": "Spellcasting",
+            "text": "You can cast prepared cleric spells using WIS as your spellcasting modifier (Spell DC {{savedc:wis}}, Spell Attack {{spellattack:wis}}) and prepared cleric spells as rituals if they have the ritual tag. You can use a holy symbol as a spellcasting focus.",
+            "source": "Cleric"
+          },
+          {
+            "name": "Divine Domain",
+            "text": "You choose a divine domain that grants you additional spells and other features related to your deity.",
+            "source": "Cleric"
+          },
+          {
+            "name": "Channel Divinity",
+            "text": "You can channel divine energy to fuel magical effects a number of times per short rest",
+            "source": "Cleric"
+          },
+          {
+            "name": "Destroy Undead",
+            "text": "When an undead fails its saving throw against your Turn Undead feature, it is instantly destroyed if its CR is lower than the threshold for your level.",
+            "source": "Cleric"
+          },
+          {
+            "name": "Divine Intervention",
+            "text": "As an action, you can request your deity's aid and roll percentile dice. If your roll is equal to or less than {{classlevel}}, your deity intervenes (your DM chooses the nature of the intervention). If successful, you can't use this feature again for 7 days, otherwise, you can use it again after a long rest. \r\n\r\nAt 20th level, your request succeeds automatically, no roll required.",
+            "source": "Cleric"
+          },
+          {
+            "name": "Unarmored Defense",
+            "text": "While not wearing armor and not using a shield, your AC equals 10 + DEX modifier + WIS modifier.",
+            "source": "Monk"
+          },
+          {
+            "name": "Martial Arts",
+            "text": "While you are unarmed or wielding only monk weapons and you aren’t wearing armor or wielding a shield, you can use DEX instead of STR for the attack and damage rolls, you can roll your Martial Arts damage die in place of the normal damage, and when you use the Attack action on your turn, you can make one unarmed strike as a bonus action.",
+            "source": "Monk"
+          },
+          {
+            "name": "Skills",
+            "text": "You gain proficiency in one skill of your choice.",
+            "source": "Race"
+          },
+          {
+            "name": "Feat",
+            "text": "You gain one feat of your choice.",
+            "source": "Race"
+          },
+          {
+            "name": "War Caster",
+            "text": "You have advantage on CON saving throws that you make to maintain your concentration on a spell when you take damage. You can perform the somatic components of spells even when you have weapons or a shield in one or both hands. You can use your reaction to make an opportunity attack to cast a spell that has a casting time of 1 action and targets only that creature.",
+            "source": "Feat"
+          },
+          {
+            "name": "Hero's Journey Boon",
+            "text": "At your GM's discretion you have been granted a Hero's Journey Boon.",
+            "source": "Feat"
+          },
+          {
+            "name": "Dark Bargain",
+            "text": "At your GM's discretion, you have taken a Dark Bargain.",
+            "source": "Feat"
+          }
+        ],
         "feats": [],
         "epicBoons": [],
         "asi": [],
         "resistances": [],
         "immunities": [],
-        "weaponProfs": [],
-        "armorProfs": [],
-        "toolProfs": [],
-        "languages": [],
-        "inventory": [],
+        "weaponProfs": [
+          "Simple Weapons",
+          "Shortsword"
+        ],
+        "armorProfs": [
+          "Light Armor",
+          "Medium Armor",
+          "Shields"
+        ],
+        "toolProfs": [
+          "Choose a Musical Instrument or Artisan's Tools",
+          "Choose a Monk Skill"
+        ],
+        "languages": [
+          "Common",
+          "Draconic",
+          "Primordial",
+          "Celestial",
+          "Abyssal",
+          "Infernal"
+        ],
+        "inventory": [
+          {
+            "name": "Potion of Healing (Superior)",
+            "qty": 7,
+            "equipped": false
+          },
+          {
+            "name": "Amulet of the All-Seeing Aegis",
+            "qty": 1,
+            "equipped": true
+          },
+          {
+            "name": "Mantle of the Living Word",
+            "qty": 1,
+            "equipped": true
+          },
+          {
+            "name": "The Living Chronicle",
+            "qty": 1,
+            "equipped": true
+          },
+          {
+            "name": "Dagger",
+            "qty": 1,
+            "equipped": true
+          },
+          {
+            "name": "Backpack",
+            "qty": 1,
+            "equipped": true
+          },
+          {
+            "name": "Clothes, Common",
+            "qty": 1,
+            "equipped": false
+          },
+          {
+            "name": "Bedroll",
+            "qty": 1,
+            "equipped": false
+          },
+          {
+            "name": "Mess Kit",
+            "qty": 1,
+            "equipped": false
+          },
+          {
+            "name": "Rations (1 day)",
+            "qty": 10,
+            "equipped": false
+          },
+          {
+            "name": "Rope, Hempen (50 feet)",
+            "qty": 1,
+            "equipped": false
+          },
+          {
+            "name": "Tinderbox",
+            "qty": 1,
+            "equipped": false
+          },
+          {
+            "name": "Torch",
+            "qty": 10,
+            "equipped": false
+          },
+          {
+            "name": "Waterskin",
+            "qty": 1,
+            "equipped": false
+          },
+          {
+            "name": "Coins: 215 gp",
+            "qty": 1
+          }
+        ],
         "gold": 0,
-        "notes": "",
-        "history": "",
+        "notes": "Personality: I idolize Zeno, and constantly refer to his deeds and example.\nI am tolerant of other faiths and respect the worship of other gods.\nIdeals: I trust that my path in life has its purpose, and will work to further that goal. I have faith that if I work hard, things will go well. \nBonds: I owe my life to the priest who took me in when my parents died.\nFlaws: Once I pick a goal, I become obsessed with it to the detriment of everything else in my life.",
+        "history": "Born in the apocalypse region, Herman was from a young age wandering and discovering strange artifacts left over from the war of the gods. After the death of his parents in a construct raid alongside most of his small village, he would be forced to fend for himself going forward. Barely scraping by in the desolate wastes, he would scavenge for anything to gain food and water to survive another day. Often traveling into dangerous regions, he would find himself in dangerous situations fending for his life. On a day that was almost his last, he would have a run in with a priest, Zeno Serafin, that would take him in under his wing as an acolyte of {TBD}.\n\nHe would be taken back to the monastery in the normal lands where he would be properly educated, and trained in the ways of the Divine Order of {idk we'll think of something}. Many years would be spent under the training of Zeno, who would raise him like a son and as his ward. Much time would pass in the monastery, enough so that Herman was eventually ready to be sent on he first major assignment, by the now head priest, Zeno. Herman was assigned to once again explore a region he knew all too well, the ancient lands.\n\nVenturing forth back into the place he once called home, unswayed by the forces that tell him to turn back by the blessing of {gonna have to pick a god lol}, he was unsurprised how little the place changed. His knowledge of the area had served him well, being able to avoid the perils that would have broken lesser priests. Being able to make it to the site he was told to survey, he now works on furthering Zeno's goals through procuring strange artifacts, and writing his archeological discoveries to turn in to him when he is bound to return.",
         "journal": [],
         "relationships": [],
         "quests": [],
@@ -423,5 +950,6 @@
       "feats": 0,
       "epicBoons": 0
     }
-  }
+  },
+  "_rev": 1
 }
