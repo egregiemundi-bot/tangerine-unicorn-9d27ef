@@ -412,6 +412,26 @@
             "player": "mage",
             "character": "Sample Mage",
             "__fxDone": true
+          },
+          {
+            "kind": "roll",
+            "label": "Green-Flame Blade Damage",
+            "formula": "1d8",
+            "total": 5,
+            "dice": [
+              {
+                "sides": 8,
+                "value": 5,
+                "sign": 1
+              }
+            ],
+            "text": "Green-Flame Blade Damage: 1d8 = 5",
+            "detail": "1d8 [5]",
+            "id": "roll-mrhm6djm-d0y9nj",
+            "at": 1783849907218,
+            "player": "mage",
+            "character": "Sample Mage",
+            "__fxDone": true
           }
         ]
       },
