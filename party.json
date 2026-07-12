@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-12T09:47:51.140Z",
+  "updatedAt": "2026-07-12T09:47:56.855Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -391,7 +391,7 @@
         "id": "pc-ranger",
         "name": "Sample Ranger",
         "pc": true,
-        "init": "",
+        "init": "5",
         "hp": "",
         "maxhp": "",
         "ac": "",
@@ -401,7 +401,7 @@
         "id": "pc-cleric",
         "name": "Sample Cleric",
         "pc": true,
-        "init": "",
+        "init": "2",
         "hp": "",
         "maxhp": "",
         "ac": "",
