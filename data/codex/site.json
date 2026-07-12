@@ -15,15 +15,15 @@
     "surface": "#241a11",
     "text": "#f2e4c8",
     "mode": "neutral-fantasy",
-    "pageBg": "#d60000",
-    "panelBg": "#746767",
-    "textHeading": "#3a2ab2",
-    "textBody": "#a62dbe",
-    "textMuted": "#42589a",
-    "border": "#831616",
-    "link": "#1e8a5b",
-    "buttonBg": "#3eb413",
-    "buttonText": "#1410cb"
+    "pageBg": "",
+    "panelBg": "",
+    "textHeading": "",
+    "textBody": "",
+    "textMuted": "",
+    "border": "",
+    "link": "",
+    "buttonBg": "",
+    "buttonText": ""
   },
   "modules": {
     "wikiPages": true,
@@ -124,7 +124,7 @@
     }
   ],
   "productVersion": "1.0 Foundation",
-  "updatedAt": "2026-07-12T05:23:39.835Z",
+  "updatedAt": "2026-07-12T05:29:06.976Z",
   "backgroundImage": "",
   "heroImage": ""
 }
