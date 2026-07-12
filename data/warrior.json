@@ -88,7 +88,7 @@
     "activePlanetId": "planet_mrfjcjxx_4wt7k0y",
     "favoriteSpells": [],
     "ui": {
-      "tab": "inventory",
+      "tab": "summary",
       "form": "planet",
       "activePlanetId": "",
       "expanded": {
@@ -1329,8 +1329,7 @@
         "inventory": [
           {
             "name": "Coins: 60 gp",
-            "qty": 1,
-            "location": "backpack"
+            "qty": 1
           }
         ],
         "gold": 0,
