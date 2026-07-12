@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-12T09:47:06.290Z",
+  "updatedAt": "2026-07-12T09:47:45.539Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -364,5 +364,51 @@
         "img": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/atlas-campaign-world-1783849346529.jpg?v=1783849348206"
       }
     }
+  },
+  "dmcombat": {
+    "combatants": [
+      {
+        "id": "pc-warrior",
+        "name": "Sample Warrior",
+        "pc": true,
+        "init": "1",
+        "hp": "",
+        "maxhp": "",
+        "ac": "",
+        "notes": ""
+      },
+      {
+        "id": "pc-mage",
+        "name": "Sample Mage",
+        "pc": true,
+        "init": "",
+        "hp": "",
+        "maxhp": "",
+        "ac": "",
+        "notes": ""
+      },
+      {
+        "id": "pc-ranger",
+        "name": "Sample Ranger",
+        "pc": true,
+        "init": "",
+        "hp": "",
+        "maxhp": "",
+        "ac": "",
+        "notes": ""
+      },
+      {
+        "id": "pc-cleric",
+        "name": "Sample Cleric",
+        "pc": true,
+        "init": "",
+        "hp": "",
+        "maxhp": "",
+        "ac": "",
+        "notes": ""
+      }
+    ],
+    "round": 1,
+    "turn": 0
   }
 }
