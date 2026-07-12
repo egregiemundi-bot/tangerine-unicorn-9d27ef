@@ -91,11 +91,7 @@
       "tab": "combat",
       "form": "planet",
       "activePlanetId": "",
-      "expanded": {
-        "spell:feather fall": true,
-        "spell:burning hands": true,
-        "spell:mage armor": true
-      },
+      "expanded": {},
       "pinned": [],
       "searchFilters": [],
       "searchMode": "AND",
