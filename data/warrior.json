@@ -1330,7 +1330,7 @@
           {
             "name": "Coins: 60 gp",
             "qty": 1,
-            "location": "room"
+            "location": "backpack"
           }
         ],
         "gold": 0,
@@ -3173,5 +3173,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 8
+  "_rev": 9
 }
