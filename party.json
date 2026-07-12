@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-12T09:41:37.512Z",
+  "updatedAt": "2026-07-12T09:42:28.506Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -333,6 +333,10 @@
           }
         ],
         "img": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/atlas-__main-1783849264802.jpg?v=1783849266839"
+      },
+      "campaign-world": {
+        "pins": [],
+        "img": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/atlas-campaign-world-1783849346529.jpg?v=1783849348206"
       }
     }
   }
