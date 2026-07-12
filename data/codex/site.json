@@ -1,10 +1,10 @@
 {
   "productName": "The Adventurer’s Campaign Codex",
-  "campaignName": "The Balls She Hollered",
-  "campaignSubtitle": "The Game of All Time",
-  "tagline": "They really were something",
+  "campaignName": "Your Campaign Name",
+  "campaignSubtitle": "A Tabletop RPG Campaign",
+  "tagline": "A Living Archive for Your Table",
   "welcome": "Welcome to",
-  "description": "Test run babyyyyyy",
+  "description": "Replace this text in Admin Mode. Introduce your world, your party, your campaign tone, and the reason your players should open this site between sessions.",
   "statusBadge": "Template Ready · Edit in Admin Mode",
   "setupComplete": true,
   "footerBranding": "Powered by The Adventurer’s Campaign Codex",
@@ -14,7 +14,16 @@
     "background": "#17110b",
     "surface": "#241a11",
     "text": "#f2e4c8",
-    "mode": "neutral-fantasy"
+    "mode": "neutral-fantasy",
+    "pageBg": "#d60000",
+    "panelBg": "#746767",
+    "textHeading": "#3a2ab2",
+    "textBody": "#a62dbe",
+    "textMuted": "#42589a",
+    "border": "#831616",
+    "link": "#1e8a5b",
+    "buttonBg": "#3eb413",
+    "buttonText": "#1410cb"
   },
   "modules": {
     "wikiPages": true,
@@ -115,5 +124,7 @@
     }
   ],
   "productVersion": "1.0 Foundation",
-  "updatedAt": "2026-07-12T01:25:27.814Z"
+  "updatedAt": "2026-07-12T05:23:39.835Z",
+  "backgroundImage": "",
+  "heroImage": ""
 }
