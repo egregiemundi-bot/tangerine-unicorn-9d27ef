@@ -452,6 +452,31 @@
             "player": "mage",
             "character": "Sample Mage",
             "__fxDone": true
+          },
+          {
+            "kind": "roll",
+            "label": "Green-Flame Blade Damage",
+            "formula": "2d8",
+            "total": 9,
+            "dice": [
+              {
+                "sides": 8,
+                "value": 4,
+                "sign": 1
+              },
+              {
+                "sides": 8,
+                "value": 5,
+                "sign": 1
+              }
+            ],
+            "text": "Green-Flame Blade Damage: 2d8 = 9",
+            "detail": "2d8 [4, 5]",
+            "id": "roll-mrhm6w0x-haokvc",
+            "at": 1783849931169,
+            "player": "mage",
+            "character": "Sample Mage",
+            "__fxDone": true
           }
         ]
       },
