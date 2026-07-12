@@ -91,7 +91,9 @@
       "tab": "summary",
       "form": "planet",
       "activePlanetId": "",
-      "expanded": {},
+      "expanded": {
+        "spell:green-flame blade": true
+      },
       "pinned": [],
       "searchFilters": [],
       "searchMode": "AND",
