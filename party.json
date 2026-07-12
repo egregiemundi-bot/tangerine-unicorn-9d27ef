@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-12T09:56:27.320Z",
+  "updatedAt": "2026-07-12T09:56:30.281Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -366,18 +366,7 @@
     }
   },
   "dmcombat": {
-    "combatants": [
-      {
-        "id": "mmrhmc6ap228",
-        "name": "Elara",
-        "pc": false,
-        "init": "",
-        "hp": "5",
-        "maxhp": "Elara",
-        "ac": "",
-        "notes": ""
-      }
-    ],
+    "combatants": [],
     "round": 1,
     "turn": 0
   }
