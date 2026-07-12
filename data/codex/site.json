@@ -1,10 +1,10 @@
 {
   "productName": "The Adventurer’s Campaign Codex",
-  "campaignName": "Your Campaign Name",
-  "campaignSubtitle": "A Tabletop RPG Campaign",
-  "tagline": "A Living Archive for Your Table",
+  "campaignName": "The Balls She Hollered",
+  "campaignSubtitle": "The Game of All Time",
+  "tagline": "They really were something",
   "welcome": "Welcome to",
-  "description": "Replace this text in Admin Mode. Introduce your world, your party, your campaign tone, and the reason your players should open this site between sessions.",
+  "description": "Test run babyyyyyy",
   "statusBadge": "Template Ready · Edit in Admin Mode",
   "setupComplete": true,
   "footerBranding": "Powered by The Adventurer’s Campaign Codex",
@@ -115,5 +115,5 @@
     }
   ],
   "productVersion": "1.0 Foundation",
-  "updatedAt": "2026-07-12T01:17:06.649Z"
+  "updatedAt": "2026-07-12T01:21:04.496Z"
 }
