@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-12T05:32:17.157Z",
+  "updatedAt": "2026-07-12T09:41:07.191Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -318,5 +318,13 @@
         ]
       }
     ]
+  },
+  "atlas": {
+    "worlds": {
+      "__main": {
+        "pins": [],
+        "img": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/atlas-__main-1783849264802.jpg?v=1783849266839"
+      }
+    }
   }
 }
