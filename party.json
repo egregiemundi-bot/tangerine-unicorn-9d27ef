@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-12T09:47:56.855Z",
+  "updatedAt": "2026-07-12T09:48:37.422Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -371,7 +371,7 @@
         "id": "pc-warrior",
         "name": "Sample Warrior",
         "pc": true,
-        "init": "1",
+        "init": "",
         "hp": "",
         "maxhp": "",
         "ac": "",
@@ -381,7 +381,7 @@
         "id": "pc-mage",
         "name": "Sample Mage",
         "pc": true,
-        "init": "6",
+        "init": "",
         "hp": "",
         "maxhp": "",
         "ac": "",
@@ -391,7 +391,7 @@
         "id": "pc-ranger",
         "name": "Sample Ranger",
         "pc": true,
-        "init": "5",
+        "init": "",
         "hp": "",
         "maxhp": "",
         "ac": "",
@@ -401,7 +401,7 @@
         "id": "pc-cleric",
         "name": "Sample Cleric",
         "pc": true,
-        "init": "2",
+        "init": "",
         "hp": "",
         "maxhp": "",
         "ac": "",
