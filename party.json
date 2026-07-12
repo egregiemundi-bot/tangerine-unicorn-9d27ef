@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-12T09:56:18.276Z",
+  "updatedAt": "2026-07-12T09:56:23.750Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -372,7 +372,7 @@
         "name": "Elara",
         "pc": false,
         "init": "",
-        "hp": "Elara",
+        "hp": "1",
         "maxhp": "Elara",
         "ac": "",
         "notes": ""
