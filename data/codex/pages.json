@@ -4,6 +4,11 @@
       "id": "c-hidden-secrets",
       "title": "hidden secrets",
       "parent": "sealed-gods"
+    },
+    {
+      "id": "c-solara-republic",
+      "title": "Solara Republic",
+      "parent": "atlas"
     }
   ],
   "overrides": [
@@ -11,5 +16,5 @@
     "party",
     "sealed-gods"
   ],
-  "updatedAt": "2026-07-11T23:18:22.192Z"
+  "updatedAt": "2026-07-12T09:41:36.181Z"
 }
