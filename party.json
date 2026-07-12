@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-12T09:47:45.539Z",
+  "updatedAt": "2026-07-12T09:47:51.140Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -381,7 +381,7 @@
         "id": "pc-mage",
         "name": "Sample Mage",
         "pc": true,
-        "init": "",
+        "init": "6",
         "hp": "",
         "maxhp": "",
         "ac": "",
