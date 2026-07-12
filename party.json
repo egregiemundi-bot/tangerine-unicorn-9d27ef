@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-12T09:48:37.422Z",
+  "updatedAt": "2026-07-12T09:56:18.276Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -368,42 +368,12 @@
   "dmcombat": {
     "combatants": [
       {
-        "id": "pc-warrior",
-        "name": "Sample Warrior",
-        "pc": true,
+        "id": "mmrhmc6ap228",
+        "name": "Elara",
+        "pc": false,
         "init": "",
-        "hp": "",
-        "maxhp": "",
-        "ac": "",
-        "notes": ""
-      },
-      {
-        "id": "pc-mage",
-        "name": "Sample Mage",
-        "pc": true,
-        "init": "",
-        "hp": "",
-        "maxhp": "",
-        "ac": "",
-        "notes": ""
-      },
-      {
-        "id": "pc-ranger",
-        "name": "Sample Ranger",
-        "pc": true,
-        "init": "",
-        "hp": "",
-        "maxhp": "",
-        "ac": "",
-        "notes": ""
-      },
-      {
-        "id": "pc-cleric",
-        "name": "Sample Cleric",
-        "pc": true,
-        "init": "",
-        "hp": "",
-        "maxhp": "",
+        "hp": "Elara",
+        "maxhp": "Elara",
         "ac": "",
         "notes": ""
       }
