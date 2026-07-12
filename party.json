@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-12T09:45:22.096Z",
+  "updatedAt": "2026-07-12T09:45:30.257Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -228,8 +228,8 @@
       "cards": [
         {
           "id": "cmrhlx4g13yg",
-          "x": 3,
-          "y": 6,
+          "x": 0,
+          "y": 0,
           "title": "Feingart",
           "text": "",
           "img": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/wb-board-c-solara-republic-1783849468096.jpg?v=1783849470244",
@@ -237,8 +237,8 @@
         },
         {
           "id": "cmrhlxzp619r",
-          "x": 2,
-          "y": 306,
+          "x": 0,
+          "y": 300,
           "title": "Jail map",
           "text": "",
           "img": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/wb-board-c-solara-republic-1783849512997.jpg?v=1783849514553",
