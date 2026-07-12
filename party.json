@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-12T09:41:07.191Z",
+  "updatedAt": "2026-07-12T09:41:37.512Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -322,7 +322,16 @@
   "atlas": {
     "worlds": {
       "__main": {
-        "pins": [],
+        "pins": [
+          {
+            "id": "pmrhlt9cl7kt",
+            "x": 58.5,
+            "y": 63.7,
+            "title": "Solara Republic",
+            "text": "",
+            "pageId": "c-solara-republic"
+          }
+        ],
         "img": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/atlas-__main-1783849264802.jpg?v=1783849266839"
       }
     }
