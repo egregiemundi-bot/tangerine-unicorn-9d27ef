@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-11T23:22:55.985Z",
+  "updatedAt": "2026-07-12T05:32:17.157Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -224,5 +224,99 @@
     "board-constructs": {
       "cards": []
     }
+  },
+  "legendaryitems": {
+    "warrior": [
+      {
+        "name": "Sample Legendary Weapon",
+        "type": "Legendary Weapon · Requires Attunement",
+        "img": "",
+        "stats": [
+          {
+            "k": "Damage",
+            "v": "Replace with your item damage, range, and properties."
+          },
+          {
+            "k": "Lore",
+            "v": "A relic waiting for your campaign history."
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Signature Power",
+            "desc": "Replace with a once-per-rest ability, charge feature, or curse."
+          }
+        ]
+      },
+      {
+        "name": "New Item",
+        "type": "Type / Rarity",
+        "img": "",
+        "stats": [
+          {
+            "k": "Property",
+            "v": "Description"
+          }
+        ],
+        "abilities": []
+      }
+    ],
+    "mage": [
+      {
+        "name": "Sample Arcane Implement",
+        "type": "Wondrous Item · Rare",
+        "img": "",
+        "stats": [
+          {
+            "k": "Focus",
+            "v": "Replace with spellcasting, crafting, or utility effects."
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Prepared Trick",
+            "desc": "Add the item ability your player uses most often."
+          }
+        ]
+      }
+    ],
+    "ranger": [
+      {
+        "name": "Sample Wilderness Relic",
+        "type": "Weapon or Wondrous Item · Rare",
+        "img": "",
+        "stats": [
+          {
+            "k": "Trail Mark",
+            "v": "Replace with exploration, tracking, or companion features."
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Pathfinder Gift",
+            "desc": "Add a power tied to travel, survival, or beasts."
+          }
+        ]
+      }
+    ],
+    "cleric": [
+      {
+        "name": "Sample Sacred Relic",
+        "type": "Holy Symbol · Rare",
+        "img": "",
+        "stats": [
+          {
+            "k": "Blessing",
+            "v": "Replace with healing, protection, or oath features."
+          }
+        ],
+        "abilities": [
+          {
+            "name": "Merciful Light",
+            "desc": "Add a healing, warding, or divine intervention ability."
+          }
+        ]
+      }
+    ]
   }
 }
