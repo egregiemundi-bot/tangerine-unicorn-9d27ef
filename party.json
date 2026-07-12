@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-12T09:43:17.136Z",
+  "updatedAt": "2026-07-12T09:44:38.800Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -225,7 +225,17 @@
       "cards": []
     },
     "board-c-solara-republic": {
-      "cards": []
+      "cards": [
+        {
+          "id": "cmrhlx4g13yg",
+          "x": 60,
+          "y": 60,
+          "title": "Feingart",
+          "text": "",
+          "img": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/wb-board-c-solara-republic-1783849468096.jpg?v=1783849470244",
+          "label": ""
+        }
+      ]
     }
   },
   "legendaryitems": {
