@@ -911,7 +911,7 @@
             "concentration": false,
             "ritual": false,
             "prepared": false,
-            "description": "Spell attack roll: +9. Damage/Type: 1d8 Fire. Level: 0. Source: Warlock. Casting Time: 1A. Range: Self/5 ft. Sphere S,M. Components: Instantaneous. Duration: SCAG 142 5 ft. Sphere, S/M.",
+            "description": "Spell attack roll: +9. Damage/Type: 2d8 Fire. Level: 0. Source: Warlock. Casting Time: 1A. Range: Self/5 ft. Sphere S,M. Components: Instantaneous. Duration: SCAG 142 5 ft. Sphere, S/M.",
             "higherLevels": "",
             "damageType": "Fire",
             "tags": [],
@@ -3076,13 +3076,13 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 0
+        "lastModified": 1783849922139
       }
     ],
     "_legacyCurrentHP": 0
   },
   "_divineCache": {
-    "generatedAt": 1783774408040,
+    "generatedAt": 1783849922840,
     "totalLevel": 15,
     "hp": {
       "max": 169
@@ -6389,7 +6389,7 @@
         "concentration": false,
         "ritual": false,
         "prepared": false,
-        "description": "Spell attack roll: +9. Damage/Type: 1d8 Fire. Level: 0. Source: Warlock. Casting Time: 1A. Range: Self/5 ft. Sphere S,M. Components: Instantaneous. Duration: SCAG 142 5 ft. Sphere, S/M.",
+        "description": "Spell attack roll: +9. Damage/Type: 2d8 Fire. Level: 0. Source: Warlock. Casting Time: 1A. Range: Self/5 ft. Sphere S,M. Components: Instantaneous. Duration: SCAG 142 5 ft. Sphere, S/M.",
         "higherLevels": "",
         "damageType": "Fire",
         "tags": [],
@@ -6832,7 +6832,7 @@
           "concentration": false,
           "ritual": false,
           "prepared": false,
-          "description": "Spell attack roll: +9. Damage/Type: 1d8 Fire. Level: 0. Source: Warlock. Casting Time: 1A. Range: Self/5 ft. Sphere S,M. Components: Instantaneous. Duration: SCAG 142 5 ft. Sphere, S/M.",
+          "description": "Spell attack roll: +9. Damage/Type: 2d8 Fire. Level: 0. Source: Warlock. Casting Time: 1A. Range: Self/5 ft. Sphere S,M. Components: Instantaneous. Duration: SCAG 142 5 ft. Sphere, S/M.",
           "higherLevels": "",
           "damageType": "Fire",
           "tags": [],
@@ -7371,9 +7371,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 3,
+  "_divineCacheRev": 4,
   "_divine": {
-    "generatedAt": 1783774408040,
+    "generatedAt": 1783849922840,
     "totalLevel": 15,
     "hp": {
       "max": 169
@@ -10680,7 +10680,7 @@
         "concentration": false,
         "ritual": false,
         "prepared": false,
-        "description": "Spell attack roll: +9. Damage/Type: 1d8 Fire. Level: 0. Source: Warlock. Casting Time: 1A. Range: Self/5 ft. Sphere S,M. Components: Instantaneous. Duration: SCAG 142 5 ft. Sphere, S/M.",
+        "description": "Spell attack roll: +9. Damage/Type: 2d8 Fire. Level: 0. Source: Warlock. Casting Time: 1A. Range: Self/5 ft. Sphere S,M. Components: Instantaneous. Duration: SCAG 142 5 ft. Sphere, S/M.",
         "higherLevels": "",
         "damageType": "Fire",
         "tags": [],
@@ -11123,7 +11123,7 @@
           "concentration": false,
           "ritual": false,
           "prepared": false,
-          "description": "Spell attack roll: +9. Damage/Type: 1d8 Fire. Level: 0. Source: Warlock. Casting Time: 1A. Range: Self/5 ft. Sphere S,M. Components: Instantaneous. Duration: SCAG 142 5 ft. Sphere, S/M.",
+          "description": "Spell attack roll: +9. Damage/Type: 2d8 Fire. Level: 0. Source: Warlock. Casting Time: 1A. Range: Self/5 ft. Sphere S,M. Components: Instantaneous. Duration: SCAG 142 5 ft. Sphere, S/M.",
           "higherLevels": "",
           "damageType": "Fire",
           "tags": [],
@@ -11662,5 +11662,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 3
+  "_rev": 4
 }
