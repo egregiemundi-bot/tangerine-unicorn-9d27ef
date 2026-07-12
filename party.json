@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-12T09:45:31.729Z",
+  "updatedAt": "2026-07-12T09:47:06.290Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -245,6 +245,9 @@
           "label": ""
         }
       ]
+    },
+    "board-architect": {
+      "cards": []
     }
   },
   "legendaryitems": {
