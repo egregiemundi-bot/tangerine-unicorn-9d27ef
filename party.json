@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-12T09:44:38.800Z",
+  "updatedAt": "2026-07-12T09:44:40.325Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -228,8 +228,8 @@
       "cards": [
         {
           "id": "cmrhlx4g13yg",
-          "x": 60,
-          "y": 60,
+          "x": 446,
+          "y": 167,
           "title": "Feingart",
           "text": "",
           "img": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/wb-board-c-solara-republic-1783849468096.jpg?v=1783849470244",
