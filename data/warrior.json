@@ -91,7 +91,9 @@
       "tab": "combat",
       "form": "planet",
       "activePlanetId": "",
-      "expanded": {},
+      "expanded": {
+        "spell:burning hands": true
+      },
       "pinned": [],
       "searchFilters": [],
       "searchMode": "AND",
