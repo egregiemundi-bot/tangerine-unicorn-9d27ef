@@ -91,7 +91,9 @@
       "tab": "summary",
       "form": "planet",
       "activePlanetId": "",
-      "expanded": {},
+      "expanded": {
+        "feat:eldritch blast": true
+      },
       "pinned": [],
       "searchFilters": [],
       "searchMode": "AND",
