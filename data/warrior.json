@@ -668,6 +668,26 @@
             "player": "warrior",
             "character": "Sample Warrior",
             "__fxDone": true
+          },
+          {
+            "kind": "roll",
+            "label": "Magic Missile Hit",
+            "formula": "1d20+10",
+            "total": 19,
+            "dice": [
+              {
+                "sides": 20,
+                "value": 9,
+                "sign": 1
+              }
+            ],
+            "text": "Magic Missile Hit: 1d20+10 = 19",
+            "detail": "1d20 [9] +10",
+            "id": "roll-mrhlqo63-jt7dnb",
+            "at": 1783849174491,
+            "player": "warrior",
+            "character": "Sample Warrior",
+            "__fxDone": true
           }
         ]
       },
