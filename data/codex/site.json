@@ -2,7 +2,7 @@
   "productName": "The Adventurer’s Campaign Codex",
   "campaignName": "Dragonlance: Shadow of the Dragon Queen",
   "campaignSubtitle": "A Tabletop RPG Campaign",
-  "tagline": "Who would've thought that in a war game there'd be no good choices\"",
+  "tagline": "\"Who would've thought that in a war game there'd be no good choices\"",
   "welcome": "Welcome to",
   "description": "Replace this text in Admin Mode. Introduce your world, your party, your campaign tone, and the reason your players should open this site between sessions.",
   "statusBadge": "Template Ready · Edit in Admin Mode",
@@ -124,7 +124,7 @@
     }
   ],
   "productVersion": "1.0 Foundation",
-  "updatedAt": "2026-07-13T11:21:51.149Z",
+  "updatedAt": "2026-07-13T15:30:49.816Z",
   "backgroundImage": "",
   "heroImage": ""
 }
