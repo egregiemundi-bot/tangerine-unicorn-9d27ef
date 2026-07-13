@@ -129,9 +129,9 @@
         "planetName": "Character Sheet",
         "planetImage": "",
         "status": "active",
-        "level": 1,
+        "level": 2,
         "xp": 0,
-        "className": "",
+        "className": "Monk",
         "subclass": "",
         "background": "Hermit",
         "alignment": "",
@@ -140,7 +140,7 @@
           {
             "className": "Monk",
             "subclass": "",
-            "level": 1
+            "level": 2
           }
         ],
         "spellcasting": [],
@@ -199,13 +199,13 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1783969073727
+        "lastModified": 1783969077547
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1783969074429,
-    "totalLevel": 1,
+    "generatedAt": 1783969078249,
+    "totalLevel": 2,
     "hp": {
       "max": 0
     },
@@ -221,7 +221,7 @@
     "classes": [
       {
         "className": "Monk",
-        "levels": 1,
+        "levels": 2,
         "subclasses": [],
         "planets": [
           "Character Sheet"
@@ -298,10 +298,10 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 29,
+  "_divineCacheRev": 31,
   "_divine": {
-    "generatedAt": 1783969074429,
-    "totalLevel": 1,
+    "generatedAt": 1783969078249,
+    "totalLevel": 2,
     "hp": {
       "max": 0
     },
@@ -317,7 +317,7 @@
     "classes": [
       {
         "className": "Monk",
-        "levels": 1,
+        "levels": 2,
         "subclasses": [],
         "planets": [
           "Character Sheet"
@@ -394,5 +394,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 29
+  "_rev": 31
 }
