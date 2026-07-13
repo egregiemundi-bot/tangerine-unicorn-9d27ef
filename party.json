@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-13T15:44:11.063Z",
+  "updatedAt": "2026-07-13T15:51:56.375Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -332,6 +332,24 @@
             "desc": "Add a healing, warding, or divine intervention ability."
           }
         ]
+      }
+    ],
+    "sibyl-eirlynn": [],
+    "zacharia-horn-axe": [],
+    "bud-turtlefoot": [],
+    "ayeluna-lou": [],
+    "kena-price": [
+      {
+        "name": "New Item",
+        "type": "Type / Rarity",
+        "img": "",
+        "stats": [
+          {
+            "k": "Property",
+            "v": "Description"
+          }
+        ],
+        "abilities": []
       }
     ]
   },
