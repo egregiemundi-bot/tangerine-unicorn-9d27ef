@@ -14,6 +14,11 @@
       "id": "c-solamnia",
       "title": "Solamnia",
       "parent": "c-solara-republic"
+    },
+    {
+      "id": "c-ispin-greenshield",
+      "title": "Ispin Greenshield",
+      "parent": "npcs"
     }
   ],
   "overrides": [
@@ -22,5 +27,5 @@
     "sealed-gods",
     "eld-stat"
   ],
-  "updatedAt": "2026-07-13T19:07:41.188Z"
+  "updatedAt": "2026-07-13T19:12:04.238Z"
 }
