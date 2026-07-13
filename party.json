@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-13T19:02:45.264Z",
+  "updatedAt": "2026-07-13T19:03:00.121Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -148,6 +148,12 @@
         "name": "Mages of High Sorcery",
         "tag": "Faction",
         "status": "Active"
+      },
+      {
+        "id": "shipwright-s-guild",
+        "name": "Shipwright's Guild",
+        "tag": "Faction",
+        "status": "Active"
       }
     ],
     "positions": {
@@ -158,6 +164,10 @@
       "mages-of-high-sorcery": {
         "x": 614.9234062749856,
         "y": 260.960008783802
+      },
+      "shipwright-s-guild": {
+        "x": 713.5376719696518,
+        "y": 483.6607713096244
       }
     },
     "edges": []
