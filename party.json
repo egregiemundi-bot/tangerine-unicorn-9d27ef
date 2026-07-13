@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-13T15:42:22.444Z",
+  "updatedAt": "2026-07-13T15:43:40.123Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -178,10 +178,10 @@
           "id": "cmrgxrrgz4ac",
           "x": 250,
           "y": 310,
-          "title": "2",
-          "text": "2",
+          "title": "Ispin Greenshield's Funeral",
+          "text": "",
           "img": "",
-          "label": "2"
+          "label": "16 Gildember, 351"
         },
         {
           "id": "cmrgxrvl9e7",
