@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-13T17:25:58.207Z",
+  "updatedAt": "2026-07-13T17:26:25.825Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -339,7 +339,7 @@
     "bud-turtlefoot": [],
     "ayeluna-lou": [
       {
-        "name": "New ItemWand of ",
+        "name": "",
         "type": "Type / Rarity",
         "img": "",
         "stats": [
