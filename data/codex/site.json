@@ -91,40 +91,48 @@
   ],
   "characters": [
     {
-      "id": "vrakqin",
-      "name": "Sample Warrior",
-      "player": "Player One",
-      "sigil": "Shield",
-      "accent": "#1e3c94",
-      "portrait": "Alteriaus-bedroom.png"
+      "id": "sibyl-eirlynn",
+      "name": "Sibyl Eirlynn",
+      "player": "Claire",
+      "sigil": "",
+      "accent": "#000000",
+      "portrait": ""
     },
     {
-      "id": "elara",
-      "name": "Sample Mage",
-      "player": "Player Two",
-      "sigil": "Arcana",
-      "accent": "#0e9a26",
-      "portrait": "uploads/placeholders/sample-mage.jpg"
+      "id": "zacharia-horn-axe",
+      "name": "Zacharia Horn-Axe",
+      "player": "Dragon",
+      "sigil": "",
+      "accent": "#000000",
+      "portrait": ""
     },
     {
-      "id": "alteriaus",
-      "name": "Sample Ranger",
-      "player": "Player Three",
-      "sigil": "Trail",
-      "accent": "#fff700",
-      "portrait": "uploads/placeholders/sample-ranger.jpg"
+      "id": "bud-turtlefoot",
+      "name": "Bud Turtlefoot",
+      "player": "Jess",
+      "sigil": "",
+      "accent": "#000000",
+      "portrait": ""
     },
     {
-      "id": "herman",
-      "name": "Sample Cleric",
-      "player": "Player Four",
-      "sigil": "Oath",
-      "accent": "#ff0000",
-      "portrait": "uploads/placeholders/sample-cleric.jpg"
+      "id": "ayeluna-lou",
+      "name": "Ayeluna \"Lou\"",
+      "player": "Mary",
+      "sigil": "",
+      "accent": "#000000",
+      "portrait": ""
+    },
+    {
+      "id": "kena-price",
+      "name": "Kena Price",
+      "player": "Brittney",
+      "sigil": "",
+      "accent": "#000000",
+      "portrait": ""
     }
   ],
   "productVersion": "1.0 Foundation",
-  "updatedAt": "2026-07-13T15:34:04.589Z",
+  "updatedAt": "2026-07-13T15:45:58.952Z",
   "backgroundImage": "",
   "heroImage": ""
 }
