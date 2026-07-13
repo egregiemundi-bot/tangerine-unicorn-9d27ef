@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-13T17:25:50.703Z",
+  "updatedAt": "2026-07-13T17:25:58.207Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -337,7 +337,20 @@
     "sibyl-eirlynn": [],
     "zacharia-horn-axe": [],
     "bud-turtlefoot": [],
-    "ayeluna-lou": [],
+    "ayeluna-lou": [
+      {
+        "name": "New ItemWand of ",
+        "type": "Type / Rarity",
+        "img": "",
+        "stats": [
+          {
+            "k": "Property",
+            "v": "Description"
+          }
+        ],
+        "abilities": []
+      }
+    ],
     "kena-price": [
       {
         "name": "Irven's rose shield",
