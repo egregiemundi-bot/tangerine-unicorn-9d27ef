@@ -133,7 +133,7 @@
         "xp": 0,
         "className": "",
         "subclass": "",
-        "background": "",
+        "background": "Hermit",
         "alignment": "",
         "species": "",
         "classes": [
@@ -199,12 +199,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1783968986184
+        "lastModified": 1783968998053
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1783968986885,
+    "generatedAt": 1783968998755,
     "totalLevel": 1,
     "hp": {
       "max": 0
@@ -289,9 +289,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 6,
+  "_divineCacheRev": 12,
   "_divine": {
-    "generatedAt": 1783968986885,
+    "generatedAt": 1783968998755,
     "totalLevel": 1,
     "hp": {
       "max": 0
@@ -376,5 +376,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 6
+  "_rev": 12
 }
