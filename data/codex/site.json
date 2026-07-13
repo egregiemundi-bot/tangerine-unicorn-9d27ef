@@ -4,7 +4,7 @@
   "campaignSubtitle": "A Tabletop RPG Campaign",
   "tagline": "\"Who would've thought that in a war game there'd be no good choices\"",
   "welcome": "Welcome to",
-  "description": "Replace this text in Admin Mode. Introduce your world, your party, your campaign tone, and the reason your players should open this site between sessions.",
+  "description": "From a humble fishing village to the besieged walls of Kalaman, you must become the heroes Krynn desperately needs to survive the coming darkness.",
   "statusBadge": "Template Ready · Edit in Admin Mode",
   "setupComplete": true,
   "footerBranding": "Powered by The Adventurer’s Campaign Codex",
@@ -124,7 +124,7 @@
     }
   ],
   "productVersion": "1.0 Foundation",
-  "updatedAt": "2026-07-13T15:30:51.389Z",
+  "updatedAt": "2026-07-13T15:34:04.589Z",
   "backgroundImage": "",
   "heroImage": ""
 }
