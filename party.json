@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-13T19:02:40.925Z",
+  "updatedAt": "2026-07-13T19:02:45.264Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -140,7 +140,7 @@
       {
         "id": "knights",
         "name": "Knights of Solamnia",
-        "tag": "knights",
+        "tag": "Faction",
         "status": "Active"
       },
       {
