@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-13T16:12:35.542Z",
+  "updatedAt": "2026-07-13T16:13:21.538Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -338,20 +338,7 @@
     "zacharia-horn-axe": [],
     "bud-turtlefoot": [],
     "ayeluna-lou": [],
-    "kena-price": [
-      {
-        "name": "Irven's Rose Shield",
-        "type": "Type / Rarity",
-        "img": "",
-        "stats": [
-          {
-            "k": "Property",
-            "v": "Description"
-          }
-        ],
-        "abilities": []
-      }
-    ]
+    "kena-price": []
   },
   "atlas": {
     "worlds": {
