@@ -191,7 +191,7 @@
         "weaponProfs": [],
         "armorProfs": [],
         "toolProfs": [
-          ""
+          "Herbalism"
         ],
         "languages": [],
         "inventory": [],
@@ -201,12 +201,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1783969107064
+        "lastModified": 1783969110049
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1783969107777,
+    "generatedAt": 1783969110752,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -274,7 +274,9 @@
     "immunities": [],
     "languages": [],
     "weaponProfs": [],
-    "toolProfs": [],
+    "toolProfs": [
+      "Herbalism"
+    ],
     "feats": [],
     "epicBoons": [],
     "asi": [],
@@ -300,9 +302,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 32,
+  "_divineCacheRev": 41,
   "_divine": {
-    "generatedAt": 1783969107777,
+    "generatedAt": 1783969110752,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -370,7 +372,9 @@
     "immunities": [],
     "languages": [],
     "weaponProfs": [],
-    "toolProfs": [],
+    "toolProfs": [
+      "Herbalism"
+    ],
     "feats": [],
     "epicBoons": [],
     "asi": [],
@@ -396,5 +400,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 32
+  "_rev": 41
 }
