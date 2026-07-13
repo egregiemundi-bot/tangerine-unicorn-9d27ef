@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-13T17:27:12.125Z",
+  "updatedAt": "2026-07-13T17:27:19.071Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -340,7 +340,7 @@
     "ayeluna-lou": [
       {
         "name": "Wand of Frank",
-        "type": "",
+        "type": "Test test ",
         "img": "",
         "stats": [
           {
