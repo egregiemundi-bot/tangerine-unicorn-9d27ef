@@ -190,7 +190,9 @@
         "immunities": [],
         "weaponProfs": [],
         "armorProfs": [],
-        "toolProfs": [],
+        "toolProfs": [
+          ""
+        ],
         "languages": [],
         "inventory": [],
         "gold": 0,
@@ -199,12 +201,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1783969077547
+        "lastModified": 1783969107064
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1783969078249,
+    "generatedAt": 1783969107777,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -298,9 +300,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 31,
+  "_divineCacheRev": 32,
   "_divine": {
-    "generatedAt": 1783969078249,
+    "generatedAt": 1783969107777,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -394,5 +396,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 31
+  "_rev": 32
 }
