@@ -1,0 +1,32 @@
+<div id="page-npcs" class="page">
+  <div class="page-header">
+    <div class="page-eyebrow">People of the World</div>
+    <h1 class="page-title">Key NPCs</h1>
+    <p class="page-description">Notable figures the party has encountered across their journey.</p>
+  </div>
+  <div class="npc-subtabs">
+    <button class="npc-subtab active" data-sub="campaign" onclick="npcSubtab('campaign')">Campaign NPCs</button>
+    <button class="npc-subtab" data-sub="gallery" onclick="npcSubtab('gallery')">Portrait Gallery</button>
+    <button class="npc-subtab" data-sub="web" onclick="npcSubtab('web')">Relationship Web</button>
+  </div>
+  <div class="section cx-subpage-link"><a class="cx-subpage-card" onclick="showPage('c-ispin-greenshield');return false" href="#c-ispin-greenshield"><span class="cx-subpage-icon">📄</span><span class="cx-subpage-title">Ispin Greenshield</span><span class="cx-subpage-arrow">→</span></a></div><div id="npc-pane-campaign" class="npc-pane">
+    <div class="items-edit-bar">
+      <button class="items-edit-btn" id="npcs-edit-btn" onclick="npcsToggleEdit()">✎ Edit NPCs</button>
+      <button class="items-save-btn" id="npcs-save-btn-el" onclick="npcsSave()">✦ Save</button>
+      <span class="items-save-status" id="npcs-save-status"></span>
+    </div>
+    <div id="npcs-wrap">
+      <div id="npcs-sections">
+        <div style="color:#9a8f7e;font-family:'EB Garamond',serif;font-size:15px;padding:20px 0;">Loading NPCs...</div>
+      </div>
+      <button class="items-add-btn" id="npcs-add-btn" onclick="npcsAddCard()" style="display:none;">+ Add NPC</button>
+    </div>
+  </div>
+  <div id="npc-pane-gallery" class="npc-pane" style="display:none;">
+    <p class="page-description" style="margin-top:-4px;">A portrait gallery for important rulers, rivals, allies, merchants, monsters, and other figures in your campaign world.</p>
+    <div id="portrait-npcs-grid"><div style="color:#9a8f7e;font-family:'EB Garamond',serif;font-size:15px;padding:20px 0;">Loading…</div></div>
+  </div>
+  <div id="npc-pane-web" class="npc-pane" style="display:none;">
+    <div id="npcweb-root"><div style="color:#9a8f7e;font-family:'EB Garamond',serif;font-size:15px;padding:20px 0;">Loading the web…</div></div>
+  </div>
+</div>
