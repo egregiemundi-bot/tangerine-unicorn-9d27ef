@@ -53,7 +53,7 @@
     "activePlanetId": "planet_mrj58vx3_4z292em",
     "favoriteSpells": [],
     "ui": {
-      "tab": "combat",
+      "tab": "inventory",
       "form": "divine",
       "activePlanetId": "",
       "expanded": {},
@@ -136,7 +136,13 @@
         "background": "",
         "alignment": "",
         "species": "",
-        "classes": [],
+        "classes": [
+          {
+            "className": "",
+            "subclass": "",
+            "level": 1
+          }
+        ],
         "spellcasting": [],
         "spellSlots": {
           "1": 0,
