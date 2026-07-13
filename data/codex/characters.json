@@ -1,10 +1,6 @@
 {
   "roster": [
     {
-      "id": "warrior",
-      "label": "Warrior"
-    },
-    {
       "id": "sibyl-eirlynn",
       "label": "Sibyl Eirlynn"
     },
@@ -13,5 +9,5 @@
       "label": "Zacharia Horn-Axe"
     }
   ],
-  "updatedAt": "2026-07-13T11:20:37.634Z"
+  "updatedAt": "2026-07-13T11:20:41.544Z"
 }
