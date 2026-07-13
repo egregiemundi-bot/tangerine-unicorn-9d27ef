@@ -5,10 +5,6 @@
       "label": "Warrior"
     },
     {
-      "id": "mage",
-      "label": "Mage"
-    },
-    {
       "id": "sibyl-eirlynn",
       "label": "Sibyl Eirlynn"
     },
@@ -17,5 +13,5 @@
       "label": "Zacharia Horn-Axe"
     }
   ],
-  "updatedAt": "2026-07-13T11:20:32.046Z"
+  "updatedAt": "2026-07-13T11:20:37.634Z"
 }
