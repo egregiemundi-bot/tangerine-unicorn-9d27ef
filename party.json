@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-13T19:03:05.581Z",
+  "updatedAt": "2026-07-13T19:03:21.062Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -154,6 +154,12 @@
         "name": "Shipwright's Guild",
         "tag": "Faction",
         "status": "Active"
+      },
+      {
+        "id": "dockworker-s-guild",
+        "name": "Dockworker's Guild",
+        "tag": "Faction",
+        "status": "Active"
       }
     ],
     "positions": {
@@ -168,6 +174,10 @@
       "shipwright-s-guild": {
         "x": 788,
         "y": 138
+      },
+      "dockworker-s-guild": {
+        "x": 403.0568529050002,
+        "y": 355.61630794905204
       }
     },
     "edges": []
