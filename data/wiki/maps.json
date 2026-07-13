@@ -1,0 +1,12 @@
+{
+  "maps": [
+    {
+      "id": "krynn",
+      "name": "Krynn",
+      "image": "uploads/maps/Krynn.png",
+      "width": 0,
+      "height": 0,
+      "pins": []
+    }
+  ]
+}
