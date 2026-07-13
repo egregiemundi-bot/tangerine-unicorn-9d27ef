@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-13T19:01:26.706Z",
+  "updatedAt": "2026-07-13T19:01:49.710Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -380,7 +380,7 @@
         "id": "pc-sibyl-eirlynn",
         "name": "Sibyl Eirlynn",
         "pc": true,
-        "init": "9",
+        "init": "",
         "hp": "",
         "maxhp": "",
         "ac": "",
@@ -390,7 +390,7 @@
         "id": "pc-zacharia-horn-axe",
         "name": "Zacharia Horn-Axe",
         "pc": true,
-        "init": "6",
+        "init": "",
         "hp": "",
         "maxhp": "",
         "ac": "",
