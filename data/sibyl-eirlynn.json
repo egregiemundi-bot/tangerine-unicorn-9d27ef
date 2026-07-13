@@ -129,7 +129,7 @@
         "planetName": "Character Sheet",
         "planetImage": "",
         "status": "active",
-        "level": 1,
+        "level": 2,
         "xp": 0,
         "className": "",
         "subclass": "",
@@ -137,6 +137,11 @@
         "alignment": "",
         "species": "Human",
         "classes": [
+          {
+            "className": "",
+            "subclass": "",
+            "level": 1
+          },
           {
             "className": "",
             "subclass": "",
@@ -199,13 +204,13 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1783969015400
+        "lastModified": 1783969065965
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1783969016102,
-    "totalLevel": 1,
+    "generatedAt": 1783969066667,
+    "totalLevel": 2,
     "hp": {
       "max": 0
     },
@@ -289,10 +294,10 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 20,
+  "_divineCacheRev": 21,
   "_divine": {
-    "generatedAt": 1783969016102,
-    "totalLevel": 1,
+    "generatedAt": 1783969066667,
+    "totalLevel": 2,
     "hp": {
       "max": 0
     },
@@ -376,5 +381,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 20
+  "_rev": 21
 }
