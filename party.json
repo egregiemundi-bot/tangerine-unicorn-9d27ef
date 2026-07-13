@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-13T17:26:25.825Z",
+  "updatedAt": "2026-07-13T17:27:08.829Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -339,7 +339,7 @@
     "bud-turtlefoot": [],
     "ayeluna-lou": [
       {
-        "name": "",
+        "name": "Wand of Frank",
         "type": "Type / Rarity",
         "img": "",
         "stats": [
