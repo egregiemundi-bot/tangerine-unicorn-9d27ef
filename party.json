@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-13T17:25:42.763Z",
+  "updatedAt": "2026-07-13T17:25:50.703Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -335,20 +335,7 @@
       }
     ],
     "sibyl-eirlynn": [],
-    "zacharia-horn-axe": [
-      {
-        "name": "New Item",
-        "type": "Type / Rarity",
-        "img": "",
-        "stats": [
-          {
-            "k": "Property",
-            "v": "Description"
-          }
-        ],
-        "abilities": []
-      }
-    ],
+    "zacharia-horn-axe": [],
     "bud-turtlefoot": [],
     "ayeluna-lou": [],
     "kena-price": [
