@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-13T17:27:19.071Z",
+  "updatedAt": "2026-07-13T17:31:16.494Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -337,20 +337,7 @@
     "sibyl-eirlynn": [],
     "zacharia-horn-axe": [],
     "bud-turtlefoot": [],
-    "ayeluna-lou": [
-      {
-        "name": "Wand of Frank",
-        "type": "Test test ",
-        "img": "",
-        "stats": [
-          {
-            "k": "Property",
-            "v": "Description"
-          }
-        ],
-        "abilities": []
-      }
-    ],
+    "ayeluna-lou": [],
     "kena-price": [
       {
         "name": "Irven's rose shield",
