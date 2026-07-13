@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-13T19:02:27.357Z",
+  "updatedAt": "2026-07-13T19:02:40.925Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -142,12 +142,22 @@
         "name": "Knights of Solamnia",
         "tag": "knights",
         "status": "Active"
+      },
+      {
+        "id": "mages-of-high-sorcery",
+        "name": "Mages of High Sorcery",
+        "tag": "Faction",
+        "status": "Active"
       }
     ],
     "positions": {
       "knights": {
         "x": 505,
         "y": 192
+      },
+      "mages-of-high-sorcery": {
+        "x": 614.9234062749856,
+        "y": 260.960008783802
       }
     },
     "edges": []
