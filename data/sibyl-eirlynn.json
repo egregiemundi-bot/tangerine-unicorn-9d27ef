@@ -138,7 +138,7 @@
         "species": "Human",
         "classes": [
           {
-            "className": "",
+            "className": "Monk",
             "subclass": "",
             "level": 1
           }
@@ -199,12 +199,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1783969070553
+        "lastModified": 1783969073727
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1783969071254,
+    "generatedAt": 1783969074429,
     "totalLevel": 1,
     "hp": {
       "max": 0
@@ -218,7 +218,16 @@
       "wis": 10,
       "cha": 10
     },
-    "classes": [],
+    "classes": [
+      {
+        "className": "Monk",
+        "levels": 1,
+        "subclasses": [],
+        "planets": [
+          "Character Sheet"
+        ]
+      }
+    ],
     "subclasses": [],
     "features": [],
     "actions": [],
@@ -269,7 +278,7 @@
     "asi": [],
     "counts": {
       "planets": 1,
-      "classes": 0,
+      "classes": 1,
       "subclasses": 0,
       "features": 0,
       "actions": 0,
@@ -289,9 +298,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 22,
+  "_divineCacheRev": 29,
   "_divine": {
-    "generatedAt": 1783969071254,
+    "generatedAt": 1783969074429,
     "totalLevel": 1,
     "hp": {
       "max": 0
@@ -305,7 +314,16 @@
       "wis": 10,
       "cha": 10
     },
-    "classes": [],
+    "classes": [
+      {
+        "className": "Monk",
+        "levels": 1,
+        "subclasses": [],
+        "planets": [
+          "Character Sheet"
+        ]
+      }
+    ],
     "subclasses": [],
     "features": [],
     "actions": [],
@@ -356,7 +374,7 @@
     "asi": [],
     "counts": {
       "planets": 1,
-      "classes": 0,
+      "classes": 1,
       "subclasses": 0,
       "features": 0,
       "actions": 0,
@@ -376,5 +394,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 22
+  "_rev": 29
 }
