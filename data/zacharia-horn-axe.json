@@ -138,7 +138,7 @@
         "species": "",
         "classes": [
           {
-            "className": "",
+            "className": "Cleric",
             "subclass": "",
             "level": 1
           }
@@ -199,12 +199,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1783969168760
+        "lastModified": 1783969184531
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1783969169461,
+    "generatedAt": 1783969185233,
     "totalLevel": 1,
     "hp": {
       "max": 0
@@ -218,7 +218,16 @@
       "wis": 10,
       "cha": 10
     },
-    "classes": [],
+    "classes": [
+      {
+        "className": "Cleric",
+        "levels": 1,
+        "subclasses": [],
+        "planets": [
+          "Character Sheet"
+        ]
+      }
+    ],
     "subclasses": [],
     "features": [],
     "actions": [],
@@ -269,7 +278,7 @@
     "asi": [],
     "counts": {
       "planets": 1,
-      "classes": 0,
+      "classes": 1,
       "subclasses": 0,
       "features": 0,
       "actions": 0,
@@ -289,9 +298,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 21,
+  "_divineCacheRev": 28,
   "_divine": {
-    "generatedAt": 1783969169461,
+    "generatedAt": 1783969185233,
     "totalLevel": 1,
     "hp": {
       "max": 0
@@ -305,7 +314,16 @@
       "wis": 10,
       "cha": 10
     },
-    "classes": [],
+    "classes": [
+      {
+        "className": "Cleric",
+        "levels": 1,
+        "subclasses": [],
+        "planets": [
+          "Character Sheet"
+        ]
+      }
+    ],
     "subclasses": [],
     "features": [],
     "actions": [],
@@ -356,7 +374,7 @@
     "asi": [],
     "counts": {
       "planets": 1,
-      "classes": 0,
+      "classes": 1,
       "subclasses": 0,
       "features": 0,
       "actions": 0,
@@ -376,5 +394,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 21
+  "_rev": 28
 }
