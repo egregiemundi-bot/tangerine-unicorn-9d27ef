@@ -1,14 +1,6 @@
 {
   "maps": [
     {
-      "id": "krynn",
-      "name": "Krynn",
-      "image": "uploads/maps/Krynn.png",
-      "width": 0,
-      "height": 0,
-      "pins": []
-    },
-    {
       "id": "krynn-1",
       "name": "Krynn 1",
       "image": "uploads/home/Krynn.jpg",
@@ -19,22 +11,6 @@
     {
       "id": "krynn-test",
       "name": "Krynn Test",
-      "image": "uploads/home/Krynn.jpg",
-      "width": 0,
-      "height": 0,
-      "pins": []
-    },
-    {
-      "id": "krynn",
-      "name": "Krynn",
-      "image": "Krynn.jpg",
-      "width": 0,
-      "height": 0,
-      "pins": []
-    },
-    {
-      "id": "krynn",
-      "name": "krynn",
       "image": "uploads/home/Krynn.jpg",
       "width": 0,
       "height": 0,
