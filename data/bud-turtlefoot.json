@@ -276,7 +276,7 @@
           }
         ],
         "hp": {
-          "max": 0,
+          "max": 15,
           "current": 0,
           "temp": 0
         },
@@ -309,15 +309,15 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784067955690
+        "lastModified": 1784067959081
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784067956392,
+    "generatedAt": 1784067959783,
     "totalLevel": 2,
     "hp": {
-      "max": 0
+      "max": 15
     },
     "proficiencyBonus": 2,
     "peakAbilityScores": {
@@ -446,12 +446,12 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 19,
+  "_divineCacheRev": 21,
   "_divine": {
-    "generatedAt": 1784067956392,
+    "generatedAt": 1784067959783,
     "totalLevel": 2,
     "hp": {
-      "max": 0
+      "max": 15
     },
     "proficiencyBonus": 2,
     "peakAbilityScores": {
@@ -580,5 +580,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 19
+  "_rev": 21
 }
