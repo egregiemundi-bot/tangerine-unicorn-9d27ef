@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-14T11:22:46.156Z",
+  "updatedAt": "2026-07-14T11:22:53.500Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -366,7 +366,7 @@
     ],
     "sibyl-eirlynn": [
       {
-        "name": "New Item",
+        "name": "new item test",
         "type": "Type / Rarity",
         "img": "",
         "stats": [
