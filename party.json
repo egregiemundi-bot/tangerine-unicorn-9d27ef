@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-14T11:23:11.947Z",
+  "updatedAt": "2026-07-14T11:23:16.632Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -380,13 +380,13 @@
     ],
     "zacharia-horn-axe": [
       {
-        "name": "New Item",
+        "name": "new item test",
         "type": "Type / Rarity",
         "img": "",
         "stats": [
           {
             "k": "Property",
-            "v": "Description"
+            "v": "new item test"
           }
         ],
         "abilities": []
