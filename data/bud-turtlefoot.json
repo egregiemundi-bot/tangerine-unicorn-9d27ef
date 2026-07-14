@@ -362,7 +362,7 @@
             "name": "Tasha's Hideous Laughter",
             "level": -1,
             "school": "Enchantment",
-            "castingTime": "",
+            "castingTime": "Action",
             "range": "",
             "components": "",
             "duration": "",
@@ -397,12 +397,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784068449314
+        "lastModified": 1784068450944
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784068450029,
+    "generatedAt": 1784068451659,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -501,7 +501,7 @@
         "name": "Tasha's Hideous Laughter",
         "level": -1,
         "school": "Enchantment",
-        "castingTime": "",
+        "castingTime": "Action",
         "range": "",
         "components": "",
         "duration": "",
@@ -596,7 +596,7 @@
           "name": "Tasha's Hideous Laughter",
           "level": -1,
           "school": "Enchantment",
-          "castingTime": "",
+          "castingTime": "Action",
           "range": "",
           "components": "",
           "duration": "",
@@ -698,9 +698,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 158,
+  "_divineCacheRev": 165,
   "_divine": {
-    "generatedAt": 1784068450029,
+    "generatedAt": 1784068451659,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -799,7 +799,7 @@
         "name": "Tasha's Hideous Laughter",
         "level": -1,
         "school": "Enchantment",
-        "castingTime": "",
+        "castingTime": "Action",
         "range": "",
         "components": "",
         "duration": "",
@@ -894,7 +894,7 @@
           "name": "Tasha's Hideous Laughter",
           "level": -1,
           "school": "Enchantment",
-          "castingTime": "",
+          "castingTime": "Action",
           "range": "",
           "components": "",
           "duration": "",
@@ -996,5 +996,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 158
+  "_rev": 165
 }
