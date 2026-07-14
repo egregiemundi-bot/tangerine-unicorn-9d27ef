@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-14T11:23:16.632Z",
+  "updatedAt": "2026-07-14T11:32:53.575Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -420,6 +420,14 @@
             "title": "Solara Republic",
             "text": "",
             "pageId": "c-solara-republic"
+          },
+          {
+            "id": "pmrkko2lf7hj",
+            "x": 24.3,
+            "y": 33.7,
+            "title": "fighting ring",
+            "text": "fighting ring",
+            "pageId": "c-fighting-ring"
           }
         ],
         "img": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/atlas-__main-1784027934075.jpg?v=1784027935936"
@@ -427,6 +435,12 @@
       "campaign-world": {
         "pins": [],
         "img": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/atlas-campaign-world-1783849346529.jpg?v=1783849348206"
+      },
+      "dangerous-region": {
+        "pins": []
+      },
+      "primary-city": {
+        "pins": []
       }
     }
   },
