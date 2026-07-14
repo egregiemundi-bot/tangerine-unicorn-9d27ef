@@ -249,7 +249,9 @@
           "wis": 13,
           "cha": 16
         },
-        "savingThrows": [],
+        "savingThrows": [
+          "dex"
+        ],
         "skills": [],
         "hp": {
           "max": 0,
@@ -285,12 +287,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784067777621
+        "lastModified": 1784067795358
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784067778325,
+    "generatedAt": 1784067796066,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -353,7 +355,9 @@
     "resources": [],
     "skills": [],
     "expertise": [],
-    "savingThrows": [],
+    "savingThrows": [
+      "dex"
+    ],
     "resistances": [],
     "immunities": [],
     "languages": [
@@ -378,7 +382,7 @@
       "resources": 0,
       "skills": 0,
       "expertise": 0,
-      "savingThrows": 0,
+      "savingThrows": 1,
       "languages": 1,
       "resistances": 0,
       "immunities": 0,
@@ -386,9 +390,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 8,
+  "_divineCacheRev": 9,
   "_divine": {
-    "generatedAt": 1784067778325,
+    "generatedAt": 1784067796066,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -451,7 +455,9 @@
     "resources": [],
     "skills": [],
     "expertise": [],
-    "savingThrows": [],
+    "savingThrows": [
+      "dex"
+    ],
     "resistances": [],
     "immunities": [],
     "languages": [
@@ -476,7 +482,7 @@
       "resources": 0,
       "skills": 0,
       "expertise": 0,
-      "savingThrows": 0,
+      "savingThrows": 1,
       "languages": 1,
       "resistances": 0,
       "immunities": 0,
@@ -484,5 +490,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 8
+  "_rev": 9
 }
