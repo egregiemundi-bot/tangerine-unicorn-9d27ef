@@ -343,7 +343,7 @@
             "level": -1,
             "school": "Divination",
             "castingTime": "1min/Ritual",
-            "range": "",
+            "range": "Touch",
             "components": "",
             "duration": "",
             "concentration": false,
@@ -377,12 +377,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784068381054
+        "lastModified": 1784068383445
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784068381757,
+    "generatedAt": 1784068384152,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -462,7 +462,7 @@
         "level": -1,
         "school": "Divination",
         "castingTime": "1min/Ritual",
-        "range": "",
+        "range": "Touch",
         "components": "",
         "duration": "",
         "concentration": false,
@@ -537,7 +537,7 @@
           "level": -1,
           "school": "Divination",
           "castingTime": "1min/Ritual",
-          "range": "",
+          "range": "Touch",
           "components": "",
           "duration": "",
           "concentration": false,
@@ -638,9 +638,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 100,
+  "_divineCacheRev": 105,
   "_divine": {
-    "generatedAt": 1784068381757,
+    "generatedAt": 1784068384152,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -720,7 +720,7 @@
         "level": -1,
         "school": "Divination",
         "castingTime": "1min/Ritual",
-        "range": "",
+        "range": "Touch",
         "components": "",
         "duration": "",
         "concentration": false,
@@ -795,7 +795,7 @@
           "level": -1,
           "school": "Divination",
           "castingTime": "1min/Ritual",
-          "range": "",
+          "range": "Touch",
           "components": "",
           "duration": "",
           "concentration": false,
@@ -896,5 +896,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 100
+  "_rev": 105
 }
