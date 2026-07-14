@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-14T18:04:18.648Z",
+  "updatedAt": "2026-07-14T18:04:51.772Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -412,24 +412,7 @@
   "atlas": {
     "worlds": {
       "__main": {
-        "pins": [
-          {
-            "id": "pmrhlt9cl7kt",
-            "x": 58.5,
-            "y": 63.7,
-            "title": "Solara Republic",
-            "text": "",
-            "pageId": "c-solara-republic"
-          },
-          {
-            "id": "pmrkko2lf7hj",
-            "x": 24.3,
-            "y": 33.7,
-            "title": "fighting ring",
-            "text": "fighting ring",
-            "pageId": "c-fighting-ring"
-          }
-        ]
+        "pins": []
       },
       "campaign-world": {
         "pins": [],
