@@ -253,7 +253,13 @@
           "dex",
           "cha"
         ],
-        "skills": [],
+        "skills": [
+          {
+            "name": "Persuasion",
+            "proficient": true,
+            "expertise": false
+          }
+        ],
         "hp": {
           "max": 0,
           "current": 0,
@@ -288,12 +294,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784067798620
+        "lastModified": 1784067925714
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784067799323,
+    "generatedAt": 1784067926416,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -354,7 +360,16 @@
     "spellSaveDC": 13,
     "spellAttackBonus": 5,
     "resources": [],
-    "skills": [],
+    "skills": [
+      {
+        "name": "Persuasion",
+        "proficient": true,
+        "expertise": false,
+        "sources": [
+          "Bud's Character Sheet"
+        ]
+      }
+    ],
     "expertise": [],
     "savingThrows": [
       "dex",
@@ -382,7 +397,7 @@
       "spells": 0,
       "cantrips": 0,
       "resources": 0,
-      "skills": 0,
+      "skills": 1,
       "expertise": 0,
       "savingThrows": 2,
       "languages": 1,
@@ -392,9 +407,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 10,
+  "_divineCacheRev": 11,
   "_divine": {
-    "generatedAt": 1784067799323,
+    "generatedAt": 1784067926416,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -455,7 +470,16 @@
     "spellSaveDC": 13,
     "spellAttackBonus": 5,
     "resources": [],
-    "skills": [],
+    "skills": [
+      {
+        "name": "Persuasion",
+        "proficient": true,
+        "expertise": false,
+        "sources": [
+          "Bud's Character Sheet"
+        ]
+      }
+    ],
     "expertise": [],
     "savingThrows": [
       "dex",
@@ -483,7 +507,7 @@
       "spells": 0,
       "cantrips": 0,
       "resources": 0,
-      "skills": 0,
+      "skills": 1,
       "expertise": 0,
       "savingThrows": 2,
       "languages": 1,
@@ -493,5 +517,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 10
+  "_rev": 11
 }
