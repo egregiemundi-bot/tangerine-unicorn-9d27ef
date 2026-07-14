@@ -257,7 +257,7 @@
           {
             "name": "Persuasion",
             "proficient": true,
-            "expertise": true
+            "expertise": false
           },
           {
             "name": "Performance",
@@ -299,12 +299,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784067931286
+        "lastModified": 1784067932723
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784067931995,
+    "generatedAt": 1784067933423,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -369,7 +369,7 @@
       {
         "name": "Persuasion",
         "proficient": true,
-        "expertise": true,
+        "expertise": false,
         "sources": [
           "Bud's Character Sheet"
         ]
@@ -383,16 +383,7 @@
         ]
       }
     ],
-    "expertise": [
-      {
-        "name": "Persuasion",
-        "proficient": true,
-        "expertise": true,
-        "sources": [
-          "Bud's Character Sheet"
-        ]
-      }
-    ],
+    "expertise": [],
     "savingThrows": [
       "dex",
       "cha"
@@ -420,7 +411,7 @@
       "cantrips": 0,
       "resources": 0,
       "skills": 2,
-      "expertise": 1,
+      "expertise": 0,
       "savingThrows": 2,
       "languages": 1,
       "resistances": 0,
@@ -429,9 +420,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 13,
+  "_divineCacheRev": 15,
   "_divine": {
-    "generatedAt": 1784067931995,
+    "generatedAt": 1784067933423,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -496,7 +487,7 @@
       {
         "name": "Persuasion",
         "proficient": true,
-        "expertise": true,
+        "expertise": false,
         "sources": [
           "Bud's Character Sheet"
         ]
@@ -510,16 +501,7 @@
         ]
       }
     ],
-    "expertise": [
-      {
-        "name": "Persuasion",
-        "proficient": true,
-        "expertise": true,
-        "sources": [
-          "Bud's Character Sheet"
-        ]
-      }
-    ],
+    "expertise": [],
     "savingThrows": [
       "dex",
       "cha"
@@ -547,7 +529,7 @@
       "cantrips": 0,
       "resources": 0,
       "skills": 2,
-      "expertise": 1,
+      "expertise": 0,
       "savingThrows": 2,
       "languages": 1,
       "resistances": 0,
@@ -556,5 +538,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 13
+  "_rev": 15
 }
