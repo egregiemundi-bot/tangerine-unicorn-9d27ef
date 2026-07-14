@@ -257,6 +257,11 @@
           {
             "name": "Persuasion",
             "proficient": true,
+            "expertise": true
+          },
+          {
+            "name": "Performance",
+            "proficient": true,
             "expertise": false
           }
         ],
@@ -294,12 +299,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784067925714
+        "lastModified": 1784067931286
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784067926416,
+    "generatedAt": 1784067931995,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -364,13 +369,30 @@
       {
         "name": "Persuasion",
         "proficient": true,
+        "expertise": true,
+        "sources": [
+          "Bud's Character Sheet"
+        ]
+      },
+      {
+        "name": "Performance",
+        "proficient": true,
         "expertise": false,
         "sources": [
           "Bud's Character Sheet"
         ]
       }
     ],
-    "expertise": [],
+    "expertise": [
+      {
+        "name": "Persuasion",
+        "proficient": true,
+        "expertise": true,
+        "sources": [
+          "Bud's Character Sheet"
+        ]
+      }
+    ],
     "savingThrows": [
       "dex",
       "cha"
@@ -397,8 +419,8 @@
       "spells": 0,
       "cantrips": 0,
       "resources": 0,
-      "skills": 1,
-      "expertise": 0,
+      "skills": 2,
+      "expertise": 1,
       "savingThrows": 2,
       "languages": 1,
       "resistances": 0,
@@ -407,9 +429,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 11,
+  "_divineCacheRev": 13,
   "_divine": {
-    "generatedAt": 1784067926416,
+    "generatedAt": 1784067931995,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -474,13 +496,30 @@
       {
         "name": "Persuasion",
         "proficient": true,
+        "expertise": true,
+        "sources": [
+          "Bud's Character Sheet"
+        ]
+      },
+      {
+        "name": "Performance",
+        "proficient": true,
         "expertise": false,
         "sources": [
           "Bud's Character Sheet"
         ]
       }
     ],
-    "expertise": [],
+    "expertise": [
+      {
+        "name": "Persuasion",
+        "proficient": true,
+        "expertise": true,
+        "sources": [
+          "Bud's Character Sheet"
+        ]
+      }
+    ],
     "savingThrows": [
       "dex",
       "cha"
@@ -507,8 +546,8 @@
       "spells": 0,
       "cantrips": 0,
       "resources": 0,
-      "skills": 1,
-      "expertise": 0,
+      "skills": 2,
+      "expertise": 1,
       "savingThrows": 2,
       "languages": 1,
       "resistances": 0,
@@ -517,5 +556,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 11
+  "_rev": 13
 }
