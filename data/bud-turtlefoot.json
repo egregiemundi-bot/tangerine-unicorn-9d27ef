@@ -229,7 +229,7 @@
         ],
         "spellcasting": [
           {
-            "className": "",
+            "className": "bard",
             "ability": "int"
           }
         ],
@@ -314,12 +314,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784068001204
+        "lastModified": 1784068003470
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784068001905,
+    "generatedAt": 1784068004170,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -451,9 +451,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 43,
+  "_divineCacheRev": 47,
   "_divine": {
-    "generatedAt": 1784068001905,
+    "generatedAt": 1784068004170,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -585,5 +585,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 43
+  "_rev": 47
 }
