@@ -1,12 +1,3 @@
 {
-  "maps": [
-    {
-      "id": "krynn",
-      "name": "Krynn",
-      "image": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/maps/atlas-1784052217507.jpg?v=1784052219952",
-      "width": 3592,
-      "height": 1832,
-      "pins": []
-    }
-  ]
+  "maps": []
 }
