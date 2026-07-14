@@ -390,7 +390,7 @@
             "recharge": "at-will",
             "usesMax": 0,
             "usesCurrent": 0,
-            "description": "",
+            "description": "You can add half your Proficiency Bonus (round down) to any ability check you make that uses a skill proficiency you lack and that doesn't otherwise use your Proficiency Bonus.\n\nFor example, if you make a Strength (Athletics) check and lack Athletics proficiency, you can add half your Proficiency Bonus to the check.",
             "tags": [],
             "damageType": "",
             "healing": false,
@@ -417,12 +417,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784068743808
+        "lastModified": 1784068754286
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784068744522,
+    "generatedAt": 1784068754987,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -459,7 +459,7 @@
         "recharge": "at-will",
         "usesMax": 0,
         "usesCurrent": 0,
-        "description": "",
+        "description": "You can add half your Proficiency Bonus (round down) to any ability check you make that uses a skill proficiency you lack and that doesn't otherwise use your Proficiency Bonus.\n\nFor example, if you make a Strength (Athletics) check and lack Athletics proficiency, you can add half your Proficiency Bonus to the check.",
         "tags": [],
         "damageType": "",
         "healing": false,
@@ -484,7 +484,7 @@
         "recharge": "at-will",
         "usesMax": 0,
         "usesCurrent": 0,
-        "description": "",
+        "description": "You can add half your Proficiency Bonus (round down) to any ability check you make that uses a skill proficiency you lack and that doesn't otherwise use your Proficiency Bonus.\n\nFor example, if you make a Strength (Athletics) check and lack Athletics proficiency, you can add half your Proficiency Bonus to the check.",
         "tags": [],
         "damageType": "",
         "healing": false,
@@ -760,9 +760,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 204,
+  "_divineCacheRev": 205,
   "_divine": {
-    "generatedAt": 1784068744522,
+    "generatedAt": 1784068754987,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -799,7 +799,7 @@
         "recharge": "at-will",
         "usesMax": 0,
         "usesCurrent": 0,
-        "description": "",
+        "description": "You can add half your Proficiency Bonus (round down) to any ability check you make that uses a skill proficiency you lack and that doesn't otherwise use your Proficiency Bonus.\n\nFor example, if you make a Strength (Athletics) check and lack Athletics proficiency, you can add half your Proficiency Bonus to the check.",
         "tags": [],
         "damageType": "",
         "healing": false,
@@ -824,7 +824,7 @@
         "recharge": "at-will",
         "usesMax": 0,
         "usesCurrent": 0,
-        "description": "",
+        "description": "You can add half your Proficiency Bonus (round down) to any ability check you make that uses a skill proficiency you lack and that doesn't otherwise use your Proficiency Bonus.\n\nFor example, if you make a Strength (Athletics) check and lack Athletics proficiency, you can add half your Proficiency Bonus to the check.",
         "tags": [],
         "damageType": "",
         "healing": false,
@@ -1100,5 +1100,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 204
+  "_rev": 205
 }
