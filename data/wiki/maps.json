@@ -31,6 +31,14 @@
       "width": 0,
       "height": 0,
       "pins": []
+    },
+    {
+      "id": "krynn",
+      "name": "krynn",
+      "image": "uploads/home/Krynn.jpg",
+      "width": 0,
+      "height": 0,
+      "pins": []
     }
   ]
 }
