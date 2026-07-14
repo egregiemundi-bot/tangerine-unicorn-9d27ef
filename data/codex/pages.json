@@ -6,14 +6,9 @@
       "parent": "sealed-gods"
     },
     {
-      "id": "c-solara-republic",
-      "title": "Ansalon",
-      "parent": "atlas"
-    },
-    {
       "id": "c-solamnia",
       "title": "Solamnia",
-      "parent": "c-solara-republic"
+      "parent": "atlas"
     },
     {
       "id": "c-ispin-greenshield",
@@ -38,5 +33,5 @@
     "fallen",
     "atlas"
   ],
-  "updatedAt": "2026-07-14T11:52:57.079Z"
+  "updatedAt": "2026-07-14T18:05:29.580Z"
 }
