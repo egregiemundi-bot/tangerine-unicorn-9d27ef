@@ -263,6 +263,11 @@
             "name": "Performance",
             "proficient": true,
             "expertise": false
+          },
+          {
+            "name": "Investigation",
+            "proficient": true,
+            "expertise": false
           }
         ],
         "hp": {
@@ -299,12 +304,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784067932723
+        "lastModified": 1784067938634
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784067933423,
+    "generatedAt": 1784067939341,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -381,6 +386,14 @@
         "sources": [
           "Bud's Character Sheet"
         ]
+      },
+      {
+        "name": "Investigation",
+        "proficient": true,
+        "expertise": false,
+        "sources": [
+          "Bud's Character Sheet"
+        ]
       }
     ],
     "expertise": [],
@@ -410,7 +423,7 @@
       "spells": 0,
       "cantrips": 0,
       "resources": 0,
-      "skills": 2,
+      "skills": 3,
       "expertise": 0,
       "savingThrows": 2,
       "languages": 1,
@@ -420,9 +433,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 15,
+  "_divineCacheRev": 16,
   "_divine": {
-    "generatedAt": 1784067933423,
+    "generatedAt": 1784067939341,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -499,6 +512,14 @@
         "sources": [
           "Bud's Character Sheet"
         ]
+      },
+      {
+        "name": "Investigation",
+        "proficient": true,
+        "expertise": false,
+        "sources": [
+          "Bud's Character Sheet"
+        ]
       }
     ],
     "expertise": [],
@@ -528,7 +549,7 @@
       "spells": 0,
       "cantrips": 0,
       "resources": 0,
-      "skills": 2,
+      "skills": 3,
       "expertise": 0,
       "savingThrows": 2,
       "languages": 1,
@@ -538,5 +559,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 15
+  "_rev": 16
 }
