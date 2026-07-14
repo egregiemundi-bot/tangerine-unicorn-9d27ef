@@ -19,11 +19,6 @@
       "id": "c-ispin-greenshield",
       "title": "Ispin Greenshield",
       "parent": "npcs"
-    },
-    {
-      "id": "c-goblin",
-      "title": "Goblin",
-      "parent": "constructs"
     }
   ],
   "overrides": [
@@ -36,5 +31,5 @@
     "dragons",
     "constructs"
   ],
-  "updatedAt": "2026-07-14T11:27:09.841Z"
+  "updatedAt": "2026-07-14T11:28:47.297Z"
 }
