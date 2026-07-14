@@ -1,12 +1,3 @@
 {
-  "maps": [
-    {
-      "id": "test-image-upload",
-      "name": "test image upload",
-      "image": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/maps/atlas-1784030405042.jpg?v=1784030408591",
-      "width": 4000,
-      "height": 3000,
-      "pins": []
-    }
-  ]
+  "maps": []
 }
