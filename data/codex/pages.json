@@ -11,11 +11,6 @@
       "parent": "atlas"
     },
     {
-      "id": "c-ispin-greenshield",
-      "title": "Ispin Greenshield",
-      "parent": "npcs"
-    },
-    {
       "id": "c-fighting-ring",
       "title": "fighting ring",
       "parent": "atlas"
@@ -33,5 +28,5 @@
     "fallen",
     "atlas"
   ],
-  "updatedAt": "2026-07-14T18:05:29.580Z"
+  "updatedAt": "2026-07-14T18:24:31.606Z"
 }
