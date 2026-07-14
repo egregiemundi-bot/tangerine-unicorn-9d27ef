@@ -381,7 +381,7 @@
         "features": [
           {
             "id": "feat_mrl8gl8p_75m0bue",
-            "name": "",
+            "name": "Jack of All Trades",
             "level": 1,
             "className": "",
             "subclass": "",
@@ -417,12 +417,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784068733834
+        "lastModified": 1784068741412
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784068734535,
+    "generatedAt": 1784068742124,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -450,7 +450,7 @@
     "features": [
       {
         "id": "feat_mrl8gl8p_75m0bue",
-        "name": "",
+        "name": "Jack of All Trades",
         "level": 1,
         "className": "",
         "subclass": "",
@@ -475,7 +475,7 @@
     "passives": [
       {
         "id": "feat_mrl8gl8p_75m0bue",
-        "name": "",
+        "name": "Jack of All Trades",
         "level": 1,
         "className": "",
         "subclass": "",
@@ -760,9 +760,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 179,
+  "_divineCacheRev": 203,
   "_divine": {
-    "generatedAt": 1784068734535,
+    "generatedAt": 1784068742124,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -790,7 +790,7 @@
     "features": [
       {
         "id": "feat_mrl8gl8p_75m0bue",
-        "name": "",
+        "name": "Jack of All Trades",
         "level": 1,
         "className": "",
         "subclass": "",
@@ -815,7 +815,7 @@
     "passives": [
       {
         "id": "feat_mrl8gl8p_75m0bue",
-        "name": "",
+        "name": "Jack of All Trades",
         "level": 1,
         "className": "",
         "subclass": "",
@@ -1100,5 +1100,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 179
+  "_rev": 203
 }
