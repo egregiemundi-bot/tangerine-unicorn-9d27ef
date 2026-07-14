@@ -234,7 +234,7 @@
           }
         ],
         "spellSlots": {
-          "1": 0,
+          "1": 3,
           "2": 0,
           "3": 0,
           "4": 0,
@@ -314,12 +314,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784068029130
+        "lastModified": 1784068043450
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784068029834,
+    "generatedAt": 1784068044160,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -367,7 +367,7 @@
       "unassigned": []
     },
     "spellSlots": {
-      "1": 0,
+      "1": 3,
       "2": 0,
       "3": 0,
       "4": 0,
@@ -451,9 +451,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 55,
+  "_divineCacheRev": 61,
   "_divine": {
-    "generatedAt": 1784068029834,
+    "generatedAt": 1784068044160,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -501,7 +501,7 @@
       "unassigned": []
     },
     "spellSlots": {
-      "1": 0,
+      "1": 3,
       "2": 0,
       "3": 0,
       "4": 0,
@@ -585,5 +585,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 55
+  "_rev": 61
 }
