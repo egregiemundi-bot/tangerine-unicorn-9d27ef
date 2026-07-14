@@ -359,7 +359,7 @@
           },
           {
             "id": "spell_mrl89zem_6hqp4ki",
-            "name": "",
+            "name": "Tash",
             "level": -1,
             "school": "",
             "castingTime": "",
@@ -397,12 +397,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784068425599
+        "lastModified": 1784068427425
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784068426303,
+    "generatedAt": 1784068428133,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -498,7 +498,7 @@
       },
       {
         "id": "spell_mrl89zem_6hqp4ki",
-        "name": "",
+        "name": "Tash",
         "level": -1,
         "school": "",
         "castingTime": "",
@@ -593,7 +593,7 @@
         },
         {
           "id": "spell_mrl89zem_6hqp4ki",
-          "name": "",
+          "name": "Tash",
           "level": -1,
           "school": "",
           "castingTime": "",
@@ -698,9 +698,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 107,
+  "_divineCacheRev": 111,
   "_divine": {
-    "generatedAt": 1784068426303,
+    "generatedAt": 1784068428133,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -796,7 +796,7 @@
       },
       {
         "id": "spell_mrl89zem_6hqp4ki",
-        "name": "",
+        "name": "Tash",
         "level": -1,
         "school": "",
         "castingTime": "",
@@ -891,7 +891,7 @@
         },
         {
           "id": "spell_mrl89zem_6hqp4ki",
-          "name": "",
+          "name": "Tash",
           "level": -1,
           "school": "",
           "castingTime": "",
@@ -996,5 +996,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 107
+  "_rev": 111
 }
