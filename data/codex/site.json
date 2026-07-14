@@ -15,8 +15,8 @@
     "surface": "#241a11",
     "text": "#f2e4c8",
     "mode": "neutral-fantasy",
-    "pageBg": "#62501e",
-    "panelBg": "",
+    "pageBg": "",
+    "panelBg": "#9b1212",
     "textHeading": "",
     "textBody": "",
     "textMuted": "",
@@ -132,7 +132,7 @@
     }
   ],
   "productVersion": "1.0 Foundation",
-  "updatedAt": "2026-07-14T11:38:30.820Z",
+  "updatedAt": "2026-07-14T11:38:48.103Z",
   "backgroundImage": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/1784027710163-wallpapersden.com-k-cool-2020-art-3840x2160.jpg?v=1784027711120",
   "heroImage": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/1784029073282-images-1-.jpg?v=1784029073670"
 }
