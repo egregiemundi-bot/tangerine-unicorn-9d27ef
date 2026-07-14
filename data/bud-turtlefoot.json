@@ -342,7 +342,7 @@
             "name": "Identify",
             "level": -1,
             "school": "Divination",
-            "castingTime": "",
+            "castingTime": "Ritual",
             "range": "",
             "components": "",
             "duration": "",
@@ -377,12 +377,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784068368417
+        "lastModified": 1784068373384
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784068369132,
+    "generatedAt": 1784068374087,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -461,7 +461,7 @@
         "name": "Identify",
         "level": -1,
         "school": "Divination",
-        "castingTime": "",
+        "castingTime": "Ritual",
         "range": "",
         "components": "",
         "duration": "",
@@ -536,7 +536,7 @@
           "name": "Identify",
           "level": -1,
           "school": "Divination",
-          "castingTime": "",
+          "castingTime": "Ritual",
           "range": "",
           "components": "",
           "duration": "",
@@ -638,9 +638,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 88,
+  "_divineCacheRev": 94,
   "_divine": {
-    "generatedAt": 1784068369132,
+    "generatedAt": 1784068374087,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -719,7 +719,7 @@
         "name": "Identify",
         "level": -1,
         "school": "Divination",
-        "castingTime": "",
+        "castingTime": "Ritual",
         "range": "",
         "components": "",
         "duration": "",
@@ -794,7 +794,7 @@
           "name": "Identify",
           "level": -1,
           "school": "Divination",
-          "castingTime": "",
+          "castingTime": "Ritual",
           "range": "",
           "components": "",
           "duration": "",
@@ -896,5 +896,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 88
+  "_rev": 94
 }
