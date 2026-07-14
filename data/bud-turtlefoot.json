@@ -210,7 +210,7 @@
         "registryId": "main_character",
         "index": 1,
         "name": "Entertainer",
-        "planetName": "Character Sheet",
+        "planetName": "Bud's Character Sheet",
         "planetImage": "",
         "status": "active",
         "level": 2,
@@ -285,26 +285,35 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 0
+        "lastModified": 1784067774680
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784067463603,
-    "totalLevel": 1,
+    "generatedAt": 1784067775382,
+    "totalLevel": 2,
     "hp": {
       "max": 0
     },
     "proficiencyBonus": 2,
     "peakAbilityScores": {
       "str": 10,
-      "dex": 10,
-      "con": 10,
+      "dex": 16,
+      "con": 12,
       "int": 10,
-      "wis": 10,
-      "cha": 10
+      "wis": 13,
+      "cha": 16
     },
-    "classes": [],
+    "classes": [
+      {
+        "className": "Bard",
+        "levels": 2,
+        "subclasses": [],
+        "planets": [
+          "Bud's Character Sheet"
+        ]
+      }
+    ],
     "subclasses": [],
     "features": [],
     "actions": [],
@@ -339,15 +348,17 @@
       "8": 0,
       "9": 0
     },
-    "spellSaveDC": 10,
-    "spellAttackBonus": 2,
+    "spellSaveDC": 13,
+    "spellAttackBonus": 5,
     "resources": [],
     "skills": [],
     "expertise": [],
     "savingThrows": [],
     "resistances": [],
     "immunities": [],
-    "languages": [],
+    "languages": [
+      "C R M"
+    ],
     "weaponProfs": [],
     "toolProfs": [],
     "feats": [],
@@ -355,7 +366,7 @@
     "asi": [],
     "counts": {
       "planets": 1,
-      "classes": 0,
+      "classes": 1,
       "subclasses": 0,
       "features": 0,
       "actions": 0,
@@ -368,30 +379,39 @@
       "skills": 0,
       "expertise": 0,
       "savingThrows": 0,
-      "languages": 0,
+      "languages": 1,
       "resistances": 0,
       "immunities": 0,
       "feats": 0,
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 0,
+  "_divineCacheRev": 7,
   "_divine": {
-    "generatedAt": 1784067463603,
-    "totalLevel": 1,
+    "generatedAt": 1784067775382,
+    "totalLevel": 2,
     "hp": {
       "max": 0
     },
     "proficiencyBonus": 2,
     "peakAbilityScores": {
       "str": 10,
-      "dex": 10,
-      "con": 10,
+      "dex": 16,
+      "con": 12,
       "int": 10,
-      "wis": 10,
-      "cha": 10
+      "wis": 13,
+      "cha": 16
     },
-    "classes": [],
+    "classes": [
+      {
+        "className": "Bard",
+        "levels": 2,
+        "subclasses": [],
+        "planets": [
+          "Bud's Character Sheet"
+        ]
+      }
+    ],
     "subclasses": [],
     "features": [],
     "actions": [],
@@ -426,15 +446,17 @@
       "8": 0,
       "9": 0
     },
-    "spellSaveDC": 10,
-    "spellAttackBonus": 2,
+    "spellSaveDC": 13,
+    "spellAttackBonus": 5,
     "resources": [],
     "skills": [],
     "expertise": [],
     "savingThrows": [],
     "resistances": [],
     "immunities": [],
-    "languages": [],
+    "languages": [
+      "C R M"
+    ],
     "weaponProfs": [],
     "toolProfs": [],
     "feats": [],
@@ -442,7 +464,7 @@
     "asi": [],
     "counts": {
       "planets": 1,
-      "classes": 0,
+      "classes": 1,
       "subclasses": 0,
       "features": 0,
       "actions": 0,
@@ -455,12 +477,12 @@
       "skills": 0,
       "expertise": 0,
       "savingThrows": 0,
-      "languages": 0,
+      "languages": 1,
       "resistances": 0,
       "immunities": 0,
       "feats": 0,
       "epicBoons": 0
     }
   },
-  "_rev": 1
+  "_rev": 7
 }
