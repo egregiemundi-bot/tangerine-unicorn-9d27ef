@@ -361,7 +361,7 @@
             "id": "spell_mrl89zem_6hqp4ki",
             "name": "Tasha's Hideous Laughter",
             "level": -1,
-            "school": "",
+            "school": "Enchantment",
             "castingTime": "",
             "range": "",
             "components": "",
@@ -397,12 +397,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784068438268
+        "lastModified": 1784068441789
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784068438979,
+    "generatedAt": 1784068442491,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -500,7 +500,7 @@
         "id": "spell_mrl89zem_6hqp4ki",
         "name": "Tasha's Hideous Laughter",
         "level": -1,
-        "school": "",
+        "school": "Enchantment",
         "castingTime": "",
         "range": "",
         "components": "",
@@ -595,7 +595,7 @@
           "id": "spell_mrl89zem_6hqp4ki",
           "name": "Tasha's Hideous Laughter",
           "level": -1,
-          "school": "",
+          "school": "Enchantment",
           "castingTime": "",
           "range": "",
           "components": "",
@@ -698,9 +698,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 138,
+  "_divineCacheRev": 150,
   "_divine": {
-    "generatedAt": 1784068438979,
+    "generatedAt": 1784068442491,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -798,7 +798,7 @@
         "id": "spell_mrl89zem_6hqp4ki",
         "name": "Tasha's Hideous Laughter",
         "level": -1,
-        "school": "",
+        "school": "Enchantment",
         "castingTime": "",
         "range": "",
         "components": "",
@@ -893,7 +893,7 @@
           "id": "spell_mrl89zem_6hqp4ki",
           "name": "Tasha's Hideous Laughter",
           "level": -1,
-          "school": "",
+          "school": "Enchantment",
           "castingTime": "",
           "range": "",
           "components": "",
@@ -996,5 +996,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 138
+  "_rev": 150
 }
