@@ -349,7 +349,7 @@
             "concentration": false,
             "ritual": false,
             "prepared": false,
-            "description": "",
+            "description": "You touch an object throughout the spell's casting. If the object is a magic item or some other magical object, you learn its properties and how to use them, whether it requires Attunement, and how many charges it has, if any. You learn whether any ongoing spells are affecting the item and what they are. If the item was created by a spell, you learn that spell's name.\nIf you instead touch a creature throughout the casting, you learn which ongoing spells, if any, are currently affecting it.",
             "higherLevels": "",
             "damageType": "",
             "tags": [],
@@ -377,12 +377,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784068355488
+        "lastModified": 1784068363514
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784068356190,
+    "generatedAt": 1784068364218,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -468,7 +468,7 @@
         "concentration": false,
         "ritual": false,
         "prepared": false,
-        "description": "",
+        "description": "You touch an object throughout the spell's casting. If the object is a magic item or some other magical object, you learn its properties and how to use them, whether it requires Attunement, and how many charges it has, if any. You learn whether any ongoing spells are affecting the item and what they are. If the item was created by a spell, you learn that spell's name.\nIf you instead touch a creature throughout the casting, you learn which ongoing spells, if any, are currently affecting it.",
         "higherLevels": "",
         "damageType": "",
         "tags": [],
@@ -543,7 +543,7 @@
           "concentration": false,
           "ritual": false,
           "prepared": false,
-          "description": "",
+          "description": "You touch an object throughout the spell's casting. If the object is a magic item or some other magical object, you learn its properties and how to use them, whether it requires Attunement, and how many charges it has, if any. You learn whether any ongoing spells are affecting the item and what they are. If the item was created by a spell, you learn that spell's name.\nIf you instead touch a creature throughout the casting, you learn which ongoing spells, if any, are currently affecting it.",
           "higherLevels": "",
           "damageType": "",
           "tags": [],
@@ -638,9 +638,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 75,
+  "_divineCacheRev": 76,
   "_divine": {
-    "generatedAt": 1784068356190,
+    "generatedAt": 1784068364218,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -726,7 +726,7 @@
         "concentration": false,
         "ritual": false,
         "prepared": false,
-        "description": "",
+        "description": "You touch an object throughout the spell's casting. If the object is a magic item or some other magical object, you learn its properties and how to use them, whether it requires Attunement, and how many charges it has, if any. You learn whether any ongoing spells are affecting the item and what they are. If the item was created by a spell, you learn that spell's name.\nIf you instead touch a creature throughout the casting, you learn which ongoing spells, if any, are currently affecting it.",
         "higherLevels": "",
         "damageType": "",
         "tags": [],
@@ -801,7 +801,7 @@
           "concentration": false,
           "ritual": false,
           "prepared": false,
-          "description": "",
+          "description": "You touch an object throughout the spell's casting. If the object is a magic item or some other magical object, you learn its properties and how to use them, whether it requires Attunement, and how many charges it has, if any. You learn whether any ongoing spells are affecting the item and what they are. If the item was created by a spell, you learn that spell's name.\nIf you instead touch a creature throughout the casting, you learn which ongoing spells, if any, are currently affecting it.",
           "higherLevels": "",
           "damageType": "",
           "tags": [],
@@ -896,5 +896,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 75
+  "_rev": 76
 }
