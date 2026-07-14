@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-14T11:23:01.512Z",
+  "updatedAt": "2026-07-14T11:23:11.947Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -378,7 +378,20 @@
         "abilities": []
       }
     ],
-    "zacharia-horn-axe": [],
+    "zacharia-horn-axe": [
+      {
+        "name": "New Item",
+        "type": "Type / Rarity",
+        "img": "",
+        "stats": [
+          {
+            "k": "Property",
+            "v": "Description"
+          }
+        ],
+        "abilities": []
+      }
+    ],
     "bud-turtlefoot": [],
     "ayeluna-lou": [],
     "kena-price": [
