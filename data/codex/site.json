@@ -9,8 +9,8 @@
   "setupComplete": true,
   "footerBranding": "Powered by The Adventurer’s Campaign Codex",
   "theme": {
-    "accent": "#4b56aa",
-    "secondary": "#6a5cb2",
+    "accent": "#04ff00",
+    "secondary": "#ffd500",
     "background": "#17110b",
     "surface": "#241a11",
     "text": "#f2e4c8",
@@ -112,7 +112,7 @@
       "player": "Jess",
       "sigil": "",
       "accent": "#000000",
-      "portrait": ""
+      "portrait": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/1784066822271-bud.jpg?v=1784066823535"
     },
     {
       "id": "ayeluna-lou",
@@ -132,7 +132,7 @@
     }
   ],
   "productVersion": "1.0 Foundation",
-  "updatedAt": "2026-07-14T11:59:02.453Z",
-  "backgroundImage": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/1784027710163-wallpapersden.com-k-cool-2020-art-3840x2160.jpg?v=1784027711120",
-  "heroImage": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/1784029073282-images-1-.jpg?v=1784029073670"
+  "updatedAt": "2026-07-14T22:07:11.722Z",
+  "backgroundImage": "",
+  "heroImage": ""
 }
