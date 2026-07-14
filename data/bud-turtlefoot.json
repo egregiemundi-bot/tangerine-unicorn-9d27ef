@@ -368,7 +368,7 @@
             "duration": "",
             "concentration": false,
             "ritual": false,
-            "prepared": false,
+            "prepared": true,
             "description": "One creature of your choice that you can see within range makes a Wisdom saving throw. On a failed save, it has the Prone and Incapacitated conditions for the duration. During that time, it laughs uncontrollably if it's capable of laughter, and it can't end the Prone condition on itself.\nAt the end of each of its turns and each time it takes damage, it makes another Wisdom saving throw. The target has Advantage on the save if the save is triggered by damage. On a successful save, the spell ends.\nUsing a Higher-Level Spell Slot. You can target one additional creature for each spell slot level about 1.",
             "higherLevels": "",
             "damageType": "",
@@ -402,7 +402,7 @@
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784068497493,
+    "generatedAt": 1784068499475,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -487,7 +487,7 @@
         "duration": "",
         "concentration": false,
         "ritual": false,
-        "prepared": false,
+        "prepared": true,
         "description": "You touch an object throughout the spell's casting. If the object is a magic item or some other magical object, you learn its properties and how to use them, whether it requires Attunement, and how many charges it has, if any. You learn whether any ongoing spells are affecting the item and what they are. If the item was created by a spell, you learn that spell's name.\nIf you instead touch a creature throughout the casting, you learn which ongoing spells, if any, are currently affecting it.",
         "higherLevels": "",
         "damageType": "",
@@ -582,7 +582,7 @@
           "duration": "",
           "concentration": false,
           "ritual": false,
-          "prepared": false,
+          "prepared": true,
           "description": "You touch an object throughout the spell's casting. If the object is a magic item or some other magical object, you learn its properties and how to use them, whether it requires Attunement, and how many charges it has, if any. You learn whether any ongoing spells are affecting the item and what they are. If the item was created by a spell, you learn that spell's name.\nIf you instead touch a creature throughout the casting, you learn which ongoing spells, if any, are currently affecting it.",
           "higherLevels": "",
           "damageType": "",
@@ -698,9 +698,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 171,
+  "_divineCacheRev": 172,
   "_divine": {
-    "generatedAt": 1784068497493,
+    "generatedAt": 1784068499475,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -785,7 +785,7 @@
         "duration": "",
         "concentration": false,
         "ritual": false,
-        "prepared": false,
+        "prepared": true,
         "description": "You touch an object throughout the spell's casting. If the object is a magic item or some other magical object, you learn its properties and how to use them, whether it requires Attunement, and how many charges it has, if any. You learn whether any ongoing spells are affecting the item and what they are. If the item was created by a spell, you learn that spell's name.\nIf you instead touch a creature throughout the casting, you learn which ongoing spells, if any, are currently affecting it.",
         "higherLevels": "",
         "damageType": "",
@@ -880,7 +880,7 @@
           "duration": "",
           "concentration": false,
           "ritual": false,
-          "prepared": false,
+          "prepared": true,
           "description": "You touch an object throughout the spell's casting. If the object is a magic item or some other magical object, you learn its properties and how to use them, whether it requires Attunement, and how many charges it has, if any. You learn whether any ongoing spells are affecting the item and what they are. If the item was created by a spell, you learn that spell's name.\nIf you instead touch a creature throughout the casting, you learn which ongoing spells, if any, are currently affecting it.",
           "higherLevels": "",
           "damageType": "",
@@ -996,5 +996,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 172
+  "_rev": 173
 }
