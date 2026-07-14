@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-14T18:02:24.186Z",
+  "updatedAt": "2026-07-14T18:04:18.648Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -429,8 +429,7 @@
             "text": "fighting ring",
             "pageId": "c-fighting-ring"
           }
-        ],
-        "img": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/atlas-__main-1784027934075.jpg?v=1784027935936"
+        ]
       },
       "campaign-world": {
         "pins": [],
