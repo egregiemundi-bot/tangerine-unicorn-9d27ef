@@ -268,6 +268,11 @@
             "name": "Investigation",
             "proficient": true,
             "expertise": false
+          },
+          {
+            "name": "Acrobatics",
+            "proficient": true,
+            "expertise": false
           }
         ],
         "hp": {
@@ -304,12 +309,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784067938634
+        "lastModified": 1784067942259
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784067939341,
+    "generatedAt": 1784067942970,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -394,6 +399,14 @@
         "sources": [
           "Bud's Character Sheet"
         ]
+      },
+      {
+        "name": "Acrobatics",
+        "proficient": true,
+        "expertise": false,
+        "sources": [
+          "Bud's Character Sheet"
+        ]
       }
     ],
     "expertise": [],
@@ -423,7 +436,7 @@
       "spells": 0,
       "cantrips": 0,
       "resources": 0,
-      "skills": 3,
+      "skills": 4,
       "expertise": 0,
       "savingThrows": 2,
       "languages": 1,
@@ -433,9 +446,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 16,
+  "_divineCacheRev": 17,
   "_divine": {
-    "generatedAt": 1784067939341,
+    "generatedAt": 1784067942970,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -520,6 +533,14 @@
         "sources": [
           "Bud's Character Sheet"
         ]
+      },
+      {
+        "name": "Acrobatics",
+        "proficient": true,
+        "expertise": false,
+        "sources": [
+          "Bud's Character Sheet"
+        ]
       }
     ],
     "expertise": [],
@@ -549,7 +570,7 @@
       "spells": 0,
       "cantrips": 0,
       "resources": 0,
-      "skills": 3,
+      "skills": 4,
       "expertise": 0,
       "savingThrows": 2,
       "languages": 1,
@@ -559,5 +580,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 16
+  "_rev": 17
 }
