@@ -294,7 +294,28 @@
         "initiativeBonus": 3,
         "speed": 25,
         "resources": [],
-        "spells": [],
+        "spells": [
+          {
+            "id": "spell_mrl82tn0_2j3ecxy",
+            "name": "Thunderwave",
+            "level": 1,
+            "school": "Evocation",
+            "castingTime": "1 action",
+            "range": "Self",
+            "components": "V, S",
+            "duration": "Instantaneous",
+            "concentration": false,
+            "ritual": false,
+            "prepared": false,
+            "description": "A wave of thunderous force sweeps out from you. Each creature in a 15-foot cube originating from you must make a constitution saving throw. On a failed save, a creature takes 2d8 thunder damage and is pushed 10 feet away from you. On a successful save, the creature takes half as much damage and isn't pushed. In addition, unsecured objects that are completely within the area of effect are automatically pushed 10 feet away from you by the spell's effect, and the spell emits a thunderous boom audible out to 300 feet.",
+            "higherLevels": "When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.",
+            "damageType": "",
+            "tags": [],
+            "sourceClass": "Bard, Cleric, Druid, Sorcerer, Wizard",
+            "sourcePlanet": "",
+            "favorite": false
+          }
+        ],
         "features": [],
         "feats": [],
         "epicBoons": [],
@@ -314,12 +335,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784068043450
+        "lastModified": 1784068091533
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784068044160,
+    "generatedAt": 1784068092249,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -352,10 +373,52 @@
     "freeActions": [],
     "legendaryActions": [],
     "otherActions": [],
-    "spells": [],
+    "spells": [
+      {
+        "id": "spell_mrl82tn0_2j3ecxy",
+        "name": "Thunderwave",
+        "level": 1,
+        "school": "Evocation",
+        "castingTime": "1 action",
+        "range": "Self",
+        "components": "V, S",
+        "duration": "Instantaneous",
+        "concentration": false,
+        "ritual": false,
+        "prepared": false,
+        "description": "A wave of thunderous force sweeps out from you. Each creature in a 15-foot cube originating from you must make a constitution saving throw. On a failed save, a creature takes 2d8 thunder damage and is pushed 10 feet away from you. On a successful save, the creature takes half as much damage and isn't pushed. In addition, unsecured objects that are completely within the area of effect are automatically pushed 10 feet away from you by the spell's effect, and the spell emits a thunderous boom audible out to 300 feet.",
+        "higherLevels": "When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.",
+        "damageType": "",
+        "tags": [],
+        "sourceClass": "Bard, Cleric, Druid, Sorcerer, Wizard",
+        "sourcePlanet": "Bud's Character Sheet",
+        "favorite": false
+      }
+    ],
     "spellsByLevel": {
       "0": [],
-      "1": [],
+      "1": [
+        {
+          "id": "spell_mrl82tn0_2j3ecxy",
+          "name": "Thunderwave",
+          "level": 1,
+          "school": "Evocation",
+          "castingTime": "1 action",
+          "range": "Self",
+          "components": "V, S",
+          "duration": "Instantaneous",
+          "concentration": false,
+          "ritual": false,
+          "prepared": false,
+          "description": "A wave of thunderous force sweeps out from you. Each creature in a 15-foot cube originating from you must make a constitution saving throw. On a failed save, a creature takes 2d8 thunder damage and is pushed 10 feet away from you. On a successful save, the creature takes half as much damage and isn't pushed. In addition, unsecured objects that are completely within the area of effect are automatically pushed 10 feet away from you by the spell's effect, and the spell emits a thunderous boom audible out to 300 feet.",
+          "higherLevels": "When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.",
+          "damageType": "",
+          "tags": [],
+          "sourceClass": "Bard, Cleric, Druid, Sorcerer, Wizard",
+          "sourcePlanet": "Bud's Character Sheet",
+          "favorite": false
+        }
+      ],
       "2": [],
       "3": [],
       "4": [],
@@ -438,7 +501,7 @@
       "bonusActions": 0,
       "reactions": 0,
       "passives": 0,
-      "spells": 0,
+      "spells": 1,
       "cantrips": 0,
       "resources": 0,
       "skills": 4,
@@ -451,9 +514,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 61,
+  "_divineCacheRev": 62,
   "_divine": {
-    "generatedAt": 1784068044160,
+    "generatedAt": 1784068092249,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -486,10 +549,52 @@
     "freeActions": [],
     "legendaryActions": [],
     "otherActions": [],
-    "spells": [],
+    "spells": [
+      {
+        "id": "spell_mrl82tn0_2j3ecxy",
+        "name": "Thunderwave",
+        "level": 1,
+        "school": "Evocation",
+        "castingTime": "1 action",
+        "range": "Self",
+        "components": "V, S",
+        "duration": "Instantaneous",
+        "concentration": false,
+        "ritual": false,
+        "prepared": false,
+        "description": "A wave of thunderous force sweeps out from you. Each creature in a 15-foot cube originating from you must make a constitution saving throw. On a failed save, a creature takes 2d8 thunder damage and is pushed 10 feet away from you. On a successful save, the creature takes half as much damage and isn't pushed. In addition, unsecured objects that are completely within the area of effect are automatically pushed 10 feet away from you by the spell's effect, and the spell emits a thunderous boom audible out to 300 feet.",
+        "higherLevels": "When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.",
+        "damageType": "",
+        "tags": [],
+        "sourceClass": "Bard, Cleric, Druid, Sorcerer, Wizard",
+        "sourcePlanet": "Bud's Character Sheet",
+        "favorite": false
+      }
+    ],
     "spellsByLevel": {
       "0": [],
-      "1": [],
+      "1": [
+        {
+          "id": "spell_mrl82tn0_2j3ecxy",
+          "name": "Thunderwave",
+          "level": 1,
+          "school": "Evocation",
+          "castingTime": "1 action",
+          "range": "Self",
+          "components": "V, S",
+          "duration": "Instantaneous",
+          "concentration": false,
+          "ritual": false,
+          "prepared": false,
+          "description": "A wave of thunderous force sweeps out from you. Each creature in a 15-foot cube originating from you must make a constitution saving throw. On a failed save, a creature takes 2d8 thunder damage and is pushed 10 feet away from you. On a successful save, the creature takes half as much damage and isn't pushed. In addition, unsecured objects that are completely within the area of effect are automatically pushed 10 feet away from you by the spell's effect, and the spell emits a thunderous boom audible out to 300 feet.",
+          "higherLevels": "When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.",
+          "damageType": "",
+          "tags": [],
+          "sourceClass": "Bard, Cleric, Druid, Sorcerer, Wizard",
+          "sourcePlanet": "Bud's Character Sheet",
+          "favorite": false
+        }
+      ],
       "2": [],
       "3": [],
       "4": [],
@@ -572,7 +677,7 @@
       "bonusActions": 0,
       "reactions": 0,
       "passives": 0,
-      "spells": 0,
+      "spells": 1,
       "cantrips": 0,
       "resources": 0,
       "skills": 4,
@@ -585,5 +690,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 61
+  "_rev": 62
 }
