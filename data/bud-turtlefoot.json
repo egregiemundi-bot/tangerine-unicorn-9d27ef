@@ -378,7 +378,27 @@
             "favorite": false
           }
         ],
-        "features": [],
+        "features": [
+          {
+            "id": "feat_mrl8gl8p_75m0bue",
+            "name": "",
+            "level": 1,
+            "className": "",
+            "subclass": "",
+            "sourcePlanet": "",
+            "actionType": "passive",
+            "recharge": "at-will",
+            "usesMax": 0,
+            "usesCurrent": 0,
+            "description": "",
+            "tags": [],
+            "damageType": "",
+            "healing": false,
+            "movement": false,
+            "favorite": false,
+            "pinned": false
+          }
+        ],
         "feats": [],
         "epicBoons": [],
         "asi": [],
@@ -397,12 +417,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784068457175
+        "lastModified": 1784068733834
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784068526790,
+    "generatedAt": 1784068734535,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -427,11 +447,53 @@
       }
     ],
     "subclasses": [],
-    "features": [],
+    "features": [
+      {
+        "id": "feat_mrl8gl8p_75m0bue",
+        "name": "",
+        "level": 1,
+        "className": "",
+        "subclass": "",
+        "sourcePlanet": "Bud's Character Sheet",
+        "actionType": "passive",
+        "recharge": "at-will",
+        "usesMax": 0,
+        "usesCurrent": 0,
+        "description": "",
+        "tags": [],
+        "damageType": "",
+        "healing": false,
+        "movement": false,
+        "favorite": false,
+        "pinned": false,
+        "sourceClass": "Bard"
+      }
+    ],
     "actions": [],
     "bonusActions": [],
     "reactions": [],
-    "passives": [],
+    "passives": [
+      {
+        "id": "feat_mrl8gl8p_75m0bue",
+        "name": "",
+        "level": 1,
+        "className": "",
+        "subclass": "",
+        "sourcePlanet": "Bud's Character Sheet",
+        "actionType": "passive",
+        "recharge": "at-will",
+        "usesMax": 0,
+        "usesCurrent": 0,
+        "description": "",
+        "tags": [],
+        "damageType": "",
+        "healing": false,
+        "movement": false,
+        "favorite": false,
+        "pinned": false,
+        "sourceClass": "Bard"
+      }
+    ],
     "freeActions": [],
     "legendaryActions": [],
     "otherActions": [],
@@ -447,7 +509,7 @@
         "duration": "Instantaneous",
         "concentration": false,
         "ritual": false,
-        "prepared": true,
+        "prepared": false,
         "description": "A wave of thunderous force sweeps out from you. Each creature in a 15-foot cube originating from you must make a constitution saving throw. On a failed save, a creature takes 2d8 thunder damage and is pushed 10 feet away from you. On a successful save, the creature takes half as much damage and isn't pushed. In addition, unsecured objects that are completely within the area of effect are automatically pushed 10 feet away from you by the spell's effect, and the spell emits a thunderous boom audible out to 300 feet.",
         "higherLevels": "When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.",
         "damageType": "",
@@ -552,7 +614,7 @@
           "duration": "Instantaneous",
           "concentration": false,
           "ritual": false,
-          "prepared": true,
+          "prepared": false,
           "description": "A wave of thunderous force sweeps out from you. Each creature in a 15-foot cube originating from you must make a constitution saving throw. On a failed save, a creature takes 2d8 thunder damage and is pushed 10 feet away from you. On a successful save, the creature takes half as much damage and isn't pushed. In addition, unsecured objects that are completely within the area of effect are automatically pushed 10 feet away from you by the spell's effect, and the spell emits a thunderous boom audible out to 300 feet.",
           "higherLevels": "When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.",
           "damageType": "",
@@ -680,11 +742,11 @@
       "planets": 1,
       "classes": 1,
       "subclasses": 0,
-      "features": 0,
+      "features": 1,
       "actions": 0,
       "bonusActions": 0,
       "reactions": 0,
-      "passives": 0,
+      "passives": 1,
       "spells": 4,
       "cantrips": 1,
       "resources": 0,
@@ -698,9 +760,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 177,
+  "_divineCacheRev": 179,
   "_divine": {
-    "generatedAt": 1784068526790,
+    "generatedAt": 1784068734535,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -725,11 +787,53 @@
       }
     ],
     "subclasses": [],
-    "features": [],
+    "features": [
+      {
+        "id": "feat_mrl8gl8p_75m0bue",
+        "name": "",
+        "level": 1,
+        "className": "",
+        "subclass": "",
+        "sourcePlanet": "Bud's Character Sheet",
+        "actionType": "passive",
+        "recharge": "at-will",
+        "usesMax": 0,
+        "usesCurrent": 0,
+        "description": "",
+        "tags": [],
+        "damageType": "",
+        "healing": false,
+        "movement": false,
+        "favorite": false,
+        "pinned": false,
+        "sourceClass": "Bard"
+      }
+    ],
     "actions": [],
     "bonusActions": [],
     "reactions": [],
-    "passives": [],
+    "passives": [
+      {
+        "id": "feat_mrl8gl8p_75m0bue",
+        "name": "",
+        "level": 1,
+        "className": "",
+        "subclass": "",
+        "sourcePlanet": "Bud's Character Sheet",
+        "actionType": "passive",
+        "recharge": "at-will",
+        "usesMax": 0,
+        "usesCurrent": 0,
+        "description": "",
+        "tags": [],
+        "damageType": "",
+        "healing": false,
+        "movement": false,
+        "favorite": false,
+        "pinned": false,
+        "sourceClass": "Bard"
+      }
+    ],
     "freeActions": [],
     "legendaryActions": [],
     "otherActions": [],
@@ -745,7 +849,7 @@
         "duration": "Instantaneous",
         "concentration": false,
         "ritual": false,
-        "prepared": true,
+        "prepared": false,
         "description": "A wave of thunderous force sweeps out from you. Each creature in a 15-foot cube originating from you must make a constitution saving throw. On a failed save, a creature takes 2d8 thunder damage and is pushed 10 feet away from you. On a successful save, the creature takes half as much damage and isn't pushed. In addition, unsecured objects that are completely within the area of effect are automatically pushed 10 feet away from you by the spell's effect, and the spell emits a thunderous boom audible out to 300 feet.",
         "higherLevels": "When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.",
         "damageType": "",
@@ -850,7 +954,7 @@
           "duration": "Instantaneous",
           "concentration": false,
           "ritual": false,
-          "prepared": true,
+          "prepared": false,
           "description": "A wave of thunderous force sweeps out from you. Each creature in a 15-foot cube originating from you must make a constitution saving throw. On a failed save, a creature takes 2d8 thunder damage and is pushed 10 feet away from you. On a successful save, the creature takes half as much damage and isn't pushed. In addition, unsecured objects that are completely within the area of effect are automatically pushed 10 feet away from you by the spell's effect, and the spell emits a thunderous boom audible out to 300 feet.",
           "higherLevels": "When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.",
           "damageType": "",
@@ -978,11 +1082,11 @@
       "planets": 1,
       "classes": 1,
       "subclasses": 0,
-      "features": 0,
+      "features": 1,
       "actions": 0,
       "bonusActions": 0,
       "reactions": 0,
-      "passives": 0,
+      "passives": 1,
       "spells": 4,
       "cantrips": 1,
       "resources": 0,
@@ -996,5 +1100,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 178
+  "_rev": 179
 }
