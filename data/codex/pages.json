@@ -19,6 +19,11 @@
       "id": "c-ispin-greenshield",
       "title": "Ispin Greenshield",
       "parent": "npcs"
+    },
+    {
+      "id": "c-fighting-ring",
+      "title": "fighting ring",
+      "parent": "atlas"
     }
   ],
   "overrides": [
@@ -32,5 +37,5 @@
     "constructs",
     "fallen"
   ],
-  "updatedAt": "2026-07-14T11:31:32.105Z"
+  "updatedAt": "2026-07-14T11:32:52.393Z"
 }
