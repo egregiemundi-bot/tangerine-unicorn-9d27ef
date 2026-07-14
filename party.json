@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-14T18:04:51.772Z",
+  "updatedAt": "2026-07-14T18:05:55.973Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -412,7 +412,8 @@
   "atlas": {
     "worlds": {
       "__main": {
-        "pins": []
+        "pins": [],
+        "img": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/maps/atlas-__main-1784052354190.jpg?v=1784052355640"
       },
       "campaign-world": {
         "pins": [],
