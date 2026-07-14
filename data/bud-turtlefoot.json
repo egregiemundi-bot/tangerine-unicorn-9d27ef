@@ -227,7 +227,12 @@
             "level": 2
           }
         ],
-        "spellcasting": [],
+        "spellcasting": [
+          {
+            "className": "",
+            "ability": "int"
+          }
+        ],
         "spellSlots": {
           "1": 0,
           "2": 0,
@@ -309,12 +314,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784067992441
+        "lastModified": 1784068001204
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784067993142,
+    "generatedAt": 1784068001905,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -372,8 +377,8 @@
       "8": 0,
       "9": 0
     },
-    "spellSaveDC": 13,
-    "spellAttackBonus": 5,
+    "spellSaveDC": 10,
+    "spellAttackBonus": 2,
     "resources": [],
     "skills": [
       {
@@ -446,9 +451,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 42,
+  "_divineCacheRev": 43,
   "_divine": {
-    "generatedAt": 1784067993142,
+    "generatedAt": 1784068001905,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -506,8 +511,8 @@
       "8": 0,
       "9": 0
     },
-    "spellSaveDC": 13,
-    "spellAttackBonus": 5,
+    "spellSaveDC": 10,
+    "spellAttackBonus": 2,
     "resources": [],
     "skills": [
       {
@@ -580,5 +585,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 42
+  "_rev": 43
 }
