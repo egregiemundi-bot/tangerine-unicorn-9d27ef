@@ -700,9 +700,9 @@
           },
           {
             "name": "Deception",
-            "proficient": false,
+            "proficient": true,
             "expertise": false,
-            "half": true
+            "half": false
           }
         ],
         "hp": {
@@ -840,13 +840,13 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784106646967
+        "lastModified": 1784106648251
       }
     ],
     "prepMax": 0
   },
   "_divineCache": {
-    "generatedAt": 1784106647682,
+    "generatedAt": 1784106648952,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -1142,9 +1142,9 @@
       },
       {
         "name": "Deception",
-        "proficient": false,
+        "proficient": true,
         "expertise": false,
-        "half": true,
+        "half": false,
         "sources": [
           "Bud's Character Sheet"
         ]
@@ -1187,9 +1187,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 229,
+  "_divineCacheRev": 230,
   "_divine": {
-    "generatedAt": 1784106647682,
+    "generatedAt": 1784106648952,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -1485,9 +1485,9 @@
       },
       {
         "name": "Deception",
-        "proficient": false,
+        "proficient": true,
         "expertise": false,
-        "half": true,
+        "half": false,
         "sources": [
           "Bud's Character Sheet"
         ]
@@ -1530,5 +1530,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 229
+  "_rev": 230
 }
