@@ -118,8 +118,28 @@
           }
         },
         "wallpaper": "",
-        "slotsUsed": {},
-        "rollLog": []
+        "slotsUsed": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0,
+          "7": 0,
+          "8": 0,
+          "9": 0
+        },
+        "rollLog": [
+          {
+            "kind": "note",
+            "text": "🛌 Long Rest — all spell slots restored.",
+            "label": "Note",
+            "id": "roll-mrldhlru-jumng3",
+            "at": 1784077179258,
+            "player": "bud-turtlefoot",
+            "character": "Bud Turtlefoot"
+          }
+        ]
       },
       "lastImportBackup": {
         "planetId": "planet_mrl7pd4i_1u85ih4",
