@@ -362,7 +362,7 @@
           {
             "id": "spell_mrl89zem_6hqp4ki",
             "name": "Tasha's Hideous Laughter",
-            "level": -1,
+            "level": 1,
             "school": "Enchantment",
             "castingTime": "Action",
             "range": "30ft",
@@ -1086,5 +1086,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 218
+  "_rev": 219
 }
