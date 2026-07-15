@@ -93,7 +93,7 @@
           "textSize": "normal",
           "density": "compact",
           "buttonStyle": "rounded",
-          "hpStyle": "classic",
+          "hpStyle": "player",
           "diceTheme": "classic",
           "sections": {
             "hp": true,
