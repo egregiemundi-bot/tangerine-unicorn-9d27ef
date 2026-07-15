@@ -2,7 +2,7 @@
   "name": "Kena Price",
   "epithet": "",
   "portrait": "",
-  "player": "",
+  "player": "Brittney",
   "race": "",
   "charClass": "",
   "alignment": "",
@@ -53,7 +53,7 @@
     "activePlanetId": "planet_mrjdwghd_909qy6x",
     "favoriteSpells": [],
     "ui": {
-      "tab": "inventory",
+      "tab": "combat",
       "form": "divine",
       "activePlanetId": "",
       "expanded": {},
