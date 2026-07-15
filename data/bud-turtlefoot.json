@@ -323,7 +323,7 @@
             "name": "Prestidigitation",
             "level": 0,
             "school": "Transmutation",
-            "castingTime": "1 action",
+            "castingTime": "",
             "range": "10 feet",
             "components": "V, S",
             "duration": "1 hour",
@@ -418,12 +418,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784076007563
+        "lastModified": 1784076621888
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784076008272,
+    "generatedAt": 1784076622591,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -524,7 +524,7 @@
         "name": "Prestidigitation",
         "level": 0,
         "school": "Transmutation",
-        "castingTime": "1 action",
+        "castingTime": "",
         "range": "10 feet",
         "components": "V, S",
         "duration": "1 hour",
@@ -587,7 +587,7 @@
           "name": "Prestidigitation",
           "level": 0,
           "school": "Transmutation",
-          "castingTime": "1 action",
+          "castingTime": "",
           "range": "10 feet",
           "components": "V, S",
           "duration": "1 hour",
@@ -753,9 +753,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 216,
+  "_divineCacheRev": 217,
   "_divine": {
-    "generatedAt": 1784076008272,
+    "generatedAt": 1784076622591,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -856,7 +856,7 @@
         "name": "Prestidigitation",
         "level": 0,
         "school": "Transmutation",
-        "castingTime": "1 action",
+        "castingTime": "",
         "range": "10 feet",
         "components": "V, S",
         "duration": "1 hour",
@@ -919,7 +919,7 @@
           "name": "Prestidigitation",
           "level": 0,
           "school": "Transmutation",
-          "castingTime": "1 action",
+          "castingTime": "",
           "range": "10 feet",
           "components": "V, S",
           "duration": "1 hour",
@@ -1085,5 +1085,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 216
+  "_rev": 217
 }
