@@ -270,6 +270,11 @@
             "name": "Perception",
             "proficient": true,
             "expertise": false
+          },
+          {
+            "name": "Persuasion",
+            "proficient": true,
+            "expertise": false
           }
         ],
         "hp": {
@@ -306,12 +311,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784079823370
+        "lastModified": 1784079826317
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784079824075,
+    "generatedAt": 1784079827032,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -404,6 +409,14 @@
         "sources": [
           "Character Sheet"
         ]
+      },
+      {
+        "name": "Persuasion",
+        "proficient": true,
+        "expertise": false,
+        "sources": [
+          "Character Sheet"
+        ]
       }
     ],
     "expertise": [],
@@ -430,7 +443,7 @@
       "spells": 0,
       "cantrips": 0,
       "resources": 0,
-      "skills": 4,
+      "skills": 5,
       "expertise": 0,
       "savingThrows": 0,
       "languages": 1,
@@ -440,9 +453,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 5,
+  "_divineCacheRev": 6,
   "_divine": {
-    "generatedAt": 1784079824075,
+    "generatedAt": 1784079827032,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -535,6 +548,14 @@
         "sources": [
           "Character Sheet"
         ]
+      },
+      {
+        "name": "Persuasion",
+        "proficient": true,
+        "expertise": false,
+        "sources": [
+          "Character Sheet"
+        ]
       }
     ],
     "expertise": [],
@@ -561,7 +582,7 @@
       "spells": 0,
       "cantrips": 0,
       "resources": 0,
-      "skills": 4,
+      "skills": 5,
       "expertise": 0,
       "savingThrows": 0,
       "languages": 1,
@@ -571,5 +592,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 5
+  "_rev": 6
 }
