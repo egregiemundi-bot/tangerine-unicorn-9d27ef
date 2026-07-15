@@ -250,7 +250,13 @@
           "cha": 10
         },
         "savingThrows": [],
-        "skills": [],
+        "skills": [
+          {
+            "name": "Athletics",
+            "proficient": true,
+            "expertise": false
+          }
+        ],
         "hp": {
           "max": 0,
           "current": 0,
@@ -285,12 +291,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 0
+        "lastModified": 1784079811249
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784079773346,
+    "generatedAt": 1784079811963,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -351,7 +357,16 @@
     "spellSaveDC": 13,
     "spellAttackBonus": 5,
     "resources": [],
-    "skills": [],
+    "skills": [
+      {
+        "name": "Athletics",
+        "proficient": true,
+        "expertise": false,
+        "sources": [
+          "Character Sheet"
+        ]
+      }
+    ],
     "expertise": [],
     "savingThrows": [],
     "resistances": [],
@@ -376,7 +391,7 @@
       "spells": 0,
       "cantrips": 0,
       "resources": 0,
-      "skills": 0,
+      "skills": 1,
       "expertise": 0,
       "savingThrows": 0,
       "languages": 1,
@@ -386,9 +401,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 1,
+  "_divineCacheRev": 2,
   "_divine": {
-    "generatedAt": 1784079773346,
+    "generatedAt": 1784079811963,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -449,7 +464,16 @@
     "spellSaveDC": 13,
     "spellAttackBonus": 5,
     "resources": [],
-    "skills": [],
+    "skills": [
+      {
+        "name": "Athletics",
+        "proficient": true,
+        "expertise": false,
+        "sources": [
+          "Character Sheet"
+        ]
+      }
+    ],
     "expertise": [],
     "savingThrows": [],
     "resistances": [],
@@ -474,7 +498,7 @@
       "spells": 0,
       "cantrips": 0,
       "resources": 0,
-      "skills": 0,
+      "skills": 1,
       "expertise": 0,
       "savingThrows": 0,
       "languages": 1,
@@ -484,5 +508,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 1
+  "_rev": 2
 }
