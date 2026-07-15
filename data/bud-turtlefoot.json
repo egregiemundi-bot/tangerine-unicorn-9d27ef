@@ -342,7 +342,7 @@
           {
             "id": "spell_mrl88dhh_5n2jl67",
             "name": "Identify",
-            "level": -1,
+            "level": 1,
             "school": "Divination",
             "castingTime": "1min/Ritual",
             "range": "Touch",
@@ -424,7 +424,7 @@
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784076624349,
+    "generatedAt": 1784076872511,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -563,7 +563,7 @@
       {
         "id": "spell_mrl89zem_6hqp4ki",
         "name": "Tasha's Hideous Laughter",
-        "level": -1,
+        "level": 1,
         "school": "Enchantment",
         "castingTime": "Action",
         "range": "30ft",
@@ -624,6 +624,26 @@
           "sourceClass": "Bard, Cleric, Druid, Sorcerer, Wizard",
           "sourcePlanet": "Bud's Character Sheet",
           "favorite": false
+        },
+        {
+          "id": "spell_mrl89zem_6hqp4ki",
+          "name": "Tasha's Hideous Laughter",
+          "level": 1,
+          "school": "Enchantment",
+          "castingTime": "Action",
+          "range": "30ft",
+          "components": "",
+          "duration": "",
+          "concentration": false,
+          "ritual": false,
+          "prepared": false,
+          "description": "One creature of your choice that you can see within range makes a Wisdom saving throw. On a failed save, it has the Prone and Incapacitated conditions for the duration. During that time, it laughs uncontrollably if it's capable of laughter, and it can't end the Prone condition on itself.\nAt the end of each of its turns and each time it takes damage, it makes another Wisdom saving throw. The target has Advantage on the save if the save is triggered by damage. On a successful save, the spell ends.\nUsing a Higher-Level Spell Slot. You can target one additional creature for each spell slot level about 1.",
+          "higherLevels": "",
+          "damageType": "",
+          "tags": [],
+          "sourceClass": "Bard",
+          "sourcePlanet": "Bud's Character Sheet",
+          "favorite": false
         }
       ],
       "2": [],
@@ -648,26 +668,6 @@
           "ritual": false,
           "prepared": false,
           "description": "You touch an object throughout the spell's casting. If the object is a magic item or some other magical object, you learn its properties and how to use them, whether it requires Attunement, and how many charges it has, if any. You learn whether any ongoing spells are affecting the item and what they are. If the item was created by a spell, you learn that spell's name.\nIf you instead touch a creature throughout the casting, you learn which ongoing spells, if any, are currently affecting it.",
-          "higherLevels": "",
-          "damageType": "",
-          "tags": [],
-          "sourceClass": "Bard",
-          "sourcePlanet": "Bud's Character Sheet",
-          "favorite": false
-        },
-        {
-          "id": "spell_mrl89zem_6hqp4ki",
-          "name": "Tasha's Hideous Laughter",
-          "level": -1,
-          "school": "Enchantment",
-          "castingTime": "Action",
-          "range": "30ft",
-          "components": "",
-          "duration": "",
-          "concentration": false,
-          "ritual": false,
-          "prepared": false,
-          "description": "One creature of your choice that you can see within range makes a Wisdom saving throw. On a failed save, it has the Prone and Incapacitated conditions for the duration. During that time, it laughs uncontrollably if it's capable of laughter, and it can't end the Prone condition on itself.\nAt the end of each of its turns and each time it takes damage, it makes another Wisdom saving throw. The target has Advantage on the save if the save is triggered by damage. On a successful save, the spell ends.\nUsing a Higher-Level Spell Slot. You can target one additional creature for each spell slot level about 1.",
           "higherLevels": "",
           "damageType": "",
           "tags": [],
@@ -754,9 +754,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 218,
+  "_divineCacheRev": 219,
   "_divine": {
-    "generatedAt": 1784076624349,
+    "generatedAt": 1784076872511,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -895,7 +895,7 @@
       {
         "id": "spell_mrl89zem_6hqp4ki",
         "name": "Tasha's Hideous Laughter",
-        "level": -1,
+        "level": 1,
         "school": "Enchantment",
         "castingTime": "Action",
         "range": "30ft",
@@ -956,6 +956,26 @@
           "sourceClass": "Bard, Cleric, Druid, Sorcerer, Wizard",
           "sourcePlanet": "Bud's Character Sheet",
           "favorite": false
+        },
+        {
+          "id": "spell_mrl89zem_6hqp4ki",
+          "name": "Tasha's Hideous Laughter",
+          "level": 1,
+          "school": "Enchantment",
+          "castingTime": "Action",
+          "range": "30ft",
+          "components": "",
+          "duration": "",
+          "concentration": false,
+          "ritual": false,
+          "prepared": false,
+          "description": "One creature of your choice that you can see within range makes a Wisdom saving throw. On a failed save, it has the Prone and Incapacitated conditions for the duration. During that time, it laughs uncontrollably if it's capable of laughter, and it can't end the Prone condition on itself.\nAt the end of each of its turns and each time it takes damage, it makes another Wisdom saving throw. The target has Advantage on the save if the save is triggered by damage. On a successful save, the spell ends.\nUsing a Higher-Level Spell Slot. You can target one additional creature for each spell slot level about 1.",
+          "higherLevels": "",
+          "damageType": "",
+          "tags": [],
+          "sourceClass": "Bard",
+          "sourcePlanet": "Bud's Character Sheet",
+          "favorite": false
         }
       ],
       "2": [],
@@ -980,26 +1000,6 @@
           "ritual": false,
           "prepared": false,
           "description": "You touch an object throughout the spell's casting. If the object is a magic item or some other magical object, you learn its properties and how to use them, whether it requires Attunement, and how many charges it has, if any. You learn whether any ongoing spells are affecting the item and what they are. If the item was created by a spell, you learn that spell's name.\nIf you instead touch a creature throughout the casting, you learn which ongoing spells, if any, are currently affecting it.",
-          "higherLevels": "",
-          "damageType": "",
-          "tags": [],
-          "sourceClass": "Bard",
-          "sourcePlanet": "Bud's Character Sheet",
-          "favorite": false
-        },
-        {
-          "id": "spell_mrl89zem_6hqp4ki",
-          "name": "Tasha's Hideous Laughter",
-          "level": -1,
-          "school": "Enchantment",
-          "castingTime": "Action",
-          "range": "30ft",
-          "components": "",
-          "duration": "",
-          "concentration": false,
-          "ritual": false,
-          "prepared": false,
-          "description": "One creature of your choice that you can see within range makes a Wisdom saving throw. On a failed save, it has the Prone and Incapacitated conditions for the duration. During that time, it laughs uncontrollably if it's capable of laughter, and it can't end the Prone condition on itself.\nAt the end of each of its turns and each time it takes damage, it makes another Wisdom saving throw. The target has Advantage on the save if the save is triggered by damage. On a successful save, the spell ends.\nUsing a Higher-Level Spell Slot. You can target one additional creature for each spell slot level about 1.",
           "higherLevels": "",
           "damageType": "",
           "tags": [],
@@ -1086,5 +1086,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 219
+  "_rev": 220
 }
