@@ -90,7 +90,7 @@
           "background": "#080603"
         },
         "customization": {
-          "textSize": "normal",
+          "textSize": "small",
           "density": "compact",
           "buttonStyle": "rounded",
           "hpStyle": "classic",
