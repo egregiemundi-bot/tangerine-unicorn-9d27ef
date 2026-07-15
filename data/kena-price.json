@@ -290,21 +290,30 @@
     ]
   },
   "_divineCache": {
-    "generatedAt": 1783956939889,
-    "totalLevel": 1,
+    "generatedAt": 1784079773346,
+    "totalLevel": 2,
     "hp": {
       "max": 0
     },
     "proficiencyBonus": 2,
     "peakAbilityScores": {
-      "str": 10,
+      "str": 19,
       "dex": 10,
-      "con": 10,
-      "int": 10,
-      "wis": 10,
+      "con": 15,
+      "int": 17,
+      "wis": 14,
       "cha": 10
     },
-    "classes": [],
+    "classes": [
+      {
+        "className": "Fighter",
+        "levels": 2,
+        "subclasses": [],
+        "planets": [
+          "Character Sheet"
+        ]
+      }
+    ],
     "subclasses": [],
     "features": [],
     "actions": [],
@@ -339,15 +348,17 @@
       "8": 0,
       "9": 0
     },
-    "spellSaveDC": 10,
-    "spellAttackBonus": 2,
+    "spellSaveDC": 13,
+    "spellAttackBonus": 5,
     "resources": [],
     "skills": [],
     "expertise": [],
     "savingThrows": [],
     "resistances": [],
     "immunities": [],
-    "languages": [],
+    "languages": [
+      "C R M"
+    ],
     "weaponProfs": [],
     "toolProfs": [],
     "feats": [],
@@ -355,7 +366,7 @@
     "asi": [],
     "counts": {
       "planets": 1,
-      "classes": 0,
+      "classes": 1,
       "subclasses": 0,
       "features": 0,
       "actions": 0,
@@ -368,30 +379,39 @@
       "skills": 0,
       "expertise": 0,
       "savingThrows": 0,
-      "languages": 0,
+      "languages": 1,
       "resistances": 0,
       "immunities": 0,
       "feats": 0,
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 0,
+  "_divineCacheRev": 1,
   "_divine": {
-    "generatedAt": 1783956939889,
-    "totalLevel": 1,
+    "generatedAt": 1784079773346,
+    "totalLevel": 2,
     "hp": {
       "max": 0
     },
     "proficiencyBonus": 2,
     "peakAbilityScores": {
-      "str": 10,
+      "str": 19,
       "dex": 10,
-      "con": 10,
-      "int": 10,
-      "wis": 10,
+      "con": 15,
+      "int": 17,
+      "wis": 14,
       "cha": 10
     },
-    "classes": [],
+    "classes": [
+      {
+        "className": "Fighter",
+        "levels": 2,
+        "subclasses": [],
+        "planets": [
+          "Character Sheet"
+        ]
+      }
+    ],
     "subclasses": [],
     "features": [],
     "actions": [],
@@ -426,15 +446,17 @@
       "8": 0,
       "9": 0
     },
-    "spellSaveDC": 10,
-    "spellAttackBonus": 2,
+    "spellSaveDC": 13,
+    "spellAttackBonus": 5,
     "resources": [],
     "skills": [],
     "expertise": [],
     "savingThrows": [],
     "resistances": [],
     "immunities": [],
-    "languages": [],
+    "languages": [
+      "C R M"
+    ],
     "weaponProfs": [],
     "toolProfs": [],
     "feats": [],
@@ -442,7 +464,7 @@
     "asi": [],
     "counts": {
       "planets": 1,
-      "classes": 0,
+      "classes": 1,
       "subclasses": 0,
       "features": 0,
       "actions": 0,
@@ -455,7 +477,7 @@
       "skills": 0,
       "expertise": 0,
       "savingThrows": 0,
-      "languages": 0,
+      "languages": 1,
       "resistances": 0,
       "immunities": 0,
       "feats": 0,
