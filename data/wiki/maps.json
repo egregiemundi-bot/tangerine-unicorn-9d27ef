@@ -37,6 +37,31 @@
       "parentPinId": "pin-mrmkvezn36kjn",
       "description": "",
       "defaultView": null,
+      "pins": [
+        {
+          "id": "pin-mrmky1rzujvom",
+          "x": 1030.7841855428849,
+          "y": 873.610129170207,
+          "title": "solaris manga",
+          "note": "",
+          "targetType": "map",
+          "targetId": "map-mrml13okejmh9",
+          "secret": false
+        }
+      ]
+    },
+    {
+      "id": "map-mrml13okejmh9",
+      "name": "solaris manga",
+      "title": "solaris manga",
+      "type": "city",
+      "image": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/maps/atlas-1784150273190.jpg?v=1784150311994",
+      "width": 4000,
+      "height": 3000,
+      "parentMapId": "map-mrmkx87tav4l1",
+      "parentPinId": "pin-mrmky1rzujvom",
+      "description": "",
+      "defaultView": null,
       "pins": []
     }
   ]
