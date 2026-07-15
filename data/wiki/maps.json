@@ -87,7 +87,18 @@
       "parentPinId": "pin-mrml1oz3vwql0",
       "description": "",
       "defaultView": null,
-      "pins": []
+      "pins": [
+        {
+          "id": "pin-mrmlck2s349uc",
+          "x": 1059.2183451050282,
+          "y": 883.810771359859,
+          "title": "test map",
+          "note": "this is a fighting pit, people fight here.",
+          "targetType": "wiki",
+          "targetId": "",
+          "secret": false
+        }
+      ]
     }
   ]
 }
