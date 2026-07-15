@@ -285,7 +285,7 @@
           "current": 0,
           "temp": 0
         },
-        "hitDice": "",
+        "hitDice": "d10",
         "deathSaves": {
           "successes": 0,
           "failures": 0
@@ -314,12 +314,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784079876865
+        "lastModified": 1784079880224
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784079877568,
+    "generatedAt": 1784079880925,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -459,9 +459,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 67,
+  "_divineCacheRev": 70,
   "_divine": {
-    "generatedAt": 1784079877568,
+    "generatedAt": 1784079880925,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -601,5 +601,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 67
+  "_rev": 70
 }
