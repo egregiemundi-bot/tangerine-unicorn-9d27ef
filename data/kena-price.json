@@ -292,7 +292,7 @@
         },
         "ac": 18,
         "initiativeBonus": 17,
-        "speed": 6,
+        "speed": 25,
         "resources": [],
         "spells": [],
         "features": [],
@@ -314,12 +314,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784079859874
+        "lastModified": 1784079870508
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784079860585,
+    "generatedAt": 1784079871213,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -459,9 +459,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 24,
+  "_divineCacheRev": 62,
   "_divine": {
-    "generatedAt": 1784079860585,
+    "generatedAt": 1784079871213,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -601,5 +601,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 24
+  "_rev": 62
 }
