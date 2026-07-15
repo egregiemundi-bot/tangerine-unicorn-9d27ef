@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-15T09:05:47.716Z",
+  "updatedAt": "2026-07-15T09:06:01.091Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -373,10 +373,6 @@
           {
             "k": "Property",
             "v": "new item test"
-          },
-          {
-            "k": "Property",
-            "v": "Description"
           }
         ],
         "abilities": []
