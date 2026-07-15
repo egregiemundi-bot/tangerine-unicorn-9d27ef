@@ -1687,6 +1687,14 @@
   },
   "_rev": 254,
   "backstory": {
-    "sections": []
+    "sections": [
+      {
+        "id": "bs_mrmkkzd2_13fnxpy",
+        "title": "DM secrets",
+        "text": "",
+        "hidden": false,
+        "builtin": false
+      }
+    ]
   }
 }
