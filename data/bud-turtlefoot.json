@@ -56,7 +56,9 @@
       "tab": "combat",
       "form": "divine",
       "activePlanetId": "",
-      "expanded": {},
+      "expanded": {
+        "spell:tasha's hideous laughter": true
+      },
       "pinned": [],
       "searchFilters": [],
       "searchMode": "AND",
@@ -846,7 +848,7 @@
     "prepMax": 0
   },
   "_divineCache": {
-    "generatedAt": 1784107627453,
+    "generatedAt": 1784107631135,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -993,7 +995,7 @@
         "duration": "",
         "concentration": false,
         "ritual": false,
-        "prepared": false,
+        "prepared": true,
         "description": "One creature of your choice that you can see within range makes a Wisdom saving throw. On a failed save, it has the Prone and Incapacitated conditions for the duration. During that time, it laughs uncontrollably if it's capable of laughter, and it can't end the Prone condition on itself.\nAt the end of each of its turns and each time it takes damage, it makes another Wisdom saving throw. The target has Advantage on the save if the save is triggered by damage. On a successful save, the spell ends.\nUsing a Higher-Level Spell Slot. You can target one additional creature for each spell slot level about 1.",
         "higherLevels": "",
         "damageType": "",
@@ -1078,7 +1080,7 @@
           "duration": "",
           "concentration": false,
           "ritual": false,
-          "prepared": false,
+          "prepared": true,
           "description": "One creature of your choice that you can see within range makes a Wisdom saving throw. On a failed save, it has the Prone and Incapacitated conditions for the duration. During that time, it laughs uncontrollably if it's capable of laughter, and it can't end the Prone condition on itself.\nAt the end of each of its turns and each time it takes damage, it makes another Wisdom saving throw. The target has Advantage on the save if the save is triggered by damage. On a successful save, the spell ends.\nUsing a Higher-Level Spell Slot. You can target one additional creature for each spell slot level about 1.",
           "higherLevels": "",
           "damageType": "",
@@ -1178,9 +1180,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 236,
+  "_divineCacheRev": 237,
   "_divine": {
-    "generatedAt": 1784107627453,
+    "generatedAt": 1784107631135,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -1327,7 +1329,7 @@
         "duration": "",
         "concentration": false,
         "ritual": false,
-        "prepared": false,
+        "prepared": true,
         "description": "One creature of your choice that you can see within range makes a Wisdom saving throw. On a failed save, it has the Prone and Incapacitated conditions for the duration. During that time, it laughs uncontrollably if it's capable of laughter, and it can't end the Prone condition on itself.\nAt the end of each of its turns and each time it takes damage, it makes another Wisdom saving throw. The target has Advantage on the save if the save is triggered by damage. On a successful save, the spell ends.\nUsing a Higher-Level Spell Slot. You can target one additional creature for each spell slot level about 1.",
         "higherLevels": "",
         "damageType": "",
@@ -1412,7 +1414,7 @@
           "duration": "",
           "concentration": false,
           "ritual": false,
-          "prepared": false,
+          "prepared": true,
           "description": "One creature of your choice that you can see within range makes a Wisdom saving throw. On a failed save, it has the Prone and Incapacitated conditions for the duration. During that time, it laughs uncontrollably if it's capable of laughter, and it can't end the Prone condition on itself.\nAt the end of each of its turns and each time it takes damage, it makes another Wisdom saving throw. The target has Advantage on the save if the save is triggered by damage. On a successful save, the spell ends.\nUsing a Higher-Level Spell Slot. You can target one additional creature for each spell slot level about 1.",
           "higherLevels": "",
           "damageType": "",
