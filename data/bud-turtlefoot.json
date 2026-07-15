@@ -727,7 +727,7 @@
           {
             "name": "Intimidation",
             "proficient": true,
-            "expertise": false,
+            "expertise": true,
             "half": false
           }
         ],
@@ -866,13 +866,13 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784108465437
+        "lastModified": 1784108466173
       }
     ],
     "prepMax": 0
   },
   "_divineCache": {
-    "generatedAt": 1784108466148,
+    "generatedAt": 1784108466888,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -1169,14 +1169,24 @@
       {
         "name": "Intimidation",
         "proficient": true,
-        "expertise": false,
+        "expertise": true,
         "half": false,
         "sources": [
           "Bud's Character Sheet"
         ]
       }
     ],
-    "expertise": [],
+    "expertise": [
+      {
+        "name": "Intimidation",
+        "proficient": true,
+        "expertise": true,
+        "half": false,
+        "sources": [
+          "Bud's Character Sheet"
+        ]
+      }
+    ],
     "savingThrows": [
       "dex",
       "cha"
@@ -1204,7 +1214,7 @@
       "cantrips": 1,
       "resources": 0,
       "skills": 4,
-      "expertise": 0,
+      "expertise": 1,
       "savingThrows": 2,
       "languages": 1,
       "resistances": 0,
@@ -1213,9 +1223,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 245,
+  "_divineCacheRev": 246,
   "_divine": {
-    "generatedAt": 1784108466148,
+    "generatedAt": 1784108466888,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -1512,14 +1522,24 @@
       {
         "name": "Intimidation",
         "proficient": true,
-        "expertise": false,
+        "expertise": true,
         "half": false,
         "sources": [
           "Bud's Character Sheet"
         ]
       }
     ],
-    "expertise": [],
+    "expertise": [
+      {
+        "name": "Intimidation",
+        "proficient": true,
+        "expertise": true,
+        "half": false,
+        "sources": [
+          "Bud's Character Sheet"
+        ]
+      }
+    ],
     "savingThrows": [
       "dex",
       "cha"
@@ -1547,7 +1567,7 @@
       "cantrips": 1,
       "resources": 0,
       "skills": 4,
-      "expertise": 0,
+      "expertise": 1,
       "savingThrows": 2,
       "languages": 1,
       "resistances": 0,
@@ -1556,7 +1576,7 @@
       "epicBoons": 0
     }
   },
-  "_rev": 245,
+  "_rev": 246,
   "backstory": {
     "sections": []
   }
