@@ -691,6 +691,15 @@
             "player": "bud-turtlefoot",
             "character": "Bud Turtlefoot",
             "__fxDone": true
+          },
+          {
+            "kind": "note",
+            "text": "⛺ Short Rest — no changes",
+            "label": "Note",
+            "id": "roll-mrmkivez-sc5bj1",
+            "at": 1784149461899,
+            "player": "bud-turtlefoot",
+            "character": "Bud Turtlefoot"
           }
         ]
       },
@@ -1676,7 +1685,7 @@
       "epicBoons": 0
     }
   },
-  "_rev": 253,
+  "_rev": 254,
   "backstory": {
     "sections": []
   }
