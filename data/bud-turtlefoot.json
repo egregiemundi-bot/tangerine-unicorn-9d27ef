@@ -310,7 +310,7 @@
             "duration": "Instantaneous",
             "concentration": false,
             "ritual": false,
-            "prepared": false,
+            "prepared": true,
             "description": "A wave of thunderous force sweeps out from you. Each creature in a 15-foot cube originating from you must make a constitution saving throw. On a failed save, a creature takes 2d8 thunder damage and is pushed 10 feet away from you. On a successful save, the creature takes half as much damage and isn't pushed. In addition, unsecured objects that are completely within the area of effect are automatically pushed 10 feet away from you by the spell's effect, and the spell emits a thunderous boom audible out to 300 feet.",
             "higherLevels": "When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.",
             "damageType": "",
@@ -424,7 +424,7 @@
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784076872511,
+    "generatedAt": 1784076881528,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -543,7 +543,7 @@
       {
         "id": "spell_mrl88dhh_5n2jl67",
         "name": "Identify",
-        "level": -1,
+        "level": 1,
         "school": "Divination",
         "castingTime": "1min/Ritual",
         "range": "Touch",
@@ -626,6 +626,26 @@
           "favorite": false
         },
         {
+          "id": "spell_mrl88dhh_5n2jl67",
+          "name": "Identify",
+          "level": 1,
+          "school": "Divination",
+          "castingTime": "1min/Ritual",
+          "range": "Touch",
+          "components": "",
+          "duration": "",
+          "concentration": false,
+          "ritual": false,
+          "prepared": false,
+          "description": "You touch an object throughout the spell's casting. If the object is a magic item or some other magical object, you learn its properties and how to use them, whether it requires Attunement, and how many charges it has, if any. You learn whether any ongoing spells are affecting the item and what they are. If the item was created by a spell, you learn that spell's name.\nIf you instead touch a creature throughout the casting, you learn which ongoing spells, if any, are currently affecting it.",
+          "higherLevels": "",
+          "damageType": "",
+          "tags": [],
+          "sourceClass": "Bard",
+          "sourcePlanet": "Bud's Character Sheet",
+          "favorite": false
+        },
+        {
           "id": "spell_mrl89zem_6hqp4ki",
           "name": "Tasha's Hideous Laughter",
           "level": 1,
@@ -654,28 +674,7 @@
       "7": [],
       "8": [],
       "9": [],
-      "unassigned": [
-        {
-          "id": "spell_mrl88dhh_5n2jl67",
-          "name": "Identify",
-          "level": -1,
-          "school": "Divination",
-          "castingTime": "1min/Ritual",
-          "range": "Touch",
-          "components": "",
-          "duration": "",
-          "concentration": false,
-          "ritual": false,
-          "prepared": false,
-          "description": "You touch an object throughout the spell's casting. If the object is a magic item or some other magical object, you learn its properties and how to use them, whether it requires Attunement, and how many charges it has, if any. You learn whether any ongoing spells are affecting the item and what they are. If the item was created by a spell, you learn that spell's name.\nIf you instead touch a creature throughout the casting, you learn which ongoing spells, if any, are currently affecting it.",
-          "higherLevels": "",
-          "damageType": "",
-          "tags": [],
-          "sourceClass": "Bard",
-          "sourcePlanet": "Bud's Character Sheet",
-          "favorite": false
-        }
-      ]
+      "unassigned": []
     },
     "spellSlots": {
       "1": 3,
@@ -754,9 +753,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 219,
+  "_divineCacheRev": 220,
   "_divine": {
-    "generatedAt": 1784076872511,
+    "generatedAt": 1784076881528,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -875,7 +874,7 @@
       {
         "id": "spell_mrl88dhh_5n2jl67",
         "name": "Identify",
-        "level": -1,
+        "level": 1,
         "school": "Divination",
         "castingTime": "1min/Ritual",
         "range": "Touch",
@@ -958,6 +957,26 @@
           "favorite": false
         },
         {
+          "id": "spell_mrl88dhh_5n2jl67",
+          "name": "Identify",
+          "level": 1,
+          "school": "Divination",
+          "castingTime": "1min/Ritual",
+          "range": "Touch",
+          "components": "",
+          "duration": "",
+          "concentration": false,
+          "ritual": false,
+          "prepared": false,
+          "description": "You touch an object throughout the spell's casting. If the object is a magic item or some other magical object, you learn its properties and how to use them, whether it requires Attunement, and how many charges it has, if any. You learn whether any ongoing spells are affecting the item and what they are. If the item was created by a spell, you learn that spell's name.\nIf you instead touch a creature throughout the casting, you learn which ongoing spells, if any, are currently affecting it.",
+          "higherLevels": "",
+          "damageType": "",
+          "tags": [],
+          "sourceClass": "Bard",
+          "sourcePlanet": "Bud's Character Sheet",
+          "favorite": false
+        },
+        {
           "id": "spell_mrl89zem_6hqp4ki",
           "name": "Tasha's Hideous Laughter",
           "level": 1,
@@ -986,28 +1005,7 @@
       "7": [],
       "8": [],
       "9": [],
-      "unassigned": [
-        {
-          "id": "spell_mrl88dhh_5n2jl67",
-          "name": "Identify",
-          "level": -1,
-          "school": "Divination",
-          "castingTime": "1min/Ritual",
-          "range": "Touch",
-          "components": "",
-          "duration": "",
-          "concentration": false,
-          "ritual": false,
-          "prepared": false,
-          "description": "You touch an object throughout the spell's casting. If the object is a magic item or some other magical object, you learn its properties and how to use them, whether it requires Attunement, and how many charges it has, if any. You learn whether any ongoing spells are affecting the item and what they are. If the item was created by a spell, you learn that spell's name.\nIf you instead touch a creature throughout the casting, you learn which ongoing spells, if any, are currently affecting it.",
-          "higherLevels": "",
-          "damageType": "",
-          "tags": [],
-          "sourceClass": "Bard",
-          "sourcePlanet": "Bud's Character Sheet",
-          "favorite": false
-        }
-      ]
+      "unassigned": []
     },
     "spellSlots": {
       "1": 3,
@@ -1086,5 +1084,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 220
+  "_rev": 221
 }
