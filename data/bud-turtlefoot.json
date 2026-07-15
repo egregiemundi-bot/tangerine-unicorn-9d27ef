@@ -726,9 +726,9 @@
           },
           {
             "name": "Intimidation",
-            "proficient": false,
+            "proficient": true,
             "expertise": false,
-            "half": true
+            "half": false
           }
         ],
         "hp": {
@@ -866,13 +866,13 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784108450350
+        "lastModified": 1784108465437
       }
     ],
     "prepMax": 0
   },
   "_divineCache": {
-    "generatedAt": 1784108451050,
+    "generatedAt": 1784108466148,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -1168,9 +1168,9 @@
       },
       {
         "name": "Intimidation",
-        "proficient": false,
+        "proficient": true,
         "expertise": false,
-        "half": true,
+        "half": false,
         "sources": [
           "Bud's Character Sheet"
         ]
@@ -1213,9 +1213,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 244,
+  "_divineCacheRev": 245,
   "_divine": {
-    "generatedAt": 1784108451050,
+    "generatedAt": 1784108466148,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -1511,9 +1511,9 @@
       },
       {
         "name": "Intimidation",
-        "proficient": false,
+        "proficient": true,
         "expertise": false,
-        "half": true,
+        "half": false,
         "sources": [
           "Bud's Character Sheet"
         ]
@@ -1556,7 +1556,7 @@
       "epicBoons": 0
     }
   },
-  "_rev": 244,
+  "_rev": 245,
   "backstory": {
     "sections": []
   }
