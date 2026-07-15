@@ -68,7 +68,7 @@
         "mod": 0
       },
       "combat": {
-        "currentHp": null,
+        "currentHp": 15,
         "tempHp": 0,
         "notes": "",
         "conditions": [],
@@ -279,7 +279,7 @@
           {
             "name": "Acrobatics",
             "proficient": true,
-            "expertise": false
+            "expertise": true
           }
         ],
         "hp": {
@@ -417,12 +417,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784075859795
+        "lastModified": 1784076006071
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784075859871,
+    "generatedAt": 1784076006772,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -717,13 +717,22 @@
       {
         "name": "Acrobatics",
         "proficient": true,
-        "expertise": false,
+        "expertise": true,
         "sources": [
           "Bud's Character Sheet"
         ]
       }
     ],
-    "expertise": [],
+    "expertise": [
+      {
+        "name": "Acrobatics",
+        "proficient": true,
+        "expertise": true,
+        "sources": [
+          "Bud's Character Sheet"
+        ]
+      }
+    ],
     "savingThrows": [
       "dex",
       "cha"
@@ -751,7 +760,7 @@
       "cantrips": 1,
       "resources": 0,
       "skills": 4,
-      "expertise": 0,
+      "expertise": 1,
       "savingThrows": 2,
       "languages": 1,
       "resistances": 0,
@@ -760,9 +769,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 214,
+  "_divineCacheRev": 215,
   "_divine": {
-    "generatedAt": 1784075859871,
+    "generatedAt": 1784076006772,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -1057,13 +1066,22 @@
       {
         "name": "Acrobatics",
         "proficient": true,
-        "expertise": false,
+        "expertise": true,
         "sources": [
           "Bud's Character Sheet"
         ]
       }
     ],
-    "expertise": [],
+    "expertise": [
+      {
+        "name": "Acrobatics",
+        "proficient": true,
+        "expertise": true,
+        "sources": [
+          "Bud's Character Sheet"
+        ]
+      }
+    ],
     "savingThrows": [
       "dex",
       "cha"
@@ -1091,7 +1109,7 @@
       "cantrips": 1,
       "resources": 0,
       "skills": 4,
-      "expertise": 0,
+      "expertise": 1,
       "savingThrows": 2,
       "languages": 1,
       "resistances": 0,
@@ -1100,5 +1118,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 214
+  "_rev": 215
 }
