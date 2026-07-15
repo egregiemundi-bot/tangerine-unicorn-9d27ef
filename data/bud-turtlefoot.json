@@ -61,8 +61,8 @@
       "searchFilters": [],
       "searchMode": "AND",
       "dice": {
-        "count": 1,
-        "sides": 20,
+        "count": 2,
+        "sides": 13,
         "mod": 0
       },
       "combat": {
@@ -550,6 +550,29 @@
             "detail": "1d20 [3] +4",
             "id": "roll-mrlw3zto-e6vcbe",
             "at": 1784108456988,
+            "player": "bud-turtlefoot",
+            "character": "Bud Turtlefoot",
+            "__fxDone": true
+          },
+          {
+            "kind": "roll",
+            "label": "2d13",
+            "formula": "2d13",
+            "total": 7,
+            "dice": [
+              {
+                "sides": 13,
+                "value": 3
+              },
+              {
+                "sides": 13,
+                "value": 4
+              }
+            ],
+            "text": "2d13 = 7",
+            "detail": "3, 4",
+            "id": "roll-mrmki05u-1f40b0",
+            "at": 1784149421395,
             "player": "bud-turtlefoot",
             "character": "Bud Turtlefoot",
             "__fxDone": true
