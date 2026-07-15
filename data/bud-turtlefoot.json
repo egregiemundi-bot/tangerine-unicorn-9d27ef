@@ -697,6 +697,12 @@
             "name": "Acrobatics",
             "proficient": false,
             "expertise": false
+          },
+          {
+            "name": "Deception",
+            "proficient": false,
+            "expertise": false,
+            "half": true
           }
         ],
         "hp": {
@@ -834,23 +840,23 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784077089126
+        "lastModified": 1784106646967
       }
     ],
     "prepMax": 0
   },
   "_divineCache": {
-    "generatedAt": 1784077089826,
+    "generatedAt": 1784106647682,
     "totalLevel": 2,
     "hp": {
       "max": 15
     },
     "proficiencyBonus": 2,
     "peakAbilityScores": {
-      "str": 10,
+      "str": 8,
       "dex": 16,
       "con": 12,
-      "int": 10,
+      "int": 7,
       "wis": 13,
       "cha": 16
     },
@@ -1111,6 +1117,7 @@
         "name": "Persuasion",
         "proficient": true,
         "expertise": false,
+        "half": false,
         "sources": [
           "Bud's Character Sheet"
         ]
@@ -1119,6 +1126,7 @@
         "name": "Performance",
         "proficient": true,
         "expertise": false,
+        "half": false,
         "sources": [
           "Bud's Character Sheet"
         ]
@@ -1127,6 +1135,16 @@
         "name": "Investigation",
         "proficient": true,
         "expertise": false,
+        "half": false,
+        "sources": [
+          "Bud's Character Sheet"
+        ]
+      },
+      {
+        "name": "Deception",
+        "proficient": false,
+        "expertise": false,
+        "half": true,
         "sources": [
           "Bud's Character Sheet"
         ]
@@ -1159,7 +1177,7 @@
       "spells": 4,
       "cantrips": 1,
       "resources": 0,
-      "skills": 3,
+      "skills": 4,
       "expertise": 0,
       "savingThrows": 2,
       "languages": 1,
@@ -1169,19 +1187,19 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 227,
+  "_divineCacheRev": 229,
   "_divine": {
-    "generatedAt": 1784077089826,
+    "generatedAt": 1784106647682,
     "totalLevel": 2,
     "hp": {
       "max": 15
     },
     "proficiencyBonus": 2,
     "peakAbilityScores": {
-      "str": 10,
+      "str": 8,
       "dex": 16,
       "con": 12,
-      "int": 10,
+      "int": 7,
       "wis": 13,
       "cha": 16
     },
@@ -1442,6 +1460,7 @@
         "name": "Persuasion",
         "proficient": true,
         "expertise": false,
+        "half": false,
         "sources": [
           "Bud's Character Sheet"
         ]
@@ -1450,6 +1469,7 @@
         "name": "Performance",
         "proficient": true,
         "expertise": false,
+        "half": false,
         "sources": [
           "Bud's Character Sheet"
         ]
@@ -1458,6 +1478,16 @@
         "name": "Investigation",
         "proficient": true,
         "expertise": false,
+        "half": false,
+        "sources": [
+          "Bud's Character Sheet"
+        ]
+      },
+      {
+        "name": "Deception",
+        "proficient": false,
+        "expertise": false,
+        "half": true,
         "sources": [
           "Bud's Character Sheet"
         ]
@@ -1490,7 +1520,7 @@
       "spells": 4,
       "cantrips": 1,
       "resources": 0,
-      "skills": 3,
+      "skills": 4,
       "expertise": 0,
       "savingThrows": 2,
       "languages": 1,
@@ -1500,5 +1530,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 228
+  "_rev": 229
 }
