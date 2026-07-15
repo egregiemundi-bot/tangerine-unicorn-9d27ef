@@ -62,6 +62,31 @@
       "parentPinId": "pin-mrmky1rzujvom",
       "description": "",
       "defaultView": null,
+      "pins": [
+        {
+          "id": "pin-mrml1oz3vwql0",
+          "x": 1327.902150226696,
+          "y": 1721.4516906738281,
+          "title": "fighting pit",
+          "note": "",
+          "targetType": "map",
+          "targetId": "map-mrml2vtupaeet",
+          "secret": false
+        }
+      ]
+    },
+    {
+      "id": "map-mrml2vtupaeet",
+      "name": "fighting pit",
+      "title": "fighting pit",
+      "type": "building",
+      "image": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/maps/atlas-1784150380951.jpg?v=1784150395139",
+      "width": 2048,
+      "height": 1536,
+      "parentMapId": "map-mrml13okejmh9",
+      "parentPinId": "pin-mrml1oz3vwql0",
+      "description": "",
+      "defaultView": null,
       "pins": []
     }
   ]
