@@ -53,7 +53,7 @@
     "activePlanetId": "planet_mrl7pd4i_1u85ih4",
     "favoriteSpells": [],
     "ui": {
-      "tab": "combat",
+      "tab": "backstory",
       "form": "divine",
       "activePlanetId": "",
       "expanded": {},
@@ -1019,7 +1019,7 @@
     "prepMax": 0
   },
   "_divineCache": {
-    "generatedAt": 1784108582458,
+    "generatedAt": 1784149463906,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -1351,9 +1351,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 253,
+  "_divineCacheRev": 254,
   "_divine": {
-    "generatedAt": 1784108582458,
+    "generatedAt": 1784149463906,
     "totalLevel": 2,
     "hp": {
       "max": 15
