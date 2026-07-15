@@ -265,6 +265,11 @@
             "name": "Investigation",
             "proficient": true,
             "expertise": false
+          },
+          {
+            "name": "Perception",
+            "proficient": true,
+            "expertise": false
           }
         ],
         "hp": {
@@ -301,12 +306,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784079820448
+        "lastModified": 1784079823370
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784079821157,
+    "generatedAt": 1784079824075,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -391,6 +396,14 @@
         "sources": [
           "Character Sheet"
         ]
+      },
+      {
+        "name": "Perception",
+        "proficient": true,
+        "expertise": false,
+        "sources": [
+          "Character Sheet"
+        ]
       }
     ],
     "expertise": [],
@@ -417,7 +430,7 @@
       "spells": 0,
       "cantrips": 0,
       "resources": 0,
-      "skills": 3,
+      "skills": 4,
       "expertise": 0,
       "savingThrows": 0,
       "languages": 1,
@@ -427,9 +440,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 4,
+  "_divineCacheRev": 5,
   "_divine": {
-    "generatedAt": 1784079821157,
+    "generatedAt": 1784079824075,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -514,6 +527,14 @@
         "sources": [
           "Character Sheet"
         ]
+      },
+      {
+        "name": "Perception",
+        "proficient": true,
+        "expertise": false,
+        "sources": [
+          "Character Sheet"
+        ]
       }
     ],
     "expertise": [],
@@ -540,7 +561,7 @@
       "spells": 0,
       "cantrips": 0,
       "resources": 0,
-      "skills": 3,
+      "skills": 4,
       "expertise": 0,
       "savingThrows": 0,
       "languages": 1,
@@ -550,5 +571,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 4
+  "_rev": 5
 }
