@@ -58,7 +58,8 @@
       "activePlanetId": "",
       "expanded": {
         "spell:prestidigitation": true,
-        "spell:tasha's hideous laughter": true
+        "spell:tasha's hideous laughter": true,
+        "feat:jack of all trades": true
       },
       "pinned": [],
       "searchFilters": [],
