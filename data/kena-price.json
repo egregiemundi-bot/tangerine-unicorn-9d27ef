@@ -314,12 +314,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784079887232
+        "lastModified": 1784079888416
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784079887933,
+    "generatedAt": 1784079889117,
     "totalLevel": 2,
     "hp": {
       "max": 20
@@ -459,9 +459,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 76,
+  "_divineCacheRev": 77,
   "_divine": {
-    "generatedAt": 1784079887933,
+    "generatedAt": 1784079889117,
     "totalLevel": 2,
     "hp": {
       "max": 20
@@ -601,5 +601,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 76
+  "_rev": 77
 }
