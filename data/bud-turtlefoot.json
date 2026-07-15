@@ -58,7 +58,8 @@
       "activePlanetId": "",
       "expanded": {
         "spell:prestidigitation": true,
-        "lspell:thunderwave": true
+        "lspell:thunderwave": true,
+        "spell:tasha's hideous laughter": true
       },
       "pinned": [],
       "searchFilters": [],
