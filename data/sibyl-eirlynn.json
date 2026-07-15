@@ -115,7 +115,63 @@
         },
         "wallpaper": "",
         "slotsUsed": {},
-        "rollLog": []
+        "rollLog": [
+          {
+            "kind": "roll",
+            "label": "Fireball Damage",
+            "formula": "8d6",
+            "total": 17,
+            "dice": [
+              {
+                "sides": 6,
+                "value": 3,
+                "sign": 1
+              },
+              {
+                "sides": 6,
+                "value": 2,
+                "sign": 1
+              },
+              {
+                "sides": 6,
+                "value": 1,
+                "sign": 1
+              },
+              {
+                "sides": 6,
+                "value": 4,
+                "sign": 1
+              },
+              {
+                "sides": 6,
+                "value": 1,
+                "sign": 1
+              },
+              {
+                "sides": 6,
+                "value": 1,
+                "sign": 1
+              },
+              {
+                "sides": 6,
+                "value": 4,
+                "sign": 1
+              },
+              {
+                "sides": 6,
+                "value": 1,
+                "sign": 1
+              }
+            ],
+            "text": "Fireball Damage: 8d6 = 17",
+            "detail": "8d6 [3, 2, 1, 4, 1, 1, 4, 1]",
+            "id": "roll-mrlvd3z0-207bni",
+            "at": 1784107202652,
+            "player": "sibyl-eirlynn",
+            "character": "Sibyl Eirlynn",
+            "__fxDone": true
+          }
+        ]
       }
     },
     "artifacts": [],
