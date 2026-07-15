@@ -249,7 +249,9 @@
           "wis": 14,
           "cha": 10
         },
-        "savingThrows": [],
+        "savingThrows": [
+          "str"
+        ],
         "skills": [
           {
             "name": "Athletics",
@@ -311,12 +313,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784079826317
+        "lastModified": 1784079834733
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784079827032,
+    "generatedAt": 1784079835437,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -420,7 +422,9 @@
       }
     ],
     "expertise": [],
-    "savingThrows": [],
+    "savingThrows": [
+      "str"
+    ],
     "resistances": [],
     "immunities": [],
     "languages": [
@@ -445,7 +449,7 @@
       "resources": 0,
       "skills": 5,
       "expertise": 0,
-      "savingThrows": 0,
+      "savingThrows": 1,
       "languages": 1,
       "resistances": 0,
       "immunities": 0,
@@ -453,9 +457,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 6,
+  "_divineCacheRev": 7,
   "_divine": {
-    "generatedAt": 1784079827032,
+    "generatedAt": 1784079835437,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -559,7 +563,9 @@
       }
     ],
     "expertise": [],
-    "savingThrows": [],
+    "savingThrows": [
+      "str"
+    ],
     "resistances": [],
     "immunities": [],
     "languages": [
@@ -584,7 +590,7 @@
       "resources": 0,
       "skills": 5,
       "expertise": 0,
-      "savingThrows": 0,
+      "savingThrows": 1,
       "languages": 1,
       "resistances": 0,
       "immunities": 0,
@@ -592,5 +598,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 6
+  "_rev": 7
 }
