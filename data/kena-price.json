@@ -66,7 +66,7 @@
         "mod": 0
       },
       "combat": {
-        "currentHp": null,
+        "currentHp": 20,
         "tempHp": 0,
         "notes": "",
         "conditions": [],
@@ -301,7 +301,9 @@
         "asi": [],
         "resistances": [],
         "immunities": [],
-        "weaponProfs": [],
+        "weaponProfs": [
+          ""
+        ],
         "armorProfs": [],
         "toolProfs": [],
         "languages": [
@@ -314,12 +316,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784079888416
+        "lastModified": 1784080035633
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784079889117,
+    "generatedAt": 1784080036333,
     "totalLevel": 2,
     "hp": {
       "max": 20
@@ -459,9 +461,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 77,
+  "_divineCacheRev": 78,
   "_divine": {
-    "generatedAt": 1784079889117,
+    "generatedAt": 1784080036333,
     "totalLevel": 2,
     "hp": {
       "max": 20
@@ -601,5 +603,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 77
+  "_rev": 78
 }
