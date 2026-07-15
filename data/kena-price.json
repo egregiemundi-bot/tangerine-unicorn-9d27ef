@@ -255,6 +255,11 @@
             "name": "Athletics",
             "proficient": true,
             "expertise": false
+          },
+          {
+            "name": "History",
+            "proficient": true,
+            "expertise": false
           }
         ],
         "hp": {
@@ -291,12 +296,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784079811249
+        "lastModified": 1784079816347
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784079811963,
+    "generatedAt": 1784079817052,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -365,6 +370,14 @@
         "sources": [
           "Character Sheet"
         ]
+      },
+      {
+        "name": "History",
+        "proficient": true,
+        "expertise": false,
+        "sources": [
+          "Character Sheet"
+        ]
       }
     ],
     "expertise": [],
@@ -391,7 +404,7 @@
       "spells": 0,
       "cantrips": 0,
       "resources": 0,
-      "skills": 1,
+      "skills": 2,
       "expertise": 0,
       "savingThrows": 0,
       "languages": 1,
@@ -401,9 +414,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 2,
+  "_divineCacheRev": 3,
   "_divine": {
-    "generatedAt": 1784079811963,
+    "generatedAt": 1784079817052,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -472,6 +485,14 @@
         "sources": [
           "Character Sheet"
         ]
+      },
+      {
+        "name": "History",
+        "proficient": true,
+        "expertise": false,
+        "sources": [
+          "Character Sheet"
+        ]
       }
     ],
     "expertise": [],
@@ -498,7 +519,7 @@
       "spells": 0,
       "cantrips": 0,
       "resources": 0,
-      "skills": 1,
+      "skills": 2,
       "expertise": 0,
       "savingThrows": 0,
       "languages": 1,
@@ -508,5 +529,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 2
+  "_rev": 3
 }
