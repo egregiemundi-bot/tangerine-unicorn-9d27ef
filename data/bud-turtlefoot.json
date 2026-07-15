@@ -91,7 +91,7 @@
         },
         "customization": {
           "textSize": "normal",
-          "density": "normal",
+          "density": "spacious",
           "buttonStyle": "rounded",
           "hpStyle": "classic",
           "diceTheme": "classic",
@@ -846,7 +846,7 @@
     "prepMax": 0
   },
   "_divineCache": {
-    "generatedAt": 1784107650101,
+    "generatedAt": 1784107654430,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -933,7 +933,7 @@
         "duration": "Instantaneous",
         "concentration": false,
         "ritual": false,
-        "prepared": false,
+        "prepared": true,
         "description": "A wave of thunderous force sweeps out from you. Each creature in a 15-foot cube originating from you must make a constitution saving throw. On a failed save, a creature takes 2d8 thunder damage and is pushed 10 feet away from you. On a successful save, the creature takes half as much damage and isn't pushed. In addition, unsecured objects that are completely within the area of effect are automatically pushed 10 feet away from you by the spell's effect, and the spell emits a thunderous boom audible out to 300 feet.",
         "higherLevels": "When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.",
         "damageType": "",
@@ -1038,7 +1038,7 @@
           "duration": "Instantaneous",
           "concentration": false,
           "ritual": false,
-          "prepared": false,
+          "prepared": true,
           "description": "A wave of thunderous force sweeps out from you. Each creature in a 15-foot cube originating from you must make a constitution saving throw. On a failed save, a creature takes 2d8 thunder damage and is pushed 10 feet away from you. On a successful save, the creature takes half as much damage and isn't pushed. In addition, unsecured objects that are completely within the area of effect are automatically pushed 10 feet away from you by the spell's effect, and the spell emits a thunderous boom audible out to 300 feet.",
           "higherLevels": "When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.",
           "damageType": "",
@@ -1178,9 +1178,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 238,
+  "_divineCacheRev": 239,
   "_divine": {
-    "generatedAt": 1784107650101,
+    "generatedAt": 1784107654430,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -1267,7 +1267,7 @@
         "duration": "Instantaneous",
         "concentration": false,
         "ritual": false,
-        "prepared": false,
+        "prepared": true,
         "description": "A wave of thunderous force sweeps out from you. Each creature in a 15-foot cube originating from you must make a constitution saving throw. On a failed save, a creature takes 2d8 thunder damage and is pushed 10 feet away from you. On a successful save, the creature takes half as much damage and isn't pushed. In addition, unsecured objects that are completely within the area of effect are automatically pushed 10 feet away from you by the spell's effect, and the spell emits a thunderous boom audible out to 300 feet.",
         "higherLevels": "When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.",
         "damageType": "",
@@ -1372,7 +1372,7 @@
           "duration": "Instantaneous",
           "concentration": false,
           "ritual": false,
-          "prepared": false,
+          "prepared": true,
           "description": "A wave of thunderous force sweeps out from you. Each creature in a 15-foot cube originating from you must make a constitution saving throw. On a failed save, a creature takes 2d8 thunder damage and is pushed 10 feet away from you. On a successful save, the creature takes half as much damage and isn't pushed. In addition, unsecured objects that are completely within the area of effect are automatically pushed 10 feet away from you by the spell's effect, and the spell emits a thunderous boom audible out to 300 feet.",
           "higherLevels": "When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.",
           "damageType": "",
