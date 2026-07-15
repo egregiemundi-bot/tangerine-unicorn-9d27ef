@@ -513,6 +513,26 @@
             "at": 1784106522485,
             "player": "bud-turtlefoot",
             "character": "Bud Turtlefoot"
+          },
+          {
+            "kind": "roll",
+            "label": "Arcana Check",
+            "formula": "1d20-2",
+            "total": 0,
+            "dice": [
+              {
+                "sides": 20,
+                "value": 2,
+                "sign": 1
+              }
+            ],
+            "text": "Arcana Check: 1d20-2 = 0",
+            "detail": "1d20 [2] -2",
+            "id": "roll-mrlv0hbf-8lbc5r",
+            "at": 1784106613419,
+            "player": "bud-turtlefoot",
+            "character": "Bud Turtlefoot",
+            "__fxDone": true
           }
         ]
       },
