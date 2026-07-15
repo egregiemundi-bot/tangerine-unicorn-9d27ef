@@ -533,6 +533,26 @@
             "player": "bud-turtlefoot",
             "character": "Bud Turtlefoot",
             "__fxDone": true
+          },
+          {
+            "kind": "roll",
+            "label": "Intimidation Check",
+            "formula": "1d20+4",
+            "total": 7,
+            "dice": [
+              {
+                "sides": 20,
+                "value": 3,
+                "sign": 1
+              }
+            ],
+            "text": "Intimidation Check: 1d20+4 = 7",
+            "detail": "1d20 [3] +4",
+            "id": "roll-mrlw3zto-e6vcbe",
+            "at": 1784108456988,
+            "player": "bud-turtlefoot",
+            "character": "Bud Turtlefoot",
+            "__fxDone": true
           }
         ]
       },
