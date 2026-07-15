@@ -668,6 +668,29 @@
             "player": "bud-turtlefoot",
             "character": "Bud Turtlefoot",
             "__fxDone": true
+          },
+          {
+            "kind": "roll",
+            "label": "2d4",
+            "formula": "2d4",
+            "total": 8,
+            "dice": [
+              {
+                "sides": 4,
+                "value": 4
+              },
+              {
+                "sides": 4,
+                "value": 4
+              }
+            ],
+            "text": "2d4 = 8",
+            "detail": "4, 4",
+            "id": "roll-mrmkidhw-o2xowl",
+            "at": 1784149438676,
+            "player": "bud-turtlefoot",
+            "character": "Bud Turtlefoot",
+            "__fxDone": true
           }
         ]
       },
