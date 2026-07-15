@@ -116,6 +116,90 @@
         "wallpaper": "",
         "slotsUsed": {},
         "rollLog": []
+      },
+      "lastImportBackup": {
+        "planetId": "planet_mrjdwghd_909qy6x",
+        "ts": 1784079773344,
+        "snapshot": {
+          "id": "planet_mrjdwghd_909qy6x",
+          "registryId": "main_character",
+          "index": 1,
+          "name": "",
+          "planetName": "Character Sheet",
+          "planetImage": "",
+          "status": "active",
+          "level": 1,
+          "xp": 0,
+          "className": "",
+          "subclass": "",
+          "background": "",
+          "alignment": "",
+          "species": "",
+          "classes": [
+            {
+              "className": "",
+              "subclass": "",
+              "level": 1
+            }
+          ],
+          "spellcasting": [],
+          "spellSlots": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 0,
+            "9": 0
+          },
+          "spellSaveDC": 0,
+          "spellAttackBonus": 0,
+          "abilityScores": {
+            "str": 10,
+            "dex": 10,
+            "con": 10,
+            "int": 10,
+            "wis": 10,
+            "cha": 10
+          },
+          "savingThrows": [],
+          "skills": [],
+          "hp": {
+            "max": 0,
+            "current": 0,
+            "temp": 0
+          },
+          "hitDice": "",
+          "deathSaves": {
+            "successes": 0,
+            "failures": 0
+          },
+          "ac": 10,
+          "initiativeBonus": 0,
+          "speed": 30,
+          "resources": [],
+          "spells": [],
+          "features": [],
+          "feats": [],
+          "epicBoons": [],
+          "asi": [],
+          "resistances": [],
+          "immunities": [],
+          "weaponProfs": [],
+          "armorProfs": [],
+          "toolProfs": [],
+          "languages": [],
+          "inventory": [],
+          "gold": 0,
+          "notes": "",
+          "history": "",
+          "journal": [],
+          "relationships": [],
+          "quests": [],
+          "lastModified": 0
+        }
       }
     },
     "artifacts": [],
@@ -125,18 +209,24 @@
         "id": "planet_mrjdwghd_909qy6x",
         "registryId": "main_character",
         "index": 1,
-        "name": "",
+        "name": "Guard",
         "planetName": "Character Sheet",
         "planetImage": "",
         "status": "active",
-        "level": 1,
+        "level": 2,
         "xp": 0,
-        "className": "",
+        "className": "Fighter",
         "subclass": "",
-        "background": "",
+        "background": "Guard",
         "alignment": "",
-        "species": "",
-        "classes": [],
+        "species": "Kalashtar",
+        "classes": [
+          {
+            "className": "Fighter",
+            "subclass": "",
+            "level": 2
+          }
+        ],
         "spellcasting": [],
         "spellSlots": {
           "1": 0,
@@ -152,11 +242,11 @@
         "spellSaveDC": 0,
         "spellAttackBonus": 0,
         "abilityScores": {
-          "str": 10,
-          "dex": 10,
-          "con": 10,
-          "int": 10,
-          "wis": 10,
+          "str": 19,
+          "dex": 8,
+          "con": 15,
+          "int": 17,
+          "wis": 14,
           "cha": 10
         },
         "savingThrows": [],
@@ -172,8 +262,8 @@
           "failures": 0
         },
         "ac": 10,
-        "initiativeBonus": 0,
-        "speed": 30,
+        "initiativeBonus": 17,
+        "speed": 6,
         "resources": [],
         "spells": [],
         "features": [],
@@ -185,11 +275,13 @@
         "weaponProfs": [],
         "armorProfs": [],
         "toolProfs": [],
-        "languages": [],
+        "languages": [
+          "C R M"
+        ],
         "inventory": [],
         "gold": 0,
         "notes": "",
-        "history": "",
+        "history": "& PERSONALITY 2 5 8 Spell Attack Guard — 3 6 9 Bonus Your feet ache when you remember the countless hours you spent at your post in CANTRIPS & PREPARED",
         "journal": [],
         "relationships": [],
         "quests": [],
@@ -369,5 +461,6 @@
       "feats": 0,
       "epicBoons": 0
     }
-  }
+  },
+  "_rev": 1
 }
