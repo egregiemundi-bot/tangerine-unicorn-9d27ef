@@ -91,7 +91,7 @@
         },
         "customization": {
           "textSize": "normal",
-          "density": "spacious",
+          "density": "compact",
           "buttonStyle": "rounded",
           "hpStyle": "classic",
           "diceTheme": "classic",
