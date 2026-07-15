@@ -57,8 +57,7 @@
       "form": "divine",
       "activePlanetId": "",
       "expanded": {
-        "spell:prestidigitation": true,
-        "spell:tasha's hideous laughter": true
+        "spell:prestidigitation": true
       },
       "pinned": [],
       "searchFilters": [],
