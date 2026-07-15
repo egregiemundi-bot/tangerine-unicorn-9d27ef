@@ -1692,7 +1692,7 @@
         "id": "bs_mrmkkzd2_13fnxpy",
         "title": "DM secrets",
         "text": "",
-        "hidden": false,
+        "hidden": true,
         "builtin": false
       }
     ]
