@@ -6,7 +6,18 @@
       "image": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/maps/atlas-1784106921868.jpg?v=1784106924678",
       "width": 1849,
       "height": 2400,
-      "pins": []
+      "pins": [
+        {
+          "id": "pin-1e406v",
+          "x": 952.6586034529524,
+          "y": 1660.8659602064693,
+          "title": "church",
+          "note": "",
+          "targetType": "none",
+          "targetId": "",
+          "secret": false
+        }
+      ]
     }
   ]
 }
