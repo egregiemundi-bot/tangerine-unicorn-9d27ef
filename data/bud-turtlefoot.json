@@ -53,7 +53,7 @@
     "activePlanetId": "planet_mrl7pd4i_1u85ih4",
     "favoriteSpells": [],
     "ui": {
-      "tab": "combat",
+      "tab": "features",
       "form": "divine",
       "activePlanetId": "",
       "expanded": {
@@ -422,7 +422,7 @@
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784075746398,
+    "generatedAt": 1784075747305,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -569,7 +569,7 @@
         "duration": "",
         "concentration": false,
         "ritual": false,
-        "prepared": true,
+        "prepared": false,
         "description": "One creature of your choice that you can see within range makes a Wisdom saving throw. On a failed save, it has the Prone and Incapacitated conditions for the duration. During that time, it laughs uncontrollably if it's capable of laughter, and it can't end the Prone condition on itself.\nAt the end of each of its turns and each time it takes damage, it makes another Wisdom saving throw. The target has Advantage on the save if the save is triggered by damage. On a successful save, the spell ends.\nUsing a Higher-Level Spell Slot. You can target one additional creature for each spell slot level about 1.",
         "higherLevels": "",
         "damageType": "",
@@ -664,7 +664,7 @@
           "duration": "",
           "concentration": false,
           "ritual": false,
-          "prepared": true,
+          "prepared": false,
           "description": "One creature of your choice that you can see within range makes a Wisdom saving throw. On a failed save, it has the Prone and Incapacitated conditions for the duration. During that time, it laughs uncontrollably if it's capable of laughter, and it can't end the Prone condition on itself.\nAt the end of each of its turns and each time it takes damage, it makes another Wisdom saving throw. The target has Advantage on the save if the save is triggered by damage. On a successful save, the spell ends.\nUsing a Higher-Level Spell Slot. You can target one additional creature for each spell slot level about 1.",
           "higherLevels": "",
           "damageType": "",
@@ -760,9 +760,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 211,
+  "_divineCacheRev": 212,
   "_divine": {
-    "generatedAt": 1784075746398,
+    "generatedAt": 1784075747305,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -909,7 +909,7 @@
         "duration": "",
         "concentration": false,
         "ritual": false,
-        "prepared": true,
+        "prepared": false,
         "description": "One creature of your choice that you can see within range makes a Wisdom saving throw. On a failed save, it has the Prone and Incapacitated conditions for the duration. During that time, it laughs uncontrollably if it's capable of laughter, and it can't end the Prone condition on itself.\nAt the end of each of its turns and each time it takes damage, it makes another Wisdom saving throw. The target has Advantage on the save if the save is triggered by damage. On a successful save, the spell ends.\nUsing a Higher-Level Spell Slot. You can target one additional creature for each spell slot level about 1.",
         "higherLevels": "",
         "damageType": "",
@@ -1004,7 +1004,7 @@
           "duration": "",
           "concentration": false,
           "ritual": false,
-          "prepared": true,
+          "prepared": false,
           "description": "One creature of your choice that you can see within range makes a Wisdom saving throw. On a failed save, it has the Prone and Incapacitated conditions for the duration. During that time, it laughs uncontrollably if it's capable of laughter, and it can't end the Prone condition on itself.\nAt the end of each of its turns and each time it takes damage, it makes another Wisdom saving throw. The target has Advantage on the save if the save is triggered by damage. On a successful save, the spell ends.\nUsing a Higher-Level Spell Slot. You can target one additional creature for each spell slot level about 1.",
           "higherLevels": "",
           "damageType": "",
