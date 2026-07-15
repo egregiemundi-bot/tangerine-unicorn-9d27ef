@@ -181,34 +181,7 @@
         "initiativeBonus": 0,
         "speed": 30,
         "resources": [],
-        "spells": [
-          {
-            "id": "spell_mrlvbj69_1gop9pb",
-            "name": "",
-            "level": -1,
-            "school": "",
-            "castingTime": "",
-            "range": "",
-            "components": "",
-            "componentsData": {
-              "verbal": false,
-              "somatic": false,
-              "material": false,
-              "materialText": ""
-            },
-            "duration": "",
-            "concentration": false,
-            "ritual": false,
-            "prepared": false,
-            "description": "",
-            "higherLevels": "",
-            "damageType": "",
-            "tags": [],
-            "sourceClass": "",
-            "sourcePlanet": "",
-            "favorite": false
-          }
-        ],
+        "spells": [],
         "features": [],
         "feats": [],
         "epicBoons": [],
@@ -228,12 +201,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784107129042
+        "lastModified": 1784107144052
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784107129746,
+    "generatedAt": 1784107144753,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -266,34 +239,7 @@
     "freeActions": [],
     "legendaryActions": [],
     "otherActions": [],
-    "spells": [
-      {
-        "id": "spell_mrlvbj69_1gop9pb",
-        "name": "",
-        "level": -1,
-        "school": "",
-        "castingTime": "",
-        "range": "",
-        "components": "",
-        "componentsData": {
-          "verbal": false,
-          "somatic": false,
-          "material": false,
-          "materialText": ""
-        },
-        "duration": "",
-        "concentration": false,
-        "ritual": false,
-        "prepared": false,
-        "description": "",
-        "higherLevels": "",
-        "damageType": "",
-        "tags": [],
-        "sourceClass": "Monk",
-        "sourcePlanet": "Character Sheet",
-        "favorite": false
-      }
-    ],
+    "spells": [],
     "spellsByLevel": {
       "0": [],
       "1": [],
@@ -305,34 +251,7 @@
       "7": [],
       "8": [],
       "9": [],
-      "unassigned": [
-        {
-          "id": "spell_mrlvbj69_1gop9pb",
-          "name": "",
-          "level": -1,
-          "school": "",
-          "castingTime": "",
-          "range": "",
-          "components": "",
-          "componentsData": {
-            "verbal": false,
-            "somatic": false,
-            "material": false,
-            "materialText": ""
-          },
-          "duration": "",
-          "concentration": false,
-          "ritual": false,
-          "prepared": false,
-          "description": "",
-          "higherLevels": "",
-          "damageType": "",
-          "tags": [],
-          "sourceClass": "Monk",
-          "sourcePlanet": "Character Sheet",
-          "favorite": false
-        }
-      ]
+      "unassigned": []
     },
     "spellSlots": {
       "1": 0,
@@ -370,7 +289,7 @@
       "bonusActions": 0,
       "reactions": 0,
       "passives": 0,
-      "spells": 1,
+      "spells": 0,
       "cantrips": 0,
       "resources": 0,
       "skills": 0,
@@ -383,9 +302,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 43,
+  "_divineCacheRev": 44,
   "_divine": {
-    "generatedAt": 1784107129746,
+    "generatedAt": 1784107144753,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -418,34 +337,7 @@
     "freeActions": [],
     "legendaryActions": [],
     "otherActions": [],
-    "spells": [
-      {
-        "id": "spell_mrlvbj69_1gop9pb",
-        "name": "",
-        "level": -1,
-        "school": "",
-        "castingTime": "",
-        "range": "",
-        "components": "",
-        "componentsData": {
-          "verbal": false,
-          "somatic": false,
-          "material": false,
-          "materialText": ""
-        },
-        "duration": "",
-        "concentration": false,
-        "ritual": false,
-        "prepared": false,
-        "description": "",
-        "higherLevels": "",
-        "damageType": "",
-        "tags": [],
-        "sourceClass": "Monk",
-        "sourcePlanet": "Character Sheet",
-        "favorite": false
-      }
-    ],
+    "spells": [],
     "spellsByLevel": {
       "0": [],
       "1": [],
@@ -457,34 +349,7 @@
       "7": [],
       "8": [],
       "9": [],
-      "unassigned": [
-        {
-          "id": "spell_mrlvbj69_1gop9pb",
-          "name": "",
-          "level": -1,
-          "school": "",
-          "castingTime": "",
-          "range": "",
-          "components": "",
-          "componentsData": {
-            "verbal": false,
-            "somatic": false,
-            "material": false,
-            "materialText": ""
-          },
-          "duration": "",
-          "concentration": false,
-          "ritual": false,
-          "prepared": false,
-          "description": "",
-          "higherLevels": "",
-          "damageType": "",
-          "tags": [],
-          "sourceClass": "Monk",
-          "sourcePlanet": "Character Sheet",
-          "favorite": false
-        }
-      ]
+      "unassigned": []
     },
     "spellSlots": {
       "1": 0,
@@ -522,7 +387,7 @@
       "bonusActions": 0,
       "reactions": 0,
       "passives": 0,
-      "spells": 1,
+      "spells": 0,
       "cantrips": 0,
       "resources": 0,
       "skills": 0,
@@ -535,5 +400,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 43
+  "_rev": 44
 }
