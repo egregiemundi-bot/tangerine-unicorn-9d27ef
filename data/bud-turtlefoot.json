@@ -53,7 +53,7 @@
     "activePlanetId": "planet_mrl7pd4i_1u85ih4",
     "favoriteSpells": [],
     "ui": {
-      "tab": "combat",
+      "tab": "backstory",
       "form": "divine",
       "activePlanetId": "",
       "expanded": {},
@@ -1512,5 +1512,8 @@
       "epicBoons": 0
     }
   },
-  "_rev": 232
+  "_rev": 232,
+  "backstory": {
+    "sections": []
+  }
 }
