@@ -12,6 +12,31 @@
       "parentPinId": "",
       "description": "",
       "defaultView": null,
+      "pins": [
+        {
+          "id": "pin-mrmkvezn36kjn",
+          "x": 1236.5539784629102,
+          "y": 315.6736641087613,
+          "title": "Amsalon",
+          "note": "",
+          "targetType": "map",
+          "targetId": "map-mrmkx87tav4l1",
+          "secret": false
+        }
+      ]
+    },
+    {
+      "id": "map-mrmkx87tav4l1",
+      "name": "Amsalon",
+      "title": "Amsalon",
+      "type": "country",
+      "image": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/maps/atlas-1784150125555.jpg?v=1784150131406",
+      "width": 2048,
+      "height": 1536,
+      "parentMapId": "map-mrmkutdwbvzke",
+      "parentPinId": "pin-mrmkvezn36kjn",
+      "description": "",
+      "defaultView": null,
       "pins": []
     }
   ]
