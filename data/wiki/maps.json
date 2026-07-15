@@ -1,3 +1,18 @@
 {
-  "maps": []
+  "maps": [
+    {
+      "id": "map-mrmkutdwbvzke",
+      "name": "Krynn",
+      "title": "Krynn",
+      "type": "world",
+      "image": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/maps/atlas-1784150017042.jpg?v=1784150018753",
+      "width": 2400,
+      "height": 1224,
+      "parentMapId": "",
+      "parentPinId": "",
+      "description": "",
+      "defaultView": null,
+      "pins": []
+    }
+  ]
 }
