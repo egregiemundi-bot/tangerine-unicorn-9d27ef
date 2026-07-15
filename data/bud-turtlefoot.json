@@ -700,8 +700,8 @@
           },
           {
             "name": "Deception",
-            "proficient": true,
-            "expertise": true,
+            "proficient": false,
+            "expertise": false,
             "half": false
           }
         ],
@@ -840,13 +840,13 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784106649147
+        "lastModified": 1784106650469
       }
     ],
     "prepMax": 0
   },
   "_divineCache": {
-    "generatedAt": 1784106649848,
+    "generatedAt": 1784106651170,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -1139,28 +1139,9 @@
         "sources": [
           "Bud's Character Sheet"
         ]
-      },
-      {
-        "name": "Deception",
-        "proficient": true,
-        "expertise": true,
-        "half": false,
-        "sources": [
-          "Bud's Character Sheet"
-        ]
       }
     ],
-    "expertise": [
-      {
-        "name": "Deception",
-        "proficient": true,
-        "expertise": true,
-        "half": false,
-        "sources": [
-          "Bud's Character Sheet"
-        ]
-      }
-    ],
+    "expertise": [],
     "savingThrows": [
       "dex",
       "cha"
@@ -1187,8 +1168,8 @@
       "spells": 4,
       "cantrips": 1,
       "resources": 0,
-      "skills": 4,
-      "expertise": 1,
+      "skills": 3,
+      "expertise": 0,
       "savingThrows": 2,
       "languages": 1,
       "resistances": 0,
@@ -1197,9 +1178,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 231,
+  "_divineCacheRev": 232,
   "_divine": {
-    "generatedAt": 1784106649848,
+    "generatedAt": 1784106651170,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -1492,28 +1473,9 @@
         "sources": [
           "Bud's Character Sheet"
         ]
-      },
-      {
-        "name": "Deception",
-        "proficient": true,
-        "expertise": true,
-        "half": false,
-        "sources": [
-          "Bud's Character Sheet"
-        ]
       }
     ],
-    "expertise": [
-      {
-        "name": "Deception",
-        "proficient": true,
-        "expertise": true,
-        "half": false,
-        "sources": [
-          "Bud's Character Sheet"
-        ]
-      }
-    ],
+    "expertise": [],
     "savingThrows": [
       "dex",
       "cha"
@@ -1540,8 +1502,8 @@
       "spells": 4,
       "cantrips": 1,
       "resources": 0,
-      "skills": 4,
-      "expertise": 1,
+      "skills": 3,
+      "expertise": 0,
       "savingThrows": 2,
       "languages": 1,
       "resistances": 0,
@@ -1550,5 +1512,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 231
+  "_rev": 232
 }
