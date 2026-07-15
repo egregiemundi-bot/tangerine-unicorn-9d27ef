@@ -260,6 +260,11 @@
             "name": "History",
             "proficient": true,
             "expertise": false
+          },
+          {
+            "name": "Investigation",
+            "proficient": true,
+            "expertise": false
           }
         ],
         "hp": {
@@ -296,12 +301,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784079816347
+        "lastModified": 1784079820448
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784079817052,
+    "generatedAt": 1784079821157,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -378,6 +383,14 @@
         "sources": [
           "Character Sheet"
         ]
+      },
+      {
+        "name": "Investigation",
+        "proficient": true,
+        "expertise": false,
+        "sources": [
+          "Character Sheet"
+        ]
       }
     ],
     "expertise": [],
@@ -404,7 +417,7 @@
       "spells": 0,
       "cantrips": 0,
       "resources": 0,
-      "skills": 2,
+      "skills": 3,
       "expertise": 0,
       "savingThrows": 0,
       "languages": 1,
@@ -414,9 +427,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 3,
+  "_divineCacheRev": 4,
   "_divine": {
-    "generatedAt": 1784079817052,
+    "generatedAt": 1784079821157,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -493,6 +506,14 @@
         "sources": [
           "Character Sheet"
         ]
+      },
+      {
+        "name": "Investigation",
+        "proficient": true,
+        "expertise": false,
+        "sources": [
+          "Character Sheet"
+        ]
       }
     ],
     "expertise": [],
@@ -519,7 +540,7 @@
       "spells": 0,
       "cantrips": 0,
       "resources": 0,
-      "skills": 2,
+      "skills": 3,
       "expertise": 0,
       "savingThrows": 0,
       "languages": 1,
@@ -529,5 +550,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 3
+  "_rev": 4
 }
