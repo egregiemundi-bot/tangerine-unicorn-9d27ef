@@ -367,6 +367,26 @@
             "player": "bud-turtlefoot",
             "character": "Bud Turtlefoot",
             "__fxDone": true
+          },
+          {
+            "kind": "roll",
+            "label": "Acrobatics Check",
+            "formula": "1d20+3",
+            "total": 6,
+            "dice": [
+              {
+                "sides": 20,
+                "value": 3,
+                "sign": 1
+              }
+            ],
+            "text": "Acrobatics Check: 1d20+3 = 6",
+            "detail": "1d20 [3] +3",
+            "id": "roll-mrleyny4-d2suua",
+            "at": 1784079654844,
+            "player": "bud-turtlefoot",
+            "character": "Bud Turtlefoot",
+            "__fxDone": true
           }
         ]
       },
