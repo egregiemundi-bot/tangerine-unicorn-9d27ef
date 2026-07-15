@@ -799,6 +799,32 @@
             "sourceClass": "",
             "sourcePlanet": "",
             "favorite": false
+          },
+          {
+            "id": "spell_mrlvkotg_3go1nsz",
+            "name": "",
+            "level": -1,
+            "school": "",
+            "castingTime": "",
+            "range": "",
+            "components": "",
+            "componentsData": {
+              "verbal": false,
+              "somatic": false,
+              "material": false,
+              "materialText": ""
+            },
+            "duration": "",
+            "concentration": false,
+            "ritual": false,
+            "prepared": false,
+            "description": "",
+            "higherLevels": "",
+            "damageType": "",
+            "tags": [],
+            "sourceClass": "",
+            "sourcePlanet": "",
+            "favorite": false
           }
         ],
         "features": [
@@ -840,13 +866,13 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784106650469
+        "lastModified": 1784107556262
       }
     ],
     "prepMax": 0
   },
   "_divineCache": {
-    "generatedAt": 1784106651170,
+    "generatedAt": 1784107556963,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -1001,6 +1027,32 @@
         "sourceClass": "Bard",
         "sourcePlanet": "Bud's Character Sheet",
         "favorite": false
+      },
+      {
+        "id": "spell_mrlvkotg_3go1nsz",
+        "name": "",
+        "level": -1,
+        "school": "",
+        "castingTime": "",
+        "range": "",
+        "components": "",
+        "componentsData": {
+          "verbal": false,
+          "somatic": false,
+          "material": false,
+          "materialText": ""
+        },
+        "duration": "",
+        "concentration": false,
+        "ritual": false,
+        "prepared": false,
+        "description": "",
+        "higherLevels": "",
+        "damageType": "",
+        "tags": [],
+        "sourceClass": "Bard",
+        "sourcePlanet": "Bud's Character Sheet",
+        "favorite": false
       }
     ],
     "spellsByLevel": {
@@ -1096,7 +1148,34 @@
       "7": [],
       "8": [],
       "9": [],
-      "unassigned": []
+      "unassigned": [
+        {
+          "id": "spell_mrlvkotg_3go1nsz",
+          "name": "",
+          "level": -1,
+          "school": "",
+          "castingTime": "",
+          "range": "",
+          "components": "",
+          "componentsData": {
+            "verbal": false,
+            "somatic": false,
+            "material": false,
+            "materialText": ""
+          },
+          "duration": "",
+          "concentration": false,
+          "ritual": false,
+          "prepared": false,
+          "description": "",
+          "higherLevels": "",
+          "damageType": "",
+          "tags": [],
+          "sourceClass": "Bard",
+          "sourcePlanet": "Bud's Character Sheet",
+          "favorite": false
+        }
+      ]
     },
     "spellSlots": {
       "1": 3,
@@ -1165,7 +1244,7 @@
       "bonusActions": 0,
       "reactions": 0,
       "passives": 1,
-      "spells": 4,
+      "spells": 5,
       "cantrips": 1,
       "resources": 0,
       "skills": 3,
@@ -1178,9 +1257,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 232,
+  "_divineCacheRev": 233,
   "_divine": {
-    "generatedAt": 1784106651170,
+    "generatedAt": 1784107556963,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -1335,6 +1414,32 @@
         "sourceClass": "Bard",
         "sourcePlanet": "Bud's Character Sheet",
         "favorite": false
+      },
+      {
+        "id": "spell_mrlvkotg_3go1nsz",
+        "name": "",
+        "level": -1,
+        "school": "",
+        "castingTime": "",
+        "range": "",
+        "components": "",
+        "componentsData": {
+          "verbal": false,
+          "somatic": false,
+          "material": false,
+          "materialText": ""
+        },
+        "duration": "",
+        "concentration": false,
+        "ritual": false,
+        "prepared": false,
+        "description": "",
+        "higherLevels": "",
+        "damageType": "",
+        "tags": [],
+        "sourceClass": "Bard",
+        "sourcePlanet": "Bud's Character Sheet",
+        "favorite": false
       }
     ],
     "spellsByLevel": {
@@ -1430,7 +1535,34 @@
       "7": [],
       "8": [],
       "9": [],
-      "unassigned": []
+      "unassigned": [
+        {
+          "id": "spell_mrlvkotg_3go1nsz",
+          "name": "",
+          "level": -1,
+          "school": "",
+          "castingTime": "",
+          "range": "",
+          "components": "",
+          "componentsData": {
+            "verbal": false,
+            "somatic": false,
+            "material": false,
+            "materialText": ""
+          },
+          "duration": "",
+          "concentration": false,
+          "ritual": false,
+          "prepared": false,
+          "description": "",
+          "higherLevels": "",
+          "damageType": "",
+          "tags": [],
+          "sourceClass": "Bard",
+          "sourcePlanet": "Bud's Character Sheet",
+          "favorite": false
+        }
+      ]
     },
     "spellSlots": {
       "1": 3,
@@ -1499,7 +1631,7 @@
       "bonusActions": 0,
       "reactions": 0,
       "passives": 1,
-      "spells": 4,
+      "spells": 5,
       "cantrips": 1,
       "resources": 0,
       "skills": 3,
@@ -1512,7 +1644,7 @@
       "epicBoons": 0
     }
   },
-  "_rev": 232,
+  "_rev": 233,
   "backstory": {
     "sections": []
   }
