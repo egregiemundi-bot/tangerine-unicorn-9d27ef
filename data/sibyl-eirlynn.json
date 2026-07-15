@@ -181,7 +181,34 @@
         "initiativeBonus": 0,
         "speed": 30,
         "resources": [],
-        "spells": [],
+        "spells": [
+          {
+            "id": "spell_mrlvc89m_2mv5voe",
+            "name": "Fireball",
+            "level": 3,
+            "school": "Evocation",
+            "castingTime": "1 action",
+            "range": "150 feet",
+            "components": "V, S, M",
+            "componentsData": {
+              "verbal": true,
+              "somatic": true,
+              "material": true,
+              "materialText": ""
+            },
+            "duration": "Instantaneous",
+            "concentration": false,
+            "ritual": false,
+            "prepared": false,
+            "description": "A bright streak flashes from your pointing finger to a point you choose within range and then blossoms with a low roar into an explosion of flame. Each creature in a 20-foot-radius sphere centered on that point must make a dexterity saving throw. A target takes 8d6 fire damage on a failed save, or half as much damage on a successful one. The fire spreads around corners. It ignites flammable objects in the area that aren't being worn or carried.",
+            "higherLevels": "When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.",
+            "damageType": "",
+            "tags": [],
+            "sourceClass": "Sorcerer, Wizard",
+            "sourcePlanet": "",
+            "favorite": false
+          }
+        ],
         "features": [],
         "feats": [],
         "epicBoons": [],
@@ -201,12 +228,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784107144052
+        "lastModified": 1784107161563
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784107144753,
+    "generatedAt": 1784107162266,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -239,12 +266,66 @@
     "freeActions": [],
     "legendaryActions": [],
     "otherActions": [],
-    "spells": [],
+    "spells": [
+      {
+        "id": "spell_mrlvc89m_2mv5voe",
+        "name": "Fireball",
+        "level": 3,
+        "school": "Evocation",
+        "castingTime": "1 action",
+        "range": "150 feet",
+        "components": "V, S, M",
+        "componentsData": {
+          "verbal": true,
+          "somatic": true,
+          "material": true,
+          "materialText": ""
+        },
+        "duration": "Instantaneous",
+        "concentration": false,
+        "ritual": false,
+        "prepared": false,
+        "description": "A bright streak flashes from your pointing finger to a point you choose within range and then blossoms with a low roar into an explosion of flame. Each creature in a 20-foot-radius sphere centered on that point must make a dexterity saving throw. A target takes 8d6 fire damage on a failed save, or half as much damage on a successful one. The fire spreads around corners. It ignites flammable objects in the area that aren't being worn or carried.",
+        "higherLevels": "When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.",
+        "damageType": "",
+        "tags": [],
+        "sourceClass": "Sorcerer, Wizard",
+        "sourcePlanet": "Character Sheet",
+        "favorite": false
+      }
+    ],
     "spellsByLevel": {
       "0": [],
       "1": [],
       "2": [],
-      "3": [],
+      "3": [
+        {
+          "id": "spell_mrlvc89m_2mv5voe",
+          "name": "Fireball",
+          "level": 3,
+          "school": "Evocation",
+          "castingTime": "1 action",
+          "range": "150 feet",
+          "components": "V, S, M",
+          "componentsData": {
+            "verbal": true,
+            "somatic": true,
+            "material": true,
+            "materialText": ""
+          },
+          "duration": "Instantaneous",
+          "concentration": false,
+          "ritual": false,
+          "prepared": false,
+          "description": "A bright streak flashes from your pointing finger to a point you choose within range and then blossoms with a low roar into an explosion of flame. Each creature in a 20-foot-radius sphere centered on that point must make a dexterity saving throw. A target takes 8d6 fire damage on a failed save, or half as much damage on a successful one. The fire spreads around corners. It ignites flammable objects in the area that aren't being worn or carried.",
+          "higherLevels": "When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.",
+          "damageType": "",
+          "tags": [],
+          "sourceClass": "Sorcerer, Wizard",
+          "sourcePlanet": "Character Sheet",
+          "favorite": false
+        }
+      ],
       "4": [],
       "5": [],
       "6": [],
@@ -289,7 +370,7 @@
       "bonusActions": 0,
       "reactions": 0,
       "passives": 0,
-      "spells": 0,
+      "spells": 1,
       "cantrips": 0,
       "resources": 0,
       "skills": 0,
@@ -302,9 +383,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 44,
+  "_divineCacheRev": 45,
   "_divine": {
-    "generatedAt": 1784107144753,
+    "generatedAt": 1784107162266,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -337,12 +418,66 @@
     "freeActions": [],
     "legendaryActions": [],
     "otherActions": [],
-    "spells": [],
+    "spells": [
+      {
+        "id": "spell_mrlvc89m_2mv5voe",
+        "name": "Fireball",
+        "level": 3,
+        "school": "Evocation",
+        "castingTime": "1 action",
+        "range": "150 feet",
+        "components": "V, S, M",
+        "componentsData": {
+          "verbal": true,
+          "somatic": true,
+          "material": true,
+          "materialText": ""
+        },
+        "duration": "Instantaneous",
+        "concentration": false,
+        "ritual": false,
+        "prepared": false,
+        "description": "A bright streak flashes from your pointing finger to a point you choose within range and then blossoms with a low roar into an explosion of flame. Each creature in a 20-foot-radius sphere centered on that point must make a dexterity saving throw. A target takes 8d6 fire damage on a failed save, or half as much damage on a successful one. The fire spreads around corners. It ignites flammable objects in the area that aren't being worn or carried.",
+        "higherLevels": "When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.",
+        "damageType": "",
+        "tags": [],
+        "sourceClass": "Sorcerer, Wizard",
+        "sourcePlanet": "Character Sheet",
+        "favorite": false
+      }
+    ],
     "spellsByLevel": {
       "0": [],
       "1": [],
       "2": [],
-      "3": [],
+      "3": [
+        {
+          "id": "spell_mrlvc89m_2mv5voe",
+          "name": "Fireball",
+          "level": 3,
+          "school": "Evocation",
+          "castingTime": "1 action",
+          "range": "150 feet",
+          "components": "V, S, M",
+          "componentsData": {
+            "verbal": true,
+            "somatic": true,
+            "material": true,
+            "materialText": ""
+          },
+          "duration": "Instantaneous",
+          "concentration": false,
+          "ritual": false,
+          "prepared": false,
+          "description": "A bright streak flashes from your pointing finger to a point you choose within range and then blossoms with a low roar into an explosion of flame. Each creature in a 20-foot-radius sphere centered on that point must make a dexterity saving throw. A target takes 8d6 fire damage on a failed save, or half as much damage on a successful one. The fire spreads around corners. It ignites flammable objects in the area that aren't being worn or carried.",
+          "higherLevels": "When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.",
+          "damageType": "",
+          "tags": [],
+          "sourceClass": "Sorcerer, Wizard",
+          "sourcePlanet": "Character Sheet",
+          "favorite": false
+        }
+      ],
       "4": [],
       "5": [],
       "6": [],
@@ -387,7 +522,7 @@
       "bonusActions": 0,
       "reactions": 0,
       "passives": 0,
-      "spells": 0,
+      "spells": 1,
       "cantrips": 0,
       "resources": 0,
       "skills": 0,
@@ -400,5 +535,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 44
+  "_rev": 45
 }
