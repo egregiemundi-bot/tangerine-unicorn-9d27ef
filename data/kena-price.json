@@ -302,7 +302,7 @@
         "resistances": [],
         "immunities": [],
         "weaponProfs": [
-          ""
+          "Simple"
         ],
         "armorProfs": [],
         "toolProfs": [],
@@ -316,12 +316,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784080035633
+        "lastModified": 1784080039711
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784080036333,
+    "generatedAt": 1784080040422,
     "totalLevel": 2,
     "hp": {
       "max": 20
@@ -434,7 +434,9 @@
     "languages": [
       "C R M"
     ],
-    "weaponProfs": [],
+    "weaponProfs": [
+      "Simple"
+    ],
     "toolProfs": [],
     "feats": [],
     "epicBoons": [],
@@ -461,9 +463,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 78,
+  "_divineCacheRev": 84,
   "_divine": {
-    "generatedAt": 1784080036333,
+    "generatedAt": 1784080040422,
     "totalLevel": 2,
     "hp": {
       "max": 20
@@ -576,7 +578,9 @@
     "languages": [
       "C R M"
     ],
-    "weaponProfs": [],
+    "weaponProfs": [
+      "Simple"
+    ],
     "toolProfs": [],
     "feats": [],
     "epicBoons": [],
@@ -603,5 +607,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 78
+  "_rev": 84
 }
