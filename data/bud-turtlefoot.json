@@ -701,7 +701,7 @@
           {
             "name": "Deception",
             "proficient": true,
-            "expertise": false,
+            "expertise": true,
             "half": false
           }
         ],
@@ -840,13 +840,13 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784106648251
+        "lastModified": 1784106649147
       }
     ],
     "prepMax": 0
   },
   "_divineCache": {
-    "generatedAt": 1784106648952,
+    "generatedAt": 1784106649848,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -1143,14 +1143,24 @@
       {
         "name": "Deception",
         "proficient": true,
-        "expertise": false,
+        "expertise": true,
         "half": false,
         "sources": [
           "Bud's Character Sheet"
         ]
       }
     ],
-    "expertise": [],
+    "expertise": [
+      {
+        "name": "Deception",
+        "proficient": true,
+        "expertise": true,
+        "half": false,
+        "sources": [
+          "Bud's Character Sheet"
+        ]
+      }
+    ],
     "savingThrows": [
       "dex",
       "cha"
@@ -1178,7 +1188,7 @@
       "cantrips": 1,
       "resources": 0,
       "skills": 4,
-      "expertise": 0,
+      "expertise": 1,
       "savingThrows": 2,
       "languages": 1,
       "resistances": 0,
@@ -1187,9 +1197,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 230,
+  "_divineCacheRev": 231,
   "_divine": {
-    "generatedAt": 1784106648952,
+    "generatedAt": 1784106649848,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -1486,14 +1496,24 @@
       {
         "name": "Deception",
         "proficient": true,
-        "expertise": false,
+        "expertise": true,
         "half": false,
         "sources": [
           "Bud's Character Sheet"
         ]
       }
     ],
-    "expertise": [],
+    "expertise": [
+      {
+        "name": "Deception",
+        "proficient": true,
+        "expertise": true,
+        "half": false,
+        "sources": [
+          "Bud's Character Sheet"
+        ]
+      }
+    ],
     "savingThrows": [
       "dex",
       "cha"
@@ -1521,7 +1541,7 @@
       "cantrips": 1,
       "resources": 0,
       "skills": 4,
-      "expertise": 0,
+      "expertise": 1,
       "savingThrows": 2,
       "languages": 1,
       "resistances": 0,
@@ -1530,5 +1550,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 230
+  "_rev": 231
 }
