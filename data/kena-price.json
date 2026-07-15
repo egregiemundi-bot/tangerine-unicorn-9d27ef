@@ -282,7 +282,7 @@
         ],
         "hp": {
           "max": 20,
-          "current": 0,
+          "current": 15,
           "temp": 0
         },
         "hitDice": "d10",
@@ -314,12 +314,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784079886378
+        "lastModified": 1784079887232
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784079887087,
+    "generatedAt": 1784079887933,
     "totalLevel": 2,
     "hp": {
       "max": 20
@@ -459,9 +459,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 74,
+  "_divineCacheRev": 76,
   "_divine": {
-    "generatedAt": 1784079887087,
+    "generatedAt": 1784079887933,
     "totalLevel": 2,
     "hp": {
       "max": 20
@@ -601,5 +601,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 74
+  "_rev": 76
 }
