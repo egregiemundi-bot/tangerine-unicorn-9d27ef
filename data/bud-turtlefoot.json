@@ -703,6 +703,12 @@
             "proficient": false,
             "expertise": false,
             "half": false
+          },
+          {
+            "name": "Intimidation",
+            "proficient": false,
+            "expertise": false,
+            "half": true
           }
         ],
         "hp": {
@@ -840,13 +846,13 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784107598188
+        "lastModified": 1784108450350
       }
     ],
     "prepMax": 0
   },
   "_divineCache": {
-    "generatedAt": 1784108409116,
+    "generatedAt": 1784108451050,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -1139,6 +1145,15 @@
         "sources": [
           "Bud's Character Sheet"
         ]
+      },
+      {
+        "name": "Intimidation",
+        "proficient": false,
+        "expertise": false,
+        "half": true,
+        "sources": [
+          "Bud's Character Sheet"
+        ]
       }
     ],
     "expertise": [],
@@ -1168,7 +1183,7 @@
       "spells": 4,
       "cantrips": 1,
       "resources": 0,
-      "skills": 3,
+      "skills": 4,
       "expertise": 0,
       "savingThrows": 2,
       "languages": 1,
@@ -1178,9 +1193,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 243,
+  "_divineCacheRev": 244,
   "_divine": {
-    "generatedAt": 1784108409116,
+    "generatedAt": 1784108451050,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -1473,6 +1488,15 @@
         "sources": [
           "Bud's Character Sheet"
         ]
+      },
+      {
+        "name": "Intimidation",
+        "proficient": false,
+        "expertise": false,
+        "half": true,
+        "sources": [
+          "Bud's Character Sheet"
+        ]
       }
     ],
     "expertise": [],
@@ -1502,7 +1526,7 @@
       "spells": 4,
       "cantrips": 1,
       "resources": 0,
-      "skills": 3,
+      "skills": 4,
       "expertise": 0,
       "savingThrows": 2,
       "languages": 1,
@@ -1512,7 +1536,7 @@
       "epicBoons": 0
     }
   },
-  "_rev": 243,
+  "_rev": 244,
   "backstory": {
     "sections": []
   }
