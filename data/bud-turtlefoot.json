@@ -56,11 +56,7 @@
       "tab": "combat",
       "form": "divine",
       "activePlanetId": "",
-      "expanded": {
-        "spell:tasha's hideous laughter": true,
-        "spell:identify": true,
-        "spell:thunderwave": true
-      },
+      "expanded": {},
       "pinned": [],
       "searchFilters": [],
       "searchMode": "AND",
