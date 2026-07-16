@@ -12,6 +12,9 @@
       "parentPinId": "",
       "description": "",
       "defaultView": null,
+      "lore": {},
+      "loreHiddenFields": [],
+      "loreSections": [],
       "pins": [
         {
           "id": "pin-mrmkvezn36kjn",
@@ -21,6 +24,16 @@
           "note": "",
           "targetType": "map",
           "targetId": "map-mrmkx87tav4l1",
+          "secret": false
+        },
+        {
+          "id": "pin-mrmty6wx5l3is",
+          "x": 1811.4087957839636,
+          "y": 1002.4644723107583,
+          "title": "taladas",
+          "note": "",
+          "targetType": "map",
+          "targetId": "map-mrmkutdwbvzke",
           "secret": false
         }
       ]
@@ -37,6 +50,9 @@
       "parentPinId": "pin-mrmkvezn36kjn",
       "description": "",
       "defaultView": null,
+      "lore": {},
+      "loreHiddenFields": [],
+      "loreSections": [],
       "pins": [
         {
           "id": "pin-mrmky1rzujvom",
@@ -62,6 +78,9 @@
       "parentPinId": "pin-mrmky1rzujvom",
       "description": "",
       "defaultView": null,
+      "lore": {},
+      "loreHiddenFields": [],
+      "loreSections": [],
       "pins": [
         {
           "id": "pin-mrml1oz3vwql0",
@@ -87,6 +106,9 @@
       "parentPinId": "pin-mrml1oz3vwql0",
       "description": "",
       "defaultView": null,
+      "lore": {},
+      "loreHiddenFields": [],
+      "loreSections": [],
       "pins": [
         {
           "id": "pin-mrmlck2s349uc",
