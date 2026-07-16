@@ -33,7 +33,7 @@
           "title": "taladas",
           "note": "",
           "targetType": "map",
-          "targetId": "map-mrmkutdwbvzke",
+          "targetId": "map-mrmu1acro9mz0",
           "secret": false
         }
       ]
@@ -121,6 +121,23 @@
           "secret": false
         }
       ]
+    },
+    {
+      "id": "map-mrmu1acro9mz0",
+      "name": "taladas",
+      "title": "taladas",
+      "type": "country",
+      "image": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/maps/atlas-1784165379056.jpg?v=1784165437496",
+      "width": 4000,
+      "height": 3000,
+      "parentMapId": "map-mrmkutdwbvzke",
+      "parentPinId": "pin-mrmty6wx5l3is",
+      "description": "",
+      "defaultView": null,
+      "lore": {},
+      "loreHiddenFields": [],
+      "loreSections": [],
+      "pins": []
     }
   ]
 }
