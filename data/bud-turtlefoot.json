@@ -896,6 +896,15 @@
             "at": 1784258704843,
             "player": "bud-turtlefoot",
             "character": "Bud Turtlefoot"
+          },
+          {
+            "kind": "note",
+            "text": "🛌 Long Rest — all spell slots restored.",
+            "label": "Note",
+            "id": "roll-mrpf00fp-b0111y",
+            "at": 1784321582389,
+            "player": "bud-turtlefoot",
+            "character": "Bud Turtlefoot"
           }
         ]
       },
