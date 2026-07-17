@@ -741,6 +741,26 @@
             "player": "bud-turtlefoot",
             "character": "Bud Turtlefoot",
             "__fxDone": true
+          },
+          {
+            "kind": "roll",
+            "label": "Insight Check",
+            "formula": "1d20+1",
+            "total": 9,
+            "dice": [
+              {
+                "sides": 20,
+                "value": 8,
+                "sign": 1
+              }
+            ],
+            "text": "Insight Check: 1d20+1 = 9",
+            "detail": "1d20 [8] +1",
+            "id": "roll-mrodj8i1-u0efv0",
+            "at": 1784258653897,
+            "player": "bud-turtlefoot",
+            "character": "Bud Turtlefoot",
+            "__fxDone": true
           }
         ]
       },
