@@ -58,8 +58,7 @@
       "activePlanetId": "",
       "expanded": {
         "spell:prestidigitation": true,
-        "spell:thunderwave": true,
-        "spell:identify": true
+        "spell:thunderwave": true
       },
       "pinned": [],
       "searchFilters": [],
