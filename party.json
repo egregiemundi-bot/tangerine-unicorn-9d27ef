@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-17T04:16:44.460Z",
+  "updatedAt": "2026-07-17T04:16:50.869Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -147,7 +147,7 @@
     },
     {
       "id": "new-npc-2",
-      "name": "New NPC",
+      "name": "Ispin Greenshield",
       "tag": "Role · Location",
       "desc": "Description.",
       "status": "Alive",
