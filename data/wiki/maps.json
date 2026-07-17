@@ -105,23 +105,6 @@
       ]
     },
     {
-      "id": "map-mrml2vtupaeet",
-      "name": "fighting pit",
-      "title": "fighting pit",
-      "type": "building",
-      "image": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/maps/atlas-1784150380951.jpg?v=1784150395139",
-      "width": 2048,
-      "height": 1536,
-      "parentMapId": "map-mrml13okejmh9",
-      "parentPinId": "pin-mrml1oz3vwql0",
-      "description": "",
-      "defaultView": null,
-      "lore": {},
-      "loreHiddenFields": [],
-      "loreSections": [],
-      "pins": []
-    },
-    {
       "id": "map-mrmu1acro9mz0",
       "name": "taladas",
       "title": "taladas",
