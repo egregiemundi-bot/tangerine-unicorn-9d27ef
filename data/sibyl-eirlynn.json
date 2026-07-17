@@ -26,7 +26,17 @@
   },
   "combatAbilities": [],
   "divineResources": [],
-  "spellbook": [],
+  "spellbook": [
+    {
+      "name": "Thunderwave",
+      "attack": "",
+      "damage": "2d4",
+      "desc": "",
+      "level": "1",
+      "meta": "",
+      "source": "DM"
+    }
+  ],
   "planetRuns": [],
   "stackedSlots": [
     "",
