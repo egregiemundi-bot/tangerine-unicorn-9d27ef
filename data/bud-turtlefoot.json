@@ -77,11 +77,10 @@
         "sendRoll20": false,
         "dice3d": true,
         "diceStyle": {
-          "body": "#171004",
-          "num": "#f4c867",
-          "edge": "#b98a3b",
-          "texture": "crimsontide",
-          "customUrl": ""
+          "body": "#3a0a0d",
+          "num": "#ffd9d0",
+          "edge": "#e0524d",
+          "texture": "marble"
         },
         "colors": {
           "accent": "#d6a647",
