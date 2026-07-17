@@ -1114,7 +1114,7 @@
             "name": "Prestidigitation",
             "level": 0,
             "school": "Transmutation",
-            "castingTime": "Action",
+            "castingTime": "",
             "range": "10 feet",
             "components": "M",
             "duration": "1 hour",
@@ -1213,13 +1213,13 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784320669390
+        "lastModified": 1784320701287
       }
     ],
     "prepMax": 0
   },
   "_divineCache": {
-    "generatedAt": 1784320670093,
+    "generatedAt": 1784320701991,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -1320,7 +1320,7 @@
         "name": "Prestidigitation",
         "level": 0,
         "school": "Transmutation",
-        "castingTime": "Action",
+        "castingTime": "",
         "range": "10 feet",
         "components": "M",
         "duration": "1 hour",
@@ -1387,7 +1387,7 @@
           "name": "Prestidigitation",
           "level": 0,
           "school": "Transmutation",
-          "castingTime": "Action",
+          "castingTime": "",
           "range": "10 feet",
           "components": "M",
           "duration": "1 hour",
@@ -1559,9 +1559,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 267,
+  "_divineCacheRev": 268,
   "_divine": {
-    "generatedAt": 1784320670093,
+    "generatedAt": 1784320701991,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -1662,7 +1662,7 @@
         "name": "Prestidigitation",
         "level": 0,
         "school": "Transmutation",
-        "castingTime": "Action",
+        "castingTime": "",
         "range": "10 feet",
         "components": "M",
         "duration": "1 hour",
@@ -1729,7 +1729,7 @@
           "name": "Prestidigitation",
           "level": 0,
           "school": "Transmutation",
-          "castingTime": "Action",
+          "castingTime": "",
           "range": "10 feet",
           "components": "M",
           "duration": "1 hour",
@@ -1901,7 +1901,7 @@
       "epicBoons": 0
     }
   },
-  "_rev": 267,
+  "_rev": 268,
   "backstory": {
     "sections": []
   }
