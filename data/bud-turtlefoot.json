@@ -75,7 +75,7 @@
         "hpAdjustAmount": 10,
         "mobileTab": "combat",
         "sendRoll20": false,
-        "dice3d": true,
+        "dice3d": false,
         "diceStyle": {
           "body": "#3a0a0d",
           "num": "#ffd9d0",
