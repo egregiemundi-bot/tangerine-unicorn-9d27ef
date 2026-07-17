@@ -1114,7 +1114,7 @@
             "name": "Prestidigitation",
             "level": 0,
             "school": "Transmutation",
-            "castingTime": "Bonus Action",
+            "castingTime": "Action",
             "range": "10 feet",
             "components": "V, S",
             "duration": "1 hour",
@@ -1209,13 +1209,13 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784320640633
+        "lastModified": 1784320660862
       }
     ],
     "prepMax": 0
   },
   "_divineCache": {
-    "generatedAt": 1784320641343,
+    "generatedAt": 1784320661569,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -1316,7 +1316,7 @@
         "name": "Prestidigitation",
         "level": 0,
         "school": "Transmutation",
-        "castingTime": "Bonus Action",
+        "castingTime": "Action",
         "range": "10 feet",
         "components": "V, S",
         "duration": "1 hour",
@@ -1379,7 +1379,7 @@
           "name": "Prestidigitation",
           "level": 0,
           "school": "Transmutation",
-          "castingTime": "Bonus Action",
+          "castingTime": "Action",
           "range": "10 feet",
           "components": "V, S",
           "duration": "1 hour",
@@ -1547,9 +1547,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 258,
+  "_divineCacheRev": 259,
   "_divine": {
-    "generatedAt": 1784320641343,
+    "generatedAt": 1784320661569,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -1650,7 +1650,7 @@
         "name": "Prestidigitation",
         "level": 0,
         "school": "Transmutation",
-        "castingTime": "Bonus Action",
+        "castingTime": "Action",
         "range": "10 feet",
         "components": "V, S",
         "duration": "1 hour",
@@ -1713,7 +1713,7 @@
           "name": "Prestidigitation",
           "level": 0,
           "school": "Transmutation",
-          "castingTime": "Bonus Action",
+          "castingTime": "Action",
           "range": "10 feet",
           "components": "V, S",
           "duration": "1 hour",
@@ -1881,7 +1881,7 @@
       "epicBoons": 0
     }
   },
-  "_rev": 258,
+  "_rev": 259,
   "backstory": {
     "sections": []
   }
