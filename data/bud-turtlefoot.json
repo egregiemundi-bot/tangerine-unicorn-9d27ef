@@ -1202,6 +1202,25 @@
             "movement": false,
             "favorite": false,
             "pinned": false
+          },
+          {
+            "id": "feat_mrpfw9jk_3sz1h7c",
+            "name": "",
+            "level": 1,
+            "className": "",
+            "subclass": "",
+            "sourcePlanet": "",
+            "actionType": "passive",
+            "recharge": "at-will",
+            "usesMax": 0,
+            "usesCurrent": 0,
+            "description": "",
+            "tags": [],
+            "damageType": "",
+            "healing": false,
+            "movement": false,
+            "favorite": false,
+            "pinned": false
           }
         ],
         "feats": [],
@@ -1222,13 +1241,13 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784320787763
+        "lastModified": 1784323087186
       }
     ],
     "prepMax": 0
   },
   "_divineCache": {
-    "generatedAt": 1784320788467,
+    "generatedAt": 1784323087887,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -1273,6 +1292,26 @@
         "favorite": false,
         "pinned": false,
         "sourceClass": "Bard"
+      },
+      {
+        "id": "feat_mrpfw9jk_3sz1h7c",
+        "name": "",
+        "level": 1,
+        "className": "",
+        "subclass": "",
+        "sourcePlanet": "Bud's Character Sheet",
+        "actionType": "passive",
+        "recharge": "at-will",
+        "usesMax": 0,
+        "usesCurrent": 0,
+        "description": "",
+        "tags": [],
+        "damageType": "",
+        "healing": false,
+        "movement": false,
+        "favorite": false,
+        "pinned": false,
+        "sourceClass": "Bard"
       }
     ],
     "actions": [],
@@ -1291,6 +1330,26 @@
         "usesMax": 0,
         "usesCurrent": 0,
         "description": "You can add half your Proficiency Bonus (round down) to any ability check you make that uses a skill proficiency you lack and that doesn't otherwise use your Proficiency Bonus.\n\nFor example, if you make a Strength (Athletics) check and lack Athletics proficiency, you can add half your Proficiency Bonus to the check.",
+        "tags": [],
+        "damageType": "",
+        "healing": false,
+        "movement": false,
+        "favorite": false,
+        "pinned": false,
+        "sourceClass": "Bard"
+      },
+      {
+        "id": "feat_mrpfw9jk_3sz1h7c",
+        "name": "",
+        "level": 1,
+        "className": "",
+        "subclass": "",
+        "sourcePlanet": "Bud's Character Sheet",
+        "actionType": "passive",
+        "recharge": "at-will",
+        "usesMax": 0,
+        "usesCurrent": 0,
+        "description": "",
         "tags": [],
         "damageType": "",
         "healing": false,
@@ -1550,11 +1609,11 @@
       "planets": 1,
       "classes": 1,
       "subclasses": 0,
-      "features": 1,
+      "features": 2,
       "actions": 0,
       "bonusActions": 0,
       "reactions": 0,
-      "passives": 1,
+      "passives": 2,
       "spells": 4,
       "cantrips": 1,
       "resources": 0,
@@ -1568,9 +1627,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 271,
+  "_divineCacheRev": 272,
   "_divine": {
-    "generatedAt": 1784320788467,
+    "generatedAt": 1784323087887,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -1615,6 +1674,26 @@
         "favorite": false,
         "pinned": false,
         "sourceClass": "Bard"
+      },
+      {
+        "id": "feat_mrpfw9jk_3sz1h7c",
+        "name": "",
+        "level": 1,
+        "className": "",
+        "subclass": "",
+        "sourcePlanet": "Bud's Character Sheet",
+        "actionType": "passive",
+        "recharge": "at-will",
+        "usesMax": 0,
+        "usesCurrent": 0,
+        "description": "",
+        "tags": [],
+        "damageType": "",
+        "healing": false,
+        "movement": false,
+        "favorite": false,
+        "pinned": false,
+        "sourceClass": "Bard"
       }
     ],
     "actions": [],
@@ -1633,6 +1712,26 @@
         "usesMax": 0,
         "usesCurrent": 0,
         "description": "You can add half your Proficiency Bonus (round down) to any ability check you make that uses a skill proficiency you lack and that doesn't otherwise use your Proficiency Bonus.\n\nFor example, if you make a Strength (Athletics) check and lack Athletics proficiency, you can add half your Proficiency Bonus to the check.",
+        "tags": [],
+        "damageType": "",
+        "healing": false,
+        "movement": false,
+        "favorite": false,
+        "pinned": false,
+        "sourceClass": "Bard"
+      },
+      {
+        "id": "feat_mrpfw9jk_3sz1h7c",
+        "name": "",
+        "level": 1,
+        "className": "",
+        "subclass": "",
+        "sourcePlanet": "Bud's Character Sheet",
+        "actionType": "passive",
+        "recharge": "at-will",
+        "usesMax": 0,
+        "usesCurrent": 0,
+        "description": "",
         "tags": [],
         "damageType": "",
         "healing": false,
@@ -1892,11 +1991,11 @@
       "planets": 1,
       "classes": 1,
       "subclasses": 0,
-      "features": 1,
+      "features": 2,
       "actions": 0,
       "bonusActions": 0,
       "reactions": 0,
-      "passives": 1,
+      "passives": 2,
       "spells": 4,
       "cantrips": 1,
       "resources": 0,
@@ -1910,7 +2009,7 @@
       "epicBoons": 0
     }
   },
-  "_rev": 271,
+  "_rev": 272,
   "backstory": {
     "sections": []
   }
