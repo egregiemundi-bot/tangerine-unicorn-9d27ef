@@ -801,6 +801,17 @@
             "player": "bud-turtlefoot",
             "character": "Bud Turtlefoot",
             "__fxDone": true
+          },
+          {
+            "kind": "dc",
+            "label": "Thunderwave — CON save",
+            "total": "13",
+            "text": "Thunderwave — CON save: DC 13",
+            "detail": "No dice rolled.",
+            "id": "roll-mrodjiea-i0xkgq",
+            "at": 1784258666722,
+            "player": "bud-turtlefoot",
+            "character": "Bud Turtlefoot"
           }
         ]
       },
