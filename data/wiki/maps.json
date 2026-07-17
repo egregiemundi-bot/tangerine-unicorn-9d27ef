@@ -67,44 +67,6 @@
       ]
     },
     {
-      "id": "map-mrml13okejmh9",
-      "name": "solaris manga",
-      "title": "solaris manga",
-      "type": "city",
-      "image": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/maps/atlas-1784150273190.jpg?v=1784150311994",
-      "width": 4000,
-      "height": 3000,
-      "parentMapId": "map-mrmkx87tav4l1",
-      "parentPinId": "pin-mrmky1rzujvom",
-      "description": "",
-      "defaultView": null,
-      "lore": {},
-      "loreHiddenFields": [],
-      "loreSections": [],
-      "pins": [
-        {
-          "id": "pin-mrml1oz3vwql0",
-          "x": 1327.902150226696,
-          "y": 1721.4516906738281,
-          "title": "fighting pit",
-          "note": "",
-          "targetType": "map",
-          "targetId": "map-mrml2vtupaeet",
-          "secret": false
-        },
-        {
-          "id": "pin-mrod8dlbdz093",
-          "x": 1562.6181491135756,
-          "y": 1894.0538883370684,
-          "title": "church",
-          "note": "The Church",
-          "targetType": "map",
-          "targetId": "map-mrmkutdwbvzke",
-          "secret": false
-        }
-      ]
-    },
-    {
       "id": "map-mrmu1acro9mz0",
       "name": "taladas",
       "title": "taladas",
