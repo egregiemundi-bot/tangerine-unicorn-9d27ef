@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-17T04:22:17.486Z",
+  "updatedAt": "2026-07-17T04:22:22.934Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -100,7 +100,7 @@
   "npcs": [
     {
       "id": "the-helpful-innkeeper",
-      "name": "Kellis Midsommer",
+      "name": "Edrik Bakaris",
       "tag": "Baker · Vogler",
       "desc": "Kellis runs a bakery in Vogler with his wife, Fennora Midsommer. They're not only famous in the area for their beautiful cakes but also for the delicious cider they sell every year at the Kingfisher Festival. ",
       "status": "Alive",
