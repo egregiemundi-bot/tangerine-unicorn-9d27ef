@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-17T03:19:38.700Z",
+  "updatedAt": "2026-07-17T03:20:15.604Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -403,7 +403,20 @@
         "abilities": []
       }
     ],
-    "bud-turtlefoot": [],
+    "bud-turtlefoot": [
+      {
+        "name": "New Item",
+        "type": "Type / Rarity",
+        "img": "",
+        "stats": [
+          {
+            "k": "Property",
+            "v": "Description"
+          }
+        ],
+        "abilities": []
+      }
+    ],
     "ayeluna-lou": [],
     "kena-price": [
       {
