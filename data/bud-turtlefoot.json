@@ -67,7 +67,7 @@
       },
       "combat": {
         "currentHp": 15,
-        "tempHp": 0,
+        "tempHp": 2,
         "notes": "",
         "conditions": [],
         "concentration": "",
