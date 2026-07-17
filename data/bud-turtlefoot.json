@@ -56,7 +56,9 @@
       "tab": "combat",
       "form": "divine",
       "activePlanetId": "",
-      "expanded": {},
+      "expanded": {
+        "spell:prestidigitation": true
+      },
       "pinned": [],
       "searchFilters": [],
       "searchMode": "AND",
