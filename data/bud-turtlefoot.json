@@ -761,6 +761,26 @@
             "player": "bud-turtlefoot",
             "character": "Bud Turtlefoot",
             "__fxDone": true
+          },
+          {
+            "kind": "roll",
+            "label": "Wisdom Check",
+            "formula": "1d20+1",
+            "total": 2,
+            "dice": [
+              {
+                "sides": 20,
+                "value": 1,
+                "sign": 1
+              }
+            ],
+            "text": "Wisdom Check: 1d20+1 = 2",
+            "detail": "1d20 [1] +1",
+            "id": "roll-mrodjaid-dgkart",
+            "at": 1784258656501,
+            "player": "bud-turtlefoot",
+            "character": "Bud Turtlefoot",
+            "__fxDone": true
           }
         ]
       },
