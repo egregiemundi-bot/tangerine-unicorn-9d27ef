@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-17T03:20:20.507Z",
+  "updatedAt": "2026-07-17T03:21:19.815Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -191,7 +191,13 @@
         "y": 355.61630794905204
       }
     },
-    "edges": []
+    "edges": [
+      {
+        "a": "shipwright-s-guild",
+        "b": "knights",
+        "type": "trade"
+      }
+    ]
   },
   "whiteboards": {
     "timeline-story": {
