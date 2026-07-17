@@ -699,6 +699,25 @@
             "at": 1784149461899,
             "player": "bud-turtlefoot",
             "character": "Bud Turtlefoot"
+          },
+          {
+            "kind": "roll",
+            "label": "1d8",
+            "formula": "1d8",
+            "total": 6,
+            "dice": [
+              {
+                "sides": 8,
+                "value": 6
+              }
+            ],
+            "text": "1d8 = 6",
+            "detail": "6",
+            "id": "roll-mrodj3ic-m1um9a",
+            "at": 1784258647428,
+            "player": "bud-turtlefoot",
+            "character": "Bud Turtlefoot",
+            "__fxDone": true
           }
         ]
       },
