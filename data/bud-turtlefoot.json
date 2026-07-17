@@ -1087,17 +1087,7 @@
         "ac": 14,
         "initiativeBonus": 3,
         "speed": 25,
-        "resources": [
-          {
-            "id": "res_mrpeitp6_1gnfq40",
-            "name": "",
-            "current": 0,
-            "max": 0,
-            "recharge": "long",
-            "source": "",
-            "desc": ""
-          }
-        ],
+        "resources": [],
         "spells": [
           {
             "id": "spell_mrl82tn0_2j3ecxy",
@@ -1223,13 +1213,13 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784320780507
+        "lastModified": 1784320787763
       }
     ],
     "prepMax": 0
   },
   "_divineCache": {
-    "generatedAt": 1784320781219,
+    "generatedAt": 1784320788467,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -1502,19 +1492,7 @@
     },
     "spellSaveDC": 13,
     "spellAttackBonus": 5,
-    "resources": [
-      {
-        "id": "res_mrpeitp6_1gnfq40",
-        "name": "",
-        "current": 0,
-        "max": 0,
-        "recharge": "long",
-        "source": "",
-        "desc": "",
-        "sourcePlanet": "Bud's Character Sheet",
-        "sourceClass": "Bard"
-      }
-    ],
+    "resources": [],
     "skills": [
       {
         "name": "Persuasion",
@@ -1570,7 +1548,7 @@
       "passives": 1,
       "spells": 4,
       "cantrips": 1,
-      "resources": 1,
+      "resources": 0,
       "skills": 3,
       "expertise": 0,
       "savingThrows": 2,
@@ -1581,9 +1559,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 270,
+  "_divineCacheRev": 271,
   "_divine": {
-    "generatedAt": 1784320781219,
+    "generatedAt": 1784320788467,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -1856,19 +1834,7 @@
     },
     "spellSaveDC": 13,
     "spellAttackBonus": 5,
-    "resources": [
-      {
-        "id": "res_mrpeitp6_1gnfq40",
-        "name": "",
-        "current": 0,
-        "max": 0,
-        "recharge": "long",
-        "source": "",
-        "desc": "",
-        "sourcePlanet": "Bud's Character Sheet",
-        "sourceClass": "Bard"
-      }
-    ],
+    "resources": [],
     "skills": [
       {
         "name": "Persuasion",
@@ -1924,7 +1890,7 @@
       "passives": 1,
       "spells": 4,
       "cantrips": 1,
-      "resources": 1,
+      "resources": 0,
       "skills": 3,
       "expertise": 0,
       "savingThrows": 2,
@@ -1935,7 +1901,7 @@
       "epicBoons": 0
     }
   },
-  "_rev": 270,
+  "_rev": 271,
   "backstory": {
     "sections": []
   }
