@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-17T03:21:31.909Z",
+  "updatedAt": "2026-07-17T03:21:36.900Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -196,6 +196,11 @@
         "a": "shipwright-s-guild",
         "b": "knights",
         "type": "trade"
+      },
+      {
+        "a": "shipwright-s-guild",
+        "b": "dockworker-s-guild",
+        "type": "allied"
       }
     ]
   },
