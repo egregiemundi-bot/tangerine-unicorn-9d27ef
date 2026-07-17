@@ -71,7 +71,7 @@
         "notes": "",
         "conditions": [],
         "concentration": "",
-        "spellSearch": "th",
+        "spellSearch": "Thunderwave",
         "hpAdjustAmount": 10,
         "mobileTab": "combat",
         "sendRoll20": false,
