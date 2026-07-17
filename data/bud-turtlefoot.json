@@ -57,7 +57,8 @@
       "form": "divine",
       "activePlanetId": "",
       "expanded": {
-        "spell:prestidigitation": true
+        "spell:prestidigitation": true,
+        "spell:thunderwave": true
       },
       "pinned": [],
       "searchFilters": [],
