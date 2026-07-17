@@ -1214,7 +1214,7 @@
             "recharge": "at-will",
             "usesMax": 0,
             "usesCurrent": 0,
-            "description": "1d10 slashing",
+            "description": "Damage1d10 slashing",
             "tags": [],
             "damageType": "",
             "healing": false,
@@ -1241,13 +1241,13 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784323145206
+        "lastModified": 1784323147979
       }
     ],
     "prepMax": 0
   },
   "_divineCache": {
-    "generatedAt": 1784323145914,
+    "generatedAt": 1784323148690,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -1304,7 +1304,7 @@
         "recharge": "at-will",
         "usesMax": 0,
         "usesCurrent": 0,
-        "description": "1d10 slashing",
+        "description": "Damage1d10 slashing",
         "tags": [],
         "damageType": "",
         "healing": false,
@@ -1326,7 +1326,7 @@
         "recharge": "at-will",
         "usesMax": 0,
         "usesCurrent": 0,
-        "description": "1d10 slashing",
+        "description": "Damage1d10 slashing",
         "tags": [],
         "damageType": "",
         "healing": false,
@@ -1628,9 +1628,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 297,
+  "_divineCacheRev": 303,
   "_divine": {
-    "generatedAt": 1784323145914,
+    "generatedAt": 1784323148690,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -1687,7 +1687,7 @@
         "recharge": "at-will",
         "usesMax": 0,
         "usesCurrent": 0,
-        "description": "1d10 slashing",
+        "description": "Damage1d10 slashing",
         "tags": [],
         "damageType": "",
         "healing": false,
@@ -1709,7 +1709,7 @@
         "recharge": "at-will",
         "usesMax": 0,
         "usesCurrent": 0,
-        "description": "1d10 slashing",
+        "description": "Damage1d10 slashing",
         "tags": [],
         "damageType": "",
         "healing": false,
@@ -2011,7 +2011,7 @@
       "epicBoons": 0
     }
   },
-  "_rev": 297,
+  "_rev": 303,
   "backstory": {
     "sections": []
   }
