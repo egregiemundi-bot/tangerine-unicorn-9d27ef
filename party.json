@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-17T03:21:19.815Z",
+  "updatedAt": "2026-07-17T03:21:24.119Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -179,12 +179,12 @@
         "y": 133
       },
       "mages-of-high-sorcery": {
-        "x": 614.9234062749856,
-        "y": 260.960008783802
+        "x": 785,
+        "y": 371
       },
       "shipwright-s-guild": {
-        "x": 788,
-        "y": 138
+        "x": 615,
+        "y": 313
       },
       "dockworker-s-guild": {
         "x": 403.0568529050002,
