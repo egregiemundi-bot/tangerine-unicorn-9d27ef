@@ -1116,7 +1116,7 @@
             "school": "Transmutation",
             "castingTime": "Action",
             "range": "10 feet",
-            "components": "M (dasda)",
+            "components": "M",
             "duration": "1 hour",
             "concentration": false,
             "ritual": false,
@@ -1129,7 +1129,7 @@
             "sourcePlanet": "",
             "favorite": false,
             "componentsData": {
-              "materialText": "dasda",
+              "materialText": "",
               "material": true
             }
           },
@@ -1213,13 +1213,13 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784320666447
+        "lastModified": 1784320668332
       }
     ],
     "prepMax": 0
   },
   "_divineCache": {
-    "generatedAt": 1784320667148,
+    "generatedAt": 1784320669043,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -1322,7 +1322,7 @@
         "school": "Transmutation",
         "castingTime": "Action",
         "range": "10 feet",
-        "components": "M (dasda)",
+        "components": "M",
         "duration": "1 hour",
         "concentration": false,
         "ritual": false,
@@ -1335,7 +1335,7 @@
         "sourcePlanet": "Bud's Character Sheet",
         "favorite": false,
         "componentsData": {
-          "materialText": "dasda",
+          "materialText": "",
           "material": true
         }
       },
@@ -1389,7 +1389,7 @@
           "school": "Transmutation",
           "castingTime": "Action",
           "range": "10 feet",
-          "components": "M (dasda)",
+          "components": "M",
           "duration": "1 hour",
           "concentration": false,
           "ritual": false,
@@ -1402,7 +1402,7 @@
           "sourcePlanet": "Bud's Character Sheet",
           "favorite": false,
           "componentsData": {
-            "materialText": "dasda",
+            "materialText": "",
             "material": true
           }
         }
@@ -1559,9 +1559,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 265,
+  "_divineCacheRev": 266,
   "_divine": {
-    "generatedAt": 1784320667148,
+    "generatedAt": 1784320669043,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -1664,7 +1664,7 @@
         "school": "Transmutation",
         "castingTime": "Action",
         "range": "10 feet",
-        "components": "M (dasda)",
+        "components": "M",
         "duration": "1 hour",
         "concentration": false,
         "ritual": false,
@@ -1677,7 +1677,7 @@
         "sourcePlanet": "Bud's Character Sheet",
         "favorite": false,
         "componentsData": {
-          "materialText": "dasda",
+          "materialText": "",
           "material": true
         }
       },
@@ -1731,7 +1731,7 @@
           "school": "Transmutation",
           "castingTime": "Action",
           "range": "10 feet",
-          "components": "M (dasda)",
+          "components": "M",
           "duration": "1 hour",
           "concentration": false,
           "ritual": false,
@@ -1744,7 +1744,7 @@
           "sourcePlanet": "Bud's Character Sheet",
           "favorite": false,
           "componentsData": {
-            "materialText": "dasda",
+            "materialText": "",
             "material": true
           }
         }
@@ -1901,7 +1901,7 @@
       "epicBoons": 0
     }
   },
-  "_rev": 265,
+  "_rev": 266,
   "backstory": {
     "sections": []
   }
