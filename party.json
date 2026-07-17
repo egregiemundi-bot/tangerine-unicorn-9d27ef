@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-17T04:16:50.869Z",
+  "updatedAt": "2026-07-17T04:17:02.131Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -151,7 +151,8 @@
       "tag": "Role · Location",
       "desc": "Description.",
       "status": "Alive",
-      "pageId": ""
+      "pageId": "",
+      "img": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/npcs/npc-new-npc-2-1784261819221.jpg?v=1784261820343"
     }
   ],
   "factionweb": {
