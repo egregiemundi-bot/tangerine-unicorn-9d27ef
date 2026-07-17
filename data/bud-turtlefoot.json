@@ -1205,7 +1205,7 @@
           },
           {
             "id": "feat_mrpfw9jk_3sz1h7c",
-            "name": "",
+            "name": "dagger",
             "level": 1,
             "className": "",
             "subclass": "",
@@ -1241,13 +1241,13 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784323087186
+        "lastModified": 1784323089611
       }
     ],
     "prepMax": 0
   },
   "_divineCache": {
-    "generatedAt": 1784323087887,
+    "generatedAt": 1784323090321,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -1295,7 +1295,7 @@
       },
       {
         "id": "feat_mrpfw9jk_3sz1h7c",
-        "name": "",
+        "name": "dagger",
         "level": 1,
         "className": "",
         "subclass": "",
@@ -1340,7 +1340,7 @@
       },
       {
         "id": "feat_mrpfw9jk_3sz1h7c",
-        "name": "",
+        "name": "dagger",
         "level": 1,
         "className": "",
         "subclass": "",
@@ -1627,9 +1627,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 272,
+  "_divineCacheRev": 278,
   "_divine": {
-    "generatedAt": 1784323087887,
+    "generatedAt": 1784323090321,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -1677,7 +1677,7 @@
       },
       {
         "id": "feat_mrpfw9jk_3sz1h7c",
-        "name": "",
+        "name": "dagger",
         "level": 1,
         "className": "",
         "subclass": "",
@@ -1722,7 +1722,7 @@
       },
       {
         "id": "feat_mrpfw9jk_3sz1h7c",
-        "name": "",
+        "name": "dagger",
         "level": 1,
         "className": "",
         "subclass": "",
@@ -2009,7 +2009,7 @@
       "epicBoons": 0
     }
   },
-  "_rev": 272,
+  "_rev": 278,
   "backstory": {
     "sections": []
   }
