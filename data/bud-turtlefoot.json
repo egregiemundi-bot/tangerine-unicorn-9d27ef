@@ -1243,7 +1243,7 @@
             "recharge": "at-will",
             "usesMax": 0,
             "usesCurrent": 0,
-            "description": "",
+            "description": " damage: ",
             "tags": [],
             "damageType": "",
             "healing": false,
@@ -1270,13 +1270,13 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784323249768
+        "lastModified": 1784323250709
       }
     ],
     "prepMax": 0
   },
   "_divineCache": {
-    "generatedAt": 1784323250470,
+    "generatedAt": 1784323251413,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -1333,7 +1333,7 @@
         "recharge": "at-will",
         "usesMax": 0,
         "usesCurrent": 0,
-        "description": "",
+        "description": " damage: ",
         "tags": [],
         "damageType": "",
         "healing": false,
@@ -1378,7 +1378,7 @@
         "recharge": "at-will",
         "usesMax": 0,
         "usesCurrent": 0,
-        "description": "",
+        "description": " damage: ",
         "tags": [],
         "damageType": "",
         "healing": false,
@@ -1704,9 +1704,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 329,
+  "_divineCacheRev": 330,
   "_divine": {
-    "generatedAt": 1784323250470,
+    "generatedAt": 1784323251413,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -1763,7 +1763,7 @@
         "recharge": "at-will",
         "usesMax": 0,
         "usesCurrent": 0,
-        "description": "",
+        "description": " damage: ",
         "tags": [],
         "damageType": "",
         "healing": false,
@@ -1808,7 +1808,7 @@
         "recharge": "at-will",
         "usesMax": 0,
         "usesCurrent": 0,
-        "description": "",
+        "description": " damage: ",
         "tags": [],
         "damageType": "",
         "healing": false,
@@ -2134,7 +2134,7 @@
       "epicBoons": 0
     }
   },
-  "_rev": 329,
+  "_rev": 330,
   "backstory": {
     "sections": []
   }
