@@ -954,6 +954,26 @@
             "player": "bud-turtlefoot",
             "character": "Bud Turtlefoot",
             "__fxDone": true
+          },
+          {
+            "kind": "roll",
+            "label": "dagger Damage",
+            "formula": "1d4+4",
+            "total": 8,
+            "dice": [
+              {
+                "sides": 4,
+                "value": 4,
+                "sign": 1
+              }
+            ],
+            "text": "dagger Damage: 1d4+4 = 8",
+            "detail": "1d4 [4] +4",
+            "id": "roll-mrpg311c-110hs4",
+            "at": 1784323402752,
+            "player": "bud-turtlefoot",
+            "character": "Bud Turtlefoot",
+            "__fxDone": true
           }
         ]
       },
