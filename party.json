@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-17T21:01:57.866Z",
+  "updatedAt": "2026-07-17T21:02:00.611Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -534,7 +534,7 @@
       }
     ],
     "round": 2,
-    "turn": 1
+    "turn": 2
   },
   "compendium": {
     "settings": {
