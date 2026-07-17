@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-17T03:20:15.604Z",
+  "updatedAt": "2026-07-17T03:20:20.507Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -405,7 +405,7 @@
     ],
     "bud-turtlefoot": [
       {
-        "name": "New Item",
+        "name": "test item",
         "type": "Type / Rarity",
         "img": "",
         "stats": [
