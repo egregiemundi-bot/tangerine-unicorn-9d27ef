@@ -781,6 +781,26 @@
             "player": "bud-turtlefoot",
             "character": "Bud Turtlefoot",
             "__fxDone": true
+          },
+          {
+            "kind": "roll",
+            "label": "Initiative",
+            "formula": "1d20+3",
+            "total": 18,
+            "dice": [
+              {
+                "sides": 20,
+                "value": 15,
+                "sign": 1
+              }
+            ],
+            "text": "Initiative: 1d20+3 = 18",
+            "detail": "1d20 [15] +3",
+            "id": "roll-mrodje7z-z08pi9",
+            "at": 1784258661311,
+            "player": "bud-turtlefoot",
+            "character": "Bud Turtlefoot",
+            "__fxDone": true
           }
         ]
       },
