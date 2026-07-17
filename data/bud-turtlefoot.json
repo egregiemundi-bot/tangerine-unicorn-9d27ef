@@ -74,7 +74,7 @@
         "spellSearch": "",
         "hpAdjustAmount": 10,
         "mobileTab": "combat",
-        "sendRoll20": false,
+        "sendRoll20": true,
         "dice3d": true,
         "diceStyle": {
           "body": "#3a0a0d",
