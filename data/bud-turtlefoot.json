@@ -1116,7 +1116,7 @@
             "school": "Transmutation",
             "castingTime": "Action",
             "range": "10 feet",
-            "components": "V, S",
+            "components": "M (dasda)",
             "duration": "1 hour",
             "concentration": false,
             "ritual": false,
@@ -1127,7 +1127,11 @@
             "tags": [],
             "sourceClass": "Bard, Sorcerer, Warlock, Wizard",
             "sourcePlanet": "",
-            "favorite": false
+            "favorite": false,
+            "componentsData": {
+              "materialText": "dasda",
+              "material": true
+            }
           },
           {
             "id": "spell_mrl88dhh_5n2jl67",
@@ -1209,13 +1213,13 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784320660862
+        "lastModified": 1784320666447
       }
     ],
     "prepMax": 0
   },
   "_divineCache": {
-    "generatedAt": 1784320661569,
+    "generatedAt": 1784320667148,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -1318,7 +1322,7 @@
         "school": "Transmutation",
         "castingTime": "Action",
         "range": "10 feet",
-        "components": "V, S",
+        "components": "M (dasda)",
         "duration": "1 hour",
         "concentration": false,
         "ritual": false,
@@ -1329,7 +1333,11 @@
         "tags": [],
         "sourceClass": "Bard, Sorcerer, Warlock, Wizard",
         "sourcePlanet": "Bud's Character Sheet",
-        "favorite": false
+        "favorite": false,
+        "componentsData": {
+          "materialText": "dasda",
+          "material": true
+        }
       },
       {
         "id": "spell_mrl88dhh_5n2jl67",
@@ -1381,7 +1389,7 @@
           "school": "Transmutation",
           "castingTime": "Action",
           "range": "10 feet",
-          "components": "V, S",
+          "components": "M (dasda)",
           "duration": "1 hour",
           "concentration": false,
           "ritual": false,
@@ -1392,7 +1400,11 @@
           "tags": [],
           "sourceClass": "Bard, Sorcerer, Warlock, Wizard",
           "sourcePlanet": "Bud's Character Sheet",
-          "favorite": false
+          "favorite": false,
+          "componentsData": {
+            "materialText": "dasda",
+            "material": true
+          }
         }
       ],
       "1": [
@@ -1547,9 +1559,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 259,
+  "_divineCacheRev": 265,
   "_divine": {
-    "generatedAt": 1784320661569,
+    "generatedAt": 1784320667148,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -1652,7 +1664,7 @@
         "school": "Transmutation",
         "castingTime": "Action",
         "range": "10 feet",
-        "components": "V, S",
+        "components": "M (dasda)",
         "duration": "1 hour",
         "concentration": false,
         "ritual": false,
@@ -1663,7 +1675,11 @@
         "tags": [],
         "sourceClass": "Bard, Sorcerer, Warlock, Wizard",
         "sourcePlanet": "Bud's Character Sheet",
-        "favorite": false
+        "favorite": false,
+        "componentsData": {
+          "materialText": "dasda",
+          "material": true
+        }
       },
       {
         "id": "spell_mrl88dhh_5n2jl67",
@@ -1715,7 +1731,7 @@
           "school": "Transmutation",
           "castingTime": "Action",
           "range": "10 feet",
-          "components": "V, S",
+          "components": "M (dasda)",
           "duration": "1 hour",
           "concentration": false,
           "ritual": false,
@@ -1726,7 +1742,11 @@
           "tags": [],
           "sourceClass": "Bard, Sorcerer, Warlock, Wizard",
           "sourcePlanet": "Bud's Character Sheet",
-          "favorite": false
+          "favorite": false,
+          "componentsData": {
+            "materialText": "dasda",
+            "material": true
+          }
         }
       ],
       "1": [
@@ -1881,7 +1901,7 @@
       "epicBoons": 0
     }
   },
-  "_rev": 259,
+  "_rev": 265,
   "backstory": {
     "sections": []
   }
