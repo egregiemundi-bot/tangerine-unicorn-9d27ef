@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-17T03:21:36.900Z",
+  "updatedAt": "2026-07-17T03:21:43.249Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -201,6 +201,11 @@
         "a": "shipwright-s-guild",
         "b": "dockworker-s-guild",
         "type": "allied"
+      },
+      {
+        "a": "mages-of-high-sorcery",
+        "b": "knights",
+        "type": "war"
       }
     ]
   },
