@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-17T04:19:19.423Z",
+  "updatedAt": "2026-07-17T04:19:45.763Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -100,7 +100,7 @@
   "npcs": [
     {
       "id": "the-helpful-innkeeper",
-      "name": "Elthar",
+      "name": "Kellis Midsommer",
       "tag": "Starting Town · Contact",
       "desc": "A reliable local contact. Replace this with the first NPC your players trust, owe, or annoy.",
       "status": "Alive",
