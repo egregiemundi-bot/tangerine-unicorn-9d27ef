@@ -56,7 +56,9 @@
       "tab": "combat",
       "form": "divine",
       "activePlanetId": "",
-      "expanded": {},
+      "expanded": {
+        "feat:dagger": true
+      },
       "pinned": [],
       "searchFilters": [],
       "searchMode": "AND",
