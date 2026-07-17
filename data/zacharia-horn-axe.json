@@ -129,7 +129,7 @@
         "planetName": "Character Sheet",
         "planetImage": "",
         "status": "active",
-        "level": 1,
+        "level": 2,
         "xp": 0,
         "className": "Cleric",
         "subclass": "",
@@ -140,7 +140,7 @@
           {
             "className": "Cleric",
             "subclass": "",
-            "level": 1
+            "level": 2
           }
         ],
         "spellcasting": [],
@@ -199,13 +199,13 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784321625740
+        "lastModified": 1784321628181
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784321626445,
-    "totalLevel": 1,
+    "generatedAt": 1784321628883,
+    "totalLevel": 2,
     "hp": {
       "max": 0
     },
@@ -221,7 +221,7 @@
     "classes": [
       {
         "className": "Cleric",
-        "levels": 1,
+        "levels": 2,
         "subclasses": [],
         "planets": [
           "Character Sheet"
@@ -298,10 +298,10 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 32,
+  "_divineCacheRev": 34,
   "_divine": {
-    "generatedAt": 1784321626445,
-    "totalLevel": 1,
+    "generatedAt": 1784321628883,
+    "totalLevel": 2,
     "hp": {
       "max": 0
     },
@@ -317,7 +317,7 @@
     "classes": [
       {
         "className": "Cleric",
-        "levels": 1,
+        "levels": 2,
         "subclasses": [],
         "planets": [
           "Character Sheet"
@@ -394,5 +394,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 32
+  "_rev": 34
 }
