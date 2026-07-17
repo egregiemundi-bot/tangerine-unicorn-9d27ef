@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-17T19:35:09.126Z",
+  "updatedAt": "2026-07-17T19:36:13.368Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -540,6 +540,119 @@
     "settings": {
       "allowPlayerSubmissions": true
     },
-    "spells": []
+    "spells": [
+      {
+        "name": "Thunderwave",
+        "school": "Evocation",
+        "castingTime": "1 action",
+        "range": "Self",
+        "duration": "Instantaneous",
+        "components": "V, S",
+        "description": "A wave of thunderous force sweeps out from you. Each creature in a 15-foot cube originating from you must make a constitution saving throw. On a failed save, a creature takes 2d8 thunder damage and is pushed 10 feet away from you. On a successful save, the creature takes half as much damage and isn't pushed. In addition, unsecured objects that are completely within the area of effect are automatically pushed 10 feet away from you by the spell's effect, and the spell emits a thunderous boom audible out to 300 feet.",
+        "higherLevels": "When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.",
+        "damageType": "",
+        "saveType": "",
+        "sourceClass": "Bard, Cleric, Druid, Sorcerer, Wizard",
+        "notes": "",
+        "level": 1,
+        "concentration": false,
+        "ritual": false,
+        "componentsData": {
+          "verbal": true,
+          "somatic": true,
+          "material": false,
+          "materialText": ""
+        },
+        "id": "cs-mrpc97ve-qy8d9s",
+        "status": "active",
+        "submittedBy": "dm",
+        "createdAt": "2026-07-17T19:36:13.082Z",
+        "updatedAt": "2026-07-17T19:36:13.082Z"
+      },
+      {
+        "name": "Prestidigitation",
+        "school": "Transmutation",
+        "castingTime": "",
+        "range": "10 feet",
+        "duration": "1 hour",
+        "components": "V, S",
+        "description": "This spell is a minor magical trick that novice spellcasters use for practice. You create one of the following magical effects within 'range': \n- You create an instantaneous, harmless sensory effect, such as a shower of sparks, a puff of wind, faint musical notes, or an odd odor. \n- You instantaneously light or snuff out a candle, a torch, or a small campfire. \n- You instantaneously clean or soil an object no larger than 1 cubic foot. \n- You chill, warm, or flavor up to 1 cubic foot of nonliving material for 1 hour. \n- You make a color, a small mark, or a symbol appear on an object or a surface for 1 hour. \n- You create a nonmagical trinket or an illusory image that can fit in your hand and that lasts until the end of your next turn. \nIf you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.",
+        "higherLevels": "",
+        "damageType": "",
+        "saveType": "",
+        "sourceClass": "Bard, Sorcerer, Warlock, Wizard",
+        "notes": "",
+        "level": 0,
+        "concentration": false,
+        "ritual": false,
+        "componentsData": {
+          "verbal": true,
+          "somatic": true,
+          "material": false,
+          "materialText": ""
+        },
+        "id": "cs-mrpc97vg-xiob90",
+        "status": "active",
+        "submittedBy": "dm",
+        "createdAt": "2026-07-17T19:36:13.084Z",
+        "updatedAt": "2026-07-17T19:36:13.084Z"
+      },
+      {
+        "name": "Identify",
+        "school": "Divination",
+        "castingTime": "1min/Ritual",
+        "range": "Touch",
+        "duration": "",
+        "components": "",
+        "description": "You touch an object throughout the spell's casting. If the object is a magic item or some other magical object, you learn its properties and how to use them, whether it requires Attunement, and how many charges it has, if any. You learn whether any ongoing spells are affecting the item and what they are. If the item was created by a spell, you learn that spell's name.\nIf you instead touch a creature throughout the casting, you learn which ongoing spells, if any, are currently affecting it.",
+        "higherLevels": "",
+        "damageType": "",
+        "saveType": "",
+        "sourceClass": "",
+        "notes": "",
+        "level": 1,
+        "concentration": false,
+        "ritual": false,
+        "componentsData": {
+          "verbal": false,
+          "somatic": false,
+          "material": false,
+          "materialText": ""
+        },
+        "id": "cs-mrpc97vg-ebr1up",
+        "status": "active",
+        "submittedBy": "dm",
+        "createdAt": "2026-07-17T19:36:13.084Z",
+        "updatedAt": "2026-07-17T19:36:13.084Z"
+      },
+      {
+        "name": "Tasha's Hideous Laughter",
+        "school": "Enchantment",
+        "castingTime": "Action",
+        "range": "30ft",
+        "duration": "",
+        "components": "",
+        "description": "One creature of your choice that you can see within range makes a Wisdom saving throw. On a failed save, it has the Prone and Incapacitated conditions for the duration. During that time, it laughs uncontrollably if it's capable of laughter, and it can't end the Prone condition on itself.\nAt the end of each of its turns and each time it takes damage, it makes another Wisdom saving throw. The target has Advantage on the save if the save is triggered by damage. On a successful save, the spell ends.\nUsing a Higher-Level Spell Slot. You can target one additional creature for each spell slot level about 1.",
+        "higherLevels": "",
+        "damageType": "",
+        "saveType": "",
+        "sourceClass": "",
+        "notes": "",
+        "level": 1,
+        "concentration": false,
+        "ritual": false,
+        "componentsData": {
+          "verbal": false,
+          "somatic": false,
+          "material": false,
+          "materialText": ""
+        },
+        "id": "cs-mrpc97vg-k5ee4o",
+        "status": "active",
+        "submittedBy": "dm",
+        "createdAt": "2026-07-17T19:36:13.084Z",
+        "updatedAt": "2026-07-17T19:36:13.084Z"
+      }
+    ]
   }
 }
