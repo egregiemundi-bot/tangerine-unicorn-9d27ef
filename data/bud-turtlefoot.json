@@ -934,6 +934,26 @@
             "player": "bud-turtlefoot",
             "character": "Bud Turtlefoot",
             "__fxDone": true
+          },
+          {
+            "kind": "roll",
+            "label": "dagger Hit",
+            "formula": "1d20+8",
+            "total": 27,
+            "dice": [
+              {
+                "sides": 20,
+                "value": 19,
+                "sign": 1
+              }
+            ],
+            "text": "dagger Hit: 1d20+8 = 27",
+            "detail": "1d20 [19] +8",
+            "id": "roll-mrpg2z28-1glcmt",
+            "at": 1784323400192,
+            "player": "bud-turtlefoot",
+            "character": "Bud Turtlefoot",
+            "__fxDone": true
           }
         ]
       },
