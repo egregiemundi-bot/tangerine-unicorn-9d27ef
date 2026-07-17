@@ -15,28 +15,7 @@
       "lore": {},
       "loreHiddenFields": [],
       "loreSections": [],
-      "pins": [
-        {
-          "id": "pin-mrmkvezn36kjn",
-          "x": 1236.5539784629102,
-          "y": 315.6736641087613,
-          "title": "Amsalon",
-          "note": "",
-          "targetType": "map",
-          "targetId": "map-mrmkx87tav4l1",
-          "secret": false
-        },
-        {
-          "id": "pin-mrmty6wx5l3is",
-          "x": 1811.4087957839636,
-          "y": 1002.4644723107583,
-          "title": "taladas",
-          "note": "",
-          "targetType": "map",
-          "targetId": "map-mrmu1acro9mz0",
-          "secret": false
-        }
-      ]
+      "pins": []
     },
     {
       "id": "map-mrmu1acro9mz0",
