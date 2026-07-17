@@ -866,6 +866,17 @@
             "at": 1784258695704,
             "player": "bud-turtlefoot",
             "character": "Bud Turtlefoot"
+          },
+          {
+            "kind": "dc",
+            "label": "Tasha's Hideous Laughter — WIS save",
+            "total": "13",
+            "text": "Tasha's Hideous Laughter — WIS save: DC 13",
+            "detail": "No dice rolled.",
+            "id": "roll-mrodkb2k-jl2f8q",
+            "at": 1784258703884,
+            "player": "bud-turtlefoot",
+            "character": "Bud Turtlefoot"
           }
         ]
       },
