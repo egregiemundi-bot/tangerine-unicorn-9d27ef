@@ -9,8 +9,8 @@
   "setupComplete": true,
   "footerBranding": "Powered by The Adventurer’s Campaign Codex",
   "theme": {
-    "accent": "#04ff00",
-    "secondary": "#ffd500",
+    "accent": "#8a10cb",
+    "secondary": "#db06c9",
     "background": "#17110b",
     "surface": "#241a11",
     "text": "#f2e4c8",
@@ -132,7 +132,7 @@
     }
   ],
   "productVersion": "1.0 Foundation",
-  "updatedAt": "2026-07-17T03:11:21.767Z",
+  "updatedAt": "2026-07-17T19:32:01.826Z",
   "backgroundImage": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/1784257856245-wallpapersden.com-k-cool-2020-art-3840x2160.jpg?v=1784257860462",
   "heroImage": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/1784257876492-wallpapersden.com-k-cool-2020-art-3840x2160.jpg?v=1784257879434"
 }
