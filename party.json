@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-17T21:01:03.670Z",
+  "updatedAt": "2026-07-17T21:01:05.493Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -506,7 +506,7 @@
         "id": "pc-bud-turtlefoot",
         "name": "Bud Turtlefoot",
         "pc": true,
-        "init": "11",
+        "init": "8",
         "hp": "",
         "maxhp": "",
         "ac": "",
