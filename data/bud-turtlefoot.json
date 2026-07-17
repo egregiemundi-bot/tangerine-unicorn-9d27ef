@@ -832,6 +832,31 @@
             "player": "bud-turtlefoot",
             "character": "Bud Turtlefoot",
             "__fxDone": true
+          },
+          {
+            "kind": "roll",
+            "label": "Thunderwave Damage",
+            "formula": "2d8",
+            "total": 10,
+            "dice": [
+              {
+                "sides": 8,
+                "value": 6,
+                "sign": 1
+              },
+              {
+                "sides": 8,
+                "value": 4,
+                "sign": 1
+              }
+            ],
+            "text": "Thunderwave Damage: 2d8 = 10",
+            "detail": "2d8 [6, 4]",
+            "id": "roll-mrodjmct-hpwzir",
+            "at": 1784258671853,
+            "player": "bud-turtlefoot",
+            "character": "Bud Turtlefoot",
+            "__fxDone": true
           }
         ]
       },
