@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-15T09:06:01.091Z",
+  "updatedAt": "2026-07-17T02:52:27.495Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -90,49 +90,55 @@
   },
   "npcs": [
     {
+      "id": "the-helpful-innkeeper",
       "name": "The Helpful Innkeeper",
       "tag": "Starting Town · Contact",
       "desc": "A reliable local contact. Replace this with the first NPC your players trust, owe, or annoy.",
       "status": "Alive",
-      "id": "the-helpful-innkeeper",
+      "pageId": "",
       "img": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/npcs/web-the-helpful-innkeeper.jpg?v=1783771982935"
     },
     {
+      "id": "the-rival-adventurer",
       "name": "The Rival Adventurer",
       "tag": "Recurring Rival · Unknown Allegiance",
       "desc": "A competitor who wants the same treasure, contract, or secret as the party.",
       "status": "Active",
-      "id": "the-rival-adventurer",
+      "pageId": "",
       "img": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/npcs/web-the-rival-adventurer.jpg?v=1783771976480"
     },
     {
+      "id": "the-faction-envoy",
       "name": "The Faction Envoy",
       "tag": "Politics · Quest Hook",
       "desc": "A messenger from a guild, noble house, temple, order, or patron faction.",
       "status": "Active",
-      "id": "the-faction-envoy"
+      "pageId": ""
     },
     {
+      "id": "the-hidden-villain",
       "name": "The Hidden Villain",
       "tag": "Antagonist · Secret",
       "desc": "A campaign enemy whose public face may not match their true intentions.",
       "status": "Unknown",
-      "id": "the-hidden-villain"
+      "pageId": ""
     },
     {
+      "id": "the-local-sage",
       "name": "The Local Sage",
       "tag": "Lorekeeper · Research",
-      "desc": "A scholar, priest, witch, elder, or historian who can answer dangerous questions.",
+      "desc": "A scholar, priest, witch, elder, or historian who can answer dangerous questions. @",
       "status": "Alive",
-      "id": "the-local-sage",
+      "pageId": "",
       "img": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/npcs/web-the-local-sage.jpg?v=1783771970883"
     },
     {
+      "id": "new-npc",
       "name": "town guard",
       "tag": "Role · Location",
       "desc": "well liked by the city",
       "status": "Alive",
-      "id": "new-npc"
+      "pageId": ""
     }
   ],
   "factionweb": {
