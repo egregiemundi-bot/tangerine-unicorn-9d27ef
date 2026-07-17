@@ -91,6 +91,16 @@
           "targetType": "map",
           "targetId": "map-mrml2vtupaeet",
           "secret": false
+        },
+        {
+          "id": "pin-mrod8dlbdz093",
+          "x": 1562.6181491135756,
+          "y": 1894.0538883370684,
+          "title": "church",
+          "note": "The Church",
+          "targetType": "map",
+          "targetId": "map-mrmkutdwbvzke",
+          "secret": false
         }
       ]
     },
