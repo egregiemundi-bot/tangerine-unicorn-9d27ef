@@ -877,6 +877,25 @@
             "at": 1784258703884,
             "player": "bud-turtlefoot",
             "character": "Bud Turtlefoot"
+          },
+          {
+            "kind": "roll",
+            "label": "Identify Hit",
+            "formula": "1d20+5",
+            "total": 7,
+            "dice": [
+              {
+                "sides": 20,
+                "value": 2,
+                "sign": 1
+              }
+            ],
+            "text": "Identify Hit: 1d20+5 = 7",
+            "detail": "1d20 [2] +5",
+            "id": "roll-mrodkbt7-34qux0",
+            "at": 1784258704843,
+            "player": "bud-turtlefoot",
+            "character": "Bud Turtlefoot"
           }
         ]
       },
