@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-17T21:02:02.388Z",
+  "updatedAt": "2026-07-18T02:59:54.492Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -184,6 +184,12 @@
         "name": "Dockworker's Guild",
         "tag": "Faction",
         "status": "Active"
+      },
+      {
+        "id": "the-undertow",
+        "name": "The Undertow",
+        "tag": "Thieves' Guild - Kalaman",
+        "status": "Active"
       }
     ],
     "positions": {
@@ -202,6 +208,10 @@
       "dockworker-s-guild": {
         "x": 817,
         "y": 518
+      },
+      "the-undertow": {
+        "x": 778.7084034456304,
+        "y": 300.4214017883783
       }
     },
     "edges": [
