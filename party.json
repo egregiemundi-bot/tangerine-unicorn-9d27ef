@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-18T03:01:18.939Z",
+  "updatedAt": "2026-07-18T03:01:28.898Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -226,12 +226,12 @@
         "y": 279
       },
       "red-dragon-army": {
-        "x": 628,
-        "y": 456
+        "x": 509,
+        "y": 408
       },
       "kalaman-military": {
-        "x": 550,
-        "y": 657
+        "x": 291,
+        "y": 406
       }
     },
     "edges": [
