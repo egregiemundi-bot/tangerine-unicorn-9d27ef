@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-18T03:00:57.904Z",
+  "updatedAt": "2026-07-18T03:01:18.939Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -246,14 +246,14 @@
         "type": "allied"
       },
       {
-        "a": "mages-of-high-sorcery",
-        "b": "knights",
-        "type": "war"
-      },
-      {
         "a": "red-dragon-army",
         "b": "kalaman-military",
         "type": "war"
+      },
+      {
+        "a": "knights",
+        "b": "mages-of-high-sorcery",
+        "type": "affiliated"
       }
     ]
   },
