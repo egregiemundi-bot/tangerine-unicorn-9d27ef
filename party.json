@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-18T03:10:08.525Z",
+  "updatedAt": "2026-07-18T03:10:50.015Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -125,6 +125,14 @@
         "title": "My Way - Frank Sinatra",
         "url": "https://open.spotify.com/track/2YkIDPL5lGhRhomCq4S2RO?autoplay_ok=1"
       }
+    },
+    {
+      "id": "new-npc",
+      "name": "New NPC",
+      "tag": "Role · Location",
+      "desc": "Description.",
+      "status": "Alive",
+      "pageId": ""
     }
   ],
   "factionweb": {
