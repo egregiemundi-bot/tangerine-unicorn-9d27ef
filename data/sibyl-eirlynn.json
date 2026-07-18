@@ -175,7 +175,15 @@
       }
     },
     "artifacts": [],
-    "awards": [],
+    "awards": [
+      {
+        "id": "player-awards:s5:mvp:sibyl-eirlynn",
+        "session": "5",
+        "type": "DM MVP",
+        "date": "",
+        "notes": "DM MVP awarded to Sibyl Eirlynn from the Player Awards page."
+      }
+    ],
     "planets": [
       {
         "id": "planet_mrj58vx3_4z292em",
