@@ -31,7 +31,7 @@
       }
     }
   },
-  "updatedAt": "2026-07-18T07:04:00.243Z",
+  "updatedAt": "2026-07-18T07:04:35.286Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -191,7 +191,8 @@
         "id": "red-dragon-army",
         "name": "Red Dragon Army",
         "tag": "",
-        "status": "Active"
+        "status": "Active",
+        "img": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/faction-red-dragon-army.jpg?v=1784358274396"
       },
       {
         "id": "kalaman-military",
