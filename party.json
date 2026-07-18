@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-18T03:07:52.562Z",
+  "updatedAt": "2026-07-18T03:07:56.493Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -110,14 +110,6 @@
         "title": "I'm Not Crying - Flight of the Conchords",
         "url": "https://open.spotify.com/track/2q7G9sbAUjju4iTvdBATpM?autoplay_ok=1"
       }
-    },
-    {
-      "id": "the-faction-envoy",
-      "name": "The Faction Envoy",
-      "tag": "Politics · Quest Hook",
-      "desc": "A messenger from a guild, noble house, temple, order, or patron faction.",
-      "status": "Active",
-      "pageId": ""
     },
     {
       "id": "the-hidden-villain",
