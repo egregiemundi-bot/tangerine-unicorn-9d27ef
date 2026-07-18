@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-18T03:11:11.870Z",
+  "updatedAt": "2026-07-18T03:11:14.998Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -133,6 +133,7 @@
       "desc": "Description.",
       "status": "Alive",
       "pageId": "",
+      "major": true,
       "location": "Kalaman"
     }
   ],
