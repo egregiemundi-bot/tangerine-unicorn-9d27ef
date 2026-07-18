@@ -203,7 +203,15 @@
       }
     },
     "artifacts": [],
-    "awards": [],
+    "awards": [
+      {
+        "id": "player-awards:s5:combat:kena-price",
+        "session": "5",
+        "type": "Best in Combat",
+        "date": "",
+        "notes": "Best in Combat awarded to Kena Price from the Player Awards page."
+      }
+    ],
     "planets": [
       {
         "id": "planet_mrjdwghd_909qy6x",
