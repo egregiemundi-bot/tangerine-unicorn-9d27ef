@@ -1,7 +1,7 @@
 {
   "awards": {
     "ballotOpen": false,
-    "currentSession": 1,
+    "currentSession": 2,
     "pendingVotes": {},
     "sessions": [
       {
@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-18T03:12:46.838Z",
+  "updatedAt": "2026-07-18T03:22:23.548Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
