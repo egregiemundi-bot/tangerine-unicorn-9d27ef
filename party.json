@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-18T03:06:45.232Z",
+  "updatedAt": "2026-07-18T03:06:56.850Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -107,7 +107,7 @@
       "pageId": "",
       "img": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/npcs/npc-the-helpful-innkeeper-1784262134454.jpg?v=1784262135736",
       "vibeSong": {
-        "title": "",
+        "title": "I'm Not Crying - Flight of the Conchords",
         "url": "https://open.spotify.com/track/2q7G9sbAUjju4iTvdBATpM?autoplay_ok=1"
       }
     },
