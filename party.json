@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-18T03:11:04.803Z",
+  "updatedAt": "2026-07-18T03:11:11.870Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -132,7 +132,8 @@
       "tag": "Noble · Kalaman",
       "desc": "Description.",
       "status": "Alive",
-      "pageId": ""
+      "pageId": "",
+      "location": "Kalaman"
     }
   ],
   "factionweb": {
