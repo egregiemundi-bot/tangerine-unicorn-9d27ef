@@ -1,15 +1,8 @@
 {
   "awards": {
-    "ballotOpen": true,
+    "ballotOpen": false,
     "currentSession": 5,
-    "pendingVotes": {
-      "voter_mrjlbto5_l7g9p6j": {
-        "combat": "kena-price",
-        "rp": "sibyl-eirlynn",
-        "session": 5,
-        "ts": "2026-07-18T03:24:39.822Z"
-      }
-    },
+    "pendingVotes": {},
     "sessions": [
       {
         "session": 1,
@@ -19,20 +12,24 @@
       },
       {
         "session": 5,
-        "combat": null,
-        "rp": null,
+        "combat": "Kena Price",
+        "rp": "Sibyl Eirlynn",
         "mvp": "Sibyl Eirlynn"
       }
     ],
     "totals": {
-      "combat": {},
-      "rp": {},
+      "combat": {
+        "Kena Price": 1
+      },
+      "rp": {
+        "Sibyl Eirlynn": 1
+      },
       "mvp": {
         "Sibyl Eirlynn": 1
       }
     }
   },
-  "updatedAt": "2026-07-18T03:24:39.995Z",
+  "updatedAt": "2026-07-18T03:24:52.474Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
