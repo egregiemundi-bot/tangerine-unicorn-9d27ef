@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-18T03:11:14.998Z",
+  "updatedAt": "2026-07-18T03:11:36.896Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -130,7 +130,7 @@
       "id": "new-npc",
       "name": "Lord Bakaris",
       "tag": "Noble · Kalaman",
-      "desc": "Description.",
+      "desc": "Lord Bakaris Uth Estide is an arrogant man with a lesser title among the Solamnic nobility. In ages past, his family was known for its wealth and generations of membership in the Knights of Solamnia. While Lord Bakaris retains a considerable amount of wealth, he has lived his entire life on stories of honor and great deeds, none of which are his own. At heart, he’s comically cowardly, full of bluster and inflated words. He has neither the spine to stand up to opposition nor the experience to lead.",
       "status": "Alive",
       "pageId": "",
       "major": true,
