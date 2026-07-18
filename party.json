@@ -31,7 +31,7 @@
       }
     }
   },
-  "updatedAt": "2026-07-18T06:34:46.650Z",
+  "updatedAt": "2026-07-18T07:04:00.243Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -197,7 +197,8 @@
         "id": "kalaman-military",
         "name": "Kalaman Military",
         "tag": "",
-        "status": "Active"
+        "status": "Active",
+        "img": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/faction-kalaman-military.jpg?v=1784358239344"
       }
     ],
     "positions": {
