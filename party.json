@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-18T03:09:50.916Z",
+  "updatedAt": "2026-07-18T03:10:08.525Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -120,7 +120,11 @@
       "desc": "Before retiring to the village of Vogler, Ispin Greenshield traveled across Ansalon as a teacher, trader, and adventurer. Along the way, he forged friendships with each of the characters. Each character knows the following information about him:\n- Ispin was a good-natured human adventurer from Solamnia.\n- The bighearted Ispin loved telling tall tales of his travels to anyone who would listen.\n- Ispin used to adventure with a human Knight of Solamnia named Becklin Uth Viharin and a hill dwarf warrior named Ridomir \"Cudgel\" Ironsmile. These two featured in many of Ispin's stories of fighting sea monsters and goblin raiders.\n- Ispin retired from traveling years ago, becoming a permanent resident of a little-known village in Solamnia called Vogler.",
       "status": "Dead",
       "pageId": "",
-      "img": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/npcs/npc-new-npc-2-1784261819221.jpg?v=1784261820343"
+      "img": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/npcs/npc-new-npc-2-1784261819221.jpg?v=1784261820343",
+      "vibeSong": {
+        "title": "My Way - Frank Sinatra",
+        "url": "https://open.spotify.com/track/2YkIDPL5lGhRhomCq4S2RO?autoplay_ok=1"
+      }
     }
   ],
   "factionweb": {
