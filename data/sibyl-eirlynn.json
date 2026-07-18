@@ -177,6 +177,13 @@
     "artifacts": [],
     "awards": [
       {
+        "id": "player-awards:s5:rp:sibyl-eirlynn",
+        "session": "5",
+        "type": "Best RP",
+        "date": "",
+        "notes": "Best RP awarded to Sibyl Eirlynn from the Player Awards page."
+      },
+      {
         "id": "player-awards:s5:mvp:sibyl-eirlynn",
         "session": "5",
         "type": "DM MVP",
