@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-18T03:08:00.065Z",
+  "updatedAt": "2026-07-18T03:08:03.281Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -110,15 +110,6 @@
         "title": "I'm Not Crying - Flight of the Conchords",
         "url": "https://open.spotify.com/track/2q7G9sbAUjju4iTvdBATpM?autoplay_ok=1"
       }
-    },
-    {
-      "id": "the-local-sage",
-      "name": "The Local Sage",
-      "tag": "Lorekeeper · Research",
-      "desc": "A scholar, priest, witch, elder, or historian who can answer dangerous questions.",
-      "status": "Alive",
-      "pageId": "",
-      "img": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/npcs/web-the-local-sage.jpg?v=1783771970883"
     },
     {
       "id": "new-npc",
