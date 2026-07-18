@@ -1,3 +1,13 @@
 {
-  "pages": []
+  "pages": [
+    {
+      "id": "homebrew-rules",
+      "title": "Homebrew rules",
+      "parentId": "",
+      "secret": false,
+      "links": [],
+      "excerpt": "We'll be using the Matt Mercer rules for reviving characters. We will not be whisper rolling death saves. Anyone who wants to can provide a memory from their life when they have to roll a death save. If you take an action to drink a potion,",
+      "updated": 1784344713679
+    }
+  ]
 }
