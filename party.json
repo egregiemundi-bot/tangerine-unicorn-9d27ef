@@ -9,15 +9,23 @@
         "combat": null,
         "rp": null,
         "mvp": null
+      },
+      {
+        "session": 5,
+        "combat": null,
+        "rp": null,
+        "mvp": "Sibyl Eirlynn"
       }
     ],
     "totals": {
       "combat": {},
       "rp": {},
-      "mvp": {}
+      "mvp": {
+        "Sibyl Eirlynn": 1
+      }
     }
   },
-  "updatedAt": "2026-07-18T03:22:43.571Z",
+  "updatedAt": "2026-07-18T03:22:57.589Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
