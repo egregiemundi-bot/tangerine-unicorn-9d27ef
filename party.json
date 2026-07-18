@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-18T02:59:58.436Z",
+  "updatedAt": "2026-07-18T03:00:23.729Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -190,6 +190,12 @@
         "name": "The Undertow",
         "tag": "Thieves' Guild - Kalaman",
         "status": "Active"
+      },
+      {
+        "id": "red-dragon-army",
+        "name": "Red Dragon Army",
+        "tag": "",
+        "status": "Active"
       }
     ],
     "positions": {
@@ -212,6 +218,10 @@
       "the-undertow": {
         "x": 682,
         "y": 279
+      },
+      "red-dragon-army": {
+        "x": 542.2488288031777,
+        "y": 530.393659540824
       }
     },
     "edges": [
