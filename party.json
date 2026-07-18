@@ -29,7 +29,7 @@
       }
     }
   },
-  "updatedAt": "2026-07-18T03:26:58.181Z",
+  "updatedAt": "2026-07-18T05:51:19.420Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -683,5 +683,18 @@
         "updatedAt": "2026-07-17T19:36:13.084Z"
       }
     ]
+  },
+  "campaignrules": {
+    "sections": [
+      {
+        "id": "rule-mrpy8274-d0yzs",
+        "title": "New Section",
+        "content": "",
+        "hidden": false,
+        "order": 0,
+        "subPages": []
+      }
+    ],
+    "entries": []
   }
 }
