@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-18T03:10:56.247Z",
+  "updatedAt": "2026-07-18T03:11:01.746Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -129,7 +129,7 @@
     {
       "id": "new-npc",
       "name": "Lord Bakaris",
-      "tag": "Role · Location",
+      "tag": "Noble · Location",
       "desc": "Description.",
       "status": "Alive",
       "pageId": ""
