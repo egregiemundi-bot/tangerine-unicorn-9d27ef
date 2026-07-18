@@ -2,7 +2,14 @@
   "awards": {
     "ballotOpen": true,
     "currentSession": 5,
-    "pendingVotes": {},
+    "pendingVotes": {
+      "voter_mrjlbto5_l7g9p6j": {
+        "combat": "kena-price",
+        "rp": "sibyl-eirlynn",
+        "session": 5,
+        "ts": "2026-07-18T03:24:38.497Z"
+      }
+    },
     "sessions": [
       {
         "session": 1,
@@ -25,7 +32,7 @@
       }
     }
   },
-  "updatedAt": "2026-07-18T03:24:34.747Z",
+  "updatedAt": "2026-07-18T03:24:38.665Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
