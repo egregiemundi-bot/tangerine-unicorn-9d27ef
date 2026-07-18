@@ -17,7 +17,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-18T03:11:50.221Z",
+  "updatedAt": "2026-07-18T03:12:46.838Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -134,7 +134,11 @@
       "status": "Alive",
       "pageId": "",
       "major": true,
-      "location": "Kalaman"
+      "location": "Kalaman",
+      "vibeSong": {
+        "title": "Asshole - Denis Leary",
+        "url": "https://open.spotify.com/track/5i0BBU8OZdD7EkYeA5WrSq"
+      }
     }
   ],
   "factionweb": {
