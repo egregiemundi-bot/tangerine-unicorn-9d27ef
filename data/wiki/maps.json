@@ -83,7 +83,18 @@
       "lore": {},
       "loreHiddenFields": [],
       "loreSections": [],
-      "pins": []
+      "pins": [
+        {
+          "id": "pin-mrr5i4vfrk21u",
+          "x": 567.6050802962574,
+          "y": 440.13043934638955,
+          "title": "Kalaman Castle",
+          "note": "",
+          "targetType": "npc",
+          "targetId": "",
+          "secret": false
+        }
+      ]
     }
   ]
 }
