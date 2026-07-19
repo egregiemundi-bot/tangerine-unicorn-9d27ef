@@ -24,6 +24,18 @@
           "note": "",
           "targetType": "map",
           "targetId": "map-mrr5brfbvypua",
+          "color": "brass",
+          "secret": false
+        },
+        {
+          "id": "pin-mrs8c3r97wtdc",
+          "x": 480.8326112068523,
+          "y": 727.7454603624299,
+          "title": "1",
+          "note": "",
+          "targetType": "none",
+          "targetId": "",
+          "color": "purple",
           "secret": false
         }
       ]
@@ -107,6 +119,7 @@
           "note": "",
           "targetType": "none",
           "targetId": "",
+          "color": "brass",
           "secret": false
         },
         {
@@ -117,6 +130,7 @@
           "note": "Tavern",
           "targetType": "none",
           "targetId": "",
+          "color": "brass",
           "secret": false
         }
       ]
