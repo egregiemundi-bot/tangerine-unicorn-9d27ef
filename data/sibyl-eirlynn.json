@@ -53,7 +53,7 @@
     "activePlanetId": "planet_mrj58vx3_4z292em",
     "favoriteSpells": [],
     "ui": {
-      "tab": "features",
+      "tab": "combat",
       "form": "divine",
       "activePlanetId": "",
       "expanded": {},
@@ -110,7 +110,8 @@
             "resources": true,
             "slots": true,
             "spells": true,
-            "rolls": true
+            "rolls": true,
+            "saves": true
           }
         },
         "wallpaper": "",
