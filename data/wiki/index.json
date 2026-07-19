@@ -21,11 +21,11 @@
     {
       "id": "kalaman",
       "title": "Kalaman",
-      "parentId": "homebrew-rules",
+      "parentId": "",
       "secret": false,
       "links": [],
       "excerpt": "",
-      "updated": 1784499919692
+      "updated": 1784499939648
     }
   ]
 }
