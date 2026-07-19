@@ -39,7 +39,11 @@
       "parentMapId": "",
       "parentPinId": "",
       "description": "",
-      "defaultView": null,
+      "defaultView": {
+        "zoom": -0.75,
+        "centerX": 0.48475205114625897,
+        "centerY": 0.4544627832230251
+      },
       "lore": {},
       "loreHiddenFields": [],
       "loreSections": [],
