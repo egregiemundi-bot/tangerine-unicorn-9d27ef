@@ -1,9 +1,9 @@
 {
   "id": "kalaman",
   "title": "Kalaman",
-  "parentId": "homebrew-rules",
+  "parentId": "",
   "secret": false,
   "content": "<p></p>",
   "links": [],
-  "updated": 1784499919692
+  "updated": 1784499939648
 }
