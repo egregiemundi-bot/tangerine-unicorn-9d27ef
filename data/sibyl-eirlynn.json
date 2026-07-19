@@ -270,7 +270,7 @@
             "recharge": "at-will",
             "usesMax": 0,
             "usesCurrent": 0,
-            "description": "",
+            "description": "You can take the Dash action as a Bonus Action.\n\n\n\n",
             "tags": [],
             "damageType": "",
             "healing": false,
@@ -297,12 +297,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784505301579
+        "lastModified": 1784505302545
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784505302280,
+    "generatedAt": 1784505303246,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -359,7 +359,7 @@
         "recharge": "at-will",
         "usesMax": 0,
         "usesCurrent": 0,
-        "description": "",
+        "description": "You can take the Dash action as a Bonus Action.\n\n\n\n",
         "tags": [],
         "damageType": "",
         "healing": false,
@@ -382,7 +382,7 @@
         "recharge": "at-will",
         "usesMax": 0,
         "usesCurrent": 0,
-        "description": "",
+        "description": "You can take the Dash action as a Bonus Action.\n\n\n\n",
         "tags": [],
         "damageType": "",
         "healing": false,
@@ -481,9 +481,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 114,
+  "_divineCacheRev": 115,
   "_divine": {
-    "generatedAt": 1784505302280,
+    "generatedAt": 1784505303246,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -540,7 +540,7 @@
         "recharge": "at-will",
         "usesMax": 0,
         "usesCurrent": 0,
-        "description": "",
+        "description": "You can take the Dash action as a Bonus Action.\n\n\n\n",
         "tags": [],
         "damageType": "",
         "healing": false,
@@ -563,7 +563,7 @@
         "recharge": "at-will",
         "usesMax": 0,
         "usesCurrent": 0,
-        "description": "",
+        "description": "You can take the Dash action as a Bonus Action.\n\n\n\n",
         "tags": [],
         "damageType": "",
         "healing": false,
@@ -662,5 +662,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 114
+  "_rev": 115
 }
