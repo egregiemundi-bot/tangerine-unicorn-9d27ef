@@ -15,7 +15,18 @@
       "lore": {},
       "loreHiddenFields": [],
       "loreSections": [],
-      "pins": []
+      "pins": [
+        {
+          "id": "pin-mrr5lh6g94wbx",
+          "x": 1252.9356587280347,
+          "y": 316.8602804727903,
+          "title": "Ansalon",
+          "note": "",
+          "targetType": "map",
+          "targetId": "map-mrr5brfbvypua",
+          "secret": false
+        }
+      ]
     },
     {
       "id": "map-mrr5brfbvypua",
