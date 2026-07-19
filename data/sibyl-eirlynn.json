@@ -270,7 +270,7 @@
             "recharge": "at-will",
             "usesMax": 0,
             "usesCurrent": 0,
-            "description": "You can take the Dash action as a Bonus Action.\n\n\n\n",
+            "description": "You can take the Dash action as a Bonus Action.",
             "tags": [],
             "damageType": "",
             "healing": false,
@@ -297,12 +297,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784505302545
+        "lastModified": 1784505304962
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784505303246,
+    "generatedAt": 1784505305663,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -359,7 +359,7 @@
         "recharge": "at-will",
         "usesMax": 0,
         "usesCurrent": 0,
-        "description": "You can take the Dash action as a Bonus Action.\n\n\n\n",
+        "description": "You can take the Dash action as a Bonus Action.",
         "tags": [],
         "damageType": "",
         "healing": false,
@@ -382,7 +382,7 @@
         "recharge": "at-will",
         "usesMax": 0,
         "usesCurrent": 0,
-        "description": "You can take the Dash action as a Bonus Action.\n\n\n\n",
+        "description": "You can take the Dash action as a Bonus Action.",
         "tags": [],
         "damageType": "",
         "healing": false,
@@ -481,9 +481,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 115,
+  "_divineCacheRev": 119,
   "_divine": {
-    "generatedAt": 1784505303246,
+    "generatedAt": 1784505305663,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -540,7 +540,7 @@
         "recharge": "at-will",
         "usesMax": 0,
         "usesCurrent": 0,
-        "description": "You can take the Dash action as a Bonus Action.\n\n\n\n",
+        "description": "You can take the Dash action as a Bonus Action.",
         "tags": [],
         "damageType": "",
         "healing": false,
@@ -563,7 +563,7 @@
         "recharge": "at-will",
         "usesMax": 0,
         "usesCurrent": 0,
-        "description": "You can take the Dash action as a Bonus Action.\n\n\n\n",
+        "description": "You can take the Dash action as a Bonus Action.",
         "tags": [],
         "damageType": "",
         "healing": false,
@@ -662,5 +662,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 115
+  "_rev": 119
 }
