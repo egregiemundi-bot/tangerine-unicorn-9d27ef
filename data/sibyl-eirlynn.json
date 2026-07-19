@@ -242,7 +242,7 @@
         "features": [
           {
             "id": "feat_mrsg9piw_2s2r146",
-            "name": "Step of the Wind",
+            "name": "Flurry of Blows",
             "level": 1,
             "className": "",
             "subclass": "",
@@ -278,12 +278,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784505118219
+        "lastModified": 1784505142660
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784505119920,
+    "generatedAt": 1784505143361,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -311,7 +311,7 @@
     "features": [
       {
         "id": "feat_mrsg9piw_2s2r146",
-        "name": "Step of the Wind",
+        "name": "Flurry of Blows",
         "level": 1,
         "className": "",
         "subclass": "",
@@ -336,7 +336,7 @@
     "passives": [
       {
         "id": "feat_mrsg9piw_2s2r146",
-        "name": "Step of the Wind",
+        "name": "Flurry of Blows",
         "level": 1,
         "className": "",
         "subclass": "",
@@ -421,9 +421,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 64,
+  "_divineCacheRev": 79,
   "_divine": {
-    "generatedAt": 1784505119920,
+    "generatedAt": 1784505143361,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -451,7 +451,7 @@
     "features": [
       {
         "id": "feat_mrsg9piw_2s2r146",
-        "name": "Step of the Wind",
+        "name": "Flurry of Blows",
         "level": 1,
         "className": "",
         "subclass": "",
@@ -476,7 +476,7 @@
     "passives": [
       {
         "id": "feat_mrsg9piw_2s2r146",
-        "name": "Step of the Wind",
+        "name": "Flurry of Blows",
         "level": 1,
         "className": "",
         "subclass": "",
@@ -561,5 +561,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 64
+  "_rev": 79
 }
