@@ -86,8 +86,8 @@
       "pins": [
         {
           "id": "pin-mrr5i4vfrk21u",
-          "x": 504.16713498600836,
-          "y": 323.1477990022522,
+          "x": 550,
+          "y": 315.5,
           "title": "Kalaman Castle",
           "note": "",
           "targetType": "npc",
