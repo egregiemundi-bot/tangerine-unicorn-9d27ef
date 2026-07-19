@@ -17,6 +17,15 @@
       "links": [],
       "excerpt": "A mid-tier tavern in Kalaman.",
       "updated": 1784499895369
+    },
+    {
+      "id": "kalaman",
+      "title": "Kalaman",
+      "parentId": "homebrew-rules",
+      "secret": false,
+      "links": [],
+      "excerpt": "",
+      "updated": 1784499919692
     }
   ]
 }
