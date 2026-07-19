@@ -101,7 +101,7 @@
           "y": 315.5,
           "title": "Kalaman Castle",
           "note": "",
-          "targetType": "npc",
+          "targetType": "none",
           "targetId": "",
           "secret": false
         }
