@@ -56,7 +56,9 @@
       "tab": "combat",
       "form": "divine",
       "activePlanetId": "",
-      "expanded": {},
+      "expanded": {
+        "feat:step of the wind": true
+      },
       "pinned": [],
       "searchFilters": [],
       "searchMode": "AND",
