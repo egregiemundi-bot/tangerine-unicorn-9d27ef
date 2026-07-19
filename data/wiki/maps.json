@@ -50,6 +50,23 @@
       "loreHiddenFields": [],
       "loreSections": [],
       "pins": []
+    },
+    {
+      "id": "map-mrr5e4kbeqs49",
+      "name": "Vogler",
+      "title": "Vogler",
+      "type": "city",
+      "image": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/maps/atlas-1784426375841.jpg?v=1784426377645",
+      "width": 1200,
+      "height": 869,
+      "parentMapId": "",
+      "parentPinId": "",
+      "description": "",
+      "defaultView": null,
+      "lore": {},
+      "loreHiddenFields": [],
+      "loreSections": [],
+      "pins": []
     }
   ]
 }
