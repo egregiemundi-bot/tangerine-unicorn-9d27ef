@@ -247,7 +247,7 @@
             "className": "",
             "subclass": "",
             "sourcePlanet": "",
-            "actionType": "other",
+            "actionType": "bonus",
             "recharge": "at-will",
             "usesMax": 3,
             "usesCurrent": 0,
@@ -297,12 +297,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784505306598
+        "lastModified": 1784505376477
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784505307307,
+    "generatedAt": 1784505377178,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -335,7 +335,7 @@
         "className": "",
         "subclass": "",
         "sourcePlanet": "Character Sheet",
-        "actionType": "other",
+        "actionType": "bonus",
         "recharge": "at-will",
         "usesMax": 3,
         "usesCurrent": 0,
@@ -372,6 +372,26 @@
     "actions": [],
     "bonusActions": [
       {
+        "id": "feat_mrsg9piw_2s2r146",
+        "name": "Flurry of Blows",
+        "level": 1,
+        "className": "",
+        "subclass": "",
+        "sourcePlanet": "Character Sheet",
+        "actionType": "bonus",
+        "recharge": "at-will",
+        "usesMax": 3,
+        "usesCurrent": 0,
+        "description": "You can expend 1 Focus Point to make two Unarmed Strikes as a Bonus Action.\nYou can replace one of the Unarmed Strikes with a use of Hand of Healing without expending a Focus Point for the healing.",
+        "tags": [],
+        "damageType": "",
+        "healing": false,
+        "movement": false,
+        "favorite": false,
+        "pinned": false,
+        "sourceClass": "Monk"
+      },
+      {
         "id": "feat_mrsgd48v_307wyi1",
         "name": "Step of the Wind",
         "level": 1,
@@ -396,28 +416,7 @@
     "passives": [],
     "freeActions": [],
     "legendaryActions": [],
-    "otherActions": [
-      {
-        "id": "feat_mrsg9piw_2s2r146",
-        "name": "Flurry of Blows",
-        "level": 1,
-        "className": "",
-        "subclass": "",
-        "sourcePlanet": "Character Sheet",
-        "actionType": "other",
-        "recharge": "at-will",
-        "usesMax": 3,
-        "usesCurrent": 0,
-        "description": "You can expend 1 Focus Point to make two Unarmed Strikes as a Bonus Action.\nYou can replace one of the Unarmed Strikes with a use of Hand of Healing without expending a Focus Point for the healing.",
-        "tags": [],
-        "damageType": "",
-        "healing": false,
-        "movement": false,
-        "favorite": false,
-        "pinned": false,
-        "sourceClass": "Monk"
-      }
-    ],
+    "otherActions": [],
     "spells": [],
     "spellsByLevel": {
       "0": [],
@@ -465,7 +464,7 @@
       "subclasses": 0,
       "features": 2,
       "actions": 0,
-      "bonusActions": 1,
+      "bonusActions": 2,
       "reactions": 0,
       "passives": 0,
       "spells": 0,
@@ -481,9 +480,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 120,
+  "_divineCacheRev": 122,
   "_divine": {
-    "generatedAt": 1784505307307,
+    "generatedAt": 1784505377178,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -516,7 +515,7 @@
         "className": "",
         "subclass": "",
         "sourcePlanet": "Character Sheet",
-        "actionType": "other",
+        "actionType": "bonus",
         "recharge": "at-will",
         "usesMax": 3,
         "usesCurrent": 0,
@@ -553,6 +552,26 @@
     "actions": [],
     "bonusActions": [
       {
+        "id": "feat_mrsg9piw_2s2r146",
+        "name": "Flurry of Blows",
+        "level": 1,
+        "className": "",
+        "subclass": "",
+        "sourcePlanet": "Character Sheet",
+        "actionType": "bonus",
+        "recharge": "at-will",
+        "usesMax": 3,
+        "usesCurrent": 0,
+        "description": "You can expend 1 Focus Point to make two Unarmed Strikes as a Bonus Action.\nYou can replace one of the Unarmed Strikes with a use of Hand of Healing without expending a Focus Point for the healing.",
+        "tags": [],
+        "damageType": "",
+        "healing": false,
+        "movement": false,
+        "favorite": false,
+        "pinned": false,
+        "sourceClass": "Monk"
+      },
+      {
         "id": "feat_mrsgd48v_307wyi1",
         "name": "Step of the Wind",
         "level": 1,
@@ -577,28 +596,7 @@
     "passives": [],
     "freeActions": [],
     "legendaryActions": [],
-    "otherActions": [
-      {
-        "id": "feat_mrsg9piw_2s2r146",
-        "name": "Flurry of Blows",
-        "level": 1,
-        "className": "",
-        "subclass": "",
-        "sourcePlanet": "Character Sheet",
-        "actionType": "other",
-        "recharge": "at-will",
-        "usesMax": 3,
-        "usesCurrent": 0,
-        "description": "You can expend 1 Focus Point to make two Unarmed Strikes as a Bonus Action.\nYou can replace one of the Unarmed Strikes with a use of Hand of Healing without expending a Focus Point for the healing.",
-        "tags": [],
-        "damageType": "",
-        "healing": false,
-        "movement": false,
-        "favorite": false,
-        "pinned": false,
-        "sourceClass": "Monk"
-      }
-    ],
+    "otherActions": [],
     "spells": [],
     "spellsByLevel": {
       "0": [],
@@ -646,7 +644,7 @@
       "subclasses": 0,
       "features": 2,
       "actions": 0,
-      "bonusActions": 1,
+      "bonusActions": 2,
       "reactions": 0,
       "passives": 0,
       "spells": 0,
@@ -662,5 +660,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 120
+  "_rev": 122
 }
