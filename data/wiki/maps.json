@@ -104,6 +104,16 @@
           "targetType": "none",
           "targetId": "",
           "secret": false
+        },
+        {
+          "id": "pin-mrr6tbqngihso",
+          "x": 706,
+          "y": 223.40625,
+          "title": "The Steady Beacon",
+          "note": "Tavern",
+          "targetType": "none",
+          "targetId": "",
+          "secret": false
         }
       ]
     }
