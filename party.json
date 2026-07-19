@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-19T18:07:30.066Z",
+  "updatedAt": "2026-07-19T18:07:42.902Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -689,6 +689,17 @@
         "createdAt": "2026-07-19T18:07:30.066Z",
         "updatedAt": "2026-07-19T18:07:30.066Z",
         "clientNonce": "71ad28f1-f25f-4359-9ca5-f708d2126f17"
+      },
+      {
+        "id": "boundary-mrs3z3ue-e5r656",
+        "type": "veil",
+        "text": "Torture",
+        "anonymous": true,
+        "authorId": "*",
+        "authorName": "Dungeon Master",
+        "createdAt": "2026-07-19T18:07:42.902Z",
+        "updatedAt": "2026-07-19T18:07:42.902Z",
+        "clientNonce": "01bd6fbb-9bce-4920-8de4-40166d09db50"
       }
     ]
   }
