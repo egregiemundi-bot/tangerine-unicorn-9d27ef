@@ -67,6 +67,23 @@
       "loreHiddenFields": [],
       "loreSections": [],
       "pins": []
+    },
+    {
+      "id": "map-mrr5elda24tj1",
+      "name": "Kalaman",
+      "title": "Kalaman",
+      "type": "city",
+      "image": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/maps/atlas-1784426397735.jpg?v=1784426399424",
+      "width": 1200,
+      "height": 858,
+      "parentMapId": "",
+      "parentPinId": "",
+      "description": "",
+      "defaultView": null,
+      "lore": {},
+      "loreHiddenFields": [],
+      "loreSections": [],
+      "pins": []
     }
   ]
 }
