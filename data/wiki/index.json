@@ -12,11 +12,11 @@
     {
       "id": "wanderer-s-rest",
       "title": "Wanderer's Rest",
-      "parentId": "",
+      "parentId": "kalaman",
       "secret": false,
       "links": [],
       "excerpt": "A mid-tier tavern in Kalaman.",
-      "updated": 1784499895369
+      "updated": 1784499947825
     },
     {
       "id": "kalaman",
