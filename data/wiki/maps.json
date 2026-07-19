@@ -121,6 +121,17 @@
           "targetId": "",
           "color": "brass",
           "secret": false
+        },
+        {
+          "id": "pin-mrsaduipnbn57",
+          "x": 603.763626152167,
+          "y": 507.7569057418719,
+          "title": "Wanderer's Rest",
+          "note": "Tavern.",
+          "targetType": "wiki",
+          "targetId": "homebrew-rules",
+          "color": "orange",
+          "secret": false
         }
       ]
     }
