@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-18T07:07:51.915Z",
+  "updatedAt": "2026-07-19T18:07:30.066Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -678,6 +678,18 @@
         "subPages": []
       }
     ],
-    "entries": []
+    "entries": [
+      {
+        "id": "boundary-mrs3ytxu-x0ikzm",
+        "type": "line",
+        "text": "Sexual assault.",
+        "anonymous": false,
+        "authorId": "*",
+        "authorName": "Dungeon Master",
+        "createdAt": "2026-07-19T18:07:30.066Z",
+        "updatedAt": "2026-07-19T18:07:30.066Z",
+        "clientNonce": "71ad28f1-f25f-4359-9ca5-f708d2126f17"
+      }
+    ]
   }
 }
