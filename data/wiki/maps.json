@@ -16,6 +16,23 @@
       "loreHiddenFields": [],
       "loreSections": [],
       "pins": []
+    },
+    {
+      "id": "map-mrr5brfbvypua",
+      "name": "Ansalon",
+      "title": "Ansalon",
+      "type": "continent",
+      "image": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/maps/atlas-1784426265172.jpg?v=1784426267306",
+      "width": 1700,
+      "height": 1199,
+      "parentMapId": "",
+      "parentPinId": "",
+      "description": "",
+      "defaultView": null,
+      "lore": {},
+      "loreHiddenFields": [],
+      "loreSections": [],
+      "pins": []
     }
   ]
 }
