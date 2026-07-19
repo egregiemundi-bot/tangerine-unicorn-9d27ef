@@ -251,7 +251,7 @@
             "recharge": "at-will",
             "usesMax": 0,
             "usesCurrent": 0,
-            "description": "",
+            "description": "You can expend 1 Focus Point to make two Unarmed Strikes as a Bonus Action.\nYou can replace one of the Unarmed Strikes with a use of Hand of Healing without expending a Focus Point for the healing.",
             "tags": [],
             "damageType": "",
             "healing": false,
@@ -278,12 +278,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784505151314
+        "lastModified": 1784505156370
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784505152016,
+    "generatedAt": 1784505157072,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -320,7 +320,7 @@
         "recharge": "at-will",
         "usesMax": 0,
         "usesCurrent": 0,
-        "description": "",
+        "description": "You can expend 1 Focus Point to make two Unarmed Strikes as a Bonus Action.\nYou can replace one of the Unarmed Strikes with a use of Hand of Healing without expending a Focus Point for the healing.",
         "tags": [],
         "damageType": "",
         "healing": false,
@@ -348,7 +348,7 @@
         "recharge": "at-will",
         "usesMax": 0,
         "usesCurrent": 0,
-        "description": "",
+        "description": "You can expend 1 Focus Point to make two Unarmed Strikes as a Bonus Action.\nYou can replace one of the Unarmed Strikes with a use of Hand of Healing without expending a Focus Point for the healing.",
         "tags": [],
         "damageType": "",
         "healing": false,
@@ -421,9 +421,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 82,
+  "_divineCacheRev": 83,
   "_divine": {
-    "generatedAt": 1784505152016,
+    "generatedAt": 1784505157072,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -460,7 +460,7 @@
         "recharge": "at-will",
         "usesMax": 0,
         "usesCurrent": 0,
-        "description": "",
+        "description": "You can expend 1 Focus Point to make two Unarmed Strikes as a Bonus Action.\nYou can replace one of the Unarmed Strikes with a use of Hand of Healing without expending a Focus Point for the healing.",
         "tags": [],
         "damageType": "",
         "healing": false,
@@ -488,7 +488,7 @@
         "recharge": "at-will",
         "usesMax": 0,
         "usesCurrent": 0,
-        "description": "",
+        "description": "You can expend 1 Focus Point to make two Unarmed Strikes as a Bonus Action.\nYou can replace one of the Unarmed Strikes with a use of Hand of Healing without expending a Focus Point for the healing.",
         "tags": [],
         "damageType": "",
         "healing": false,
@@ -561,5 +561,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 82
+  "_rev": 83
 }
