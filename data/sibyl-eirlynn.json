@@ -247,7 +247,7 @@
             "className": "",
             "subclass": "",
             "sourcePlanet": "",
-            "actionType": "passive",
+            "actionType": "other",
             "recharge": "at-will",
             "usesMax": 0,
             "usesCurrent": 0,
@@ -278,12 +278,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784505143900
+        "lastModified": 1784505151314
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784505144602,
+    "generatedAt": 1784505152016,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -316,7 +316,7 @@
         "className": "",
         "subclass": "",
         "sourcePlanet": "Character Sheet",
-        "actionType": "passive",
+        "actionType": "other",
         "recharge": "at-will",
         "usesMax": 0,
         "usesCurrent": 0,
@@ -333,7 +333,10 @@
     "actions": [],
     "bonusActions": [],
     "reactions": [],
-    "passives": [
+    "passives": [],
+    "freeActions": [],
+    "legendaryActions": [],
+    "otherActions": [
       {
         "id": "feat_mrsg9piw_2s2r146",
         "name": "Flurry of Blows",
@@ -341,7 +344,7 @@
         "className": "",
         "subclass": "",
         "sourcePlanet": "Character Sheet",
-        "actionType": "passive",
+        "actionType": "other",
         "recharge": "at-will",
         "usesMax": 0,
         "usesCurrent": 0,
@@ -355,9 +358,6 @@
         "sourceClass": "Monk"
       }
     ],
-    "freeActions": [],
-    "legendaryActions": [],
-    "otherActions": [],
     "spells": [],
     "spellsByLevel": {
       "0": [],
@@ -407,7 +407,7 @@
       "actions": 0,
       "bonusActions": 0,
       "reactions": 0,
-      "passives": 1,
+      "passives": 0,
       "spells": 0,
       "cantrips": 0,
       "resources": 0,
@@ -421,9 +421,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 80,
+  "_divineCacheRev": 82,
   "_divine": {
-    "generatedAt": 1784505144602,
+    "generatedAt": 1784505152016,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -456,7 +456,7 @@
         "className": "",
         "subclass": "",
         "sourcePlanet": "Character Sheet",
-        "actionType": "passive",
+        "actionType": "other",
         "recharge": "at-will",
         "usesMax": 0,
         "usesCurrent": 0,
@@ -473,7 +473,10 @@
     "actions": [],
     "bonusActions": [],
     "reactions": [],
-    "passives": [
+    "passives": [],
+    "freeActions": [],
+    "legendaryActions": [],
+    "otherActions": [
       {
         "id": "feat_mrsg9piw_2s2r146",
         "name": "Flurry of Blows",
@@ -481,7 +484,7 @@
         "className": "",
         "subclass": "",
         "sourcePlanet": "Character Sheet",
-        "actionType": "passive",
+        "actionType": "other",
         "recharge": "at-will",
         "usesMax": 0,
         "usesCurrent": 0,
@@ -495,9 +498,6 @@
         "sourceClass": "Monk"
       }
     ],
-    "freeActions": [],
-    "legendaryActions": [],
-    "otherActions": [],
     "spells": [],
     "spellsByLevel": {
       "0": [],
@@ -547,7 +547,7 @@
       "actions": 0,
       "bonusActions": 0,
       "reactions": 0,
-      "passives": 1,
+      "passives": 0,
       "spells": 0,
       "cantrips": 0,
       "resources": 0,
@@ -561,5 +561,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 80
+  "_rev": 82
 }
