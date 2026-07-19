@@ -239,7 +239,27 @@
         "speed": 30,
         "resources": [],
         "spells": [],
-        "features": [],
+        "features": [
+          {
+            "id": "feat_mrsg9piw_2s2r146",
+            "name": "",
+            "level": 1,
+            "className": "",
+            "subclass": "",
+            "sourcePlanet": "",
+            "actionType": "passive",
+            "recharge": "at-will",
+            "usesMax": 0,
+            "usesCurrent": 0,
+            "description": "",
+            "tags": [],
+            "damageType": "",
+            "healing": false,
+            "movement": false,
+            "favorite": false,
+            "pinned": false
+          }
+        ],
         "feats": [],
         "epicBoons": [],
         "asi": [],
@@ -258,12 +278,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784107218892
+        "lastModified": 1784505112954
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784107219596,
+    "generatedAt": 1784505113656,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -288,11 +308,53 @@
       }
     ],
     "subclasses": [],
-    "features": [],
+    "features": [
+      {
+        "id": "feat_mrsg9piw_2s2r146",
+        "name": "",
+        "level": 1,
+        "className": "",
+        "subclass": "",
+        "sourcePlanet": "Character Sheet",
+        "actionType": "passive",
+        "recharge": "at-will",
+        "usesMax": 0,
+        "usesCurrent": 0,
+        "description": "",
+        "tags": [],
+        "damageType": "",
+        "healing": false,
+        "movement": false,
+        "favorite": false,
+        "pinned": false,
+        "sourceClass": "Monk"
+      }
+    ],
     "actions": [],
     "bonusActions": [],
     "reactions": [],
-    "passives": [],
+    "passives": [
+      {
+        "id": "feat_mrsg9piw_2s2r146",
+        "name": "",
+        "level": 1,
+        "className": "",
+        "subclass": "",
+        "sourcePlanet": "Character Sheet",
+        "actionType": "passive",
+        "recharge": "at-will",
+        "usesMax": 0,
+        "usesCurrent": 0,
+        "description": "",
+        "tags": [],
+        "damageType": "",
+        "healing": false,
+        "movement": false,
+        "favorite": false,
+        "pinned": false,
+        "sourceClass": "Monk"
+      }
+    ],
     "freeActions": [],
     "legendaryActions": [],
     "otherActions": [],
@@ -341,11 +403,11 @@
       "planets": 1,
       "classes": 1,
       "subclasses": 0,
-      "features": 0,
+      "features": 1,
       "actions": 0,
       "bonusActions": 0,
       "reactions": 0,
-      "passives": 0,
+      "passives": 1,
       "spells": 0,
       "cantrips": 0,
       "resources": 0,
@@ -359,9 +421,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 46,
+  "_divineCacheRev": 47,
   "_divine": {
-    "generatedAt": 1784107219596,
+    "generatedAt": 1784505113656,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -386,11 +448,53 @@
       }
     ],
     "subclasses": [],
-    "features": [],
+    "features": [
+      {
+        "id": "feat_mrsg9piw_2s2r146",
+        "name": "",
+        "level": 1,
+        "className": "",
+        "subclass": "",
+        "sourcePlanet": "Character Sheet",
+        "actionType": "passive",
+        "recharge": "at-will",
+        "usesMax": 0,
+        "usesCurrent": 0,
+        "description": "",
+        "tags": [],
+        "damageType": "",
+        "healing": false,
+        "movement": false,
+        "favorite": false,
+        "pinned": false,
+        "sourceClass": "Monk"
+      }
+    ],
     "actions": [],
     "bonusActions": [],
     "reactions": [],
-    "passives": [],
+    "passives": [
+      {
+        "id": "feat_mrsg9piw_2s2r146",
+        "name": "",
+        "level": 1,
+        "className": "",
+        "subclass": "",
+        "sourcePlanet": "Character Sheet",
+        "actionType": "passive",
+        "recharge": "at-will",
+        "usesMax": 0,
+        "usesCurrent": 0,
+        "description": "",
+        "tags": [],
+        "damageType": "",
+        "healing": false,
+        "movement": false,
+        "favorite": false,
+        "pinned": false,
+        "sourceClass": "Monk"
+      }
+    ],
     "freeActions": [],
     "legendaryActions": [],
     "otherActions": [],
@@ -439,11 +543,11 @@
       "planets": 1,
       "classes": 1,
       "subclasses": 0,
-      "features": 0,
+      "features": 1,
       "actions": 0,
       "bonusActions": 0,
       "reactions": 0,
-      "passives": 0,
+      "passives": 1,
       "spells": 0,
       "cantrips": 0,
       "resources": 0,
@@ -457,5 +561,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 46
+  "_rev": 47
 }
