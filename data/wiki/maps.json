@@ -33,6 +33,23 @@
       "loreHiddenFields": [],
       "loreSections": [],
       "pins": []
+    },
+    {
+      "id": "map-mrr5cti8hjvvv",
+      "name": "Solamnia",
+      "title": "Solamnia",
+      "type": "country",
+      "image": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/maps/atlas-1784426314772.jpg?v=1784426316660",
+      "width": 934,
+      "height": 905,
+      "parentMapId": "",
+      "parentPinId": "",
+      "description": "",
+      "defaultView": null,
+      "lore": {},
+      "loreHiddenFields": [],
+      "loreSections": [],
+      "pins": []
     }
   ]
 }
