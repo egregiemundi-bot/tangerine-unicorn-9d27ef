@@ -266,7 +266,7 @@
             "className": "",
             "subclass": "",
             "sourcePlanet": "",
-            "actionType": "passive",
+            "actionType": "bonus",
             "recharge": "at-will",
             "usesMax": 0,
             "usesCurrent": 0,
@@ -297,12 +297,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784505298803
+        "lastModified": 1784505301579
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784505299505,
+    "generatedAt": 1784505302280,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -355,7 +355,7 @@
         "className": "",
         "subclass": "",
         "sourcePlanet": "Character Sheet",
-        "actionType": "passive",
+        "actionType": "bonus",
         "recharge": "at-will",
         "usesMax": 0,
         "usesCurrent": 0,
@@ -370,9 +370,7 @@
       }
     ],
     "actions": [],
-    "bonusActions": [],
-    "reactions": [],
-    "passives": [
+    "bonusActions": [
       {
         "id": "feat_mrsgd48v_307wyi1",
         "name": "Step of the Wind",
@@ -380,7 +378,7 @@
         "className": "",
         "subclass": "",
         "sourcePlanet": "Character Sheet",
-        "actionType": "passive",
+        "actionType": "bonus",
         "recharge": "at-will",
         "usesMax": 0,
         "usesCurrent": 0,
@@ -394,6 +392,8 @@
         "sourceClass": "Monk"
       }
     ],
+    "reactions": [],
+    "passives": [],
     "freeActions": [],
     "legendaryActions": [],
     "otherActions": [
@@ -465,9 +465,9 @@
       "subclasses": 0,
       "features": 2,
       "actions": 0,
-      "bonusActions": 0,
+      "bonusActions": 1,
       "reactions": 0,
-      "passives": 1,
+      "passives": 0,
       "spells": 0,
       "cantrips": 0,
       "resources": 0,
@@ -481,9 +481,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 111,
+  "_divineCacheRev": 114,
   "_divine": {
-    "generatedAt": 1784505299505,
+    "generatedAt": 1784505302280,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -536,7 +536,7 @@
         "className": "",
         "subclass": "",
         "sourcePlanet": "Character Sheet",
-        "actionType": "passive",
+        "actionType": "bonus",
         "recharge": "at-will",
         "usesMax": 0,
         "usesCurrent": 0,
@@ -551,9 +551,7 @@
       }
     ],
     "actions": [],
-    "bonusActions": [],
-    "reactions": [],
-    "passives": [
+    "bonusActions": [
       {
         "id": "feat_mrsgd48v_307wyi1",
         "name": "Step of the Wind",
@@ -561,7 +559,7 @@
         "className": "",
         "subclass": "",
         "sourcePlanet": "Character Sheet",
-        "actionType": "passive",
+        "actionType": "bonus",
         "recharge": "at-will",
         "usesMax": 0,
         "usesCurrent": 0,
@@ -575,6 +573,8 @@
         "sourceClass": "Monk"
       }
     ],
+    "reactions": [],
+    "passives": [],
     "freeActions": [],
     "legendaryActions": [],
     "otherActions": [
@@ -646,9 +646,9 @@
       "subclasses": 0,
       "features": 2,
       "actions": 0,
-      "bonusActions": 0,
+      "bonusActions": 1,
       "reactions": 0,
-      "passives": 1,
+      "passives": 0,
       "spells": 0,
       "cantrips": 0,
       "resources": 0,
@@ -662,5 +662,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 111
+  "_rev": 114
 }
