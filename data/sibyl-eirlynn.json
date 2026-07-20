@@ -252,6 +252,36 @@
             "proficient": true,
             "expertise": false,
             "half": false
+          },
+          {
+            "name": "Insight",
+            "proficient": true,
+            "expertise": false,
+            "half": false
+          },
+          {
+            "name": "Medicine",
+            "proficient": true,
+            "expertise": false,
+            "half": false
+          },
+          {
+            "name": "Perception",
+            "proficient": true,
+            "expertise": false,
+            "half": false
+          },
+          {
+            "name": "Religion",
+            "proficient": true,
+            "expertise": false,
+            "half": false
+          },
+          {
+            "name": "Stealth",
+            "proficient": true,
+            "expertise": false,
+            "half": false
           }
         ],
         "hp": {
@@ -346,13 +376,13 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784508465069
+        "lastModified": 1784508487287
       }
     ],
     "attunementMax": 3
   },
   "_divineCache": {
-    "generatedAt": 1784508465770,
+    "generatedAt": 1784508487989,
     "totalLevel": 2,
     "hp": {
       "max": 23
@@ -555,6 +585,51 @@
         "sources": [
           "Character Sheet"
         ]
+      },
+      {
+        "name": "Insight",
+        "proficient": true,
+        "expertise": false,
+        "half": false,
+        "sources": [
+          "Character Sheet"
+        ]
+      },
+      {
+        "name": "Medicine",
+        "proficient": true,
+        "expertise": false,
+        "half": false,
+        "sources": [
+          "Character Sheet"
+        ]
+      },
+      {
+        "name": "Perception",
+        "proficient": true,
+        "expertise": false,
+        "half": false,
+        "sources": [
+          "Character Sheet"
+        ]
+      },
+      {
+        "name": "Religion",
+        "proficient": true,
+        "expertise": false,
+        "half": false,
+        "sources": [
+          "Character Sheet"
+        ]
+      },
+      {
+        "name": "Stealth",
+        "proficient": true,
+        "expertise": false,
+        "half": false,
+        "sources": [
+          "Character Sheet"
+        ]
       }
     ],
     "expertise": [],
@@ -584,7 +659,7 @@
       "spells": 0,
       "cantrips": 0,
       "resources": 0,
-      "skills": 1,
+      "skills": 6,
       "expertise": 0,
       "savingThrows": 2,
       "languages": 0,
@@ -594,9 +669,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 313,
+  "_divineCacheRev": 323,
   "_divine": {
-    "generatedAt": 1784508465770,
+    "generatedAt": 1784508487989,
     "totalLevel": 2,
     "hp": {
       "max": 23
@@ -799,6 +874,51 @@
         "sources": [
           "Character Sheet"
         ]
+      },
+      {
+        "name": "Insight",
+        "proficient": true,
+        "expertise": false,
+        "half": false,
+        "sources": [
+          "Character Sheet"
+        ]
+      },
+      {
+        "name": "Medicine",
+        "proficient": true,
+        "expertise": false,
+        "half": false,
+        "sources": [
+          "Character Sheet"
+        ]
+      },
+      {
+        "name": "Perception",
+        "proficient": true,
+        "expertise": false,
+        "half": false,
+        "sources": [
+          "Character Sheet"
+        ]
+      },
+      {
+        "name": "Religion",
+        "proficient": true,
+        "expertise": false,
+        "half": false,
+        "sources": [
+          "Character Sheet"
+        ]
+      },
+      {
+        "name": "Stealth",
+        "proficient": true,
+        "expertise": false,
+        "half": false,
+        "sources": [
+          "Character Sheet"
+        ]
       }
     ],
     "expertise": [],
@@ -828,7 +948,7 @@
       "spells": 0,
       "cantrips": 0,
       "resources": 0,
-      "skills": 1,
+      "skills": 6,
       "expertise": 0,
       "savingThrows": 2,
       "languages": 0,
@@ -838,5 +958,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 313
+  "_rev": 323
 }
