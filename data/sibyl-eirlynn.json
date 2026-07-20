@@ -235,16 +235,14 @@
         "spellSaveDC": 0,
         "spellAttackBonus": 0,
         "abilityScores": {
-          "str": 10,
+          "str": 11,
           "dex": 10,
           "con": 10,
           "int": 10,
           "wis": 10,
           "cha": 10
         },
-        "savingThrows": [
-          "str"
-        ],
+        "savingThrows": [],
         "skills": [
           {
             "name": "Acrobatics",
@@ -345,20 +343,20 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784508403638
+        "lastModified": 1784508407940
       }
     ],
     "attunementMax": 3
   },
   "_divineCache": {
-    "generatedAt": 1784508404339,
+    "generatedAt": 1784508408642,
     "totalLevel": 2,
     "hp": {
       "max": 23
     },
     "proficiencyBonus": 2,
     "peakAbilityScores": {
-      "str": 10,
+      "str": 11,
       "dex": 10,
       "con": 10,
       "int": 10,
@@ -557,9 +555,7 @@
       }
     ],
     "expertise": [],
-    "savingThrows": [
-      "str"
-    ],
+    "savingThrows": [],
     "resistances": [],
     "immunities": [],
     "languages": [],
@@ -584,7 +580,7 @@
       "resources": 0,
       "skills": 1,
       "expertise": 0,
-      "savingThrows": 1,
+      "savingThrows": 0,
       "languages": 0,
       "resistances": 0,
       "immunities": 0,
@@ -592,16 +588,16 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 289,
+  "_divineCacheRev": 291,
   "_divine": {
-    "generatedAt": 1784508404339,
+    "generatedAt": 1784508408642,
     "totalLevel": 2,
     "hp": {
       "max": 23
     },
     "proficiencyBonus": 2,
     "peakAbilityScores": {
-      "str": 10,
+      "str": 11,
       "dex": 10,
       "con": 10,
       "int": 10,
@@ -800,9 +796,7 @@
       }
     ],
     "expertise": [],
-    "savingThrows": [
-      "str"
-    ],
+    "savingThrows": [],
     "resistances": [],
     "immunities": [],
     "languages": [],
@@ -827,7 +821,7 @@
       "resources": 0,
       "skills": 1,
       "expertise": 0,
-      "savingThrows": 1,
+      "savingThrows": 0,
       "languages": 0,
       "resistances": 0,
       "immunities": 0,
@@ -835,5 +829,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 289
+  "_rev": 291
 }
