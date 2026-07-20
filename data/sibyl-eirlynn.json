@@ -58,8 +58,7 @@
       "activePlanetId": "",
       "expanded": {
         "lfeat:uncanny metabolism": true,
-        "feat:deflect attack": true,
-        "feat:martial arts attack": true
+        "feat:deflect attack": true
       },
       "pinned": [],
       "searchFilters": [],
