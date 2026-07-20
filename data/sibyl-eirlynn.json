@@ -188,7 +188,7 @@
           "current": 0,
           "max": 0
         },
-        "recharge": "",
+        "recharge": "Dawn",
         "state": "",
         "abilities": [],
         "notes": "",
@@ -782,5 +782,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 227
+  "_rev": 241
 }
