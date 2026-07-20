@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-20T00:55:32.036Z",
+  "updatedAt": "2026-07-20T02:29:51.895Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -712,5 +712,24 @@
         "clientNonce": "01bd6fbb-9bce-4920-8de4-40166d09db50"
       }
     ]
-  }
+  },
+  "combatRolls": [
+    {
+      "id": "roll-mrslwulq-7x2a4i",
+      "characterId": "sibyl-eirlynn",
+      "kind": "roll",
+      "label": "Insight Check",
+      "formula": "1d20+5",
+      "detail": "1d20 [9] +5",
+      "total": 14,
+      "dice": [
+        {
+          "sides": 20,
+          "value": 9,
+          "sign": 1
+        }
+      ],
+      "at": 1784514590702
+    }
+  ]
 }
