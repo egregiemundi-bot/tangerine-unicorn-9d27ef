@@ -240,9 +240,12 @@
           "con": 13,
           "int": 12,
           "wis": 17,
-          "cha": 10
+          "cha": 12
         },
-        "savingThrows": [],
+        "savingThrows": [
+          "str",
+          "dex"
+        ],
         "skills": [
           {
             "name": "Acrobatics",
@@ -343,13 +346,13 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784508424173
+        "lastModified": 1784508447207
       }
     ],
     "attunementMax": 3
   },
   "_divineCache": {
-    "generatedAt": 1784508424969,
+    "generatedAt": 1784508447909,
     "totalLevel": 2,
     "hp": {
       "max": 23
@@ -361,7 +364,7 @@
       "con": 13,
       "int": 12,
       "wis": 17,
-      "cha": 10
+      "cha": 12
     },
     "classes": [
       {
@@ -555,7 +558,10 @@
       }
     ],
     "expertise": [],
-    "savingThrows": [],
+    "savingThrows": [
+      "str",
+      "dex"
+    ],
     "resistances": [],
     "immunities": [],
     "languages": [],
@@ -580,7 +586,7 @@
       "resources": 0,
       "skills": 1,
       "expertise": 0,
-      "savingThrows": 0,
+      "savingThrows": 2,
       "languages": 0,
       "resistances": 0,
       "immunities": 0,
@@ -588,9 +594,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 304,
+  "_divineCacheRev": 309,
   "_divine": {
-    "generatedAt": 1784508424969,
+    "generatedAt": 1784508447909,
     "totalLevel": 2,
     "hp": {
       "max": 23
@@ -602,7 +608,7 @@
       "con": 13,
       "int": 12,
       "wis": 17,
-      "cha": 10
+      "cha": 12
     },
     "classes": [
       {
@@ -796,7 +802,10 @@
       }
     ],
     "expertise": [],
-    "savingThrows": [],
+    "savingThrows": [
+      "str",
+      "dex"
+    ],
     "resistances": [],
     "immunities": [],
     "languages": [],
@@ -821,7 +830,7 @@
       "resources": 0,
       "skills": 1,
       "expertise": 0,
-      "savingThrows": 0,
+      "savingThrows": 2,
       "languages": 0,
       "resistances": 0,
       "immunities": 0,
@@ -829,5 +838,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 304
+  "_rev": 309
 }
