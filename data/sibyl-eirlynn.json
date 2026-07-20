@@ -396,6 +396,11 @@
             "name": "Unarmored Defense",
             "source": "Class",
             "desc": "While you aren't wearing armor or wielding a Shield, your base Armor Class equals 10 plus your Dexterity and Wisdom modifiers."
+          },
+          {
+            "name": "",
+            "source": "",
+            "desc": ""
           }
         ],
         "epicBoons": [],
@@ -415,13 +420,13 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784515198496
+        "lastModified": 1784515204253
       }
     ],
     "attunementMax": 3
   },
   "_divineCache": {
-    "generatedAt": 1784515199198,
+    "generatedAt": 1784515204955,
     "totalLevel": 3,
     "hp": {
       "max": 23
@@ -704,6 +709,12 @@
         "source": "Class",
         "desc": "While you aren't wearing armor or wielding a Shield, your base Armor Class equals 10 plus your Dexterity and Wisdom modifiers.",
         "sourcePlanet": "Character Sheet"
+      },
+      {
+        "name": "",
+        "source": "",
+        "desc": "",
+        "sourcePlanet": "Character Sheet"
       }
     ],
     "epicBoons": [],
@@ -726,13 +737,13 @@
       "languages": 0,
       "resistances": 0,
       "immunities": 0,
-      "feats": 2,
+      "feats": 3,
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 380,
+  "_divineCacheRev": 381,
   "_divine": {
-    "generatedAt": 1784515199198,
+    "generatedAt": 1784515204955,
     "totalLevel": 3,
     "hp": {
       "max": 23
@@ -1015,6 +1026,12 @@
         "source": "Class",
         "desc": "While you aren't wearing armor or wielding a Shield, your base Armor Class equals 10 plus your Dexterity and Wisdom modifiers.",
         "sourcePlanet": "Character Sheet"
+      },
+      {
+        "name": "",
+        "source": "",
+        "desc": "",
+        "sourcePlanet": "Character Sheet"
       }
     ],
     "epicBoons": [],
@@ -1037,9 +1054,9 @@
       "languages": 0,
       "resistances": 0,
       "immunities": 0,
-      "feats": 2,
+      "feats": 3,
       "epicBoons": 0
     }
   },
-  "_rev": 380
+  "_rev": 381
 }
