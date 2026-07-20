@@ -397,7 +397,7 @@
           },
           {
             "id": "feat_mrsmj30k_21vm991",
-            "name": "",
+            "name": "Def",
             "level": 1,
             "className": "",
             "subclass": "",
@@ -449,13 +449,13 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784515628037
+        "lastModified": 1784515629531
       }
     ],
     "attunementMax": 3
   },
   "_divineCache": {
-    "generatedAt": 1784515628742,
+    "generatedAt": 1784515630235,
     "totalLevel": 3,
     "hp": {
       "max": 23
@@ -543,7 +543,7 @@
       },
       {
         "id": "feat_mrsmj30k_21vm991",
-        "name": "",
+        "name": "Def",
         "level": 1,
         "className": "",
         "subclass": "",
@@ -609,7 +609,7 @@
     "passives": [
       {
         "id": "feat_mrsmj30k_21vm991",
-        "name": "",
+        "name": "Def",
         "level": 1,
         "className": "",
         "subclass": "",
@@ -822,9 +822,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 437,
+  "_divineCacheRev": 440,
   "_divine": {
-    "generatedAt": 1784515628742,
+    "generatedAt": 1784515630235,
     "totalLevel": 3,
     "hp": {
       "max": 23
@@ -912,7 +912,7 @@
       },
       {
         "id": "feat_mrsmj30k_21vm991",
-        "name": "",
+        "name": "Def",
         "level": 1,
         "className": "",
         "subclass": "",
@@ -978,7 +978,7 @@
     "passives": [
       {
         "id": "feat_mrsmj30k_21vm991",
-        "name": "",
+        "name": "Def",
         "level": 1,
         "className": "",
         "subclass": "",
@@ -1191,5 +1191,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 437
+  "_rev": 440
 }
