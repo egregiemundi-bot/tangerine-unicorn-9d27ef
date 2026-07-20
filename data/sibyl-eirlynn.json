@@ -404,7 +404,7 @@
             "sourcePlanet": "",
             "actionType": "reaction",
             "recharge": "at-will",
-            "usesMax": 0,
+            "usesMax": 1,
             "usesCurrent": 0,
             "description": "",
             "tags": [],
@@ -449,13 +449,13 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784515636302
+        "lastModified": 1784515641798
       }
     ],
     "attunementMax": 3
   },
   "_divineCache": {
-    "generatedAt": 1784515637006,
+    "generatedAt": 1784515642499,
     "totalLevel": 3,
     "hp": {
       "max": 23
@@ -550,7 +550,7 @@
         "sourcePlanet": "Character Sheet",
         "actionType": "reaction",
         "recharge": "at-will",
-        "usesMax": 0,
+        "usesMax": 1,
         "usesCurrent": 0,
         "description": "",
         "tags": [],
@@ -615,7 +615,7 @@
         "sourcePlanet": "Character Sheet",
         "actionType": "reaction",
         "recharge": "at-will",
-        "usesMax": 0,
+        "usesMax": 1,
         "usesCurrent": 0,
         "description": "",
         "tags": [],
@@ -822,9 +822,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 454,
+  "_divineCacheRev": 456,
   "_divine": {
-    "generatedAt": 1784515637006,
+    "generatedAt": 1784515642499,
     "totalLevel": 3,
     "hp": {
       "max": 23
@@ -919,7 +919,7 @@
         "sourcePlanet": "Character Sheet",
         "actionType": "reaction",
         "recharge": "at-will",
-        "usesMax": 0,
+        "usesMax": 1,
         "usesCurrent": 0,
         "description": "",
         "tags": [],
@@ -984,7 +984,7 @@
         "sourcePlanet": "Character Sheet",
         "actionType": "reaction",
         "recharge": "at-will",
-        "usesMax": 0,
+        "usesMax": 1,
         "usesCurrent": 0,
         "description": "",
         "tags": [],
@@ -1191,5 +1191,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 454
+  "_rev": 456
 }
