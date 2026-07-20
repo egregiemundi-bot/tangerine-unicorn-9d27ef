@@ -330,7 +330,7 @@
             "id": "res_mrsmgzrs_1o7kile",
             "name": "Focus Points",
             "current": 3,
-            "max": 0,
+            "max": 3,
             "recharge": "long",
             "source": "",
             "desc": ""
@@ -430,13 +430,13 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784515543881
+        "lastModified": 1784515545420
       }
     ],
     "attunementMax": 3
   },
   "_divineCache": {
-    "generatedAt": 1784515544587,
+    "generatedAt": 1784515546122,
     "totalLevel": 3,
     "hp": {
       "max": 23
@@ -624,7 +624,7 @@
         "id": "res_mrsmgzrs_1o7kile",
         "name": "Focus Points",
         "current": 3,
-        "max": 0,
+        "max": 3,
         "recharge": "long",
         "source": "",
         "desc": "",
@@ -762,9 +762,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 430,
+  "_divineCacheRev": 436,
   "_divine": {
-    "generatedAt": 1784515544587,
+    "generatedAt": 1784515546122,
     "totalLevel": 3,
     "hp": {
       "max": 23
@@ -952,7 +952,7 @@
         "id": "res_mrsmgzrs_1o7kile",
         "name": "Focus Points",
         "current": 3,
-        "max": 0,
+        "max": 3,
         "recharge": "long",
         "source": "",
         "desc": "",
@@ -1090,5 +1090,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 430
+  "_rev": 436
 }
