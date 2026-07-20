@@ -96,7 +96,7 @@
       "player": "Claire",
       "sigil": "",
       "accent": "#000000",
-      "portrait": ""
+      "portrait": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/1784514802043-sibyl.jpg?v=1784514804102"
     },
     {
       "id": "zacharia-horn-axe",
@@ -132,7 +132,7 @@
     }
   ],
   "productVersion": "1.0 Foundation",
-  "updatedAt": "2026-07-19T01:53:56.748Z",
+  "updatedAt": "2026-07-20T02:33:32.862Z",
   "backgroundImage": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/1784257856245-wallpapersden.com-k-cool-2020-art-3840x2160.jpg?v=1784257860462",
   "heroImage": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/1784257876492-wallpapersden.com-k-cool-2020-art-3840x2160.jpg?v=1784257879434"
 }
