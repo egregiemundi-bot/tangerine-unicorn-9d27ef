@@ -178,7 +178,7 @@
     "artifacts": [
       {
         "id": "artifact_mrshnxq9_5lm1j3h",
-        "name": "New Artifact",
+        "name": "Clockwork amulet",
         "description": "",
         "owner": "character",
         "sourcePlanet": "",
@@ -782,5 +782,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 195
+  "_rev": 222
 }
