@@ -57,7 +57,8 @@
       "form": "divine",
       "activePlanetId": "",
       "expanded": {
-        "lfeat:uncanny metabolism": true
+        "lfeat:uncanny metabolism": true,
+        "feat:flurry of blows": true
       },
       "pinned": [],
       "searchFilters": [],
