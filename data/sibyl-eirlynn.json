@@ -287,7 +287,7 @@
             "sourcePlanet": "",
             "actionType": "other",
             "recharge": "at-will",
-            "usesMax": 0,
+            "usesMax": 1,
             "usesCurrent": 0,
             "description": "When you roll Initiative, you can regain all expended Focus Points. When you do so, roll your Martial Arts die, and regain a number of Hit Points equal to your Monk level plus the number rolled.\n\nOnce you use this feature, you can't use it again until you finish a Long Rest.",
             "tags": [],
@@ -316,12 +316,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784505906070
+        "lastModified": 1784505908085
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784505906772,
+    "generatedAt": 1784505908788,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -396,7 +396,7 @@
         "sourcePlanet": "Character Sheet",
         "actionType": "other",
         "recharge": "at-will",
-        "usesMax": 0,
+        "usesMax": 1,
         "usesCurrent": 0,
         "description": "When you roll Initiative, you can regain all expended Focus Points. When you do so, roll your Martial Arts die, and regain a number of Hit Points equal to your Monk level plus the number rolled.\n\nOnce you use this feature, you can't use it again until you finish a Long Rest.",
         "tags": [],
@@ -465,7 +465,7 @@
         "sourcePlanet": "Character Sheet",
         "actionType": "other",
         "recharge": "at-will",
-        "usesMax": 0,
+        "usesMax": 1,
         "usesCurrent": 0,
         "description": "When you roll Initiative, you can regain all expended Focus Points. When you do so, roll your Martial Arts die, and regain a number of Hit Points equal to your Monk level plus the number rolled.\n\nOnce you use this feature, you can't use it again until you finish a Long Rest.",
         "tags": [],
@@ -540,9 +540,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 146,
+  "_divineCacheRev": 148,
   "_divine": {
-    "generatedAt": 1784505906772,
+    "generatedAt": 1784505908788,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -617,7 +617,7 @@
         "sourcePlanet": "Character Sheet",
         "actionType": "other",
         "recharge": "at-will",
-        "usesMax": 0,
+        "usesMax": 1,
         "usesCurrent": 0,
         "description": "When you roll Initiative, you can regain all expended Focus Points. When you do so, roll your Martial Arts die, and regain a number of Hit Points equal to your Monk level plus the number rolled.\n\nOnce you use this feature, you can't use it again until you finish a Long Rest.",
         "tags": [],
@@ -686,7 +686,7 @@
         "sourcePlanet": "Character Sheet",
         "actionType": "other",
         "recharge": "at-will",
-        "usesMax": 0,
+        "usesMax": 1,
         "usesCurrent": 0,
         "description": "When you roll Initiative, you can regain all expended Focus Points. When you do so, roll your Martial Arts die, and regain a number of Hit Points equal to your Monk level plus the number rolled.\n\nOnce you use this feature, you can't use it again until you finish a Long Rest.",
         "tags": [],
@@ -761,5 +761,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 146
+  "_rev": 148
 }
