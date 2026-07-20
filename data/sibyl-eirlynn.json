@@ -285,7 +285,7 @@
             "className": "",
             "subclass": "",
             "sourcePlanet": "",
-            "actionType": "passive",
+            "actionType": "other",
             "recharge": "at-will",
             "usesMax": 0,
             "usesCurrent": 0,
@@ -316,12 +316,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784505900702
+        "lastModified": 1784505906070
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784505901404,
+    "generatedAt": 1784505906772,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -394,7 +394,7 @@
         "className": "",
         "subclass": "",
         "sourcePlanet": "Character Sheet",
-        "actionType": "passive",
+        "actionType": "other",
         "recharge": "at-will",
         "usesMax": 0,
         "usesCurrent": 0,
@@ -452,7 +452,10 @@
       }
     ],
     "reactions": [],
-    "passives": [
+    "passives": [],
+    "freeActions": [],
+    "legendaryActions": [],
+    "otherActions": [
       {
         "id": "feat_mrsgqdjv_4txp4za",
         "name": "Uncanny Metabolism",
@@ -460,7 +463,7 @@
         "className": "",
         "subclass": "",
         "sourcePlanet": "Character Sheet",
-        "actionType": "passive",
+        "actionType": "other",
         "recharge": "at-will",
         "usesMax": 0,
         "usesCurrent": 0,
@@ -474,9 +477,6 @@
         "sourceClass": "Monk"
       }
     ],
-    "freeActions": [],
-    "legendaryActions": [],
-    "otherActions": [],
     "spells": [],
     "spellsByLevel": {
       "0": [],
@@ -526,7 +526,7 @@
       "actions": 0,
       "bonusActions": 2,
       "reactions": 0,
-      "passives": 1,
+      "passives": 0,
       "spells": 0,
       "cantrips": 0,
       "resources": 0,
@@ -540,9 +540,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 144,
+  "_divineCacheRev": 146,
   "_divine": {
-    "generatedAt": 1784505901404,
+    "generatedAt": 1784505906772,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -615,7 +615,7 @@
         "className": "",
         "subclass": "",
         "sourcePlanet": "Character Sheet",
-        "actionType": "passive",
+        "actionType": "other",
         "recharge": "at-will",
         "usesMax": 0,
         "usesCurrent": 0,
@@ -673,7 +673,10 @@
       }
     ],
     "reactions": [],
-    "passives": [
+    "passives": [],
+    "freeActions": [],
+    "legendaryActions": [],
+    "otherActions": [
       {
         "id": "feat_mrsgqdjv_4txp4za",
         "name": "Uncanny Metabolism",
@@ -681,7 +684,7 @@
         "className": "",
         "subclass": "",
         "sourcePlanet": "Character Sheet",
-        "actionType": "passive",
+        "actionType": "other",
         "recharge": "at-will",
         "usesMax": 0,
         "usesCurrent": 0,
@@ -695,9 +698,6 @@
         "sourceClass": "Monk"
       }
     ],
-    "freeActions": [],
-    "legendaryActions": [],
-    "otherActions": [],
     "spells": [],
     "spellsByLevel": {
       "0": [],
@@ -747,7 +747,7 @@
       "actions": 0,
       "bonusActions": 2,
       "reactions": 0,
-      "passives": 1,
+      "passives": 0,
       "spells": 0,
       "cantrips": 0,
       "resources": 0,
@@ -761,5 +761,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 144
+  "_rev": 146
 }
