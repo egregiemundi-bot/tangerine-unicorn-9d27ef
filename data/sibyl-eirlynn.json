@@ -406,7 +406,7 @@
             "recharge": "at-will",
             "usesMax": 1,
             "usesCurrent": 0,
-            "description": "",
+            "description": "When an attack roll hits you and its damage includes Bludgeoning, Piercing, or Slashing damage, you can take a Reaction to reduce the attack's total damage against you. The reduction equals 1d10 plus your Dexterity modifier and Monk level.",
             "tags": [],
             "damageType": "",
             "healing": false,
@@ -449,13 +449,13 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784515641798
+        "lastModified": 1784515661621
       }
     ],
     "attunementMax": 3
   },
   "_divineCache": {
-    "generatedAt": 1784515642499,
+    "generatedAt": 1784515662324,
     "totalLevel": 3,
     "hp": {
       "max": 23
@@ -552,7 +552,7 @@
         "recharge": "at-will",
         "usesMax": 1,
         "usesCurrent": 0,
-        "description": "",
+        "description": "When an attack roll hits you and its damage includes Bludgeoning, Piercing, or Slashing damage, you can take a Reaction to reduce the attack's total damage against you. The reduction equals 1d10 plus your Dexterity modifier and Monk level.",
         "tags": [],
         "damageType": "",
         "healing": false,
@@ -617,7 +617,7 @@
         "recharge": "at-will",
         "usesMax": 1,
         "usesCurrent": 0,
-        "description": "",
+        "description": "When an attack roll hits you and its damage includes Bludgeoning, Piercing, or Slashing damage, you can take a Reaction to reduce the attack's total damage against you. The reduction equals 1d10 plus your Dexterity modifier and Monk level.",
         "tags": [],
         "damageType": "",
         "healing": false,
@@ -822,9 +822,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 456,
+  "_divineCacheRev": 457,
   "_divine": {
-    "generatedAt": 1784515642499,
+    "generatedAt": 1784515662324,
     "totalLevel": 3,
     "hp": {
       "max": 23
@@ -921,7 +921,7 @@
         "recharge": "at-will",
         "usesMax": 1,
         "usesCurrent": 0,
-        "description": "",
+        "description": "When an attack roll hits you and its damage includes Bludgeoning, Piercing, or Slashing damage, you can take a Reaction to reduce the attack's total damage against you. The reduction equals 1d10 plus your Dexterity modifier and Monk level.",
         "tags": [],
         "damageType": "",
         "healing": false,
@@ -986,7 +986,7 @@
         "recharge": "at-will",
         "usesMax": 1,
         "usesCurrent": 0,
-        "description": "",
+        "description": "When an attack roll hits you and its damage includes Bludgeoning, Piercing, or Slashing damage, you can take a Reaction to reduce the attack's total damage against you. The reduction equals 1d10 plus your Dexterity modifier and Monk level.",
         "tags": [],
         "damageType": "",
         "healing": false,
@@ -1191,5 +1191,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 456
+  "_rev": 457
 }
