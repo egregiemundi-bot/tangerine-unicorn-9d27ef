@@ -243,7 +243,14 @@
           "cha": 10
         },
         "savingThrows": [],
-        "skills": [],
+        "skills": [
+          {
+            "name": "Acrobatics",
+            "proficient": true,
+            "expertise": false,
+            "half": false
+          }
+        ],
         "hp": {
           "max": 23,
           "current": 23,
@@ -255,7 +262,7 @@
           "failures": 0
         },
         "ac": 16,
-        "initiativeBonus": 0,
+        "initiativeBonus": 3,
         "speed": 40,
         "resources": [],
         "spells": [],
@@ -336,13 +343,13 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784508349135
+        "lastModified": 1784508384720
       }
     ],
     "attunementMax": 3
   },
   "_divineCache": {
-    "generatedAt": 1784508349837,
+    "generatedAt": 1784508385422,
     "totalLevel": 2,
     "hp": {
       "max": 23
@@ -536,7 +543,17 @@
         "artifactId": "artifact_mrshnxq9_5lm1j3h"
       }
     ],
-    "skills": [],
+    "skills": [
+      {
+        "name": "Acrobatics",
+        "proficient": true,
+        "expertise": false,
+        "half": false,
+        "sources": [
+          "Character Sheet"
+        ]
+      }
+    ],
     "expertise": [],
     "savingThrows": [],
     "resistances": [],
@@ -561,7 +578,7 @@
       "spells": 0,
       "cantrips": 0,
       "resources": 0,
-      "skills": 0,
+      "skills": 1,
       "expertise": 0,
       "savingThrows": 0,
       "languages": 0,
@@ -571,9 +588,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 280,
+  "_divineCacheRev": 288,
   "_divine": {
-    "generatedAt": 1784508349837,
+    "generatedAt": 1784508385422,
     "totalLevel": 2,
     "hp": {
       "max": 23
@@ -767,7 +784,17 @@
         "artifactId": "artifact_mrshnxq9_5lm1j3h"
       }
     ],
-    "skills": [],
+    "skills": [
+      {
+        "name": "Acrobatics",
+        "proficient": true,
+        "expertise": false,
+        "half": false,
+        "sources": [
+          "Character Sheet"
+        ]
+      }
+    ],
     "expertise": [],
     "savingThrows": [],
     "resistances": [],
@@ -792,7 +819,7 @@
       "spells": 0,
       "cantrips": 0,
       "resources": 0,
-      "skills": 0,
+      "skills": 1,
       "expertise": 0,
       "savingThrows": 0,
       "languages": 0,
@@ -802,5 +829,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 280
+  "_rev": 288
 }
