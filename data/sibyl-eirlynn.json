@@ -186,7 +186,7 @@
         "attunement": false,
         "charges": {
           "current": 0,
-          "max": 1
+          "max": 0
         },
         "recharge": "Dawn",
         "state": "",
@@ -782,5 +782,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 244
+  "_rev": 245
 }
