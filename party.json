@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-19T18:08:12.772Z",
+  "updatedAt": "2026-07-20T00:54:54.867Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -498,7 +498,7 @@
         "id": "pc-sibyl-eirlynn",
         "name": "Sibyl Eirlynn",
         "pc": true,
-        "init": "2",
+        "init": "",
         "hp": "",
         "maxhp": "",
         "ac": "",
@@ -508,7 +508,7 @@
         "id": "pc-zacharia-horn-axe",
         "name": "Zacharia Horn-Axe",
         "pc": true,
-        "init": "11",
+        "init": "",
         "hp": "",
         "maxhp": "",
         "ac": "",
@@ -518,7 +518,7 @@
         "id": "pc-bud-turtlefoot",
         "name": "Bud Turtlefoot",
         "pc": true,
-        "init": "8",
+        "init": "",
         "hp": "",
         "maxhp": "",
         "ac": "",
@@ -528,7 +528,7 @@
         "id": "pc-ayeluna-lou",
         "name": "Ayeluna \"Lou\"",
         "pc": true,
-        "init": "18",
+        "init": "",
         "hp": "",
         "maxhp": "",
         "ac": "",
@@ -538,15 +538,25 @@
         "id": "pc-kena-price",
         "name": "Kena Price",
         "pc": true,
-        "init": "17",
+        "init": "",
         "hp": "",
         "maxhp": "",
         "ac": "",
         "notes": ""
+      },
+      {
+        "id": "mmrsiii39381",
+        "name": "Goblin 1",
+        "pc": false,
+        "init": "",
+        "hp": "11",
+        "maxhp": "11",
+        "ac": "13",
+        "notes": "Restratined"
       }
     ],
-    "round": 2,
-    "turn": 3
+    "round": 1,
+    "turn": 0
   },
   "compendium": {
     "settings": {
