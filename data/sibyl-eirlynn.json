@@ -206,7 +206,7 @@
         "planetName": "Character Sheet",
         "planetImage": "",
         "status": "active",
-        "level": 2,
+        "level": 3,
         "xp": 0,
         "className": "Monk",
         "subclass": "",
@@ -217,7 +217,7 @@
           {
             "className": "Monk",
             "subclass": "",
-            "level": 2
+            "level": 3
           }
         ],
         "spellcasting": [],
@@ -279,6 +279,12 @@
           },
           {
             "name": "Stealth",
+            "proficient": true,
+            "expertise": false,
+            "half": false
+          },
+          {
+            "name": "Survival",
             "proficient": true,
             "expertise": false,
             "half": false
@@ -376,14 +382,14 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784508487287
+        "lastModified": 1784508577886
       }
     ],
     "attunementMax": 3
   },
   "_divineCache": {
-    "generatedAt": 1784508487989,
-    "totalLevel": 2,
+    "generatedAt": 1784508578589,
+    "totalLevel": 3,
     "hp": {
       "max": 23
     },
@@ -399,7 +405,7 @@
     "classes": [
       {
         "className": "Monk",
-        "levels": 2,
+        "levels": 3,
         "subclasses": [],
         "planets": [
           "Character Sheet"
@@ -630,6 +636,15 @@
         "sources": [
           "Character Sheet"
         ]
+      },
+      {
+        "name": "Survival",
+        "proficient": true,
+        "expertise": false,
+        "half": false,
+        "sources": [
+          "Character Sheet"
+        ]
       }
     ],
     "expertise": [],
@@ -659,7 +674,7 @@
       "spells": 0,
       "cantrips": 0,
       "resources": 0,
-      "skills": 6,
+      "skills": 7,
       "expertise": 0,
       "savingThrows": 2,
       "languages": 0,
@@ -669,10 +684,10 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 323,
+  "_divineCacheRev": 327,
   "_divine": {
-    "generatedAt": 1784508487989,
-    "totalLevel": 2,
+    "generatedAt": 1784508578589,
+    "totalLevel": 3,
     "hp": {
       "max": 23
     },
@@ -688,7 +703,7 @@
     "classes": [
       {
         "className": "Monk",
-        "levels": 2,
+        "levels": 3,
         "subclasses": [],
         "planets": [
           "Character Sheet"
@@ -919,6 +934,15 @@
         "sources": [
           "Character Sheet"
         ]
+      },
+      {
+        "name": "Survival",
+        "proficient": true,
+        "expertise": false,
+        "half": false,
+        "sources": [
+          "Character Sheet"
+        ]
       }
     ],
     "expertise": [],
@@ -948,7 +972,7 @@
       "spells": 0,
       "cantrips": 0,
       "resources": 0,
-      "skills": 6,
+      "skills": 7,
       "expertise": 0,
       "savingThrows": 2,
       "languages": 0,
@@ -958,5 +982,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 323
+  "_rev": 327
 }
