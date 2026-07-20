@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-20T00:54:54.867Z",
+  "updatedAt": "2026-07-20T00:55:01.005Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -552,7 +552,7 @@
         "hp": "11",
         "maxhp": "11",
         "ac": "13",
-        "notes": "Restratined"
+        "notes": "Restrained"
       }
     ],
     "round": 1,
