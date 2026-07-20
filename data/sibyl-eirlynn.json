@@ -56,7 +56,9 @@
       "tab": "features",
       "form": "divine",
       "activePlanetId": "",
-      "expanded": {},
+      "expanded": {
+        "lfeat:uncanny metabolism": true
+      },
       "pinned": [],
       "searchFilters": [],
       "searchMode": "AND",
