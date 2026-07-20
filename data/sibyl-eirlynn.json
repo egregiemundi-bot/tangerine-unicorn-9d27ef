@@ -190,27 +190,7 @@
         },
         "recharge": "Dawn",
         "state": "",
-        "abilities": [
-          {
-            "id": "feat_mrshpt46_6a70zd2",
-            "name": "",
-            "level": 1,
-            "className": "",
-            "subclass": "",
-            "sourcePlanet": "",
-            "actionType": "action",
-            "recharge": "at-will",
-            "usesMax": 0,
-            "usesCurrent": 0,
-            "description": "",
-            "tags": [],
-            "damageType": "",
-            "healing": false,
-            "movement": false,
-            "favorite": false,
-            "pinned": false
-          }
-        ],
+        "abilities": [],
         "notes": "",
         "combatRelevant": false,
         "tags": []
@@ -802,5 +782,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 252
+  "_rev": 253
 }
