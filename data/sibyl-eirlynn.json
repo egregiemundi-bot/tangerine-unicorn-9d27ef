@@ -242,7 +242,9 @@
           "wis": 10,
           "cha": 10
         },
-        "savingThrows": [],
+        "savingThrows": [
+          "str"
+        ],
         "skills": [
           {
             "name": "Acrobatics",
@@ -343,13 +345,13 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784508384720
+        "lastModified": 1784508403638
       }
     ],
     "attunementMax": 3
   },
   "_divineCache": {
-    "generatedAt": 1784508385422,
+    "generatedAt": 1784508404339,
     "totalLevel": 2,
     "hp": {
       "max": 23
@@ -555,7 +557,9 @@
       }
     ],
     "expertise": [],
-    "savingThrows": [],
+    "savingThrows": [
+      "str"
+    ],
     "resistances": [],
     "immunities": [],
     "languages": [],
@@ -580,7 +584,7 @@
       "resources": 0,
       "skills": 1,
       "expertise": 0,
-      "savingThrows": 0,
+      "savingThrows": 1,
       "languages": 0,
       "resistances": 0,
       "immunities": 0,
@@ -588,9 +592,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 288,
+  "_divineCacheRev": 289,
   "_divine": {
-    "generatedAt": 1784508385422,
+    "generatedAt": 1784508404339,
     "totalLevel": 2,
     "hp": {
       "max": 23
@@ -796,7 +800,9 @@
       }
     ],
     "expertise": [],
-    "savingThrows": [],
+    "savingThrows": [
+      "str"
+    ],
     "resistances": [],
     "immunities": [],
     "languages": [],
@@ -821,7 +827,7 @@
       "resources": 0,
       "skills": 1,
       "expertise": 0,
-      "savingThrows": 0,
+      "savingThrows": 1,
       "languages": 0,
       "resistances": 0,
       "immunities": 0,
@@ -829,5 +835,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 288
+  "_rev": 289
 }
