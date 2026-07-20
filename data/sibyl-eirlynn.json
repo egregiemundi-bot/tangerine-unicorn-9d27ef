@@ -53,7 +53,7 @@
     "activePlanetId": "planet_mrj58vx3_4z292em",
     "favoriteSpells": [],
     "ui": {
-      "tab": "combat",
+      "tab": "inventory",
       "form": "divine",
       "activePlanetId": "",
       "expanded": {},
@@ -313,7 +313,7 @@
           {
             "name": "Clockwork Amulet - When you make an attack roll while wearing the amulet, you can forgo rolling the d20 to get a 10 on the die.",
             "qty": 1,
-            "type": "",
+            "type": "Amulet",
             "desc": "",
             "rarity": "",
             "attuned": false,
@@ -326,12 +326,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784507357089
+        "lastModified": 1784507371184
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784507357791,
+    "generatedAt": 1784507371283,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -550,9 +550,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 179,
+  "_divineCacheRev": 187,
   "_divine": {
-    "generatedAt": 1784507357791,
+    "generatedAt": 1784507371283,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -771,5 +771,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 179
+  "_rev": 187
 }
