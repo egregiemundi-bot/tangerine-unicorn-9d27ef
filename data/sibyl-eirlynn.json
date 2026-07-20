@@ -53,7 +53,7 @@
     "activePlanetId": "planet_mrj58vx3_4z292em",
     "favoriteSpells": [],
     "ui": {
-      "tab": "inventory",
+      "tab": "combat",
       "form": "divine",
       "activePlanetId": "",
       "expanded": {},
@@ -332,7 +332,7 @@
     "attunementMax": 3
   },
   "_divineCache": {
-    "generatedAt": 1784507371283,
+    "generatedAt": 1784507420051,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -551,9 +551,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 187,
+  "_divineCacheRev": 193,
   "_divine": {
-    "generatedAt": 1784507371283,
+    "generatedAt": 1784507420051,
     "totalLevel": 2,
     "hp": {
       "max": 0
