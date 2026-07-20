@@ -325,7 +325,17 @@
         "ac": 16,
         "initiativeBonus": 3,
         "speed": 40,
-        "resources": [],
+        "resources": [
+          {
+            "id": "res_mrsmgzrs_1o7kile",
+            "name": "",
+            "current": 0,
+            "max": 0,
+            "recharge": "long",
+            "source": "",
+            "desc": ""
+          }
+        ],
         "spells": [],
         "features": [
           {
@@ -420,13 +430,13 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784515233394
+        "lastModified": 1784515530521
       }
     ],
     "attunementMax": 3
   },
   "_divineCache": {
-    "generatedAt": 1784515233479,
+    "generatedAt": 1784515531225,
     "totalLevel": 3,
     "hp": {
       "max": 23
@@ -611,6 +621,17 @@
     "spellAttackBonus": 5,
     "resources": [
       {
+        "id": "res_mrsmgzrs_1o7kile",
+        "name": "",
+        "current": 0,
+        "max": 0,
+        "recharge": "long",
+        "source": "",
+        "desc": "",
+        "sourcePlanet": "Character Sheet",
+        "sourceClass": "Monk"
+      },
+      {
         "name": "Clockwork amulet Charges",
         "current": 1,
         "max": 1,
@@ -730,7 +751,7 @@
       "passives": 0,
       "spells": 0,
       "cantrips": 0,
-      "resources": 0,
+      "resources": 1,
       "skills": 7,
       "expertise": 0,
       "savingThrows": 2,
@@ -741,9 +762,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 404,
+  "_divineCacheRev": 405,
   "_divine": {
-    "generatedAt": 1784515233479,
+    "generatedAt": 1784515531225,
     "totalLevel": 3,
     "hp": {
       "max": 23
@@ -928,6 +949,17 @@
     "spellAttackBonus": 5,
     "resources": [
       {
+        "id": "res_mrsmgzrs_1o7kile",
+        "name": "",
+        "current": 0,
+        "max": 0,
+        "recharge": "long",
+        "source": "",
+        "desc": "",
+        "sourcePlanet": "Character Sheet",
+        "sourceClass": "Monk"
+      },
+      {
         "name": "Clockwork amulet Charges",
         "current": 1,
         "max": 1,
@@ -1047,7 +1079,7 @@
       "passives": 0,
       "spells": 0,
       "cantrips": 0,
-      "resources": 0,
+      "resources": 1,
       "skills": 7,
       "expertise": 0,
       "savingThrows": 2,
@@ -1058,5 +1090,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 404
+  "_rev": 405
 }
