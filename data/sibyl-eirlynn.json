@@ -53,7 +53,7 @@
     "activePlanetId": "planet_mrj58vx3_4z292em",
     "favoriteSpells": [],
     "ui": {
-      "tab": "summary",
+      "tab": "combat",
       "form": "divine",
       "activePlanetId": "",
       "expanded": {},
@@ -245,8 +245,8 @@
         "savingThrows": [],
         "skills": [],
         "hp": {
-          "max": 0,
-          "current": 0,
+          "max": 23,
+          "current": 23,
           "temp": 0
         },
         "hitDice": "",
@@ -336,16 +336,16 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784507437585
+        "lastModified": 1784508124816
       }
     ],
     "attunementMax": 3
   },
   "_divineCache": {
-    "generatedAt": 1784507772201,
+    "generatedAt": 1784508125518,
     "totalLevel": 2,
     "hp": {
-      "max": 0
+      "max": 23
     },
     "proficiencyBonus": 2,
     "peakAbilityScores": {
@@ -571,12 +571,12 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 269,
+  "_divineCacheRev": 274,
   "_divine": {
-    "generatedAt": 1784507772201,
+    "generatedAt": 1784508125518,
     "totalLevel": 2,
     "hp": {
-      "max": 0
+      "max": 23
     },
     "proficiencyBonus": 2,
     "peakAbilityScores": {
@@ -802,5 +802,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 269
+  "_rev": 274
 }
