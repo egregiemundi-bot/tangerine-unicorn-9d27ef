@@ -309,19 +309,29 @@
           "Herbalism"
         ],
         "languages": [],
-        "inventory": [],
+        "inventory": [
+          {
+            "name": "Clockwork Amulet - When you make an attack roll while wearing the amulet, you can forgo rolling the d20 to get a 10 on the die.",
+            "qty": 1,
+            "type": "",
+            "desc": "",
+            "rarity": "",
+            "attuned": false,
+            "location": "backpack"
+          }
+        ],
         "gold": 0,
         "notes": "",
         "history": "",
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784505908085
+        "lastModified": 1784507357089
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784505908788,
+    "generatedAt": 1784507357791,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -540,9 +550,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 148,
+  "_divineCacheRev": 179,
   "_divine": {
-    "generatedAt": 1784505908788,
+    "generatedAt": 1784507357791,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -761,5 +771,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 148
+  "_rev": 179
 }
