@@ -175,7 +175,27 @@
         ]
       }
     },
-    "artifacts": [],
+    "artifacts": [
+      {
+        "id": "artifact_mrshnxq9_5lm1j3h",
+        "name": "New Artifact",
+        "description": "",
+        "owner": "character",
+        "sourcePlanet": "",
+        "sourcePlanetId": "",
+        "attunement": false,
+        "charges": {
+          "current": 0,
+          "max": 0
+        },
+        "recharge": "",
+        "state": "",
+        "abilities": [],
+        "notes": "",
+        "combatRelevant": false,
+        "tags": []
+      }
+    ],
     "awards": [],
     "planets": [
       {
@@ -762,5 +782,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 194
+  "_rev": 195
 }
