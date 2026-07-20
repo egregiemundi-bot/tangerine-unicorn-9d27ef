@@ -57,8 +57,7 @@
       "form": "divine",
       "activePlanetId": "",
       "expanded": {
-        "lfeat:uncanny metabolism": true,
-        "feat:deflect attack": true
+        "lfeat:uncanny metabolism": true
       },
       "pinned": [],
       "searchFilters": [],
