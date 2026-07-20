@@ -236,10 +236,10 @@
         "spellAttackBonus": 0,
         "abilityScores": {
           "str": 11,
-          "dex": 10,
-          "con": 10,
-          "int": 10,
-          "wis": 10,
+          "dex": 16,
+          "con": 13,
+          "int": 12,
+          "wis": 17,
           "cha": 10
         },
         "savingThrows": [],
@@ -343,13 +343,13 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784508407940
+        "lastModified": 1784508422484
       }
     ],
     "attunementMax": 3
   },
   "_divineCache": {
-    "generatedAt": 1784508408642,
+    "generatedAt": 1784508423186,
     "totalLevel": 2,
     "hp": {
       "max": 23
@@ -357,10 +357,10 @@
     "proficiencyBonus": 2,
     "peakAbilityScores": {
       "str": 11,
-      "dex": 10,
-      "con": 10,
-      "int": 10,
-      "wis": 10,
+      "dex": 16,
+      "con": 13,
+      "int": 12,
+      "wis": 17,
       "cha": 10
     },
     "classes": [
@@ -530,8 +530,8 @@
       "8": 0,
       "9": 0
     },
-    "spellSaveDC": 10,
-    "spellAttackBonus": 2,
+    "spellSaveDC": 13,
+    "spellAttackBonus": 5,
     "resources": [
       {
         "name": "Clockwork amulet Charges",
@@ -588,9 +588,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 291,
+  "_divineCacheRev": 303,
   "_divine": {
-    "generatedAt": 1784508408642,
+    "generatedAt": 1784508423186,
     "totalLevel": 2,
     "hp": {
       "max": 23
@@ -598,10 +598,10 @@
     "proficiencyBonus": 2,
     "peakAbilityScores": {
       "str": 11,
-      "dex": 10,
-      "con": 10,
-      "int": 10,
-      "wis": 10,
+      "dex": 16,
+      "con": 13,
+      "int": 12,
+      "wis": 17,
       "cha": 10
     },
     "classes": [
@@ -771,8 +771,8 @@
       "8": 0,
       "9": 0
     },
-    "spellSaveDC": 10,
-    "spellAttackBonus": 2,
+    "spellSaveDC": 13,
+    "spellAttackBonus": 5,
     "resources": [
       {
         "name": "Clockwork amulet Charges",
@@ -829,5 +829,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 291
+  "_rev": 303
 }
