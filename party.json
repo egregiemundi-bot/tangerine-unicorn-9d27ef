@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-20T00:55:09.509Z",
+  "updatedAt": "2026-07-20T00:55:14.234Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -498,7 +498,7 @@
         "id": "pc-sibyl-eirlynn",
         "name": "Sibyl Eirlynn",
         "pc": true,
-        "init": "",
+        "init": "3",
         "hp": "",
         "maxhp": "",
         "ac": "",
@@ -508,7 +508,7 @@
         "id": "pc-zacharia-horn-axe",
         "name": "Zacharia Horn-Axe",
         "pc": true,
-        "init": "",
+        "init": "7",
         "hp": "",
         "maxhp": "",
         "ac": "",
@@ -518,7 +518,7 @@
         "id": "pc-bud-turtlefoot",
         "name": "Bud Turtlefoot",
         "pc": true,
-        "init": "",
+        "init": "15",
         "hp": "",
         "maxhp": "",
         "ac": "",
@@ -528,7 +528,7 @@
         "id": "pc-ayeluna-lou",
         "name": "Ayeluna \"Lou\"",
         "pc": true,
-        "init": "",
+        "init": "9",
         "hp": "",
         "maxhp": "",
         "ac": "",
@@ -538,7 +538,7 @@
         "id": "pc-kena-price",
         "name": "Kena Price",
         "pc": true,
-        "init": "",
+        "init": "11",
         "hp": "",
         "maxhp": "",
         "ac": "",
