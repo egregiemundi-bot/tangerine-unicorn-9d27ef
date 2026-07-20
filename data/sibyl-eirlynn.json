@@ -57,7 +57,8 @@
       "form": "divine",
       "activePlanetId": "",
       "expanded": {
-        "lfeat:uncanny metabolism": true
+        "lfeat:uncanny metabolism": true,
+        "feat:step of the wind": true
       },
       "pinned": [],
       "searchFilters": [],
