@@ -328,7 +328,8 @@
         "quests": [],
         "lastModified": 1784507371184
       }
-    ]
+    ],
+    "attunementMax": 3
   },
   "_divineCache": {
     "generatedAt": 1784507371283,
@@ -771,5 +772,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 189
+  "_rev": 193
 }
