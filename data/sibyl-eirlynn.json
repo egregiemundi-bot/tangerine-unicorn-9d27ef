@@ -72,7 +72,7 @@
         "conditions": [],
         "concentration": "",
         "spellSearch": "",
-        "hpAdjustAmount": 10,
+        "hpAdjustAmount": 1,
         "mobileTab": "combat",
         "sendRoll20": false,
         "dice3d": true,
