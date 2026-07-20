@@ -391,6 +391,11 @@
             "name": "Martial Arts",
             "source": "Class",
             "desc": "Your practice of martial arts gives you mastery of combat styles that use your Unarmed Strike and Monk weapons, which are the following:\n\nSimple Melee weapons\n\nMartial Melee weapons that have the Light property\n\nYou gain the following benefits while you are unarmed or wielding only Monk weapons and you aren't wearing armor or wielding a Shield.\n\nBonus Unarmed Strike. You can make an Unarmed Strike as a Bonus Action.\n\nMartial Arts Die. You can roll 1d6 in place of the normal damage of your Unarmed Strike or Monk weapons. This die changes as you gain Monk levels, as shown in the Martial Arts column of the Monk Features table.\n\nDexterous Attacks. You can use your Dexterity modifier instead of your Strength modifier for the attack and damage rolls of your Unarmed Strikes and Monk weapons. In addition, when you use the Grapple or Shove option of your Unarmed Strike, you can use your Dexterity modifier instead of your Strength modifier to determine the save DC."
+          },
+          {
+            "name": "",
+            "source": "",
+            "desc": ""
           }
         ],
         "epicBoons": [],
@@ -410,13 +415,13 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784515177138
+        "lastModified": 1784515182213
       }
     ],
     "attunementMax": 3
   },
   "_divineCache": {
-    "generatedAt": 1784515177844,
+    "generatedAt": 1784515182913,
     "totalLevel": 3,
     "hp": {
       "max": 23
@@ -693,6 +698,12 @@
         "source": "Class",
         "desc": "Your practice of martial arts gives you mastery of combat styles that use your Unarmed Strike and Monk weapons, which are the following:\n\nSimple Melee weapons\n\nMartial Melee weapons that have the Light property\n\nYou gain the following benefits while you are unarmed or wielding only Monk weapons and you aren't wearing armor or wielding a Shield.\n\nBonus Unarmed Strike. You can make an Unarmed Strike as a Bonus Action.\n\nMartial Arts Die. You can roll 1d6 in place of the normal damage of your Unarmed Strike or Monk weapons. This die changes as you gain Monk levels, as shown in the Martial Arts column of the Monk Features table.\n\nDexterous Attacks. You can use your Dexterity modifier instead of your Strength modifier for the attack and damage rolls of your Unarmed Strikes and Monk weapons. In addition, when you use the Grapple or Shove option of your Unarmed Strike, you can use your Dexterity modifier instead of your Strength modifier to determine the save DC.",
         "sourcePlanet": "Character Sheet"
+      },
+      {
+        "name": "",
+        "source": "",
+        "desc": "",
+        "sourcePlanet": "Character Sheet"
       }
     ],
     "epicBoons": [],
@@ -715,13 +726,13 @@
       "languages": 0,
       "resistances": 0,
       "immunities": 0,
-      "feats": 1,
+      "feats": 2,
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 351,
+  "_divineCacheRev": 352,
   "_divine": {
-    "generatedAt": 1784515177844,
+    "generatedAt": 1784515182913,
     "totalLevel": 3,
     "hp": {
       "max": 23
@@ -998,6 +1009,12 @@
         "source": "Class",
         "desc": "Your practice of martial arts gives you mastery of combat styles that use your Unarmed Strike and Monk weapons, which are the following:\n\nSimple Melee weapons\n\nMartial Melee weapons that have the Light property\n\nYou gain the following benefits while you are unarmed or wielding only Monk weapons and you aren't wearing armor or wielding a Shield.\n\nBonus Unarmed Strike. You can make an Unarmed Strike as a Bonus Action.\n\nMartial Arts Die. You can roll 1d6 in place of the normal damage of your Unarmed Strike or Monk weapons. This die changes as you gain Monk levels, as shown in the Martial Arts column of the Monk Features table.\n\nDexterous Attacks. You can use your Dexterity modifier instead of your Strength modifier for the attack and damage rolls of your Unarmed Strikes and Monk weapons. In addition, when you use the Grapple or Shove option of your Unarmed Strike, you can use your Dexterity modifier instead of your Strength modifier to determine the save DC.",
         "sourcePlanet": "Character Sheet"
+      },
+      {
+        "name": "",
+        "source": "",
+        "desc": "",
+        "sourcePlanet": "Character Sheet"
       }
     ],
     "epicBoons": [],
@@ -1020,9 +1037,9 @@
       "languages": 0,
       "resistances": 0,
       "immunities": 0,
-      "feats": 1,
+      "feats": 2,
       "epicBoons": 0
     }
   },
-  "_rev": 351
+  "_rev": 352
 }
