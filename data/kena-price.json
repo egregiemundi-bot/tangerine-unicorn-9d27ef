@@ -24,7 +24,16 @@
     "wis": "",
     "cha": ""
   },
-  "combatAbilities": [],
+  "combatAbilities": [
+    {
+      "name": "Longsword",
+      "attack": "+5",
+      "damage": "1d10+3",
+      "desc": "",
+      "type": "action",
+      "uses": "At Will"
+    }
+  ],
   "divineResources": [],
   "spellbook": [],
   "planetRuns": [],
