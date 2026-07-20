@@ -53,7 +53,7 @@
     "activePlanetId": "planet_mrj58vx3_4z292em",
     "favoriteSpells": [],
     "ui": {
-      "tab": "artifacts",
+      "tab": "summary",
       "form": "divine",
       "activePlanetId": "",
       "expanded": {},
@@ -342,7 +342,7 @@
     "attunementMax": 3
   },
   "_divineCache": {
-    "generatedAt": 1784507562252,
+    "generatedAt": 1784507772201,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -528,7 +528,7 @@
     "resources": [
       {
         "name": "Clockwork amulet Charges",
-        "current": 0,
+        "current": 1,
         "max": 1,
         "recharge": "Dawn",
         "sourcePlanet": "",
@@ -571,9 +571,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 255,
+  "_divineCacheRev": 269,
   "_divine": {
-    "generatedAt": 1784507562252,
+    "generatedAt": 1784507772201,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -759,7 +759,7 @@
     "resources": [
       {
         "name": "Clockwork amulet Charges",
-        "current": 0,
+        "current": 1,
         "max": 1,
         "recharge": "Dawn",
         "sourcePlanet": "",
