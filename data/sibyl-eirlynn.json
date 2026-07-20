@@ -53,7 +53,7 @@
     "activePlanetId": "planet_mrj58vx3_4z292em",
     "favoriteSpells": [],
     "ui": {
-      "tab": "combat",
+      "tab": "artifacts",
       "form": "divine",
       "activePlanetId": "",
       "expanded": {},
@@ -802,5 +802,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 255
+  "_rev": 259
 }
