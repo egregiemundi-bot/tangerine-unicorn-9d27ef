@@ -173,6 +173,26 @@
             "player": "sibyl-eirlynn",
             "character": "Sibyl Eirlynn",
             "__fxDone": true
+          },
+          {
+            "kind": "roll",
+            "label": "Insight Check",
+            "formula": "1d20+5",
+            "total": 14,
+            "dice": [
+              {
+                "sides": 20,
+                "value": 9,
+                "sign": 1
+              }
+            ],
+            "text": "Insight Check: 1d20+5 = 14",
+            "detail": "1d20 [9] +5",
+            "id": "roll-mrslwulq-7x2a4i",
+            "at": 1784514590702,
+            "player": "sibyl-eirlynn",
+            "character": "Sibyl Eirlynn",
+            "__fxDone": true
           }
         ]
       }
