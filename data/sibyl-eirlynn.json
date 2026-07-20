@@ -402,7 +402,7 @@
             "className": "",
             "subclass": "",
             "sourcePlanet": "",
-            "actionType": "passive",
+            "actionType": "reaction",
             "recharge": "at-will",
             "usesMax": 0,
             "usesCurrent": 0,
@@ -449,13 +449,13 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784515633719
+        "lastModified": 1784515636302
       }
     ],
     "attunementMax": 3
   },
   "_divineCache": {
-    "generatedAt": 1784515634420,
+    "generatedAt": 1784515637006,
     "totalLevel": 3,
     "hp": {
       "max": 23
@@ -548,7 +548,7 @@
         "className": "",
         "subclass": "",
         "sourcePlanet": "Character Sheet",
-        "actionType": "passive",
+        "actionType": "reaction",
         "recharge": "at-will",
         "usesMax": 0,
         "usesCurrent": 0,
@@ -605,8 +605,7 @@
         "sourceClass": "Monk"
       }
     ],
-    "reactions": [],
-    "passives": [
+    "reactions": [
       {
         "id": "feat_mrsmj30k_21vm991",
         "name": "Deflect Attack",
@@ -614,7 +613,7 @@
         "className": "",
         "subclass": "",
         "sourcePlanet": "Character Sheet",
-        "actionType": "passive",
+        "actionType": "reaction",
         "recharge": "at-will",
         "usesMax": 0,
         "usesCurrent": 0,
@@ -628,6 +627,7 @@
         "sourceClass": "Monk"
       }
     ],
+    "passives": [],
     "freeActions": [],
     "legendaryActions": [],
     "otherActions": [
@@ -807,8 +807,8 @@
       "features": 4,
       "actions": 0,
       "bonusActions": 2,
-      "reactions": 0,
-      "passives": 1,
+      "reactions": 1,
+      "passives": 0,
       "spells": 0,
       "cantrips": 0,
       "resources": 1,
@@ -822,9 +822,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 452,
+  "_divineCacheRev": 454,
   "_divine": {
-    "generatedAt": 1784515634420,
+    "generatedAt": 1784515637006,
     "totalLevel": 3,
     "hp": {
       "max": 23
@@ -917,7 +917,7 @@
         "className": "",
         "subclass": "",
         "sourcePlanet": "Character Sheet",
-        "actionType": "passive",
+        "actionType": "reaction",
         "recharge": "at-will",
         "usesMax": 0,
         "usesCurrent": 0,
@@ -974,8 +974,7 @@
         "sourceClass": "Monk"
       }
     ],
-    "reactions": [],
-    "passives": [
+    "reactions": [
       {
         "id": "feat_mrsmj30k_21vm991",
         "name": "Deflect Attack",
@@ -983,7 +982,7 @@
         "className": "",
         "subclass": "",
         "sourcePlanet": "Character Sheet",
-        "actionType": "passive",
+        "actionType": "reaction",
         "recharge": "at-will",
         "usesMax": 0,
         "usesCurrent": 0,
@@ -997,6 +996,7 @@
         "sourceClass": "Monk"
       }
     ],
+    "passives": [],
     "freeActions": [],
     "legendaryActions": [],
     "otherActions": [
@@ -1176,8 +1176,8 @@
       "features": 4,
       "actions": 0,
       "bonusActions": 2,
-      "reactions": 0,
-      "passives": 1,
+      "reactions": 1,
+      "passives": 0,
       "spells": 0,
       "cantrips": 0,
       "resources": 1,
@@ -1191,5 +1191,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 452
+  "_rev": 454
 }
