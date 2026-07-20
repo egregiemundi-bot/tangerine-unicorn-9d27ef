@@ -277,6 +277,25 @@
             "movement": false,
             "favorite": false,
             "pinned": false
+          },
+          {
+            "id": "feat_mrsgqdjv_4txp4za",
+            "name": "",
+            "level": 1,
+            "className": "",
+            "subclass": "",
+            "sourcePlanet": "",
+            "actionType": "passive",
+            "recharge": "at-will",
+            "usesMax": 0,
+            "usesCurrent": 0,
+            "description": "When you roll Initiative, you can regain all expended Focus Points. When you do so, roll your Martial Arts die, and regain a number of Hit Points equal to your Monk level plus the number rolled.\n\nOnce you use this feature, you can't use it again until you finish a Long Rest.",
+            "tags": [],
+            "damageType": "",
+            "healing": false,
+            "movement": false,
+            "favorite": false,
+            "pinned": false
           }
         ],
         "feats": [],
@@ -297,12 +316,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784505376477
+        "lastModified": 1784505892306
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784505377178,
+    "generatedAt": 1784505893007,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -367,6 +386,26 @@
         "favorite": false,
         "pinned": false,
         "sourceClass": "Monk"
+      },
+      {
+        "id": "feat_mrsgqdjv_4txp4za",
+        "name": "",
+        "level": 1,
+        "className": "",
+        "subclass": "",
+        "sourcePlanet": "Character Sheet",
+        "actionType": "passive",
+        "recharge": "at-will",
+        "usesMax": 0,
+        "usesCurrent": 0,
+        "description": "When you roll Initiative, you can regain all expended Focus Points. When you do so, roll your Martial Arts die, and regain a number of Hit Points equal to your Monk level plus the number rolled.\n\nOnce you use this feature, you can't use it again until you finish a Long Rest.",
+        "tags": [],
+        "damageType": "",
+        "healing": false,
+        "movement": false,
+        "favorite": false,
+        "pinned": false,
+        "sourceClass": "Monk"
       }
     ],
     "actions": [],
@@ -413,7 +452,28 @@
       }
     ],
     "reactions": [],
-    "passives": [],
+    "passives": [
+      {
+        "id": "feat_mrsgqdjv_4txp4za",
+        "name": "",
+        "level": 1,
+        "className": "",
+        "subclass": "",
+        "sourcePlanet": "Character Sheet",
+        "actionType": "passive",
+        "recharge": "at-will",
+        "usesMax": 0,
+        "usesCurrent": 0,
+        "description": "When you roll Initiative, you can regain all expended Focus Points. When you do so, roll your Martial Arts die, and regain a number of Hit Points equal to your Monk level plus the number rolled.\n\nOnce you use this feature, you can't use it again until you finish a Long Rest.",
+        "tags": [],
+        "damageType": "",
+        "healing": false,
+        "movement": false,
+        "favorite": false,
+        "pinned": false,
+        "sourceClass": "Monk"
+      }
+    ],
     "freeActions": [],
     "legendaryActions": [],
     "otherActions": [],
@@ -462,11 +522,11 @@
       "planets": 1,
       "classes": 1,
       "subclasses": 0,
-      "features": 2,
+      "features": 3,
       "actions": 0,
       "bonusActions": 2,
       "reactions": 0,
-      "passives": 0,
+      "passives": 1,
       "spells": 0,
       "cantrips": 0,
       "resources": 0,
@@ -480,9 +540,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 122,
+  "_divineCacheRev": 124,
   "_divine": {
-    "generatedAt": 1784505377178,
+    "generatedAt": 1784505893007,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -547,6 +607,26 @@
         "favorite": false,
         "pinned": false,
         "sourceClass": "Monk"
+      },
+      {
+        "id": "feat_mrsgqdjv_4txp4za",
+        "name": "",
+        "level": 1,
+        "className": "",
+        "subclass": "",
+        "sourcePlanet": "Character Sheet",
+        "actionType": "passive",
+        "recharge": "at-will",
+        "usesMax": 0,
+        "usesCurrent": 0,
+        "description": "When you roll Initiative, you can regain all expended Focus Points. When you do so, roll your Martial Arts die, and regain a number of Hit Points equal to your Monk level plus the number rolled.\n\nOnce you use this feature, you can't use it again until you finish a Long Rest.",
+        "tags": [],
+        "damageType": "",
+        "healing": false,
+        "movement": false,
+        "favorite": false,
+        "pinned": false,
+        "sourceClass": "Monk"
       }
     ],
     "actions": [],
@@ -593,7 +673,28 @@
       }
     ],
     "reactions": [],
-    "passives": [],
+    "passives": [
+      {
+        "id": "feat_mrsgqdjv_4txp4za",
+        "name": "",
+        "level": 1,
+        "className": "",
+        "subclass": "",
+        "sourcePlanet": "Character Sheet",
+        "actionType": "passive",
+        "recharge": "at-will",
+        "usesMax": 0,
+        "usesCurrent": 0,
+        "description": "When you roll Initiative, you can regain all expended Focus Points. When you do so, roll your Martial Arts die, and regain a number of Hit Points equal to your Monk level plus the number rolled.\n\nOnce you use this feature, you can't use it again until you finish a Long Rest.",
+        "tags": [],
+        "damageType": "",
+        "healing": false,
+        "movement": false,
+        "favorite": false,
+        "pinned": false,
+        "sourceClass": "Monk"
+      }
+    ],
     "freeActions": [],
     "legendaryActions": [],
     "otherActions": [],
@@ -642,11 +743,11 @@
       "planets": 1,
       "classes": 1,
       "subclasses": 0,
-      "features": 2,
+      "features": 3,
       "actions": 0,
       "bonusActions": 2,
       "reactions": 0,
-      "passives": 0,
+      "passives": 1,
       "spells": 0,
       "cantrips": 0,
       "resources": 0,
@@ -660,5 +761,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 122
+  "_rev": 124
 }
