@@ -53,7 +53,7 @@
     "activePlanetId": "planet_mrj58vx3_4z292em",
     "favoriteSpells": [],
     "ui": {
-      "tab": "artifacts",
+      "tab": "combat",
       "form": "divine",
       "activePlanetId": "",
       "expanded": {},
@@ -192,7 +192,7 @@
         "state": "",
         "abilities": [],
         "notes": "",
-        "combatRelevant": false,
+        "combatRelevant": true,
         "tags": []
       }
     ],
@@ -342,7 +342,7 @@
     "attunementMax": 3
   },
   "_divineCache": {
-    "generatedAt": 1784507438287,
+    "generatedAt": 1784507562252,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -525,7 +525,17 @@
     },
     "spellSaveDC": 10,
     "spellAttackBonus": 2,
-    "resources": [],
+    "resources": [
+      {
+        "name": "Clockwork amulet Charges",
+        "current": 0,
+        "max": 1,
+        "recharge": "Dawn",
+        "sourcePlanet": "",
+        "sourceClass": "Artifact",
+        "artifactId": "artifact_mrshnxq9_5lm1j3h"
+      }
+    ],
     "skills": [],
     "expertise": [],
     "savingThrows": [],
@@ -561,9 +571,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 194,
+  "_divineCacheRev": 255,
   "_divine": {
-    "generatedAt": 1784507438287,
+    "generatedAt": 1784507562252,
     "totalLevel": 2,
     "hp": {
       "max": 0
@@ -746,7 +756,17 @@
     },
     "spellSaveDC": 10,
     "spellAttackBonus": 2,
-    "resources": [],
+    "resources": [
+      {
+        "name": "Clockwork amulet Charges",
+        "current": 0,
+        "max": 1,
+        "recharge": "Dawn",
+        "sourcePlanet": "",
+        "sourceClass": "Artifact",
+        "artifactId": "artifact_mrshnxq9_5lm1j3h"
+      }
+    ],
     "skills": [],
     "expertise": [],
     "savingThrows": [],
@@ -782,5 +802,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 253
+  "_rev": 255
 }
