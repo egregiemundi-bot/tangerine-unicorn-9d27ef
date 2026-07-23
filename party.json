@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-20T02:29:51.895Z",
+  "updatedAt": "2026-07-23T22:51:46.461Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -499,30 +499,36 @@
         "name": "Sibyl Eirlynn",
         "pc": true,
         "init": "3",
-        "hp": "",
-        "maxhp": "",
-        "ac": "",
-        "notes": ""
+        "hp": "23",
+        "maxhp": "23",
+        "ac": "16",
+        "notes": "",
+        "temp": 0,
+        "conditions": []
       },
       {
         "id": "pc-zacharia-horn-axe",
         "name": "Zacharia Horn-Axe",
         "pc": true,
         "init": "7",
-        "hp": "",
-        "maxhp": "",
-        "ac": "",
-        "notes": ""
+        "hp": "0",
+        "maxhp": "30",
+        "ac": "10",
+        "notes": "",
+        "temp": 0,
+        "conditions": []
       },
       {
         "id": "pc-bud-turtlefoot",
         "name": "Bud Turtlefoot",
         "pc": true,
         "init": "15",
-        "hp": "",
-        "maxhp": "",
-        "ac": "",
-        "notes": ""
+        "hp": "15",
+        "maxhp": "15",
+        "ac": "14",
+        "notes": "",
+        "temp": 0,
+        "conditions": []
       },
       {
         "id": "pc-ayeluna-lou",
@@ -531,28 +537,22 @@
         "init": "9",
         "hp": "",
         "maxhp": "",
-        "ac": "",
-        "notes": ""
+        "ac": "10",
+        "notes": "",
+        "temp": 0,
+        "conditions": []
       },
       {
         "id": "pc-kena-price",
         "name": "Kena Price",
         "pc": true,
         "init": "11",
-        "hp": "",
-        "maxhp": "",
-        "ac": "",
-        "notes": ""
-      },
-      {
-        "id": "mmrsiii39381",
-        "name": "Goblin 1",
-        "pc": false,
-        "init": "3",
-        "hp": "11",
-        "maxhp": "11",
-        "ac": "13",
-        "notes": ""
+        "hp": "20",
+        "maxhp": "20",
+        "ac": "18",
+        "notes": "",
+        "temp": 0,
+        "conditions": []
       }
     ],
     "round": 1,
