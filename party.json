@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-24T13:31:24.419Z",
+  "updatedAt": "2026-07-24T13:31:49.376Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -331,7 +331,7 @@
           "title": "The Adventure Begins",
           "date": "Year 351, 14th Gildember",
           "type": "story",
-          "location": "Greenfall",
+          "location": "Forest",
           "description": "The party meets in a small village called Greenfall. A mysterious letter brings them together with a shared purpose.",
           "tags": [
             "Story",
