@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-24T13:33:35.445Z",
+  "updatedAt": "2026-07-24T13:33:38.988Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -332,7 +332,7 @@
           "date": "Year 351, 14th Gildember",
           "type": "story",
           "location": "Forest",
-          "description": "[[@character:ayeluna-lou|Ayeluna \"Lou\"]] becomes an initiate of the Mages of High Sorcery. @bud",
+          "description": "[[@character:ayeluna-lou|Ayeluna \"Lou\"]] becomes an initiate of the Mages of High Sorcery. [[@character:bud-turtlefoot|Bud Turtlefoot]] and @",
           "tags": [
             "Story",
             "NPC"
