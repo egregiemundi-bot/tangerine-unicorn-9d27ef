@@ -68,7 +68,7 @@
         "mod": 0
       },
       "combat": {
-        "currentHp": 4,
+        "currentHp": 23,
         "tempHp": 0,
         "notes": "",
         "conditions": [],
@@ -204,9 +204,7 @@
             "character": "Sibyl Eirlynn"
           }
         ],
-        "hpHistory": [
-          23
-        ]
+        "hpHistory": []
       }
     },
     "artifacts": [
