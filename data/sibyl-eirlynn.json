@@ -213,6 +213,15 @@
             "at": 1784914407621,
             "player": "sibyl-eirlynn",
             "character": "Sibyl Eirlynn"
+          },
+          {
+            "kind": "note",
+            "text": "✚ Added an action: Unarmed Strike",
+            "label": "Note",
+            "id": "roll-mrz806u3-q49rn2",
+            "at": 1784914495131,
+            "player": "sibyl-eirlynn",
+            "character": "Sibyl Eirlynn"
           }
         ],
         "hpHistory": [
