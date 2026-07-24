@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-24T13:42:31.865Z",
+  "updatedAt": "2026-07-24T13:50:34.005Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -1328,5 +1328,151 @@
   },
   "creatures": {
     "creatures": []
+  },
+  "pantheon": {
+    "entries": [
+      {
+        "id": "pmryzyajf2mp",
+        "name": "The Dawn Power",
+        "subtitle": "Prime Deity",
+        "kind": "gods",
+        "alignment": "Lawful Good",
+        "domains": [
+          "Light",
+          "Life",
+          "Law"
+        ],
+        "symbol": "☀",
+        "accent": "#6fae5a",
+        "major": true,
+        "created": "Jul 24, 2026",
+        "updated": "Jul 24, 2026",
+        "faction": "",
+        "history": "",
+        "cleric": "",
+        "secrets": "",
+        "deceased": false,
+        "hidden": false
+      },
+      {
+        "id": "pmryzyajg7mr",
+        "name": "The Veiled Power",
+        "subtitle": "Prime Deity",
+        "kind": "gods",
+        "alignment": "Neutral",
+        "domains": [
+          "Knowledge",
+          "Trickery",
+          "Death"
+        ],
+        "symbol": "☠",
+        "accent": "#9a7bc8",
+        "major": true,
+        "created": "Jul 24, 2026",
+        "updated": "Jul 24, 2026"
+      },
+      {
+        "id": "pmryzyajg2ol",
+        "name": "The Iron Power",
+        "subtitle": "Prime Deity",
+        "kind": "gods",
+        "alignment": "Lawful Neutral",
+        "domains": [
+          "Forge",
+          "Strength",
+          "War"
+        ],
+        "symbol": "⚒",
+        "accent": "#d07b3a",
+        "major": true,
+        "created": "Jul 24, 2026",
+        "updated": "Jul 24, 2026"
+      },
+      {
+        "id": "pmryzyajg4wq",
+        "name": "The Green Power",
+        "subtitle": "Prime Deity",
+        "kind": "gods",
+        "alignment": "Neutral Good",
+        "domains": [
+          "Nature",
+          "Life",
+          "Protection"
+        ],
+        "symbol": "⚘",
+        "accent": "#6fae5a",
+        "major": true,
+        "created": "Jul 24, 2026",
+        "updated": "Jul 24, 2026"
+      },
+      {
+        "id": "pmryzyajg6aq",
+        "name": "The Tide Power",
+        "subtitle": "Prime Deity",
+        "kind": "gods",
+        "alignment": "Chaotic Neutral",
+        "domains": [
+          "Water",
+          "Tempest",
+          "Change"
+        ],
+        "symbol": "≈",
+        "accent": "#5b93c8",
+        "major": true,
+        "created": "Jul 24, 2026",
+        "updated": "Jul 24, 2026"
+      },
+      {
+        "id": "pmryzyajg263",
+        "name": "The Judgment Power",
+        "subtitle": "Prime Deity",
+        "kind": "gods",
+        "alignment": "Lawful Neutral",
+        "domains": [
+          "Law",
+          "Order",
+          "Truth"
+        ],
+        "symbol": "⚖",
+        "accent": "#b9c2cc",
+        "major": true,
+        "created": "Jul 24, 2026",
+        "updated": "Jul 24, 2026"
+      },
+      {
+        "id": "pmryzyajg50i",
+        "name": "The Void Power",
+        "subtitle": "Primordial",
+        "kind": "primordials",
+        "alignment": "Chaotic Evil",
+        "domains": [
+          "Void",
+          "Entropy",
+          "Madness"
+        ],
+        "symbol": "◉",
+        "accent": "#9a7bc8",
+        "major": false,
+        "created": "Jul 24, 2026",
+        "updated": "Jul 24, 2026"
+      },
+      {
+        "id": "pmryzyajgu6",
+        "name": "The Flame Eternal",
+        "subtitle": "Primordial",
+        "kind": "primordials",
+        "alignment": "Chaotic Neutral",
+        "domains": [
+          "Fire",
+          "Destruction",
+          "Passion"
+        ],
+        "symbol": "♨",
+        "accent": "#d0552a",
+        "major": false,
+        "created": "Jul 24, 2026",
+        "updated": "Jul 24, 2026"
+      }
+    ]
   }
 }
