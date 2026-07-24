@@ -353,7 +353,7 @@
             "pinned": false,
             "combatCategory": "",
             "trigger": "",
-            "rechargeType": "long",
+            "rechargeType": "short",
             "rollFormula": ""
           }
         ],
@@ -380,12 +380,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784916097039
+        "lastModified": 1784916109777
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784916097741,
+    "generatedAt": 1784916110479,
     "totalLevel": 3,
     "hp": {
       "max": 32
@@ -442,7 +442,7 @@
         "pinned": false,
         "combatCategory": "",
         "trigger": "",
-        "rechargeType": "long",
+        "rechargeType": "short",
         "rollFormula": "",
         "sourceClass": "Fighter",
         "sourceType": "feature"
@@ -484,7 +484,7 @@
         "pinned": false,
         "combatCategory": "",
         "trigger": "",
-        "rechargeType": "long",
+        "rechargeType": "short",
         "rollFormula": "",
         "sourceClass": "Fighter",
         "sourceType": "feature"
@@ -611,9 +611,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 182,
+  "_divineCacheRev": 184,
   "_divine": {
-    "generatedAt": 1784916097741,
+    "generatedAt": 1784916110479,
     "totalLevel": 3,
     "hp": {
       "max": 32
@@ -670,7 +670,7 @@
         "pinned": false,
         "combatCategory": "",
         "trigger": "",
-        "rechargeType": "long",
+        "rechargeType": "short",
         "rollFormula": "",
         "sourceClass": "Fighter",
         "sourceType": "feature"
@@ -712,7 +712,7 @@
         "pinned": false,
         "combatCategory": "",
         "trigger": "",
-        "rechargeType": "long",
+        "rechargeType": "short",
         "rollFormula": "",
         "sourceClass": "Fighter",
         "sourceType": "feature"
@@ -839,5 +839,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 182
+  "_rev": 184
 }
