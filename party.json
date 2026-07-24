@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-24T02:42:22.172Z",
+  "updatedAt": "2026-07-24T12:33:43.356Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -731,5 +731,492 @@
       ],
       "at": 1784514590702
     }
-  ]
+  ],
+  "wikipages": {
+    "tree": [
+      {
+        "group": "World",
+        "pages": [
+          {
+            "id": "regions",
+            "title": "Regions"
+          },
+          {
+            "id": "cities-settlements",
+            "title": "Cities & Settlements"
+          },
+          {
+            "id": "planes-realms",
+            "title": "Planes & Realms"
+          },
+          {
+            "id": "calendars",
+            "title": "Calendars"
+          }
+        ]
+      },
+      {
+        "group": "People",
+        "pages": [
+          {
+            "id": "major-npcs",
+            "title": "Major NPCs"
+          },
+          {
+            "id": "historical-figures",
+            "title": "Historical Figures"
+          },
+          {
+            "id": "families-clans",
+            "title": "Families & Clans"
+          }
+        ]
+      },
+      {
+        "group": "Organizations",
+        "pages": [
+          {
+            "id": "factions-guilds",
+            "title": "Factions & Guilds"
+          },
+          {
+            "id": "religions-cults",
+            "title": "Religions & Cults"
+          },
+          {
+            "id": "nations-empires",
+            "title": "Nations & Empires"
+          },
+          {
+            "id": "secret-societies",
+            "title": "Secret Societies"
+          }
+        ]
+      },
+      {
+        "group": "Campaign",
+        "pages": [
+          {
+            "id": "homebrew-rules",
+            "title": "Homebrew Rules",
+            "star": true
+          },
+          {
+            "id": "session-lore",
+            "title": "Session Lore"
+          },
+          {
+            "id": "party-discoveries",
+            "title": "Party Discoveries"
+          },
+          {
+            "id": "dm-notes",
+            "title": "DM Notes"
+          }
+        ]
+      }
+    ],
+    "pages": {
+      "homebrew-rules": {
+        "id": "homebrew-rules",
+        "title": "Homebrew Rules",
+        "star": true,
+        "subtitle": "House rules and optional rules used in this campaign.",
+        "category": "Campaign Rules",
+        "categoryColor": "#9a7bc8",
+        "visibility": "Visible to Players",
+        "createdBy": "You (DM)",
+        "created": "May 12, 2024",
+        "edited": "Today at 7:33 AM",
+        "blocks": [
+          {
+            "type": "heading",
+            "icon": "✦",
+            "text": "Revival Rules"
+          },
+          {
+            "type": "p",
+            "text": "We are using the Matt Mercer resurrection rules for reviving characters."
+          },
+          {
+            "type": "table",
+            "head": [
+              "Revival Attempt",
+              "DC"
+            ],
+            "rows": [
+              [
+                "1st",
+                "10"
+              ],
+              [
+                "2nd",
+                "15"
+              ],
+              [
+                "3rd",
+                "20"
+              ],
+              [
+                "4th",
+                "25"
+              ],
+              [
+                "5th+",
+                "30"
+              ]
+            ]
+          },
+          {
+            "type": "callout",
+            "variant": "dm",
+            "title": "DM Note",
+            "text": "The true cost of resurrection magic is slowly unraveling the threads between life and death. The characters are not aware of this… yet."
+          },
+          {
+            "type": "heading",
+            "icon": "✦",
+            "text": "Death Saves"
+          },
+          {
+            "type": "p",
+            "text": "We use the standard death save rules with the following clarification."
+          },
+          {
+            "type": "list",
+            "items": [
+              "Stabilizing a creature does not reset death saves."
+            ]
+          },
+          {
+            "type": "callout",
+            "variant": "important",
+            "title": "Important",
+            "text": "A stabilized creature is still at risk until they receive magical healing or a long rest."
+          },
+          {
+            "type": "heading",
+            "icon": "✦",
+            "text": "Potions"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Potions are a bonus action to drink unless stated otherwise.",
+              "You may pass a potion to another creature within 5 feet as an action.",
+              "Identifying a potion takes an action."
+            ]
+          },
+          {
+            "type": "callout",
+            "variant": "see",
+            "title": "See: Potion Identification",
+            "text": "Rules for identifying potions and their contents."
+          },
+          {
+            "type": "heading",
+            "icon": "✦",
+            "text": "Spellcasting"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Casting a spell using a spell slot expends that slot, whether the spell succeeds or fails.",
+              "Components must be on your person unless the spell states otherwise.",
+              "Verbal components cannot be spoken if you are gagged or silenced."
+            ]
+          },
+          {
+            "type": "callout",
+            "variant": "example",
+            "title": "Example",
+            "text": "If a spell requires a saving throw and the target succeeds, the slot is still expended."
+          }
+        ],
+        "linked": [
+          {
+            "title": "Matt Mercer Revival Rules",
+            "sub": "Wiki Page",
+            "ico": "🌀"
+          },
+          {
+            "title": "Party Characters",
+            "sub": "List",
+            "ico": "👥"
+          },
+          {
+            "title": "Session Zero",
+            "sub": "Session",
+            "ico": "📅"
+          },
+          {
+            "title": "Pantheon",
+            "sub": "Faction",
+            "ico": "🏛"
+          },
+          {
+            "title": "Resurrection Ritual",
+            "sub": "Item",
+            "ico": "🕯"
+          }
+        ]
+      },
+      "regions": {
+        "id": "regions",
+        "title": "Regions",
+        "group": "World",
+        "subtitle": "",
+        "category": "World",
+        "visibility": "Visible to Players",
+        "createdBy": "You (DM)",
+        "created": "July 24, 2026",
+        "edited": "July 24, 2026",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "This page has not been written yet. Open it in Edit Page to add content."
+          }
+        ],
+        "linked": []
+      },
+      "cities-settlements": {
+        "id": "cities-settlements",
+        "title": "Cities & Settlements",
+        "group": "World",
+        "subtitle": "",
+        "category": "World",
+        "visibility": "Visible to Players",
+        "createdBy": "You (DM)",
+        "created": "July 24, 2026",
+        "edited": "July 24, 2026",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "This page has not been written yet. Open it in Edit Page to add content."
+          }
+        ],
+        "linked": []
+      },
+      "planes-realms": {
+        "id": "planes-realms",
+        "title": "Planes & Realms",
+        "group": "World",
+        "subtitle": "",
+        "category": "World",
+        "visibility": "Visible to Players",
+        "createdBy": "You (DM)",
+        "created": "July 24, 2026",
+        "edited": "July 24, 2026",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "This page has not been written yet. Open it in Edit Page to add content."
+          }
+        ],
+        "linked": []
+      },
+      "calendars": {
+        "id": "calendars",
+        "title": "Calendars",
+        "group": "World",
+        "subtitle": "",
+        "category": "World",
+        "visibility": "Visible to Players",
+        "createdBy": "You (DM)",
+        "created": "July 24, 2026",
+        "edited": "July 24, 2026",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "This page has not been written yet. Open it in Edit Page to add content."
+          }
+        ],
+        "linked": []
+      },
+      "major-npcs": {
+        "id": "major-npcs",
+        "title": "Major NPCs",
+        "group": "People",
+        "subtitle": "",
+        "category": "People",
+        "visibility": "Visible to Players",
+        "createdBy": "You (DM)",
+        "created": "July 24, 2026",
+        "edited": "July 24, 2026",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "This page has not been written yet. Open it in Edit Page to add content."
+          }
+        ],
+        "linked": []
+      },
+      "historical-figures": {
+        "id": "historical-figures",
+        "title": "Historical Figures",
+        "group": "People",
+        "subtitle": "",
+        "category": "People",
+        "visibility": "Visible to Players",
+        "createdBy": "You (DM)",
+        "created": "July 24, 2026",
+        "edited": "July 24, 2026",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "This page has not been written yet. Open it in Edit Page to add content."
+          }
+        ],
+        "linked": []
+      },
+      "families-clans": {
+        "id": "families-clans",
+        "title": "Families & Clans",
+        "group": "People",
+        "subtitle": "",
+        "category": "People",
+        "visibility": "Visible to Players",
+        "createdBy": "You (DM)",
+        "created": "July 24, 2026",
+        "edited": "July 24, 2026",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "This page has not been written yet. Open it in Edit Page to add content."
+          }
+        ],
+        "linked": []
+      },
+      "factions-guilds": {
+        "id": "factions-guilds",
+        "title": "Factions & Guilds",
+        "group": "Organizations",
+        "subtitle": "",
+        "category": "Organizations",
+        "visibility": "Visible to Players",
+        "createdBy": "You (DM)",
+        "created": "July 24, 2026",
+        "edited": "July 24, 2026",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "This page has not been written yet. Open it in Edit Page to add content."
+          }
+        ],
+        "linked": []
+      },
+      "religions-cults": {
+        "id": "religions-cults",
+        "title": "Religions & Cults",
+        "group": "Organizations",
+        "subtitle": "",
+        "category": "Organizations",
+        "visibility": "Visible to Players",
+        "createdBy": "You (DM)",
+        "created": "July 24, 2026",
+        "edited": "July 24, 2026",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "This page has not been written yet. Open it in Edit Page to add content."
+          }
+        ],
+        "linked": []
+      },
+      "nations-empires": {
+        "id": "nations-empires",
+        "title": "Nations & Empires",
+        "group": "Organizations",
+        "subtitle": "",
+        "category": "Organizations",
+        "visibility": "Visible to Players",
+        "createdBy": "You (DM)",
+        "created": "July 24, 2026",
+        "edited": "July 24, 2026",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "This page has not been written yet. Open it in Edit Page to add content."
+          }
+        ],
+        "linked": []
+      },
+      "secret-societies": {
+        "id": "secret-societies",
+        "title": "Secret Societies",
+        "group": "Organizations",
+        "subtitle": "",
+        "category": "Organizations",
+        "visibility": "Visible to Players",
+        "createdBy": "You (DM)",
+        "created": "July 24, 2026",
+        "edited": "July 24, 2026",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "This page has not been written yet. Open it in Edit Page to add content."
+          }
+        ],
+        "linked": []
+      },
+      "session-lore": {
+        "id": "session-lore",
+        "title": "Session Lore",
+        "group": "Campaign",
+        "subtitle": "",
+        "category": "Campaign",
+        "visibility": "Visible to Players",
+        "createdBy": "You (DM)",
+        "created": "July 24, 2026",
+        "edited": "July 24, 2026",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "This page has not been written yet. Open it in Edit Page to add content."
+          }
+        ],
+        "linked": []
+      },
+      "party-discoveries": {
+        "id": "party-discoveries",
+        "title": "Party Discoveries",
+        "group": "Campaign",
+        "subtitle": "",
+        "category": "Campaign",
+        "visibility": "Visible to Players",
+        "createdBy": "You (DM)",
+        "created": "July 24, 2026",
+        "edited": "July 24, 2026",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "This page has not been written yet. Open it in Edit Page to add content."
+          }
+        ],
+        "linked": []
+      },
+      "dm-notes": {
+        "id": "dm-notes",
+        "title": "DM Notes",
+        "group": "Campaign",
+        "subtitle": "",
+        "category": "Campaign",
+        "visibility": "Visible to Players",
+        "createdBy": "You (DM)",
+        "created": "July 24, 2026",
+        "edited": "July 24, 2026",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "This page has not been written yet. Open it in Edit Page to add content."
+          }
+        ],
+        "linked": []
+      }
+    },
+    "currentId": "homebrew-rules",
+    "recent": [
+      "homebrew-rules"
+    ]
+  }
 }
