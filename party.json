@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-24T13:50:34.005Z",
+  "updatedAt": "2026-07-24T13:50:57.295Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -199,8 +199,8 @@
         "y": 518
       },
       "the-undertow": {
-        "x": 682,
-        "y": 279
+        "x": 651,
+        "y": 302
       },
       "red-dragon-army": {
         "x": 492,
