@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-24T13:42:27.364Z",
+  "updatedAt": "2026-07-24T13:42:31.865Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -1327,33 +1327,6 @@
     ]
   },
   "creatures": {
-    "creatures": [
-      {
-        "name": "Dawnstrider",
-        "type": "Warhorse",
-        "category": "mounts",
-        "tags": [
-          "Mount",
-          "Companion"
-        ],
-        "hp": 66,
-        "hpMax": 66,
-        "ac": 12,
-        "speed": "60 ft.",
-        "status": "stabled",
-        "location": "The Hidden Court Stables",
-        "owner": "Altariaus",
-        "star": true,
-        "size": "Large",
-        "alignment": "Neutral",
-        "challenge": "1/2",
-        "senses": "Passive Perception 11",
-        "languages": "—",
-        "desc": "A pale warhorse stabled at the Hidden Court, saddled for Altariaus.",
-        "id": "cmryznum66yr",
-        "created": "Jul 24, 2026",
-        "updated": "Jul 24, 2026"
-      }
-    ]
+    "creatures": []
   }
 }
