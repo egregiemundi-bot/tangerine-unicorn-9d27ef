@@ -21,8 +21,8 @@
       "num": 2,
       "title": "Five Games and one funeral",
       "date": "",
-      "duration": "",
-      "location": "",
+      "duration": "4hrs",
+      "location": "Vogler",
       "summary": "",
       "notes": "",
       "xp": "",
@@ -35,5 +35,5 @@
       "inGameDate": "15th Gildember"
     }
   ],
-  "updatedAt": "2026-07-24T17:09:43.823Z"
+  "updatedAt": "2026-07-24T17:09:47.944Z"
 }
