@@ -326,7 +326,8 @@
         "spells": [],
         "features": [
           {
-            "name": "Second Wind"
+            "name": "Second Wind",
+            "actionType": "bonus"
           }
         ],
         "feats": [],
@@ -352,12 +353,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784915726914
+        "lastModified": 1784915730226
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784915727616,
+    "generatedAt": 1784915731789,
     "totalLevel": 3,
     "hp": {
       "max": 32
@@ -385,26 +386,28 @@
     "features": [
       {
         "name": "Second Wind",
+        "actionType": "bonus",
         "sourcePlanet": "Character Sheet",
         "sourceClass": "Fighter",
         "sourceType": "feature"
       }
     ],
     "actions": [],
-    "bonusActions": [],
-    "reactions": [],
-    "passives": [],
-    "utilityFeatures": [],
-    "freeActions": [],
-    "legendaryActions": [],
-    "otherActions": [
+    "bonusActions": [
       {
         "name": "Second Wind",
+        "actionType": "bonus",
         "sourcePlanet": "Character Sheet",
         "sourceClass": "Fighter",
         "sourceType": "feature"
       }
     ],
+    "reactions": [],
+    "passives": [],
+    "utilityFeatures": [],
+    "freeActions": [],
+    "legendaryActions": [],
+    "otherActions": [],
     "spells": [],
     "spellsByLevel": {
       "0": [],
@@ -506,7 +509,7 @@
       "subclasses": 0,
       "features": 1,
       "actions": 0,
-      "bonusActions": 0,
+      "bonusActions": 1,
       "reactions": 0,
       "passives": 0,
       "spells": 0,
@@ -522,9 +525,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 144,
+  "_divineCacheRev": 146,
   "_divine": {
-    "generatedAt": 1784915727616,
+    "generatedAt": 1784915731789,
     "totalLevel": 3,
     "hp": {
       "max": 32
@@ -552,26 +555,28 @@
     "features": [
       {
         "name": "Second Wind",
+        "actionType": "bonus",
         "sourcePlanet": "Character Sheet",
         "sourceClass": "Fighter",
         "sourceType": "feature"
       }
     ],
     "actions": [],
-    "bonusActions": [],
-    "reactions": [],
-    "passives": [],
-    "utilityFeatures": [],
-    "freeActions": [],
-    "legendaryActions": [],
-    "otherActions": [
+    "bonusActions": [
       {
         "name": "Second Wind",
+        "actionType": "bonus",
         "sourcePlanet": "Character Sheet",
         "sourceClass": "Fighter",
         "sourceType": "feature"
       }
     ],
+    "reactions": [],
+    "passives": [],
+    "utilityFeatures": [],
+    "freeActions": [],
+    "legendaryActions": [],
+    "otherActions": [],
     "spells": [],
     "spellsByLevel": {
       "0": [],
@@ -673,7 +678,7 @@
       "subclasses": 0,
       "features": 1,
       "actions": 0,
-      "bonusActions": 0,
+      "bonusActions": 1,
       "reactions": 0,
       "passives": 0,
       "spells": 0,
@@ -689,5 +694,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 144
+  "_rev": 146
 }
