@@ -308,7 +308,9 @@
         "feats": [],
         "epicBoons": [],
         "asi": [],
-        "resistances": [],
+        "resistances": [
+          ""
+        ],
         "immunities": [],
         "weaponProfs": [
           "Simple"
@@ -326,12 +328,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784915461629
+        "lastModified": 1784915482865
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784915462331,
+    "generatedAt": 1784915483567,
     "totalLevel": 3,
     "hp": {
       "max": 32
@@ -480,9 +482,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 122,
+  "_divineCacheRev": 123,
   "_divine": {
-    "generatedAt": 1784915462331,
+    "generatedAt": 1784915483567,
     "totalLevel": 3,
     "hp": {
       "max": 32
@@ -631,5 +633,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 122
+  "_rev": 123
 }
