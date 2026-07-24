@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-24T12:33:43.356Z",
+  "updatedAt": "2026-07-24T12:58:38.493Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -321,6 +321,120 @@
     },
     "board-architect": {
       "cards": []
+    },
+    "story-timeline": {
+      "version": 2,
+      "events": [
+        {
+          "id": "evmryx86a2197",
+          "session": "1",
+          "title": "The Adventure Begins",
+          "date": "Year 1, Day 1",
+          "type": "story",
+          "location": "Greenfall",
+          "description": "The party meets in a small village called Greenfall. A mysterious letter brings them together with a shared purpose.",
+          "tags": [
+            "Story",
+            "NPC"
+          ],
+          "img": "",
+          "notes": "The letter is from an unknown sender. Could be a clue to a larger plot.",
+          "secret": false
+        },
+        {
+          "id": "evmryx86a2iy",
+          "session": "2",
+          "title": "Goblins in the Woods",
+          "date": "Year 1, Day 3",
+          "type": "combat",
+          "location": "Whispering Woods",
+          "description": "A goblin raiding party threatens the lands near Greenfall. The party band together to fight them off.",
+          "tags": [
+            "Combat",
+            "Story"
+          ],
+          "img": "",
+          "notes": "",
+          "secret": false
+        },
+        {
+          "id": "evmryx86a23km",
+          "session": "3",
+          "title": "The Strange Ruins",
+          "date": "Year 1, Day 7",
+          "type": "discovery",
+          "location": "Ancient Ruins",
+          "description": "While tracking the goblins, the party discovers ancient ruins with strange magical inscriptions.",
+          "tags": [
+            "Discovery",
+            "Story"
+          ],
+          "img": "",
+          "notes": "The inscriptions hint at a sealed power beneath the ruins.",
+          "secret": true
+        },
+        {
+          "id": "evmryx86a24pv",
+          "session": "4",
+          "title": "A New Ally",
+          "date": "Year 1, Day 10",
+          "type": "npc",
+          "location": "Greenfall",
+          "description": "The party encounters and is joined by Lira, a wandering scholar with knowledge of the ruins.",
+          "tags": [
+            "NPC",
+            "Story"
+          ],
+          "img": "",
+          "notes": "",
+          "secret": false
+        },
+        {
+          "id": "evmryx86a23ex",
+          "session": "5",
+          "title": "The Hidden Treasure",
+          "date": "Year 1, Day 14",
+          "type": "item",
+          "location": "Ancient Ruins",
+          "description": "The ruins reveal a hidden chamber containing a powerful magical artifact.",
+          "tags": [
+            "Item",
+            "Discovery"
+          ],
+          "img": "",
+          "notes": "",
+          "secret": false
+        },
+        {
+          "id": "evmryx86a27kw",
+          "session": "6",
+          "title": "Shadows Approach",
+          "date": "Year 1, Day 20",
+          "type": "quest",
+          "location": "Greenfall",
+          "description": "Reports of strange activity and missing people suggest a darker threat is rising.",
+          "tags": [
+            "Story",
+            "Quest"
+          ],
+          "img": "",
+          "notes": "",
+          "secret": false
+        },
+        {
+          "id": "evmryy4v961og",
+          "session": "7",
+          "title": "New Event",
+          "date": "Year 1",
+          "type": "story",
+          "location": "",
+          "description": "",
+          "tags": [],
+          "img": "",
+          "notes": "",
+          "secret": false
+        }
+      ]
     }
   },
   "legendaryitems": {
