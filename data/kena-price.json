@@ -316,7 +316,7 @@
         "armorProfs": [],
         "toolProfs": [],
         "languages": [
-          "Dwarven, E"
+          "Dwarven, Elvish"
         ],
         "inventory": [],
         "gold": 0,
@@ -325,12 +325,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784915449319
+        "lastModified": 1784915451168
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784915450021,
+    "generatedAt": 1784915451869,
     "totalLevel": 3,
     "hp": {
       "max": 32
@@ -447,7 +447,7 @@
     "resistances": [],
     "immunities": [],
     "languages": [
-      "Dwarven, E"
+      "Dwarven, Elvish"
     ],
     "weaponProfs": [
       "Simple"
@@ -478,9 +478,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 105,
+  "_divineCacheRev": 110,
   "_divine": {
-    "generatedAt": 1784915450021,
+    "generatedAt": 1784915451869,
     "totalLevel": 3,
     "hp": {
       "max": 32
@@ -597,7 +597,7 @@
     "resistances": [],
     "immunities": [],
     "languages": [
-      "Dwarven, E"
+      "Dwarven, Elvish"
     ],
     "weaponProfs": [
       "Simple"
@@ -628,5 +628,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 105
+  "_rev": 110
 }
