@@ -74,7 +74,7 @@
         "conditions": [],
         "concentration": "",
         "spellSearch": "",
-        "hpAdjustAmount": 19,
+        "hpAdjustAmount": 23,
         "mobileTab": "combat",
         "sendRoll20": false,
         "dice3d": true,
@@ -204,9 +204,7 @@
             "character": "Sibyl Eirlynn"
           }
         ],
-        "hpHistory": [
-          23
-        ]
+        "hpHistory": []
       }
     },
     "artifacts": [
