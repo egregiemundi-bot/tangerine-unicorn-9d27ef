@@ -1299,7 +1299,7 @@
             "concentration": false,
             "ritual": false,
             "prepared": false,
-            "description": "A creature you touch regains a number of hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.",
+            "description": "A creature you touch regains a number of hit points equal to 2d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.",
             "higherLevels": "When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st.",
             "damage": "",
             "upcast": null,
@@ -1350,13 +1350,13 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784873779645
+        "lastModified": 1784873804477
       }
     ],
     "prepMax": 0
   },
   "_divineCache": {
-    "generatedAt": 1784873780347,
+    "generatedAt": 1784873805179,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -1561,7 +1561,7 @@
         "concentration": false,
         "ritual": false,
         "prepared": false,
-        "description": "A creature you touch regains a number of hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.",
+        "description": "A creature you touch regains a number of hit points equal to 2d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.",
         "higherLevels": "When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st.",
         "damage": "",
         "upcast": null,
@@ -1703,7 +1703,7 @@
           "concentration": false,
           "ritual": false,
           "prepared": false,
-          "description": "A creature you touch regains a number of hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.",
+          "description": "A creature you touch regains a number of hit points equal to 2d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.",
           "higherLevels": "When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st.",
           "damage": "",
           "upcast": null,
@@ -1805,9 +1805,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 344,
+  "_divineCacheRev": 346,
   "_divine": {
-    "generatedAt": 1784873780347,
+    "generatedAt": 1784873805179,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -2012,7 +2012,7 @@
         "concentration": false,
         "ritual": false,
         "prepared": false,
-        "description": "A creature you touch regains a number of hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.",
+        "description": "A creature you touch regains a number of hit points equal to 2d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.",
         "higherLevels": "When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st.",
         "damage": "",
         "upcast": null,
@@ -2154,7 +2154,7 @@
           "concentration": false,
           "ritual": false,
           "prepared": false,
-          "description": "A creature you touch regains a number of hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.",
+          "description": "A creature you touch regains a number of hit points equal to 2d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.",
           "higherLevels": "When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st.",
           "damage": "",
           "upcast": null,
@@ -2256,7 +2256,7 @@
       "epicBoons": 0
     }
   },
-  "_rev": 344,
+  "_rev": 346,
   "backstory": {
     "sections": []
   }
