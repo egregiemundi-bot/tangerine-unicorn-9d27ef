@@ -1074,7 +1074,7 @@
         "planetName": "Bud's Character Sheet",
         "planetImage": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/1784066822271-bud.jpg?v=1784066823535",
         "status": "active",
-        "level": 2,
+        "level": 3,
         "xp": 0,
         "className": "Bard",
         "subclass": "",
@@ -1085,7 +1085,7 @@
           {
             "className": "Bard",
             "subclass": "",
-            "level": 2
+            "level": 3
           }
         ],
         "spellcasting": [
@@ -1350,14 +1350,14 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784873847759
+        "lastModified": 1784873918007
       }
     ],
     "prepMax": 0
   },
   "_divineCache": {
-    "generatedAt": 1784873848460,
-    "totalLevel": 2,
+    "generatedAt": 1784873918710,
+    "totalLevel": 3,
     "hp": {
       "max": 15
     },
@@ -1373,7 +1373,7 @@
     "classes": [
       {
         "className": "Bard",
-        "levels": 2,
+        "levels": 3,
         "subclasses": [],
         "planets": [
           "Bud's Character Sheet"
@@ -1805,10 +1805,10 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 349,
+  "_divineCacheRev": 351,
   "_divine": {
-    "generatedAt": 1784873848460,
-    "totalLevel": 2,
+    "generatedAt": 1784873918710,
+    "totalLevel": 3,
     "hp": {
       "max": 15
     },
@@ -1824,7 +1824,7 @@
     "classes": [
       {
         "className": "Bard",
-        "levels": 2,
+        "levels": 3,
         "subclasses": [],
         "planets": [
           "Bud's Character Sheet"
@@ -2256,7 +2256,7 @@
       "epicBoons": 0
     }
   },
-  "_rev": 349,
+  "_rev": 351,
   "backstory": {
     "sections": []
   }
