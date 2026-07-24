@@ -326,27 +326,7 @@
         "spells": [],
         "features": [
           {
-            "id": "feat_mrz8qjdp_69q2uf8",
-            "name": "",
-            "level": 1,
-            "className": "",
-            "subclass": "",
-            "sourcePlanet": "",
-            "actionType": "passive",
-            "recharge": "at-will",
-            "usesMax": 0,
-            "usesCurrent": 0,
-            "description": "",
-            "tags": [],
-            "damageType": "",
-            "healing": false,
-            "movement": false,
-            "favorite": false,
-            "pinned": false,
-            "combatCategory": "",
-            "trigger": "",
-            "rechargeType": "",
-            "rollFormula": ""
+            "name": "Second Wind"
           }
         ],
         "feats": [],
@@ -372,12 +352,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784915724446
+        "lastModified": 1784915726914
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784915725147,
+    "generatedAt": 1784915727616,
     "totalLevel": 3,
     "hp": {
       "max": 32
@@ -404,27 +384,8 @@
     "subclasses": [],
     "features": [
       {
-        "id": "feat_mrz8qjdp_69q2uf8",
-        "name": "",
-        "level": 1,
-        "className": "",
-        "subclass": "",
+        "name": "Second Wind",
         "sourcePlanet": "Character Sheet",
-        "actionType": "passive",
-        "recharge": "at-will",
-        "usesMax": 0,
-        "usesCurrent": 0,
-        "description": "",
-        "tags": [],
-        "damageType": "",
-        "healing": false,
-        "movement": false,
-        "favorite": false,
-        "pinned": false,
-        "combatCategory": "",
-        "trigger": "",
-        "rechargeType": "",
-        "rollFormula": "",
         "sourceClass": "Fighter",
         "sourceType": "feature"
       }
@@ -432,37 +393,18 @@
     "actions": [],
     "bonusActions": [],
     "reactions": [],
-    "passives": [
+    "passives": [],
+    "utilityFeatures": [],
+    "freeActions": [],
+    "legendaryActions": [],
+    "otherActions": [
       {
-        "id": "feat_mrz8qjdp_69q2uf8",
-        "name": "",
-        "level": 1,
-        "className": "",
-        "subclass": "",
+        "name": "Second Wind",
         "sourcePlanet": "Character Sheet",
-        "actionType": "passive",
-        "recharge": "at-will",
-        "usesMax": 0,
-        "usesCurrent": 0,
-        "description": "",
-        "tags": [],
-        "damageType": "",
-        "healing": false,
-        "movement": false,
-        "favorite": false,
-        "pinned": false,
-        "combatCategory": "",
-        "trigger": "",
-        "rechargeType": "",
-        "rollFormula": "",
         "sourceClass": "Fighter",
         "sourceType": "feature"
       }
     ],
-    "utilityFeatures": [],
-    "freeActions": [],
-    "legendaryActions": [],
-    "otherActions": [],
     "spells": [],
     "spellsByLevel": {
       "0": [],
@@ -566,7 +508,7 @@
       "actions": 0,
       "bonusActions": 0,
       "reactions": 0,
-      "passives": 1,
+      "passives": 0,
       "spells": 0,
       "cantrips": 0,
       "resources": 0,
@@ -580,9 +522,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 134,
+  "_divineCacheRev": 144,
   "_divine": {
-    "generatedAt": 1784915725147,
+    "generatedAt": 1784915727616,
     "totalLevel": 3,
     "hp": {
       "max": 32
@@ -609,27 +551,8 @@
     "subclasses": [],
     "features": [
       {
-        "id": "feat_mrz8qjdp_69q2uf8",
-        "name": "",
-        "level": 1,
-        "className": "",
-        "subclass": "",
+        "name": "Second Wind",
         "sourcePlanet": "Character Sheet",
-        "actionType": "passive",
-        "recharge": "at-will",
-        "usesMax": 0,
-        "usesCurrent": 0,
-        "description": "",
-        "tags": [],
-        "damageType": "",
-        "healing": false,
-        "movement": false,
-        "favorite": false,
-        "pinned": false,
-        "combatCategory": "",
-        "trigger": "",
-        "rechargeType": "",
-        "rollFormula": "",
         "sourceClass": "Fighter",
         "sourceType": "feature"
       }
@@ -637,37 +560,18 @@
     "actions": [],
     "bonusActions": [],
     "reactions": [],
-    "passives": [
+    "passives": [],
+    "utilityFeatures": [],
+    "freeActions": [],
+    "legendaryActions": [],
+    "otherActions": [
       {
-        "id": "feat_mrz8qjdp_69q2uf8",
-        "name": "",
-        "level": 1,
-        "className": "",
-        "subclass": "",
+        "name": "Second Wind",
         "sourcePlanet": "Character Sheet",
-        "actionType": "passive",
-        "recharge": "at-will",
-        "usesMax": 0,
-        "usesCurrent": 0,
-        "description": "",
-        "tags": [],
-        "damageType": "",
-        "healing": false,
-        "movement": false,
-        "favorite": false,
-        "pinned": false,
-        "combatCategory": "",
-        "trigger": "",
-        "rechargeType": "",
-        "rollFormula": "",
         "sourceClass": "Fighter",
         "sourceType": "feature"
       }
     ],
-    "utilityFeatures": [],
-    "freeActions": [],
-    "legendaryActions": [],
-    "otherActions": [],
     "spells": [],
     "spellsByLevel": {
       "0": [],
@@ -771,7 +675,7 @@
       "actions": 0,
       "bonusActions": 0,
       "reactions": 0,
-      "passives": 1,
+      "passives": 0,
       "spells": 0,
       "cantrips": 0,
       "resources": 0,
@@ -785,5 +689,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 134
+  "_rev": 144
 }
