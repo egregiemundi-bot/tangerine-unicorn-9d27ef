@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-24T12:58:38.493Z",
+  "updatedAt": "2026-07-24T12:58:56.881Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -417,19 +417,6 @@
             "Story",
             "Quest"
           ],
-          "img": "",
-          "notes": "",
-          "secret": false
-        },
-        {
-          "id": "evmryy4v961og",
-          "session": "7",
-          "title": "New Event",
-          "date": "Year 1",
-          "type": "story",
-          "location": "",
-          "description": "",
-          "tags": [],
           "img": "",
           "notes": "",
           "secret": false
