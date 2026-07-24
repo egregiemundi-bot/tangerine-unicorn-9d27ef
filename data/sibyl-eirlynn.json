@@ -202,6 +202,15 @@
             "at": 1784515784913,
             "player": "sibyl-eirlynn",
             "character": "Sibyl Eirlynn"
+          },
+          {
+            "kind": "note",
+            "text": "⛺ Short Rest — no changes",
+            "label": "Note",
+            "id": "roll-mrz7ybb9-0cey0d",
+            "at": 1784914407621,
+            "player": "sibyl-eirlynn",
+            "character": "Sibyl Eirlynn"
           }
         ],
         "hpHistory": [
@@ -1237,5 +1246,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 488
+  "_rev": 489
 }
