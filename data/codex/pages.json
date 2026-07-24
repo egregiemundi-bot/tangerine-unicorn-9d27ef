@@ -1,11 +1,5 @@
 {
-  "custom": [
-    {
-      "id": "c-hidden-secrets",
-      "title": "hidden secrets",
-      "parent": "sealed-gods"
-    }
-  ],
+  "custom": [],
   "overrides": [
     "lesser-gods",
     "party",
@@ -19,5 +13,5 @@
     "atlas",
     "story"
   ],
-  "updatedAt": "2026-07-19T21:04:02.483Z"
+  "updatedAt": "2026-07-24T07:35:20.237Z"
 }
