@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-24T13:31:13.183Z",
+  "updatedAt": "2026-07-24T13:31:17.184Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -329,7 +329,7 @@
           "id": "evmryx86a2197",
           "session": "1",
           "title": "The Adventure Begins",
-          "date": "Year 351, Day 1",
+          "date": "Year 351, ",
           "type": "story",
           "location": "Greenfall",
           "description": "The party meets in a small village called Greenfall. A mysterious letter brings them together with a shared purpose.",
