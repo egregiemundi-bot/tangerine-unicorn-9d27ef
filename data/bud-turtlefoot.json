@@ -60,8 +60,7 @@
         "spell:prestidigitation": true,
         "spell:thunderwave": true,
         "feat:dagger": true,
-        "lspell:cure wounds": true,
-        "spell:cure wounds": true
+        "lspell:cure wounds": true
       },
       "pinned": [],
       "searchFilters": [],
