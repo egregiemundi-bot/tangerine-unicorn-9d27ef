@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-24T12:58:56.881Z",
+  "updatedAt": "2026-07-24T13:31:11.818Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -329,7 +329,7 @@
           "id": "evmryx86a2197",
           "session": "1",
           "title": "The Adventure Begins",
-          "date": "Year 1, Day 1",
+          "date": "Year 351, Day 1",
           "type": "story",
           "location": "Greenfall",
           "description": "The party meets in a small village called Greenfall. A mysterious letter brings them together with a shared purpose.",
@@ -339,7 +339,8 @@
           ],
           "img": "",
           "notes": "The letter is from an unknown sender. Could be a clue to a larger plot.",
-          "secret": false
+          "secret": false,
+          "_collapsed": true
         },
         {
           "id": "evmryx86a2iy",
@@ -355,7 +356,8 @@
           ],
           "img": "",
           "notes": "",
-          "secret": false
+          "secret": false,
+          "_collapsed": true
         },
         {
           "id": "evmryx86a23km",
@@ -371,7 +373,8 @@
           ],
           "img": "",
           "notes": "The inscriptions hint at a sealed power beneath the ruins.",
-          "secret": true
+          "secret": true,
+          "_collapsed": true
         },
         {
           "id": "evmryx86a24pv",
@@ -387,7 +390,8 @@
           ],
           "img": "",
           "notes": "",
-          "secret": false
+          "secret": false,
+          "_collapsed": true
         },
         {
           "id": "evmryx86a23ex",
@@ -403,7 +407,8 @@
           ],
           "img": "",
           "notes": "",
-          "secret": false
+          "secret": false,
+          "_collapsed": true
         },
         {
           "id": "evmryx86a27kw",
@@ -419,7 +424,8 @@
           ],
           "img": "",
           "notes": "",
-          "secret": false
+          "secret": false,
+          "_collapsed": true
         }
       ]
     }
