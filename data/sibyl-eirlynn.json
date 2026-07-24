@@ -68,7 +68,7 @@
         "mod": 0
       },
       "combat": {
-        "currentHp": 9,
+        "currentHp": 18,
         "tempHp": 0,
         "notes": "",
         "conditions": [],
@@ -211,8 +211,7 @@
           23,
           23,
           22,
-          23,
-          18
+          23
         ]
       }
     },
