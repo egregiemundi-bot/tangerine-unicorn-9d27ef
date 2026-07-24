@@ -1280,9 +1280,6 @@
             "sourcePlanet": "",
             "compendiumId": "",
             "favorite": false
-          },
-          {
-            "name": "cure wounds"
           }
         ],
         "features": [
@@ -1324,13 +1321,13 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784873713501
+        "lastModified": 1784873750111
       }
     ],
     "prepMax": 0
   },
   "_divineCache": {
-    "generatedAt": 1784873714203,
+    "generatedAt": 1784873750812,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -1516,11 +1513,6 @@
         "sourcePlanet": "Bud's Character Sheet",
         "compendiumId": "",
         "favorite": false
-      },
-      {
-        "name": "cure wounds",
-        "sourcePlanet": "Bud's Character Sheet",
-        "sourceClass": "Bard"
       }
     ],
     "spellsByLevel": {
@@ -1644,13 +1636,7 @@
       "7": [],
       "8": [],
       "9": [],
-      "unassigned": [
-        {
-          "name": "cure wounds",
-          "sourcePlanet": "Bud's Character Sheet",
-          "sourceClass": "Bard"
-        }
-      ]
+      "unassigned": []
     },
     "spellSlots": {
       "1": 3,
@@ -1719,7 +1705,7 @@
       "bonusActions": 0,
       "reactions": 0,
       "passives": 1,
-      "spells": 5,
+      "spells": 4,
       "cantrips": 1,
       "resources": 0,
       "skills": 3,
@@ -1732,9 +1718,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 342,
+  "_divineCacheRev": 343,
   "_divine": {
-    "generatedAt": 1784873714203,
+    "generatedAt": 1784873750812,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -1920,11 +1906,6 @@
         "sourcePlanet": "Bud's Character Sheet",
         "compendiumId": "",
         "favorite": false
-      },
-      {
-        "name": "cure wounds",
-        "sourcePlanet": "Bud's Character Sheet",
-        "sourceClass": "Bard"
       }
     ],
     "spellsByLevel": {
@@ -2048,13 +2029,7 @@
       "7": [],
       "8": [],
       "9": [],
-      "unassigned": [
-        {
-          "name": "cure wounds",
-          "sourcePlanet": "Bud's Character Sheet",
-          "sourceClass": "Bard"
-        }
-      ]
+      "unassigned": []
     },
     "spellSlots": {
       "1": 3,
@@ -2123,7 +2098,7 @@
       "bonusActions": 0,
       "reactions": 0,
       "passives": 1,
-      "spells": 5,
+      "spells": 4,
       "cantrips": 1,
       "resources": 0,
       "skills": 3,
@@ -2136,7 +2111,7 @@
       "epicBoons": 0
     }
   },
-  "_rev": 342,
+  "_rev": 343,
   "backstory": {
     "sections": []
   }
