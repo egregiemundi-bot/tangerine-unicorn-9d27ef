@@ -309,7 +309,7 @@
         "epicBoons": [],
         "asi": [],
         "resistances": [
-          ""
+          "Psychic"
         ],
         "immunities": [],
         "weaponProfs": [
@@ -328,12 +328,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784915482865
+        "lastModified": 1784915485734
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784915483567,
+    "generatedAt": 1784915486435,
     "totalLevel": 3,
     "hp": {
       "max": 32
@@ -447,7 +447,9 @@
       "str",
       "con"
     ],
-    "resistances": [],
+    "resistances": [
+      "Psychic"
+    ],
     "immunities": [],
     "languages": [
       "Dwarven",
@@ -476,15 +478,15 @@
       "expertise": 0,
       "savingThrows": 2,
       "languages": 2,
-      "resistances": 0,
+      "resistances": 1,
       "immunities": 0,
       "feats": 0,
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 123,
+  "_divineCacheRev": 130,
   "_divine": {
-    "generatedAt": 1784915483567,
+    "generatedAt": 1784915486435,
     "totalLevel": 3,
     "hp": {
       "max": 32
@@ -598,7 +600,9 @@
       "str",
       "con"
     ],
-    "resistances": [],
+    "resistances": [
+      "Psychic"
+    ],
     "immunities": [],
     "languages": [
       "Dwarven",
@@ -627,11 +631,11 @@
       "expertise": 0,
       "savingThrows": 2,
       "languages": 2,
-      "resistances": 0,
+      "resistances": 1,
       "immunities": 0,
       "feats": 0,
       "epicBoons": 0
     }
   },
-  "_rev": 123
+  "_rev": 130
 }
