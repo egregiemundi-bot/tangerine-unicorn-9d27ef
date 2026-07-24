@@ -50,7 +50,23 @@
         ""
       ],
       "inGameDate": "16th Gildember"
+    },
+    {
+      "num": 4,
+      "title": "",
+      "date": "",
+      "duration": "",
+      "location": "",
+      "summary": "",
+      "notes": "",
+      "xp": "",
+      "events": [
+        ""
+      ],
+      "loot": [
+        ""
+      ]
     }
   ],
-  "updatedAt": "2026-07-24T17:18:26.346Z"
+  "updatedAt": "2026-07-24T17:18:39.864Z"
 }
