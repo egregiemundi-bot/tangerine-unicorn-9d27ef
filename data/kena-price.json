@@ -330,7 +330,7 @@
             "actionType": "bonus",
             "description": "You have a limited well of physical and mental stamina that you can draw on. As a Bonus Action, you can use it to regain Hit Points equal to 1d10 plus your Fighter level.\n\nYou can use this feature twice. You regain one expended use when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest.\n\nWhen you reach certain Fighter levels, you gain more uses of this feature, as shown in the Second Wind column of the Fighter Features table.",
             "usesMax": 2,
-            "rechargeType": "short",
+            "rechargeType": "none",
             "rollFormula": "1"
           }
         ],
@@ -357,12 +357,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784915796948
+        "lastModified": 1784915962377
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784915797650,
+    "generatedAt": 1784915963078,
     "totalLevel": 3,
     "hp": {
       "max": 32
@@ -393,7 +393,7 @@
         "actionType": "bonus",
         "description": "You have a limited well of physical and mental stamina that you can draw on. As a Bonus Action, you can use it to regain Hit Points equal to 1d10 plus your Fighter level.\n\nYou can use this feature twice. You regain one expended use when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest.\n\nWhen you reach certain Fighter levels, you gain more uses of this feature, as shown in the Second Wind column of the Fighter Features table.",
         "usesMax": 2,
-        "rechargeType": "short",
+        "rechargeType": "none",
         "rollFormula": "1",
         "sourcePlanet": "Character Sheet",
         "sourceClass": "Fighter",
@@ -407,7 +407,7 @@
         "actionType": "bonus",
         "description": "You have a limited well of physical and mental stamina that you can draw on. As a Bonus Action, you can use it to regain Hit Points equal to 1d10 plus your Fighter level.\n\nYou can use this feature twice. You regain one expended use when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest.\n\nWhen you reach certain Fighter levels, you gain more uses of this feature, as shown in the Second Wind column of the Fighter Features table.",
         "usesMax": 2,
-        "rechargeType": "short",
+        "rechargeType": "none",
         "rollFormula": "1",
         "sourcePlanet": "Character Sheet",
         "sourceClass": "Fighter",
@@ -537,9 +537,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 160,
+  "_divineCacheRev": 162,
   "_divine": {
-    "generatedAt": 1784915797650,
+    "generatedAt": 1784915963078,
     "totalLevel": 3,
     "hp": {
       "max": 32
@@ -570,7 +570,7 @@
         "actionType": "bonus",
         "description": "You have a limited well of physical and mental stamina that you can draw on. As a Bonus Action, you can use it to regain Hit Points equal to 1d10 plus your Fighter level.\n\nYou can use this feature twice. You regain one expended use when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest.\n\nWhen you reach certain Fighter levels, you gain more uses of this feature, as shown in the Second Wind column of the Fighter Features table.",
         "usesMax": 2,
-        "rechargeType": "short",
+        "rechargeType": "none",
         "rollFormula": "1",
         "sourcePlanet": "Character Sheet",
         "sourceClass": "Fighter",
@@ -584,7 +584,7 @@
         "actionType": "bonus",
         "description": "You have a limited well of physical and mental stamina that you can draw on. As a Bonus Action, you can use it to regain Hit Points equal to 1d10 plus your Fighter level.\n\nYou can use this feature twice. You regain one expended use when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest.\n\nWhen you reach certain Fighter levels, you gain more uses of this feature, as shown in the Second Wind column of the Fighter Features table.",
         "usesMax": 2,
-        "rechargeType": "short",
+        "rechargeType": "none",
         "rollFormula": "1",
         "sourcePlanet": "Character Sheet",
         "sourceClass": "Fighter",
@@ -714,5 +714,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 160
+  "_rev": 162
 }
