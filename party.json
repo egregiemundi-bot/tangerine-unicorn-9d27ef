@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-24T13:32:57.149Z",
+  "updatedAt": "2026-07-24T13:33:01.499Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -332,7 +332,7 @@
           "date": "Year 351, 14th Gildember",
           "type": "story",
           "location": "Forest",
-          "description": "<br>",
+          "description": "@",
           "tags": [
             "Story",
             "NPC"
