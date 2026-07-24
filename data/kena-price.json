@@ -65,9 +65,7 @@
       "tab": "combat",
       "form": "divine",
       "activePlanetId": "",
-      "expanded": {
-        "feat:second wind": true
-      },
+      "expanded": {},
       "pinned": [],
       "searchFilters": [],
       "searchMode": "AND",
