@@ -74,7 +74,7 @@
         "conditions": [],
         "concentration": "",
         "spellSearch": "",
-        "hpAdjustAmount": 5,
+        "hpAdjustAmount": 9,
         "mobileTab": "combat",
         "sendRoll20": false,
         "dice3d": true,
