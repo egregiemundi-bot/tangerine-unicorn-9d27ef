@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-24T13:31:55.811Z",
+  "updatedAt": "2026-07-24T13:32:03.906Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -332,7 +332,7 @@
           "date": "Year 351, 14th Gildember",
           "type": "story",
           "location": "Forest",
-          "description": "The party meets in a small village called Greenfall. A mysterious letter brings them together with a shared purpose.",
+          "description": "<br>",
           "tags": [
             "Story",
             "NPC"
