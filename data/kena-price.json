@@ -316,7 +316,8 @@
         "armorProfs": [],
         "toolProfs": [],
         "languages": [
-          "Dwarven"
+          "Dwarven",
+          ""
         ],
         "inventory": [],
         "gold": 0,
@@ -325,12 +326,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784915456574
+        "lastModified": 1784915457614
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784915457276,
+    "generatedAt": 1784915458316,
     "totalLevel": 3,
     "hp": {
       "max": 32
@@ -478,9 +479,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 119,
+  "_divineCacheRev": 121,
   "_divine": {
-    "generatedAt": 1784915457276,
+    "generatedAt": 1784915458316,
     "totalLevel": 3,
     "hp": {
       "max": 32
@@ -628,5 +629,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 119
+  "_rev": 121
 }
