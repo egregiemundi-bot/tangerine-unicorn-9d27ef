@@ -71,7 +71,7 @@
         "mod": 0
       },
       "combat": {
-        "currentHp": 15,
+        "currentHp": 5,
         "tempHp": 0,
         "notes": "",
         "conditions": [],
@@ -976,6 +976,9 @@
             "character": "Bud Turtlefoot",
             "__fxDone": true
           }
+        ],
+        "hpHistory": [
+          15
         ]
       },
       "lastImportBackup": {
