@@ -38,8 +38,8 @@
       "num": 3,
       "title": "IT's a trap!",
       "date": "2026-07-02",
-      "duration": "",
-      "location": "",
+      "duration": "4hrs",
+      "location": "Vogler",
       "summary": "",
       "notes": "",
       "xp": "",
@@ -52,5 +52,5 @@
       "inGameDate": "16th Gildember"
     }
   ],
-  "updatedAt": "2026-07-24T17:14:53.808Z"
+  "updatedAt": "2026-07-24T17:14:57.455Z"
 }
