@@ -19,7 +19,7 @@
     },
     {
       "num": 2,
-      "title": "",
+      "title": "Death and Games",
       "date": "",
       "duration": "",
       "location": "",
@@ -31,8 +31,9 @@
       ],
       "loot": [
         ""
-      ]
+      ],
+      "inGameDate": ""
     }
   ],
-  "updatedAt": "2026-07-24T16:16:41.335Z"
+  "updatedAt": "2026-07-24T16:17:04.823Z"
 }
