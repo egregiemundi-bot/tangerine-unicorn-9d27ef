@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-24T13:35:52.240Z",
+  "updatedAt": "2026-07-24T13:42:18.227Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -1324,6 +1324,62 @@
     "currentId": "homebrew-rules",
     "recent": [
       "homebrew-rules"
+    ]
+  },
+  "creatures": {
+    "creatures": [
+      {
+        "name": "Shadowfang",
+        "type": "Dire Wolf",
+        "category": "companions",
+        "tags": [
+          "Companion",
+          "Pet"
+        ],
+        "hp": 67,
+        "hpMax": 67,
+        "ac": 15,
+        "speed": "50 ft.",
+        "status": "active",
+        "location": "The Eild",
+        "owner": "Vrakqin",
+        "star": true,
+        "size": "Large",
+        "alignment": "Neutral",
+        "challenge": "1",
+        "senses": "Passive Perception 13",
+        "languages": "—",
+        "desc": "A dire wolf bonded to Vrakqin through a pack-oath.",
+        "id": "cmryznum63ln",
+        "created": "Jul 24, 2026",
+        "updated": "Jul 24, 2026"
+      },
+      {
+        "name": "Dawnstrider",
+        "type": "Warhorse",
+        "category": "mounts",
+        "tags": [
+          "Mount",
+          "Companion"
+        ],
+        "hp": 66,
+        "hpMax": 66,
+        "ac": 12,
+        "speed": "60 ft.",
+        "status": "stabled",
+        "location": "The Hidden Court Stables",
+        "owner": "Altariaus",
+        "star": true,
+        "size": "Large",
+        "alignment": "Neutral",
+        "challenge": "1/2",
+        "senses": "Passive Perception 11",
+        "languages": "—",
+        "desc": "A pale warhorse stabled at the Hidden Court, saddled for Altariaus.",
+        "id": "cmryznum66yr",
+        "created": "Jul 24, 2026",
+        "updated": "Jul 24, 2026"
+      }
     ]
   }
 }
