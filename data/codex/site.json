@@ -95,7 +95,7 @@
       "name": "Sibyl Eirlynn",
       "player": "Claire",
       "sigil": "",
-      "accent": "#000000",
+      "accent": "#21974e",
       "portrait": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/1784514802043-sibyl.jpg?v=1784514804102"
     },
     {
@@ -103,7 +103,7 @@
       "name": "Zacharia Horn-Axe",
       "player": "Dragon",
       "sigil": "",
-      "accent": "#000000",
+      "accent": "#a81f1f",
       "portrait": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/1784919734870-zacharia.jpg?v=1784919735681"
     },
     {
@@ -111,7 +111,7 @@
       "name": "Bud Turtlefoot",
       "player": "Jess",
       "sigil": "",
-      "accent": "#7a2929",
+      "accent": "#dcf906",
       "portrait": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/1784066822271-bud.jpg?v=1784066823535"
     },
     {
@@ -119,7 +119,7 @@
       "name": "Ayeluna \"Lou\"",
       "player": "Mary",
       "sigil": "",
-      "accent": "#000000",
+      "accent": "#ed02ce",
       "portrait": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/1784919788588-lou.jpg?v=1784919789489"
     },
     {
@@ -127,12 +127,12 @@
       "name": "Kena Price",
       "player": "Brittney",
       "sigil": "",
-      "accent": "#000000",
+      "accent": "#0e0adb",
       "portrait": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/1784919682456-kena.jpg?v=1784919683433"
     }
   ],
   "productVersion": "1.0 Foundation",
-  "updatedAt": "2026-07-24T19:03:11.103Z",
+  "updatedAt": "2026-07-24T19:04:33.104Z",
   "backgroundImage": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/1784257856245-wallpapersden.com-k-cool-2020-art-3840x2160.jpg?v=1784257860462",
   "heroImage": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/1784257876492-wallpapersden.com-k-cool-2020-art-3840x2160.jpg?v=1784257879434"
 }
