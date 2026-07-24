@@ -332,6 +332,29 @@
             "usesMax": 2,
             "rechargeType": "none",
             "rollFormula": ""
+          },
+          {
+            "id": "feat_mrz8y9le_7qjv5qz",
+            "name": "",
+            "level": 1,
+            "className": "",
+            "subclass": "",
+            "sourcePlanet": "",
+            "actionType": "passive",
+            "recharge": "at-will",
+            "usesMax": 0,
+            "usesCurrent": 0,
+            "description": "",
+            "tags": [],
+            "damageType": "",
+            "healing": false,
+            "movement": false,
+            "favorite": false,
+            "pinned": false,
+            "combatCategory": "",
+            "trigger": "",
+            "rechargeType": "",
+            "rollFormula": ""
           }
         ],
         "feats": [],
@@ -357,12 +380,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784915968344
+        "lastModified": 1784916085012
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784915969046,
+    "generatedAt": 1784916085714,
     "totalLevel": 3,
     "hp": {
       "max": 32
@@ -398,6 +421,31 @@
         "sourcePlanet": "Character Sheet",
         "sourceClass": "Fighter",
         "sourceType": "feature"
+      },
+      {
+        "id": "feat_mrz8y9le_7qjv5qz",
+        "name": "",
+        "level": 1,
+        "className": "",
+        "subclass": "",
+        "sourcePlanet": "Character Sheet",
+        "actionType": "passive",
+        "recharge": "at-will",
+        "usesMax": 0,
+        "usesCurrent": 0,
+        "description": "",
+        "tags": [],
+        "damageType": "",
+        "healing": false,
+        "movement": false,
+        "favorite": false,
+        "pinned": false,
+        "combatCategory": "",
+        "trigger": "",
+        "rechargeType": "",
+        "rollFormula": "",
+        "sourceClass": "Fighter",
+        "sourceType": "feature"
       }
     ],
     "actions": [],
@@ -415,7 +463,33 @@
       }
     ],
     "reactions": [],
-    "passives": [],
+    "passives": [
+      {
+        "id": "feat_mrz8y9le_7qjv5qz",
+        "name": "",
+        "level": 1,
+        "className": "",
+        "subclass": "",
+        "sourcePlanet": "Character Sheet",
+        "actionType": "passive",
+        "recharge": "at-will",
+        "usesMax": 0,
+        "usesCurrent": 0,
+        "description": "",
+        "tags": [],
+        "damageType": "",
+        "healing": false,
+        "movement": false,
+        "favorite": false,
+        "pinned": false,
+        "combatCategory": "",
+        "trigger": "",
+        "rechargeType": "",
+        "rollFormula": "",
+        "sourceClass": "Fighter",
+        "sourceType": "feature"
+      }
+    ],
     "utilityFeatures": [],
     "freeActions": [],
     "legendaryActions": [],
@@ -519,11 +593,11 @@
       "planets": 1,
       "classes": 1,
       "subclasses": 0,
-      "features": 1,
+      "features": 2,
       "actions": 0,
       "bonusActions": 1,
       "reactions": 0,
-      "passives": 0,
+      "passives": 1,
       "spells": 0,
       "cantrips": 0,
       "resources": 0,
@@ -537,9 +611,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 163,
+  "_divineCacheRev": 164,
   "_divine": {
-    "generatedAt": 1784915969046,
+    "generatedAt": 1784916085714,
     "totalLevel": 3,
     "hp": {
       "max": 32
@@ -575,6 +649,31 @@
         "sourcePlanet": "Character Sheet",
         "sourceClass": "Fighter",
         "sourceType": "feature"
+      },
+      {
+        "id": "feat_mrz8y9le_7qjv5qz",
+        "name": "",
+        "level": 1,
+        "className": "",
+        "subclass": "",
+        "sourcePlanet": "Character Sheet",
+        "actionType": "passive",
+        "recharge": "at-will",
+        "usesMax": 0,
+        "usesCurrent": 0,
+        "description": "",
+        "tags": [],
+        "damageType": "",
+        "healing": false,
+        "movement": false,
+        "favorite": false,
+        "pinned": false,
+        "combatCategory": "",
+        "trigger": "",
+        "rechargeType": "",
+        "rollFormula": "",
+        "sourceClass": "Fighter",
+        "sourceType": "feature"
       }
     ],
     "actions": [],
@@ -592,7 +691,33 @@
       }
     ],
     "reactions": [],
-    "passives": [],
+    "passives": [
+      {
+        "id": "feat_mrz8y9le_7qjv5qz",
+        "name": "",
+        "level": 1,
+        "className": "",
+        "subclass": "",
+        "sourcePlanet": "Character Sheet",
+        "actionType": "passive",
+        "recharge": "at-will",
+        "usesMax": 0,
+        "usesCurrent": 0,
+        "description": "",
+        "tags": [],
+        "damageType": "",
+        "healing": false,
+        "movement": false,
+        "favorite": false,
+        "pinned": false,
+        "combatCategory": "",
+        "trigger": "",
+        "rechargeType": "",
+        "rollFormula": "",
+        "sourceClass": "Fighter",
+        "sourceType": "feature"
+      }
+    ],
     "utilityFeatures": [],
     "freeActions": [],
     "legendaryActions": [],
@@ -696,11 +821,11 @@
       "planets": 1,
       "classes": 1,
       "subclasses": 0,
-      "features": 1,
+      "features": 2,
       "actions": 0,
       "bonusActions": 1,
       "reactions": 0,
-      "passives": 0,
+      "passives": 1,
       "spells": 0,
       "cantrips": 0,
       "resources": 0,
@@ -714,5 +839,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 163
+  "_rev": 164
 }
