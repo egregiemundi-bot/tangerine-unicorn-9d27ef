@@ -344,7 +344,7 @@
             "recharge": "at-will",
             "usesMax": 0,
             "usesCurrent": 0,
-            "description": "",
+            "description": "You can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action, except the Magic action.\n\nOnce you use this feature, you can't do so again until you finish a Short or Long Rest. Starting at level 17, you can use it twice before a rest but only once on a turn.",
             "tags": [],
             "damageType": "",
             "healing": false,
@@ -380,12 +380,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784916088398
+        "lastModified": 1784916091205
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784916089100,
+    "generatedAt": 1784916091906,
     "totalLevel": 3,
     "hp": {
       "max": 32
@@ -433,7 +433,7 @@
         "recharge": "at-will",
         "usesMax": 0,
         "usesCurrent": 0,
-        "description": "",
+        "description": "You can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action, except the Magic action.\n\nOnce you use this feature, you can't do so again until you finish a Short or Long Rest. Starting at level 17, you can use it twice before a rest but only once on a turn.",
         "tags": [],
         "damageType": "",
         "healing": false,
@@ -475,7 +475,7 @@
         "recharge": "at-will",
         "usesMax": 0,
         "usesCurrent": 0,
-        "description": "",
+        "description": "You can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action, except the Magic action.\n\nOnce you use this feature, you can't do so again until you finish a Short or Long Rest. Starting at level 17, you can use it twice before a rest but only once on a turn.",
         "tags": [],
         "damageType": "",
         "healing": false,
@@ -611,9 +611,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 176,
+  "_divineCacheRev": 177,
   "_divine": {
-    "generatedAt": 1784916089100,
+    "generatedAt": 1784916091906,
     "totalLevel": 3,
     "hp": {
       "max": 32
@@ -661,7 +661,7 @@
         "recharge": "at-will",
         "usesMax": 0,
         "usesCurrent": 0,
-        "description": "",
+        "description": "You can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action, except the Magic action.\n\nOnce you use this feature, you can't do so again until you finish a Short or Long Rest. Starting at level 17, you can use it twice before a rest but only once on a turn.",
         "tags": [],
         "damageType": "",
         "healing": false,
@@ -703,7 +703,7 @@
         "recharge": "at-will",
         "usesMax": 0,
         "usesCurrent": 0,
-        "description": "",
+        "description": "You can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action, except the Magic action.\n\nOnce you use this feature, you can't do so again until you finish a Short or Long Rest. Starting at level 17, you can use it twice before a rest but only once on a turn.",
         "tags": [],
         "damageType": "",
         "healing": false,
@@ -839,5 +839,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 176
+  "_rev": 177
 }
