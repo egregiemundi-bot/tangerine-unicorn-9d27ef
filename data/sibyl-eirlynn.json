@@ -57,7 +57,8 @@
       "form": "divine",
       "activePlanetId": "",
       "expanded": {
-        "lfeat:uncanny metabolism": true
+        "lfeat:uncanny metabolism": true,
+        "feat:deflect attack": true
       },
       "pinned": [],
       "searchFilters": [],
@@ -484,7 +485,7 @@
     "attunementMax": 3
   },
   "_divineCache": {
-    "generatedAt": 1784873465245,
+    "generatedAt": 1784914421341,
     "totalLevel": 3,
     "hp": {
       "max": 23
@@ -864,7 +865,7 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 488,
+  "_divineCacheRev": 489,
   "_divine": {
     "generatedAt": 1784873465245,
     "totalLevel": 3,
