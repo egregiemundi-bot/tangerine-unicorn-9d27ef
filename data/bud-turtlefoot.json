@@ -71,7 +71,7 @@
         "mod": 0
       },
       "combat": {
-        "currentHp": 5,
+        "currentHp": 15,
         "tempHp": 0,
         "notes": "",
         "conditions": [],
@@ -978,7 +978,8 @@
           }
         ],
         "hpHistory": [
-          15
+          15,
+          5
         ]
       },
       "lastImportBackup": {
