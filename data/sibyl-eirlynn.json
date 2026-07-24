@@ -204,7 +204,9 @@
             "character": "Sibyl Eirlynn"
           }
         ],
-        "hpHistory": []
+        "hpHistory": [
+          23
+        ]
       }
     },
     "artifacts": [
