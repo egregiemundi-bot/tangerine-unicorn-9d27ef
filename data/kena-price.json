@@ -222,7 +222,7 @@
         "planetName": "Character Sheet",
         "planetImage": "",
         "status": "active",
-        "level": 2,
+        "level": 3,
         "xp": 0,
         "className": "Fighter",
         "subclass": "",
@@ -233,7 +233,7 @@
           {
             "className": "Fighter",
             "subclass": "",
-            "level": 2
+            "level": 3
           }
         ],
         "spellcasting": [],
@@ -325,20 +325,20 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784080158732
+        "lastModified": 1784914595769
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784080158734,
-    "totalLevel": 2,
+    "generatedAt": 1784914596471,
+    "totalLevel": 3,
     "hp": {
       "max": 20
     },
     "proficiencyBonus": 2,
     "peakAbilityScores": {
       "str": 19,
-      "dex": 10,
+      "dex": 8,
       "con": 15,
       "int": 17,
       "wis": 14,
@@ -347,7 +347,7 @@
     "classes": [
       {
         "className": "Fighter",
-        "levels": 2,
+        "levels": 3,
         "subclasses": [],
         "planets": [
           "Character Sheet"
@@ -360,6 +360,7 @@
     "bonusActions": [],
     "reactions": [],
     "passives": [],
+    "utilityFeatures": [],
     "freeActions": [],
     "legendaryActions": [],
     "otherActions": [],
@@ -396,6 +397,7 @@
         "name": "Athletics",
         "proficient": true,
         "expertise": false,
+        "half": false,
         "sources": [
           "Character Sheet"
         ]
@@ -404,6 +406,7 @@
         "name": "History",
         "proficient": true,
         "expertise": false,
+        "half": false,
         "sources": [
           "Character Sheet"
         ]
@@ -412,6 +415,7 @@
         "name": "Investigation",
         "proficient": true,
         "expertise": false,
+        "half": false,
         "sources": [
           "Character Sheet"
         ]
@@ -420,6 +424,7 @@
         "name": "Perception",
         "proficient": true,
         "expertise": false,
+        "half": false,
         "sources": [
           "Character Sheet"
         ]
@@ -428,6 +433,7 @@
         "name": "Persuasion",
         "proficient": true,
         "expertise": false,
+        "half": false,
         "sources": [
           "Character Sheet"
         ]
@@ -472,17 +478,17 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 85,
+  "_divineCacheRev": 87,
   "_divine": {
-    "generatedAt": 1784080158734,
-    "totalLevel": 2,
+    "generatedAt": 1784914596471,
+    "totalLevel": 3,
     "hp": {
       "max": 20
     },
     "proficiencyBonus": 2,
     "peakAbilityScores": {
       "str": 19,
-      "dex": 10,
+      "dex": 8,
       "con": 15,
       "int": 17,
       "wis": 14,
@@ -491,7 +497,7 @@
     "classes": [
       {
         "className": "Fighter",
-        "levels": 2,
+        "levels": 3,
         "subclasses": [],
         "planets": [
           "Character Sheet"
@@ -504,6 +510,7 @@
     "bonusActions": [],
     "reactions": [],
     "passives": [],
+    "utilityFeatures": [],
     "freeActions": [],
     "legendaryActions": [],
     "otherActions": [],
@@ -540,6 +547,7 @@
         "name": "Athletics",
         "proficient": true,
         "expertise": false,
+        "half": false,
         "sources": [
           "Character Sheet"
         ]
@@ -548,6 +556,7 @@
         "name": "History",
         "proficient": true,
         "expertise": false,
+        "half": false,
         "sources": [
           "Character Sheet"
         ]
@@ -556,6 +565,7 @@
         "name": "Investigation",
         "proficient": true,
         "expertise": false,
+        "half": false,
         "sources": [
           "Character Sheet"
         ]
@@ -564,6 +574,7 @@
         "name": "Perception",
         "proficient": true,
         "expertise": false,
+        "half": false,
         "sources": [
           "Character Sheet"
         ]
@@ -572,6 +583,7 @@
         "name": "Persuasion",
         "proficient": true,
         "expertise": false,
+        "half": false,
         "sources": [
           "Character Sheet"
         ]
@@ -616,5 +628,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 85
+  "_rev": 87
 }
