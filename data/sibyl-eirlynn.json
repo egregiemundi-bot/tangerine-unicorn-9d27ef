@@ -57,8 +57,7 @@
       "form": "divine",
       "activePlanetId": "",
       "expanded": {
-        "lfeat:uncanny metabolism": true,
-        "feat:deflect attack": true
+        "lfeat:uncanny metabolism": true
       },
       "pinned": [],
       "searchFilters": [],
@@ -485,7 +484,7 @@
     "attunementMax": 3
   },
   "_divineCache": {
-    "generatedAt": 1784914421341,
+    "generatedAt": 1784914456376,
     "totalLevel": 3,
     "hp": {
       "max": 23
