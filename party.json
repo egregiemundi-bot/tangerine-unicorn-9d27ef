@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-24T13:32:03.906Z",
+  "updatedAt": "2026-07-24T13:32:09.427Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -338,7 +338,7 @@
             "NPC"
           ],
           "img": "",
-          "notes": "The letter is from an unknown sender. Could be a clue to a larger plot.",
+          "notes": "",
           "secret": false,
           "_collapsed": true
         },
