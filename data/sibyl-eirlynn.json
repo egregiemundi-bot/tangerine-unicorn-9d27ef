@@ -68,13 +68,13 @@
         "mod": 0
       },
       "combat": {
-        "currentHp": 22,
+        "currentHp": 23,
         "tempHp": 0,
         "notes": "",
         "conditions": [],
         "concentration": "",
         "spellSearch": "",
-        "hpAdjustAmount": 19,
+        "hpAdjustAmount": 1,
         "mobileTab": "combat",
         "sendRoll20": false,
         "dice3d": true,
@@ -209,7 +209,8 @@
           23,
           23,
           23,
-          23
+          23,
+          22
         ]
       }
     },
