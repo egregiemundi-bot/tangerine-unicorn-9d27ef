@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-24T13:35:10.008Z",
+  "updatedAt": "2026-07-24T13:35:13.085Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -332,7 +332,7 @@
           "date": "Year 351, 14th Gildember",
           "type": "story",
           "location": "Forest",
-          "description": "[[@character:ayeluna-lou|Ayeluna \"Lou\"]] becomes an initiate of the Mages of High Sorcery. [[@character:bud-turtlefoot|Bud Turtlefoot]] and [[@character:zacharia-horn-axe|Zacharia Horn-Axe]] find a temple with some statues of the gods reformed and get divine powers. [[@character:kena-price|Kena Price]] and [[@character:sibyl-eirlynn|Sibyl Eirlynn]], while escorting @lord",
+          "description": "[[@character:ayeluna-lou|Ayeluna \"Lou\"]] becomes an initiate of the Mages of High Sorcery. [[@character:bud-turtlefoot|Bud Turtlefoot]] and [[@character:zacharia-horn-axe|Zacharia Horn-Axe]] find a temple with some statues of the gods reformed and get divine powers. [[@character:kena-price|Kena Price]] and [[@character:sibyl-eirlynn|Sibyl Eirlynn]], while escorting [[@npc:new-npc|Lord Bakaris]]home",
           "tags": [
             "Story",
             "NPC"
