@@ -53,7 +53,7 @@
     "activePlanetId": "planet_mrjl2ddb_dgsiunb",
     "favoriteSpells": [],
     "ui": {
-      "tab": "backstory",
+      "tab": "inventory",
       "form": "divine",
       "activePlanetId": "",
       "expanded": {},
@@ -399,6 +399,14 @@
   "_rev": 39,
   "dmNotes": "Wants to find his father and rescue him.",
   "backstory": {
-    "sections": []
+    "sections": [
+      {
+        "id": "bs_mrzbcw4z_1zcu5ni",
+        "title": "Early Life",
+        "text": "",
+        "hidden": false,
+        "builtin": true
+      }
+    ]
   }
 }
