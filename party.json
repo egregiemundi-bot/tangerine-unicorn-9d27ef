@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-24T02:41:56.293Z",
+  "updatedAt": "2026-07-24T02:42:05.017Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -681,7 +681,7 @@
     "sections": [
       {
         "id": "rule-mrpy8274-d0yzs",
-        "title": "New Section",
+        "title": "Rules",
         "content": "We'll be using the Matt Mercer rules for reviving characters.\n\nWe will not be whisper rolling death saves.\n\nAnyone who wants to can provide a memory from their life when they have to roll a death save.\n\nIf you take an action to drink a potion, you regain the max amount of health.\n\nAnyone who would like me to roll a check for them (ie. to perform a subtle roll) can do so.\n\nRolling a Nat 20 on initiative will not provide any benefit.\n\nFlanking an enemy will give you advantage on your attack rolls.\n\nRegular spell components and ammunition will not require you to purchase them, however gold costs for spells must be paid.\n\nSpellcasters and only use one spell slot per turn.\n\nAnytime you cast a spell that uses a spell slot (in or our of combat) for whatever reason, it will use that spell slot.\n\nThere will be a deck of player safety on the screen at all times. For anyone who is unfamiliar, I will go over how to use it in our next session.",
         "hidden": false,
         "order": 0,
