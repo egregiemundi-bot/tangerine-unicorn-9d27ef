@@ -119,12 +119,23 @@
             "resources": true,
             "slots": true,
             "spells": true,
-            "rolls": true
+            "rolls": true,
+            "saves": true
           }
         },
         "wallpaper": "",
         "slotsUsed": {},
-        "rollLog": []
+        "rollLog": [
+          {
+            "kind": "note",
+            "text": "✚ Added an action: Longsword",
+            "label": "Note",
+            "id": "roll-mrz8nliw-fwt5lf",
+            "at": 1784915587256,
+            "player": "kena-price",
+            "character": "Kena Price"
+          }
+        ]
       },
       "lastImportBackup": {
         "planetId": "planet_mrjdwghd_909qy6x",
