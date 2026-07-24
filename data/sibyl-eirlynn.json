@@ -68,13 +68,13 @@
         "mod": 0
       },
       "combat": {
-        "currentHp": 23,
+        "currentHp": 4,
         "tempHp": 0,
         "notes": "",
         "conditions": [],
         "concentration": "",
         "spellSearch": "",
-        "hpAdjustAmount": 23,
+        "hpAdjustAmount": 19,
         "mobileTab": "combat",
         "sendRoll20": false,
         "dice3d": true,
@@ -203,6 +203,9 @@
             "player": "sibyl-eirlynn",
             "character": "Sibyl Eirlynn"
           }
+        ],
+        "hpHistory": [
+          23
         ]
       }
     },
