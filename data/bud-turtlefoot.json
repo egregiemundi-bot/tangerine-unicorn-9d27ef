@@ -59,8 +59,7 @@
       "expanded": {
         "spell:prestidigitation": true,
         "spell:thunderwave": true,
-        "feat:dagger": true,
-        "lspell:cure wounds": true
+        "feat:dagger": true
       },
       "pinned": [],
       "searchFilters": [],
