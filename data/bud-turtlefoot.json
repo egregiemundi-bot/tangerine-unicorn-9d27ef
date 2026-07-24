@@ -1280,6 +1280,35 @@
             "sourcePlanet": "",
             "compendiumId": "",
             "favorite": false
+          },
+          {
+            "id": "spell_mryjrika_4comn86",
+            "name": "Cure Wounds",
+            "level": 1,
+            "school": "Evocation",
+            "castingTime": "1 action",
+            "range": "Touch",
+            "components": "V, S",
+            "componentsData": {
+              "verbal": true,
+              "somatic": true,
+              "material": false,
+              "materialText": ""
+            },
+            "duration": "Instantaneous",
+            "concentration": false,
+            "ritual": false,
+            "prepared": false,
+            "description": "A creature you touch regains a number of hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.",
+            "higherLevels": "When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st.",
+            "damage": "",
+            "upcast": null,
+            "damageType": "",
+            "tags": [],
+            "sourceClass": "Bard, Cleric, Druid, Paladin, Ranger",
+            "sourcePlanet": "",
+            "compendiumId": "",
+            "favorite": false
           }
         ],
         "features": [
@@ -1321,13 +1350,13 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784873750111
+        "lastModified": 1784873779645
       }
     ],
     "prepMax": 0
   },
   "_divineCache": {
-    "generatedAt": 1784873750812,
+    "generatedAt": 1784873780347,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -1513,6 +1542,35 @@
         "sourcePlanet": "Bud's Character Sheet",
         "compendiumId": "",
         "favorite": false
+      },
+      {
+        "id": "spell_mryjrika_4comn86",
+        "name": "Cure Wounds",
+        "level": 1,
+        "school": "Evocation",
+        "castingTime": "1 action",
+        "range": "Touch",
+        "components": "V, S",
+        "componentsData": {
+          "verbal": true,
+          "somatic": true,
+          "material": false,
+          "materialText": ""
+        },
+        "duration": "Instantaneous",
+        "concentration": false,
+        "ritual": false,
+        "prepared": false,
+        "description": "A creature you touch regains a number of hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.",
+        "higherLevels": "When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st.",
+        "damage": "",
+        "upcast": null,
+        "damageType": "",
+        "tags": [],
+        "sourceClass": "Bard, Cleric, Druid, Paladin, Ranger",
+        "sourcePlanet": "Bud's Character Sheet",
+        "compendiumId": "",
+        "favorite": false
       }
     ],
     "spellsByLevel": {
@@ -1626,6 +1684,35 @@
           "sourcePlanet": "Bud's Character Sheet",
           "compendiumId": "",
           "favorite": false
+        },
+        {
+          "id": "spell_mryjrika_4comn86",
+          "name": "Cure Wounds",
+          "level": 1,
+          "school": "Evocation",
+          "castingTime": "1 action",
+          "range": "Touch",
+          "components": "V, S",
+          "componentsData": {
+            "verbal": true,
+            "somatic": true,
+            "material": false,
+            "materialText": ""
+          },
+          "duration": "Instantaneous",
+          "concentration": false,
+          "ritual": false,
+          "prepared": false,
+          "description": "A creature you touch regains a number of hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.",
+          "higherLevels": "When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st.",
+          "damage": "",
+          "upcast": null,
+          "damageType": "",
+          "tags": [],
+          "sourceClass": "Bard, Cleric, Druid, Paladin, Ranger",
+          "sourcePlanet": "Bud's Character Sheet",
+          "compendiumId": "",
+          "favorite": false
         }
       ],
       "2": [],
@@ -1705,7 +1792,7 @@
       "bonusActions": 0,
       "reactions": 0,
       "passives": 1,
-      "spells": 4,
+      "spells": 5,
       "cantrips": 1,
       "resources": 0,
       "skills": 3,
@@ -1718,9 +1805,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 343,
+  "_divineCacheRev": 344,
   "_divine": {
-    "generatedAt": 1784873750812,
+    "generatedAt": 1784873780347,
     "totalLevel": 2,
     "hp": {
       "max": 15
@@ -1906,6 +1993,35 @@
         "sourcePlanet": "Bud's Character Sheet",
         "compendiumId": "",
         "favorite": false
+      },
+      {
+        "id": "spell_mryjrika_4comn86",
+        "name": "Cure Wounds",
+        "level": 1,
+        "school": "Evocation",
+        "castingTime": "1 action",
+        "range": "Touch",
+        "components": "V, S",
+        "componentsData": {
+          "verbal": true,
+          "somatic": true,
+          "material": false,
+          "materialText": ""
+        },
+        "duration": "Instantaneous",
+        "concentration": false,
+        "ritual": false,
+        "prepared": false,
+        "description": "A creature you touch regains a number of hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.",
+        "higherLevels": "When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st.",
+        "damage": "",
+        "upcast": null,
+        "damageType": "",
+        "tags": [],
+        "sourceClass": "Bard, Cleric, Druid, Paladin, Ranger",
+        "sourcePlanet": "Bud's Character Sheet",
+        "compendiumId": "",
+        "favorite": false
       }
     ],
     "spellsByLevel": {
@@ -2019,6 +2135,35 @@
           "sourcePlanet": "Bud's Character Sheet",
           "compendiumId": "",
           "favorite": false
+        },
+        {
+          "id": "spell_mryjrika_4comn86",
+          "name": "Cure Wounds",
+          "level": 1,
+          "school": "Evocation",
+          "castingTime": "1 action",
+          "range": "Touch",
+          "components": "V, S",
+          "componentsData": {
+            "verbal": true,
+            "somatic": true,
+            "material": false,
+            "materialText": ""
+          },
+          "duration": "Instantaneous",
+          "concentration": false,
+          "ritual": false,
+          "prepared": false,
+          "description": "A creature you touch regains a number of hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.",
+          "higherLevels": "When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st.",
+          "damage": "",
+          "upcast": null,
+          "damageType": "",
+          "tags": [],
+          "sourceClass": "Bard, Cleric, Druid, Paladin, Ranger",
+          "sourcePlanet": "Bud's Character Sheet",
+          "compendiumId": "",
+          "favorite": false
         }
       ],
       "2": [],
@@ -2098,7 +2243,7 @@
       "bonusActions": 0,
       "reactions": 0,
       "passives": 1,
-      "spells": 4,
+      "spells": 5,
       "cantrips": 1,
       "resources": 0,
       "skills": 3,
@@ -2111,7 +2256,7 @@
       "epicBoons": 0
     }
   },
-  "_rev": 343,
+  "_rev": 344,
   "backstory": {
     "sections": []
   }
