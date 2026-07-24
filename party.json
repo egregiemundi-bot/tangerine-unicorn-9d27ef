@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-24T13:35:42.291Z",
+  "updatedAt": "2026-07-24T13:35:43.844Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -332,7 +332,7 @@
           "date": "Year 351, 14th Gildember",
           "type": "story",
           "location": "Forest",
-          "description": "[[@character:ayeluna-lou|Ayeluna \"Lou\"]] becomes an initiate of the Mages of High Sorcery. [[@character:bud-turtlefoot|Bud Turtlefoot]] and [[@character:zacharia-horn-axe|Zacharia Horn-Axe]] find a temple with some statues of the gods reformed and get divine powers. [[@character:kena-price|Kena Price]] and [[@character:sibyl-eirlynn|Sibyl Eirlynn]], while escorting [[@npc:new-npc|Lord Bakaris]]home, run into some monsters on the road and kill them with the help of the rest of the party and [[@npc:new-npc-2|Ispin Greenshield]] ",
+          "description": "[[@character:ayeluna-lou|Ayeluna \"Lou\"]] becomes an initiate of the Mages of High Sorcery. [[@character:bud-turtlefoot|Bud Turtlefoot]] and [[@character:zacharia-horn-axe|Zacharia Horn-Axe]] find a temple with some statues of the gods reformed and get divine powers. [[@character:kena-price|Kena Price]] and [[@character:sibyl-eirlynn|Sibyl Eirlynn]], while escorting [[@npc:new-npc|Lord Bakaris]]home, run into some monsters on the road and kill them with the help of the rest of the party and [[@npc:new-npc-2|Ispin Greenshield]].",
           "tags": [
             "Story",
             "NPC"
