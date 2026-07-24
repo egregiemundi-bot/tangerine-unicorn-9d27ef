@@ -16,7 +16,23 @@
         ""
       ],
       "inGameDate": "13th and 14th Gildember, 351"
+    },
+    {
+      "num": 2,
+      "title": "",
+      "date": "",
+      "duration": "",
+      "location": "",
+      "summary": "",
+      "notes": "",
+      "xp": "",
+      "events": [
+        ""
+      ],
+      "loot": [
+        ""
+      ]
     }
   ],
-  "updatedAt": "2026-07-24T16:16:23.131Z"
+  "updatedAt": "2026-07-24T16:16:41.335Z"
 }
