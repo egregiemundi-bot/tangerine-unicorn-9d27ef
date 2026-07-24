@@ -53,7 +53,7 @@
     "activePlanetId": "planet_mrjl2ddb_dgsiunb",
     "favoriteSpells": [],
     "ui": {
-      "tab": "inventory",
+      "tab": "backstory",
       "form": "divine",
       "activePlanetId": "",
       "expanded": {},
@@ -397,5 +397,8 @@
     }
   },
   "_rev": 39,
-  "dmNotes": "Wants to find his father and rescue him."
+  "dmNotes": "Wants to find his father and rescue him.",
+  "backstory": {
+    "sections": []
+  }
 }
