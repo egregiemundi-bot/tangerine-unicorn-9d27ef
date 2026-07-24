@@ -36,7 +36,7 @@
     },
     {
       "num": 3,
-      "title": "",
+      "title": "IT's a trap!",
       "date": "",
       "duration": "",
       "location": "",
@@ -48,8 +48,9 @@
       ],
       "loot": [
         ""
-      ]
+      ],
+      "inGameDate": ""
     }
   ],
-  "updatedAt": "2026-07-24T17:14:18.434Z"
+  "updatedAt": "2026-07-24T17:14:30.820Z"
 }
