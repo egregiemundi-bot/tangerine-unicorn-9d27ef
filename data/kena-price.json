@@ -327,7 +327,8 @@
         "features": [
           {
             "name": "Second Wind",
-            "actionType": "bonus"
+            "actionType": "bonus",
+            "description": "You have a limited well of physical and mental stamina that you can draw on. As a Bonus Action, you can use it to regain Hit Points equal to 1d10 plus your Fighter level.\n\nYou can use this feature twice. You regain one expended use when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest.\n\nWhen you reach certain Fighter levels, you gain more uses of this feature, as shown in the Second Wind column of the Fighter Features table."
           }
         ],
         "feats": [],
@@ -353,12 +354,12 @@
         "journal": [],
         "relationships": [],
         "quests": [],
-        "lastModified": 1784915730226
+        "lastModified": 1784915747061
       }
     ]
   },
   "_divineCache": {
-    "generatedAt": 1784915731789,
+    "generatedAt": 1784915747762,
     "totalLevel": 3,
     "hp": {
       "max": 32
@@ -387,6 +388,7 @@
       {
         "name": "Second Wind",
         "actionType": "bonus",
+        "description": "You have a limited well of physical and mental stamina that you can draw on. As a Bonus Action, you can use it to regain Hit Points equal to 1d10 plus your Fighter level.\n\nYou can use this feature twice. You regain one expended use when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest.\n\nWhen you reach certain Fighter levels, you gain more uses of this feature, as shown in the Second Wind column of the Fighter Features table.",
         "sourcePlanet": "Character Sheet",
         "sourceClass": "Fighter",
         "sourceType": "feature"
@@ -397,6 +399,7 @@
       {
         "name": "Second Wind",
         "actionType": "bonus",
+        "description": "You have a limited well of physical and mental stamina that you can draw on. As a Bonus Action, you can use it to regain Hit Points equal to 1d10 plus your Fighter level.\n\nYou can use this feature twice. You regain one expended use when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest.\n\nWhen you reach certain Fighter levels, you gain more uses of this feature, as shown in the Second Wind column of the Fighter Features table.",
         "sourcePlanet": "Character Sheet",
         "sourceClass": "Fighter",
         "sourceType": "feature"
@@ -525,9 +528,9 @@
       "epicBoons": 0
     }
   },
-  "_divineCacheRev": 146,
+  "_divineCacheRev": 147,
   "_divine": {
-    "generatedAt": 1784915731789,
+    "generatedAt": 1784915747762,
     "totalLevel": 3,
     "hp": {
       "max": 32
@@ -556,6 +559,7 @@
       {
         "name": "Second Wind",
         "actionType": "bonus",
+        "description": "You have a limited well of physical and mental stamina that you can draw on. As a Bonus Action, you can use it to regain Hit Points equal to 1d10 plus your Fighter level.\n\nYou can use this feature twice. You regain one expended use when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest.\n\nWhen you reach certain Fighter levels, you gain more uses of this feature, as shown in the Second Wind column of the Fighter Features table.",
         "sourcePlanet": "Character Sheet",
         "sourceClass": "Fighter",
         "sourceType": "feature"
@@ -566,6 +570,7 @@
       {
         "name": "Second Wind",
         "actionType": "bonus",
+        "description": "You have a limited well of physical and mental stamina that you can draw on. As a Bonus Action, you can use it to regain Hit Points equal to 1d10 plus your Fighter level.\n\nYou can use this feature twice. You regain one expended use when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest.\n\nWhen you reach certain Fighter levels, you gain more uses of this feature, as shown in the Second Wind column of the Fighter Features table.",
         "sourcePlanet": "Character Sheet",
         "sourceClass": "Fighter",
         "sourceType": "feature"
@@ -694,5 +699,5 @@
       "epicBoons": 0
     }
   },
-  "_rev": 146
+  "_rev": 147
 }
