@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-24T13:32:17.701Z",
+  "updatedAt": "2026-07-24T13:32:24.752Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -339,7 +339,7 @@
           ],
           "img": "",
           "notes": "",
-          "secret": true,
+          "secret": false,
           "_collapsed": true
         },
         {
