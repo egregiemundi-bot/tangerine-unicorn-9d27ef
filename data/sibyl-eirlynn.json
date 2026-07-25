@@ -1270,7 +1270,7 @@
       "visibility": "private",
       "status": "active",
       "seededFrom": "codex-site",
-      "updated": "2026-07-25T07:11:27.868Z"
+      "updated": "2026-07-25T07:11:31.128Z"
     },
     "identity": {
       "name": "Sibyl Eirlynn",
@@ -1655,7 +1655,7 @@
         {
           "die": "d8",
           "total": 3,
-          "remaining": 2
+          "remaining": 3
         }
       ],
       "deathSaves": {
