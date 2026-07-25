@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-25T05:40:14.397Z",
+  "updatedAt": "2026-07-25T05:42:01.519Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -1550,6 +1550,28 @@
         "hidden": false,
         "updated": "Jul 25, 2026",
         "img": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/pantheon-pmrzxvef81a1.jpg?v=1784957969554"
+      },
+      {
+        "id": "pmrzxz90l3yh",
+        "created": "Jul 25, 2026",
+        "name": "Order of the Rose",
+        "subtitle": "Knight of Solamnia Order",
+        "kind": "factions",
+        "alignment": "",
+        "faction": "",
+        "domains": [
+          "Wisdom",
+          "Justice"
+        ],
+        "symbol": "✧",
+        "accent": "#c9a24a",
+        "history": "Guided by the god Paladine, the Knights of the Rose exemplify honor tempered by wisdom and justice. Before joining their ranks, most knights rise within the Knights of the Sword after serving with the Knights of the Crown. Those who prove both their loyalty and courage are fit to join this order, which upholds the knighthood’s highest ideals.",
+        "cleric": "",
+        "secrets": "",
+        "major": false,
+        "deceased": false,
+        "hidden": false,
+        "updated": "Jul 25, 2026"
       }
     ]
   },
