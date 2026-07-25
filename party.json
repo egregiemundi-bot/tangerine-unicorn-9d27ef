@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-25T05:37:16.523Z",
+  "updatedAt": "2026-07-25T05:38:13.110Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -1509,7 +1509,7 @@
         "id": "pmrzxsstaob",
         "created": "Jul 25, 2026",
         "name": "Knights of Solamnia",
-        "subtitle": "Order",
+        "subtitle": "Faction",
         "kind": "factions",
         "alignment": "",
         "faction": "",
