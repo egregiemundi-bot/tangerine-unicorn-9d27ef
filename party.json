@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-25T04:56:25.234Z",
+  "updatedAt": "2026-07-25T05:02:41.419Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -1479,20 +1479,22 @@
     "entries": [
       {
         "id": "seed82m8ip",
-        "name": "The Age of Chains",
+        "name": "Age of Starbirth",
         "subtitle": "Historical Age",
         "kind": "ages",
-        "alignment": "The Elder Days",
-        "domains": [
-          "War",
-          "Slavery",
-          "Revolt"
-        ],
+        "alignment": "",
+        "domains": [],
         "symbol": "⏳",
-        "accent": "#d07b3a",
+        "accent": "#c9a24a",
         "major": true,
         "created": "Jul 24, 2026",
-        "updated": "Jul 24, 2026"
+        "updated": "Jul 25, 2026",
+        "faction": "",
+        "history": "The story begins in the Age of Starbirth when the gods forged the world from primordial chaos. This period’s records are mere legends and scriptures, and few credit their details as fact.",
+        "cleric": "",
+        "secrets": "",
+        "deceased": false,
+        "hidden": false
       },
       {
         "id": "seedmyg3w8",
