@@ -1258,5 +1258,526 @@
     }
   },
   "_rev": 489,
-  "dmNotes": "Wants to help people with her ointments and potions."
+  "dmNotes": "Wants to help people with her ointments and potions.",
+  "forge": {
+    "schemaVersion": "1.0",
+    "id": "sibyl-eirlynn",
+    "meta": {
+      "rulesVersion": "2014",
+      "sources": [
+        "SRD 5.1"
+      ],
+      "visibility": "private",
+      "status": "active",
+      "seededFrom": "codex-site",
+      "updated": "2026-07-25T06:38:41.530Z"
+    },
+    "identity": {
+      "name": "Sibyl Eirlynn",
+      "player": "Claire",
+      "alignment": "N",
+      "portrait": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/1784514802043-sibyl.jpg?v=1784514804102"
+    },
+    "origin": {
+      "species": "human",
+      "background": "soldier",
+      "alignment": "N",
+      "size": "medium"
+    },
+    "abilities": {
+      "str": {
+        "base": 11,
+        "score": 11
+      },
+      "dex": {
+        "base": 16,
+        "score": 16
+      },
+      "con": {
+        "base": 13,
+        "score": 13
+      },
+      "int": {
+        "base": 12,
+        "score": 12
+      },
+      "wis": {
+        "base": 17,
+        "score": 17
+      },
+      "cha": {
+        "base": 12,
+        "score": 12
+      }
+    },
+    "classes": [
+      {
+        "id": "cls_3",
+        "class": "monk",
+        "subclass": "open-hand",
+        "level": 3,
+        "hitDie": "d8",
+        "spellcasting": null
+      }
+    ],
+    "selections": [],
+    "features": [
+      {
+        "id": "ft_1",
+        "name": "Versatile",
+        "source": "Species",
+        "grantedBy": "species",
+        "description": "+1 to every ability score.",
+        "activation": {
+          "type": "passive"
+        },
+        "modifiers": [],
+        "tags": [
+          "species"
+        ]
+      },
+      {
+        "id": "ft_2",
+        "name": "Military Rank",
+        "source": "Background",
+        "grantedBy": "background",
+        "description": "Background feature.",
+        "activation": {
+          "type": "passive"
+        },
+        "modifiers": [],
+        "tags": [
+          "background"
+        ]
+      },
+      {
+        "id": "ft_4",
+        "name": "Unarmored Defense",
+        "source": "Monk",
+        "grantedBy": "class",
+        "atLevel": 1,
+        "description": "While unarmored and unshielded, your AC = 10 + Dex + Wis.",
+        "activation": {
+          "type": "passive"
+        },
+        "modifiers": [
+          {
+            "target": "ac",
+            "op": "set-base",
+            "value": "10 + wis_mod",
+            "type": "natural",
+            "condition": "no armor",
+            "source": "Unarmored Defense"
+          }
+        ],
+        "tags": [
+          "class"
+        ]
+      },
+      {
+        "id": "ft_5",
+        "name": "Martial Arts",
+        "source": "Monk",
+        "grantedBy": "class",
+        "atLevel": 1,
+        "description": "Use Dex for unarmed strikes, roll a Martial Arts die for damage, and make a bonus-action unarmed strike.",
+        "activation": {
+          "type": "passive"
+        },
+        "modifiers": [],
+        "tags": [
+          "class"
+        ]
+      },
+      {
+        "id": "ft_6",
+        "name": "Ki",
+        "source": "Monk",
+        "grantedBy": "class",
+        "atLevel": 2,
+        "description": "Fuel special techniques (Flurry of Blows, Patient Defense, Step of the Wind) with Ki points.",
+        "activation": {
+          "type": "passive"
+        },
+        "modifiers": [],
+        "tags": [
+          "class"
+        ]
+      },
+      {
+        "id": "ft_7",
+        "name": "Unarmored Movement",
+        "source": "Monk",
+        "grantedBy": "class",
+        "atLevel": 2,
+        "description": "Your speed increases by 10 ft while unarmored.",
+        "activation": {
+          "type": "passive"
+        },
+        "modifiers": [
+          {
+            "target": "speed.walk",
+            "op": "add",
+            "value": 10,
+            "type": "untyped",
+            "condition": "no armor",
+            "source": "Unarmored Movement"
+          }
+        ],
+        "tags": [
+          "class"
+        ]
+      },
+      {
+        "id": "ft_8",
+        "name": "Deflect Missiles",
+        "source": "Monk",
+        "grantedBy": "class",
+        "atLevel": 3,
+        "description": "Reaction: reduce ranged weapon damage against you.",
+        "activation": {
+          "type": "passive"
+        },
+        "modifiers": [],
+        "tags": [
+          "class"
+        ]
+      },
+      {
+        "id": "ft_9",
+        "name": "Open Hand Technique",
+        "source": "Way of the Open Hand",
+        "grantedBy": "class",
+        "atLevel": 3,
+        "description": "Flurry of Blows can also knock prone, push, or deny reactions.",
+        "activation": {
+          "type": "passive"
+        },
+        "modifiers": [],
+        "tags": [
+          "class"
+        ]
+      }
+    ],
+    "resources": [
+      {
+        "id": "res_10",
+        "grantedBy": "class",
+        "name": "Ki Points",
+        "source": "Monk",
+        "kind": "points",
+        "max": 3,
+        "per": "short",
+        "current": 3
+      }
+    ],
+    "actions": [
+      {
+        "id": "act_13",
+        "name": "Shortsword",
+        "actionCost": "action",
+        "kind": "weapon",
+        "ref": "itm_11",
+        "attack": {
+          "ability": "dex",
+          "proficient": true,
+          "reach": 5,
+          "range": null
+        },
+        "damage": [
+          {
+            "dice": "1d6",
+            "mod": "dex",
+            "type": "piercing",
+            "versatile": null
+          }
+        ],
+        "properties": [
+          "finesse",
+          "light"
+        ]
+      },
+      {
+        "id": "act_14",
+        "name": "Dart",
+        "actionCost": "action",
+        "kind": "weapon",
+        "ref": "itm_12",
+        "attack": {
+          "ability": "dex",
+          "proficient": true,
+          "reach": null,
+          "range": [
+            20,
+            60
+          ]
+        },
+        "damage": [
+          {
+            "dice": "1d4",
+            "mod": "dex",
+            "type": "piercing",
+            "versatile": null
+          }
+        ],
+        "properties": [
+          "finesse",
+          "thrown"
+        ]
+      },
+      {
+        "id": "act_15",
+        "name": "Dash",
+        "actionCost": "action",
+        "kind": "generic"
+      },
+      {
+        "id": "act_16",
+        "name": "Disengage",
+        "actionCost": "action",
+        "kind": "generic"
+      },
+      {
+        "id": "act_17",
+        "name": "Dodge",
+        "actionCost": "action",
+        "kind": "generic"
+      },
+      {
+        "id": "act_18",
+        "name": "Hide",
+        "actionCost": "action",
+        "kind": "generic"
+      },
+      {
+        "id": "act_19",
+        "name": "Help",
+        "actionCost": "action",
+        "kind": "generic"
+      },
+      {
+        "id": "act_20",
+        "name": "Search",
+        "actionCost": "action",
+        "kind": "generic"
+      }
+    ],
+    "spells": [],
+    "inventory": [
+      {
+        "id": "itm_11",
+        "_key": "shortsword",
+        "name": "Shortsword",
+        "category": "weapon",
+        "quantity": 1,
+        "weight": 3,
+        "equipped": true,
+        "rarity": "common",
+        "weapon": {
+          "category": "martial-melee",
+          "properties": [
+            "finesse",
+            "light"
+          ],
+          "damage": {
+            "dice": "1d6",
+            "type": "piercing"
+          }
+        },
+        "modifiers": []
+      },
+      {
+        "id": "itm_12",
+        "_key": "dart",
+        "name": "Dart",
+        "category": "weapon",
+        "quantity": 1,
+        "weight": 3,
+        "equipped": true,
+        "rarity": "common",
+        "weapon": {
+          "category": "simple-ranged",
+          "properties": [
+            "finesse",
+            "thrown"
+          ],
+          "damage": {
+            "dice": "1d4",
+            "type": "piercing"
+          },
+          "range": [
+            20,
+            60
+          ]
+        },
+        "modifiers": []
+      }
+    ],
+    "currency": {
+      "gp": 0
+    },
+    "companions": [],
+    "transformations": [],
+    "vehicles": [],
+    "notes": [],
+    "relationships": [],
+    "quests": [],
+    "custom": [],
+    "overrides": [],
+    "proficiencies": {
+      "skills": {
+        "athletics": true,
+        "intimidation": true,
+        "acrobatics": true
+      },
+      "saves": {
+        "str": true,
+        "dex": true
+      },
+      "armor": {},
+      "weapons": {
+        "simple": true,
+        "shortswords": true
+      },
+      "tools": {},
+      "expertise": {}
+    },
+    "languages": [
+      "Common",
+      "one of your choice"
+    ],
+    "state": {
+      "hp": {
+        "current": 21,
+        "temp": 0
+      },
+      "hitDice": [
+        {
+          "die": "d8",
+          "total": 3,
+          "remaining": 3
+        }
+      ],
+      "deathSaves": {
+        "successes": 0,
+        "failures": 0,
+        "stable": false
+      },
+      "exhaustion": 0,
+      "inspiration": false,
+      "concentratingOn": null,
+      "activeConditions": [],
+      "activeEffects": [],
+      "attunedCount": 0
+    },
+    "speedBase": 30,
+    "derivedCache": {
+      "resistances": [],
+      "proficiencyBonus": 2,
+      "level": 3,
+      "abilityScores": {
+        "str": 12,
+        "dex": 17,
+        "con": 14,
+        "int": 13,
+        "wis": 18,
+        "cha": 13
+      },
+      "abilityMods": {
+        "str": 1,
+        "dex": 3,
+        "con": 2,
+        "int": 1,
+        "wis": 4,
+        "cha": 1
+      },
+      "saves": {
+        "str": 3,
+        "dex": 5,
+        "con": 2,
+        "int": 1,
+        "wis": 4,
+        "cha": 1
+      },
+      "skills": {
+        "acrobatics": 5,
+        "animal handling": 4,
+        "arcana": 1,
+        "athletics": 3,
+        "deception": 1,
+        "history": 1,
+        "insight": 4,
+        "intimidation": 3,
+        "investigation": 1,
+        "medicine": 4,
+        "nature": 1,
+        "perception": 4,
+        "performance": 1,
+        "persuasion": 1,
+        "religion": 1,
+        "sleight of hand": 3,
+        "stealth": 3,
+        "survival": 4
+      },
+      "armorClass": 17,
+      "initiative": 3,
+      "maxHp": 24,
+      "speed": 40,
+      "darkvision": 0,
+      "attacksPerAction": 1,
+      "spellSaveDc": null,
+      "spellAttackBonus": null,
+      "spellcastingAbility": null,
+      "spellcasting": [],
+      "passivePerception": 14,
+      "passiveInvestigation": 11,
+      "passiveInsight": 14
+    },
+    "_core": {
+      "identity": {
+        "name": "Sibyl Eirlynn",
+        "player": "Claire",
+        "alignment": "N",
+        "portrait": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/1784514802043-sibyl.jpg?v=1784514804102"
+      },
+      "origin": {
+        "species": "human",
+        "background": "soldier",
+        "alignment": "N"
+      },
+      "abilities": {
+        "str": {
+          "base": 11
+        },
+        "dex": {
+          "base": 16
+        },
+        "con": {
+          "base": 13
+        },
+        "int": {
+          "base": 12
+        },
+        "wis": {
+          "base": 17
+        },
+        "cha": {
+          "base": 12
+        }
+      },
+      "classes": [
+        {
+          "class": "monk",
+          "level": 3,
+          "subclass": "open-hand"
+        }
+      ],
+      "choices": {},
+      "meta": {
+        "seededFrom": "codex-site"
+      }
+    },
+    "_slot": "sibyl-eirlynn",
+    "_canEdit": true
+  }
 }
