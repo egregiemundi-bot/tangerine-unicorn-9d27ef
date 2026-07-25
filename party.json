@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-25T05:28:49.766Z",
+  "updatedAt": "2026-07-25T05:30:11.102Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -1437,20 +1437,25 @@
       },
       {
         "id": "pmryzyajg263",
-        "name": "The Judgment Power",
-        "subtitle": "Prime Deity",
+        "name": "Chislev",
+        "subtitle": "Deity",
         "kind": "gods",
-        "alignment": "Lawful Neutral",
+        "alignment": "Neutral",
         "domains": [
-          "Law",
-          "Order",
-          "Truth"
+          "Nature",
+          "Protection"
         ],
         "symbol": "⚖",
-        "accent": "#b9c2cc",
+        "accent": "#6fae5a",
         "major": true,
         "created": "Jul 24, 2026",
-        "updated": "Jul 24, 2026"
+        "updated": "Jul 25, 2026",
+        "faction": "",
+        "history": "Chislev is the god of nature on its own terms, governing the rhythms of life that unfold heedless of mortal action. Though enigmatic and shy, they are fiercely protective of their domain, regarding all plants and animals as their children. Chislev’s followers are often hermits, druids, and others who revere nature without asking anything in return.",
+        "cleric": "",
+        "secrets": "",
+        "deceased": false,
+        "hidden": false
       },
       {
         "id": "pmryzyajg50i",
