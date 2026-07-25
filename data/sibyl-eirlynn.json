@@ -1270,7 +1270,7 @@
       "visibility": "private",
       "status": "active",
       "seededFrom": "codex-site",
-      "updated": "2026-07-25T06:38:41.530Z"
+      "updated": "2026-07-25T07:04:18.226Z"
     },
     "identity": {
       "name": "Sibyl Eirlynn",
@@ -1778,6 +1778,82 @@
       }
     },
     "_slot": "sibyl-eirlynn",
-    "_canEdit": true
+    "_canEdit": true,
+    "backstory": [
+      {
+        "id": "bs_vyfl1",
+        "title": "Overview",
+        "body": "",
+        "custom": false
+      },
+      {
+        "id": "bs_3f4wd",
+        "title": "Early Life",
+        "body": "",
+        "custom": false
+      },
+      {
+        "id": "bs_mjbs0",
+        "title": "Important People",
+        "body": "",
+        "custom": false
+      },
+      {
+        "id": "bs_6oszr",
+        "title": "Organizations",
+        "body": "",
+        "custom": false
+      },
+      {
+        "id": "bs_zva4n",
+        "title": "Motivations",
+        "body": "",
+        "custom": false
+      },
+      {
+        "id": "bs_yuk87",
+        "title": "Bonds",
+        "body": "",
+        "custom": false
+      },
+      {
+        "id": "bs_1v5ml",
+        "title": "Flaws",
+        "body": "",
+        "custom": false
+      },
+      {
+        "id": "bs_scu4h",
+        "title": "Secrets",
+        "body": "",
+        "custom": false
+      },
+      {
+        "id": "bs_uxpq7",
+        "title": "Goals",
+        "body": "",
+        "custom": false
+      },
+      {
+        "id": "bs_r3w47",
+        "title": "Notes",
+        "body": "",
+        "custom": false
+      }
+    ],
+    "diceStyle": {
+      "body": "#171004",
+      "num": "#f4c867",
+      "edge": "#b98a3b",
+      "texture": "none",
+      "customUrl": ""
+    },
+    "theme": {
+      "accent": "#6a3ca0",
+      "accent2": "#8a5da0",
+      "gold": "#a06db8",
+      "cxAccent": "#c9a0e0",
+      "cxBg": "#161020"
+    }
   }
 }
