@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-25T05:11:10.767Z",
+  "updatedAt": "2026-07-25T05:11:40.870Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -1526,7 +1526,7 @@
         "id": "seedzqo3jd",
         "name": "Thorbardin Dwarves",
         "subtitle": "",
-        "kind": "cataclysms",
+        "kind": "civilizations",
         "alignment": "",
         "domains": [
           "Craftsmen",
