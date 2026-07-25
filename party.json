@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-25T05:25:46.390Z",
+  "updatedAt": "2026-07-25T05:26:06.563Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -1392,12 +1392,12 @@
         "kind": "gods",
         "alignment": "Neutral Good",
         "domains": [
-          "Nature",
-          "Life",
-          "Protection"
+          "Music",
+          "Poetry",
+          "Inner Beauty"
         ],
         "symbol": "⚘",
-        "accent": "#6fae5a",
+        "accent": "#c9a24a",
         "major": true,
         "created": "Jul 24, 2026",
         "updated": "Jul 25, 2026",
