@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-25T05:26:06.563Z",
+  "updatedAt": "2026-07-25T05:26:44.972Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -1337,7 +1337,11 @@
         "subtitle": "Prime Deity",
         "kind": "gods",
         "alignment": "Lawful Good",
-        "domains": [],
+        "domains": [
+          "Good",
+          "Justice",
+          "Mercy"
+        ],
         "symbol": "☀",
         "accent": "#c9a24a",
         "major": true,
