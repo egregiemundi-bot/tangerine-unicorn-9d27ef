@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-25T05:13:39.082Z",
+  "updatedAt": "2026-07-25T05:13:58.024Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -1671,6 +1671,25 @@
         "symbol": "⏳",
         "accent": "#c9a24a",
         "history": "The Cataclysm ushered in a period of chaos. During the next three centuries, known as the Time of Darkness, cultures and ecologies were radically altered, causing famine, plague, and mass migrations. The Knights of Solamnia, the champions who might’ve kept Ansalon united, were distrusted as former allies of Istar and persecuted across the continent, even in Solamnia.\n\nThe elven nations shut their borders. The dwarves of Thorbardin withdrew to their deep tunnels, refusing entrance to refugees from the surface. Many societies turned on one another or fell to disease and war. Nations of hobgoblins and ogres spread, capitalizing on humanity’s decline and claiming whole regions. Much that survived the Cataclysm was lost in darkness.\n\nAt length, the worst effects of the disaster waned. Though many elves and mountain dwarves remained reclusive, other cultures tentatively rebuilt. Explorers ventured forth to map the drastically altered continent. Societies reestablished bonds of trade that united and diversified them.\n\nAs the civilizations of Krynn rebuilt, and new societies arose, the world learned to live with a jarring truth: the gods were truly gone. Religion on Krynn was altered forever. True clerics, who once worked miracles on behalf of their gods, had vanished. While some people remained devout, many others turned to false religions in search of answers and comfort. Some of these new faiths were founded by charlatans, others by zealots. Some claimed the names of the gods, others dismissed them entirely. In this radically changed world bereft of immortal insight, truth became subject to conjecture, even among Krynn’s most dedicated scholars.",
+        "cleric": "",
+        "secrets": "",
+        "major": false,
+        "deceased": false,
+        "hidden": false,
+        "updated": "Jul 25, 2026"
+      },
+      {
+        "id": "ahmrzwz61u1l",
+        "created": "Jul 25, 2026",
+        "name": "Qualinesti Elves",
+        "subtitle": "",
+        "kind": "civilizations",
+        "alignment": "",
+        "faction": "",
+        "domains": [],
+        "symbol": "🏛",
+        "accent": "#c9a24a",
+        "history": "Long ago, a group of high elves left Silvanesti, desiring a more egalitarian society. They traveled far to the west and founded a new forested homeland called Qualinesti. Less hierarchical than their progenitors and more willing to deal with outsiders, Qualinesti elves even enjoyed good relations with the dwarves of Thorbardin. Since the Cataclysm, however, they’ve withdrawn from the world, and few outsiders dare approach their well-guarded borders.",
         "cleric": "",
         "secrets": "",
         "major": false,
