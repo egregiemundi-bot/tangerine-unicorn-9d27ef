@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-25T05:39:32.242Z",
+  "updatedAt": "2026-07-25T05:39:54.709Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -1513,9 +1513,12 @@
         "kind": "factions",
         "alignment": "",
         "faction": "",
-        "domains": [],
+        "domains": [
+          "Peace",
+          "Order"
+        ],
         "symbol": "✧",
-        "accent": "#c9a24a",
+        "accent": "#6fae5a",
         "history": "Armored in polished silver that gleams in the dawn light, banners flapping in the breeze, the Knights of Solamnia brought peace and order wherever they went. This faction of honor-bound soldiers was established thousands of years before the Cataclysm, during the Age of Dreams. However, since the fiery mountain smote the lands of Krynn 300 years ago, the Knights have become a shell of their former glory.\n\nDuring the rise of the holy empire of Istar 1,000 years ago, the Knights of Solamnia allied themselves with the line of kingpriests that ruled the nation. One kingpriest eventually caused the Cataclysm, which has scarred Krynn for generations. The Knight of Solamnia’s affiliation with Istar has caused Krynn’s citizens to garner distrust for the organization. But, there is still honor and courage in the Knights of Solamnia. While some knights have forsaken their Oaths and retreated to their fortresses, others have taken up the mantle and work to make Krynn a peaceful land once more.",
         "cleric": "",
         "secrets": "",
