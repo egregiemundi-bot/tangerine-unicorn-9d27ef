@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-25T05:39:01.872Z",
+  "updatedAt": "2026-07-25T05:39:29.849Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -1542,7 +1542,8 @@
         "major": false,
         "deceased": false,
         "hidden": false,
-        "updated": "Jul 25, 2026"
+        "updated": "Jul 25, 2026",
+        "img": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/pantheon-pmrzxvef81a1.jpg?v=1784957969554"
       }
     ]
   },
