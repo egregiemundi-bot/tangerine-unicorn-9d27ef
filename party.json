@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-25T05:42:16.725Z",
+  "updatedAt": "2026-07-25T05:43:29.643Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -1573,6 +1573,29 @@
         "hidden": false,
         "updated": "Jul 25, 2026",
         "img": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/pantheon-pmrzxz90l3yh.jpg?v=1784958134718"
+      },
+      {
+        "id": "pmrzy150p513",
+        "created": "Jul 25, 2026",
+        "name": "Order of the Sword",
+        "subtitle": "Knight of Solamnia Order",
+        "kind": "factions",
+        "alignment": "",
+        "faction": "",
+        "domains": [
+          "Heroic Honor",
+          "Courage",
+          "Reverence"
+        ],
+        "symbol": "✧",
+        "accent": "#c9a24a",
+        "history": "Dedicated to heroic honor, courage, and reverence for the true gods, this order upholds the virtues of Kiri-Jolith, the god of just war. Members dedicate themselves to courageous sacrifice, pledging to defend the defenseless without regard for the knights’ personal suffering. Knights who join this order often undertake a heroic quest to prove their worth.",
+        "cleric": "",
+        "secrets": "",
+        "major": false,
+        "deceased": false,
+        "hidden": false,
+        "updated": "Jul 25, 2026"
       }
     ]
   },
