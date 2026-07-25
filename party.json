@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-25T04:41:20.863Z",
+  "updatedAt": "2026-07-25T04:55:12.368Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -1472,6 +1472,153 @@
         "major": false,
         "created": "Jul 24, 2026",
         "updated": "Jul 24, 2026"
+      }
+    ]
+  },
+  "ancienthistory": {
+    "entries": [
+      {
+        "id": "seed82m8ip",
+        "name": "The Age of Chains",
+        "subtitle": "Historical Age",
+        "kind": "ages",
+        "alignment": "The Elder Days",
+        "domains": [
+          "War",
+          "Slavery",
+          "Revolt"
+        ],
+        "symbol": "⏳",
+        "accent": "#d07b3a",
+        "major": true,
+        "created": "Jul 24, 2026",
+        "updated": "Jul 24, 2026"
+      },
+      {
+        "id": "seedmyg3w8",
+        "name": "The Cataclysm",
+        "subtitle": "Cataclysm",
+        "kind": "cataclysms",
+        "alignment": "The First Fall",
+        "domains": [
+          "Destruction",
+          "loss",
+          "natural disaster"
+        ],
+        "symbol": "♨",
+        "accent": "#d07b3a",
+        "major": true,
+        "created": "Jul 24, 2026",
+        "updated": "Jul 25, 2026",
+        "faction": "The Kingpriest",
+        "history": "About 350 years ago, the world of Krynn was shattered. A powerful empire called Istar, drunk on its own righteousness, pushed things so far that the gods themselves intervened — and the punishment they sent remade the world. Fire rained down from above. Coastlines shifted. Whole nations drowned.  Ansalon felt the Cataclysm as a burning mountain that struck the Lordcity of Istar, though the changes wrought by the Cataclysm were far-reaching. The Blood Sea formed over the sunken city of Istar; the Maelstrom in its center supposedly sits over the ruined city.",
+        "cleric": "",
+        "secrets": "",
+        "deceased": false,
+        "hidden": false
+      },
+      {
+        "id": "seedzqo3jd",
+        "name": "The Dawnborn",
+        "subtitle": "Lost Civilization",
+        "kind": "civilizations",
+        "alignment": "The Elder Days",
+        "domains": [
+          "Light",
+          "Magic",
+          "Glory"
+        ],
+        "symbol": "☀",
+        "accent": "#6fae5a",
+        "major": true,
+        "created": "Jul 24, 2026",
+        "updated": "Jul 24, 2026"
+      },
+      {
+        "id": "seed26lkym",
+        "name": "The Deepkin",
+        "subtitle": "Lost Civilization",
+        "kind": "civilizations",
+        "alignment": "The Under-Years",
+        "domains": [
+          "Stone",
+          "Craft",
+          "Silence"
+        ],
+        "symbol": "⚒",
+        "accent": "#c9a24a",
+        "major": false,
+        "created": "Jul 24, 2026",
+        "updated": "Jul 24, 2026"
+      },
+      {
+        "id": "seedy8y7t6",
+        "name": "The Weeping War",
+        "subtitle": "Cataclysm",
+        "kind": "cataclysms",
+        "alignment": "The Long Dusk",
+        "domains": [
+          "War",
+          "Sorrow",
+          "Plague"
+        ],
+        "symbol": "⚔",
+        "accent": "#d07b3a",
+        "major": false,
+        "created": "Jul 24, 2026",
+        "updated": "Jul 24, 2026"
+      },
+      {
+        "id": "seedfihvdk",
+        "name": "The Drowned City",
+        "subtitle": "Ancient Ruin",
+        "kind": "ruins",
+        "alignment": "The Long Dusk",
+        "domains": [
+          "Sea",
+          "Pride",
+          "Ruin"
+        ],
+        "symbol": "⛩",
+        "accent": "#c9a24a",
+        "major": false,
+        "created": "Jul 24, 2026",
+        "updated": "Jul 24, 2026"
+      },
+      {
+        "id": "seedl74j3k",
+        "name": "Vael the First",
+        "subtitle": "Historical Figure",
+        "kind": "figures",
+        "alignment": "The Elder Days",
+        "domains": [
+          "Rule",
+          "Magic",
+          "Betrayal"
+        ],
+        "symbol": "♚",
+        "accent": "#c9a24a",
+        "major": false,
+        "created": "Jul 24, 2026",
+        "updated": "Jul 24, 2026"
+      },
+      {
+        "id": "seed2gora7",
+        "name": "The Ember Empire",
+        "subtitle": "Lost Civilization",
+        "kind": "civilizations",
+        "alignment": "The Ash Years",
+        "domains": [
+          "Fire",
+          "Conquest",
+          "Ash"
+        ],
+        "symbol": "⚫",
+        "accent": "#d07b3a",
+        "major": false,
+        "created": "Jul 24, 2026",
+        "updated": "Jul 24, 2026",
+        "deceased": true
       }
     ]
   }
