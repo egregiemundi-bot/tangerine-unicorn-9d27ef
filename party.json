@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-25T05:25:17.472Z",
+  "updatedAt": "2026-07-25T05:25:19.271Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -1391,8 +1391,8 @@
       },
       {
         "id": "pmryzyajg4wq",
-        "name": "The Green Power",
-        "subtitle": "Prime Deity",
+        "name": "Branchala",
+        "subtitle": "Deity",
         "kind": "gods",
         "alignment": "Neutral Good",
         "domains": [
@@ -1405,7 +1405,13 @@
         "major": true,
         "created": "Jul 24, 2026",
         "updated": "Jul 25, 2026",
-        "img": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/pantheon-pmryzyajg4wq.jpg?v=1784957117146"
+        "img": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/pantheon-pmryzyajg4wq.jpg?v=1784957117146",
+        "faction": "",
+        "history": "Called the Bard King, Branchala is the god of music, poetry, and the inner beauty of all living things. Many elves and kender worship him above all other gods. Both groups revere him as a champion of life and laughter, bringing solace and joy to those who listen.",
+        "cleric": "",
+        "secrets": "",
+        "deceased": false,
+        "hidden": false
       },
       {
         "id": "pmryzyajg6aq",
