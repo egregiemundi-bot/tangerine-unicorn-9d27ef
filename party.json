@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-25T05:19:22.694Z",
+  "updatedAt": "2026-07-25T05:22:25.291Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -1582,20 +1582,24 @@
       },
       {
         "id": "seedl74j3k",
-        "name": "Vael the First",
+        "name": "Lord Soth",
         "subtitle": "Historical Figure",
         "kind": "figures",
-        "alignment": "The Elder Days",
+        "alignment": "The Age of Might",
         "domains": [
-          "Rule",
-          "Magic",
           "Betrayal"
         ],
         "symbol": "♚",
         "accent": "#c9a24a",
         "major": false,
         "created": "Jul 24, 2026",
-        "updated": "Jul 24, 2026"
+        "updated": "Jul 25, 2026",
+        "faction": "",
+        "history": "",
+        "cleric": "",
+        "secrets": "",
+        "deceased": false,
+        "hidden": false
       },
       {
         "id": "seed2gora7",
