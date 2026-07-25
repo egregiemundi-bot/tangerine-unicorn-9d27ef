@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-25T05:30:11.102Z",
+  "updatedAt": "2026-07-25T05:30:24.048Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -1447,7 +1447,7 @@
         ],
         "symbol": "⚖",
         "accent": "#6fae5a",
-        "major": true,
+        "major": false,
         "created": "Jul 24, 2026",
         "updated": "Jul 25, 2026",
         "faction": "",
