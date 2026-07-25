@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-25T05:08:28.898Z",
+  "updatedAt": "2026-07-25T05:11:10.767Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -1524,20 +1524,25 @@
       },
       {
         "id": "seedzqo3jd",
-        "name": "The Dawnborn",
-        "subtitle": "Lost Civilization",
-        "kind": "civilizations",
-        "alignment": "The Elder Days",
+        "name": "Thorbardin Dwarves",
+        "subtitle": "",
+        "kind": "cataclysms",
+        "alignment": "",
         "domains": [
-          "Light",
-          "Magic",
-          "Glory"
+          "Craftsmen",
+          "miners"
         ],
-        "symbol": "☀",
-        "accent": "#6fae5a",
-        "major": true,
+        "symbol": "🏛",
+        "accent": "#c9a24a",
+        "major": false,
         "created": "Jul 24, 2026",
-        "updated": "Jul 24, 2026"
+        "updated": "Jul 25, 2026",
+        "faction": "",
+        "history": "The kingdom of Thorbardin has endured beneath the Kharolis Mountains of southwest Ansalon for thousands of years, but the centuries since the Cataclysm have created new divisions within it.\n\nThe dwarves of Thorbardin divide themselves into ancient clans. Many generations before the Cataclysm, dwarves who dwelled on the surface established the Neidar clan, known for working the land and trading with other surface folk. In the wake of the Cataclysm, with food scarce and the future uncertain, the High King of Thorbardin sealed the gates of the kingdom to all outsiders, including the Neidar. Betrayed and hungry, these surface dwarves allied with other desperate refugees and unsuccessfully attempted to take Thorbardin by force. The conflict that came to be called the Dwarfgate War caused deep enmity between the dwarven communities of the surface and those that live below.",
+        "cleric": "",
+        "secrets": "",
+        "deceased": false,
+        "hidden": false
       },
       {
         "id": "seed26lkym",
