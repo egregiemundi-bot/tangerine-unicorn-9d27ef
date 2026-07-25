@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-25T06:35:45.648Z",
+  "updatedAt": "2026-07-25T06:35:48.856Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -605,7 +605,7 @@
         "id": "pc-sibyl-eirlynn",
         "name": "Sibyl Eirlynn",
         "pc": true,
-        "init": "",
+        "init": "19",
         "hp": "14",
         "maxhp": "23",
         "ac": "16",
