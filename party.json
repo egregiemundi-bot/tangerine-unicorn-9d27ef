@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-25T05:26:44.972Z",
+  "updatedAt": "2026-07-25T05:28:20.572Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -1374,20 +1374,24 @@
       },
       {
         "id": "pmryzyajg2ol",
-        "name": "The Iron Power",
+        "name": "Gilean",
         "subtitle": "Prime Deity",
         "kind": "gods",
         "alignment": "Lawful Neutral",
         "domains": [
-          "Forge",
-          "Strength",
-          "War"
+          "Knowledge"
         ],
         "symbol": "⚒",
-        "accent": "#d07b3a",
+        "accent": "#5b93c8",
         "major": true,
         "created": "Jul 24, 2026",
-        "updated": "Jul 24, 2026"
+        "updated": "Jul 25, 2026",
+        "faction": "",
+        "history": "The god of knowledge and nominal leader of the neutral gods, Gilean embodies the ideal of neutrality. He stands back and observes, recording all that unfolds. Gilean is keeper of the Tobril, a book said to contain all the knowledge of the gods, though portions are sealed to all but Gilean. Some people believe the scribe Astinus of Palanthas to be Gilean in human form.",
+        "cleric": "",
+        "secrets": "",
+        "deceased": false,
+        "hidden": false
       },
       {
         "id": "pmryzyajg4wq",
