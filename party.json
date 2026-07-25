@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-25T05:11:40.870Z",
+  "updatedAt": "2026-07-25T05:13:39.082Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -1546,20 +1546,22 @@
       },
       {
         "id": "seed26lkym",
-        "name": "The Deepkin",
-        "subtitle": "Lost Civilization",
+        "name": "Silvanesti Elves",
+        "subtitle": "",
         "kind": "civilizations",
-        "alignment": "The Under-Years",
-        "domains": [
-          "Stone",
-          "Craft",
-          "Silence"
-        ],
+        "alignment": "",
+        "domains": [],
         "symbol": "⚒",
         "accent": "#c9a24a",
         "major": false,
         "created": "Jul 24, 2026",
-        "updated": "Jul 24, 2026"
+        "updated": "Jul 25, 2026",
+        "faction": "",
+        "history": "Silvanesti, the original elven kingdom, lies in southern Ansalon. For untold generations, the aloof Silvanesti elves lived in a stratified society closed to outsiders. They don’t hate their cousins in Qualinesti, but they consider their ways misguided.",
+        "cleric": "",
+        "secrets": "",
+        "deceased": false,
+        "hidden": false
       },
       {
         "id": "seedfihvdk",
