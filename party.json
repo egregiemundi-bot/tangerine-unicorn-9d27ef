@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-25T05:34:42.772Z",
+  "updatedAt": "2026-07-25T05:34:46.516Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -1357,21 +1357,28 @@
       },
       {
         "id": "pmryzyajg7mr",
-        "name": "The Veiled Power",
+        "name": "Takhisis",
         "subtitle": "Prime Deity",
         "kind": "gods",
-        "alignment": "Neutral",
+        "alignment": "Lawful Evil",
         "domains": [
-          "Knowledge",
-          "Trickery",
-          "Death"
+          "Darkness",
+          "Power",
+          "Pride",
+          "Control"
         ],
-        "symbol": "☠",
-        "accent": "#9a7bc8",
+        "symbol": "☀",
+        "accent": "#c9a24a",
         "major": true,
         "created": "Jul 24, 2026",
         "updated": "Jul 25, 2026",
-        "img": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/pantheon-pmryzyajg7mr.jpg?v=1784957682550"
+        "img": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/pantheon-pmryzyajg7mr.jpg?v=1784957682550",
+        "faction": "",
+        "history": "Takhisis (lawful evil), leader of Krynn’s evil gods, is known as the Dragon Queen, the Queen of Darkness, and—on other worlds—Tiamat. She is the god of power, pride, and control, as well as the queen of chromatic dragons. She tempts mortals to her service with offers of dominance over others. Barred from Krynn since before the Cataclysm, she found her chance to return in the centuries that followed.",
+        "cleric": "",
+        "secrets": "",
+        "deceased": false,
+        "hidden": false
       },
       {
         "id": "pmryzyajg2ol",
