@@ -1270,7 +1270,7 @@
       "visibility": "private",
       "status": "active",
       "seededFrom": "codex-site",
-      "updated": "2026-07-25T07:04:18.226Z"
+      "updated": "2026-07-25T07:04:55.968Z"
     },
     "identity": {
       "name": "Sibyl Eirlynn",
@@ -1845,7 +1845,7 @@
       "body": "#171004",
       "num": "#f4c867",
       "edge": "#b98a3b",
-      "texture": "none",
+      "texture": "jungle",
       "customUrl": ""
     },
     "theme": {
