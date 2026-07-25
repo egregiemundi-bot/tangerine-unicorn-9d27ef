@@ -415,5 +415,645 @@
         "builtin": true
       }
     ]
+  },
+  "forge": {
+    "schemaVersion": "1.0",
+    "id": "zacharia-horn-axe",
+    "meta": {
+      "rulesVersion": "2014",
+      "sources": [
+        "SRD 5.1"
+      ],
+      "visibility": "private",
+      "status": "active",
+      "seededFrom": "codex-site",
+      "updated": "2026-07-25T06:39:01.044Z"
+    },
+    "identity": {
+      "name": "Zacharia Horn-Axe",
+      "player": "Dragon",
+      "alignment": "N",
+      "portrait": ""
+    },
+    "origin": {
+      "species": "human",
+      "background": "soldier",
+      "alignment": "N",
+      "size": "medium"
+    },
+    "abilities": {
+      "str": {
+        "base": 10,
+        "score": 10
+      },
+      "dex": {
+        "base": 10,
+        "score": 10
+      },
+      "con": {
+        "base": 10,
+        "score": 10
+      },
+      "int": {
+        "base": 10,
+        "score": 10
+      },
+      "wis": {
+        "base": 10,
+        "score": 10
+      },
+      "cha": {
+        "base": 10,
+        "score": 10
+      }
+    },
+    "classes": [
+      {
+        "id": "cls_3",
+        "class": "cleric",
+        "subclass": "life",
+        "level": 3,
+        "hitDie": "d8",
+        "spellcasting": {
+          "ability": "wis",
+          "type": "prepared",
+          "progression": "full"
+        }
+      }
+    ],
+    "selections": [],
+    "features": [
+      {
+        "id": "ft_1",
+        "name": "Versatile",
+        "source": "Species",
+        "grantedBy": "species",
+        "description": "+1 to every ability score.",
+        "activation": {
+          "type": "passive"
+        },
+        "modifiers": [],
+        "tags": [
+          "species"
+        ]
+      },
+      {
+        "id": "ft_2",
+        "name": "Military Rank",
+        "source": "Background",
+        "grantedBy": "background",
+        "description": "Background feature.",
+        "activation": {
+          "type": "passive"
+        },
+        "modifiers": [],
+        "tags": [
+          "background"
+        ]
+      },
+      {
+        "id": "ft_4",
+        "name": "Spellcasting",
+        "source": "Cleric",
+        "grantedBy": "class",
+        "atLevel": 1,
+        "description": "Prepare and cast cleric spells (Wis).",
+        "activation": {
+          "type": "passive"
+        },
+        "modifiers": [],
+        "tags": [
+          "class"
+        ]
+      },
+      {
+        "id": "ft_5",
+        "name": "Bonus Proficiency",
+        "source": "Life Domain",
+        "grantedBy": "class",
+        "atLevel": 1,
+        "description": "Proficiency with heavy armor.",
+        "activation": {
+          "type": "passive"
+        },
+        "modifiers": [],
+        "tags": [
+          "class"
+        ]
+      },
+      {
+        "id": "ft_6",
+        "name": "Disciple of Life",
+        "source": "Life Domain",
+        "grantedBy": "class",
+        "atLevel": 1,
+        "description": "Healing spells restore extra HP (2 + spell level).",
+        "activation": {
+          "type": "passive"
+        },
+        "modifiers": [],
+        "tags": [
+          "class"
+        ]
+      },
+      {
+        "id": "ft_7",
+        "name": "Channel Divinity: Turn Undead",
+        "source": "Cleric",
+        "grantedBy": "class",
+        "atLevel": 2,
+        "description": "Force undead to flee.",
+        "activation": {
+          "type": "action"
+        },
+        "modifiers": [],
+        "tags": [
+          "class"
+        ],
+        "uses": {
+          "max": 1,
+          "per": "short",
+          "current": 1
+        }
+      },
+      {
+        "id": "ft_9",
+        "name": "Channel Divinity: Preserve Life",
+        "source": "Life Domain",
+        "grantedBy": "class",
+        "atLevel": 2,
+        "description": "Restore HP equal to 5 × cleric level among nearby creatures.",
+        "activation": {
+          "type": "passive"
+        },
+        "modifiers": [],
+        "tags": [
+          "class"
+        ]
+      }
+    ],
+    "resources": [
+      {
+        "id": "res_8",
+        "name": "Channel Divinity: Turn Undead",
+        "source": "Cleric",
+        "grantedBy": "class",
+        "kind": "feature-use",
+        "max": 1,
+        "per": "short",
+        "current": 1
+      },
+      {
+        "id": "res_10",
+        "name": "Spell Slots — Level 1",
+        "source": "Cleric",
+        "grantedBy": "class",
+        "kind": "spell-slot",
+        "slotLevel": 1,
+        "max": 4,
+        "per": "long",
+        "current": 4
+      },
+      {
+        "id": "res_11",
+        "name": "Spell Slots — Level 2",
+        "source": "Cleric",
+        "grantedBy": "class",
+        "kind": "spell-slot",
+        "slotLevel": 2,
+        "max": 2,
+        "per": "long",
+        "current": 2
+      }
+    ],
+    "actions": [
+      {
+        "id": "act_19",
+        "name": "Mace",
+        "actionCost": "action",
+        "kind": "weapon",
+        "ref": "itm_17",
+        "attack": {
+          "ability": "str",
+          "proficient": true,
+          "reach": 5,
+          "range": null
+        },
+        "damage": [
+          {
+            "dice": "1d6",
+            "mod": "str",
+            "type": "bludgeoning",
+            "versatile": null
+          }
+        ],
+        "properties": []
+      },
+      {
+        "id": "act_20",
+        "name": "Cast Cure Wounds",
+        "actionCost": "action",
+        "kind": "spell",
+        "ref": "spl_13",
+        "consumes": {
+          "resource": "slot1",
+          "amount": 1,
+          "scalable": true
+        }
+      },
+      {
+        "id": "act_21",
+        "name": "Cast Spiritual Weapon",
+        "actionCost": "bonus",
+        "kind": "spell",
+        "ref": "spl_15",
+        "consumes": {
+          "resource": "slot2",
+          "amount": 1,
+          "scalable": true
+        }
+      },
+      {
+        "id": "act_22",
+        "name": "Dash",
+        "actionCost": "action",
+        "kind": "generic"
+      },
+      {
+        "id": "act_23",
+        "name": "Disengage",
+        "actionCost": "action",
+        "kind": "generic"
+      },
+      {
+        "id": "act_24",
+        "name": "Dodge",
+        "actionCost": "action",
+        "kind": "generic"
+      },
+      {
+        "id": "act_25",
+        "name": "Hide",
+        "actionCost": "action",
+        "kind": "generic"
+      },
+      {
+        "id": "act_26",
+        "name": "Help",
+        "actionCost": "action",
+        "kind": "generic"
+      },
+      {
+        "id": "act_27",
+        "name": "Search",
+        "actionCost": "action",
+        "kind": "generic"
+      }
+    ],
+    "spells": [
+      {
+        "id": "spl_12",
+        "_key": "bless",
+        "name": "Bless",
+        "level": 1,
+        "school": "enchantment",
+        "castingTime": "1 action",
+        "actionCost": "action",
+        "ritual": false,
+        "concentration": true,
+        "range": "30 ft",
+        "duration": "1 min",
+        "save": null,
+        "attack": null,
+        "damage": null,
+        "healing": null,
+        "description": "You bless up to three creatures of your choice within range. Whenever a target makes an attack roll or a saving throw before the spell ends, the target can roll a d4 and add the number rolled to the attack roll or saving throw. At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.",
+        "prepared": true,
+        "alwaysPrepared": true,
+        "source": "Cleric"
+      },
+      {
+        "id": "spl_13",
+        "_key": "cure-wounds",
+        "name": "Cure Wounds",
+        "level": 1,
+        "school": "evocation",
+        "castingTime": "1 action",
+        "actionCost": "action",
+        "ritual": false,
+        "concentration": false,
+        "range": "touch",
+        "duration": "Instantaneous",
+        "save": null,
+        "attack": null,
+        "damage": null,
+        "healing": [
+          {
+            "dice": "1d8",
+            "mod": "cast"
+          }
+        ],
+        "description": "A creature you touch regains a number of hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs. At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st.",
+        "prepared": true,
+        "alwaysPrepared": true,
+        "source": "Cleric"
+      },
+      {
+        "id": "spl_14",
+        "_key": "lesser-restoration",
+        "name": "Lesser Restoration",
+        "level": 2,
+        "school": "abjuration",
+        "castingTime": "1 action",
+        "actionCost": "action",
+        "ritual": false,
+        "concentration": false,
+        "range": "touch",
+        "duration": "Instantaneous",
+        "save": null,
+        "attack": null,
+        "damage": null,
+        "healing": null,
+        "description": "You touch a creature and can end either one disease or one condition afflicting it. The condition can be blinded, deafened, paralyzed, or poisoned.",
+        "prepared": true,
+        "alwaysPrepared": true,
+        "source": "Cleric"
+      },
+      {
+        "id": "spl_15",
+        "_key": "spiritual-weapon",
+        "name": "Spiritual Weapon",
+        "level": 2,
+        "school": "evocation",
+        "castingTime": "1 action",
+        "actionCost": "bonus",
+        "ritual": true,
+        "concentration": false,
+        "range": "60 ft",
+        "duration": "1 Minute",
+        "save": null,
+        "attack": "melee",
+        "damage": [
+          {
+            "dice": "1d8",
+            "type": "force"
+          }
+        ],
+        "healing": null,
+        "description": "You create a floating, spectral weapon within range that lasts for the duration or until you cast this spell again. When you cast the spell, you can make a melee spell attack against a creature within 5 feet of the weapon. On a hit, the target takes force damage equal to 1d8 + your spellcasting ability modifier. As a bonus action on your turn, you can move the weapon up to 20 feet and repeat the attack against a creature within 5 feet of it. The weapon can take whatever form you choose. Clerics of deities who are associated with a particular weapon (as St. Cuthbert is known for his mace and Thor for his hammer) make this spell's effect resemble that weapon. At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for every two slot levels above 2nd.",
+        "prepared": true,
+        "alwaysPrepared": true,
+        "source": "Cleric"
+      }
+    ],
+    "inventory": [
+      {
+        "id": "itm_16",
+        "_key": "scale-mail",
+        "name": "Scale Mail",
+        "category": "armor",
+        "quantity": 1,
+        "weight": 45,
+        "equipped": true,
+        "rarity": "common",
+        "armor": {
+          "baseAc": 14,
+          "type": "medium",
+          "dexCap": 2,
+          "stealthDisadvantage": true,
+          "strReq": null
+        },
+        "modifiers": [
+          {
+            "target": "ac",
+            "op": "set-base",
+            "value": 14,
+            "type": "armor",
+            "condition": "equipped",
+            "source": "Scale Mail"
+          }
+        ]
+      },
+      {
+        "id": "itm_17",
+        "_key": "mace",
+        "name": "Mace",
+        "category": "weapon",
+        "quantity": 1,
+        "weight": 3,
+        "equipped": true,
+        "rarity": "common",
+        "weapon": {
+          "category": "simple-melee",
+          "properties": [],
+          "damage": {
+            "dice": "1d6",
+            "type": "bludgeoning"
+          }
+        },
+        "modifiers": []
+      },
+      {
+        "id": "itm_18",
+        "_key": "shield",
+        "name": "Shield",
+        "category": "armor",
+        "quantity": 1,
+        "weight": 6,
+        "equipped": true,
+        "rarity": "common",
+        "modifiers": [
+          {
+            "target": "ac",
+            "op": "add",
+            "value": 2,
+            "type": "shield",
+            "condition": "equipped",
+            "source": "Shield"
+          }
+        ]
+      }
+    ],
+    "currency": {
+      "gp": 0
+    },
+    "companions": [],
+    "transformations": [],
+    "vehicles": [],
+    "notes": [],
+    "relationships": [],
+    "quests": [],
+    "custom": [],
+    "overrides": [],
+    "proficiencies": {
+      "skills": {
+        "athletics": true,
+        "intimidation": true,
+        "history": true,
+        "insight": true
+      },
+      "saves": {
+        "wis": true,
+        "cha": true
+      },
+      "armor": {
+        "light": true,
+        "medium": true,
+        "shields": true,
+        "heavy": true
+      },
+      "weapons": {
+        "simple": true
+      },
+      "tools": {},
+      "expertise": {}
+    },
+    "languages": [
+      "Common",
+      "one of your choice"
+    ],
+    "state": {
+      "hp": {
+        "current": 18,
+        "temp": 0
+      },
+      "hitDice": [
+        {
+          "die": "d8",
+          "total": 3,
+          "remaining": 3
+        }
+      ],
+      "deathSaves": {
+        "successes": 0,
+        "failures": 0,
+        "stable": false
+      },
+      "exhaustion": 0,
+      "inspiration": false,
+      "concentratingOn": null,
+      "activeConditions": [],
+      "activeEffects": [],
+      "attunedCount": 0
+    },
+    "speedBase": 30,
+    "derivedCache": {
+      "resistances": [],
+      "proficiencyBonus": 2,
+      "level": 3,
+      "abilityScores": {
+        "str": 11,
+        "dex": 11,
+        "con": 11,
+        "int": 11,
+        "wis": 11,
+        "cha": 11
+      },
+      "abilityMods": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "saves": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 2,
+        "cha": 2
+      },
+      "skills": {
+        "acrobatics": 0,
+        "animal handling": 0,
+        "arcana": 0,
+        "athletics": 2,
+        "deception": 0,
+        "history": 2,
+        "insight": 2,
+        "intimidation": 2,
+        "investigation": 0,
+        "medicine": 0,
+        "nature": 0,
+        "perception": 0,
+        "performance": 0,
+        "persuasion": 0,
+        "religion": 0,
+        "sleight of hand": 0,
+        "stealth": 0,
+        "survival": 0
+      },
+      "armorClass": 16,
+      "initiative": 0,
+      "maxHp": 18,
+      "speed": 30,
+      "darkvision": 0,
+      "attacksPerAction": 1,
+      "spellSaveDc": 10,
+      "spellAttackBonus": 2,
+      "spellcastingAbility": "wis",
+      "spellcasting": [
+        {
+          "cls": "cleric",
+          "className": "Cleric",
+          "type": "prepared",
+          "ability": "wis",
+          "cantripsKnown": 3,
+          "limit": 3,
+          "limitKind": "prepared"
+        }
+      ],
+      "passivePerception": 10,
+      "passiveInvestigation": 10,
+      "passiveInsight": 12
+    },
+    "_core": {
+      "identity": {
+        "name": "Zacharia Horn-Axe",
+        "player": "Dragon",
+        "alignment": "N",
+        "portrait": ""
+      },
+      "origin": {
+        "species": "human",
+        "background": "soldier",
+        "alignment": "N"
+      },
+      "abilities": {
+        "str": {
+          "base": 10
+        },
+        "dex": {
+          "base": 10
+        },
+        "con": {
+          "base": 10
+        },
+        "int": {
+          "base": 10
+        },
+        "wis": {
+          "base": 10
+        },
+        "cha": {
+          "base": 10
+        }
+      },
+      "classes": [
+        {
+          "class": "cleric",
+          "level": 3,
+          "subclass": "life"
+        }
+      ],
+      "choices": {},
+      "meta": {
+        "seededFrom": "codex-site"
+      }
+    },
+    "_slot": "zacharia-horn-axe",
+    "_canEdit": true
   }
 }
