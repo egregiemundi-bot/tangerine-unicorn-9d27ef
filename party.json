@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-25T06:35:48.856Z",
+  "updatedAt": "2026-07-25T06:35:50.530Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -617,7 +617,7 @@
         "id": "pc-zacharia-horn-axe",
         "name": "Zacharia Horn-Axe",
         "pc": true,
-        "init": "",
+        "init": "8",
         "hp": "0",
         "maxhp": "30",
         "ac": "10",
