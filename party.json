@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-25T04:56:09.173Z",
+  "updatedAt": "2026-07-25T04:56:25.234Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -1548,23 +1548,6 @@
         ],
         "symbol": "⚒",
         "accent": "#c9a24a",
-        "major": false,
-        "created": "Jul 24, 2026",
-        "updated": "Jul 24, 2026"
-      },
-      {
-        "id": "seedy8y7t6",
-        "name": "The Weeping War",
-        "subtitle": "Cataclysm",
-        "kind": "cataclysms",
-        "alignment": "The Long Dusk",
-        "domains": [
-          "War",
-          "Sorrow",
-          "Plague"
-        ],
-        "symbol": "⚔",
-        "accent": "#d07b3a",
         "major": false,
         "created": "Jul 24, 2026",
         "updated": "Jul 24, 2026"
