@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-25T07:08:16.376Z",
+  "updatedAt": "2026-07-25T07:14:39.112Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -183,8 +183,8 @@
     ],
     "positions": {
       "knights": {
-        "x": 465,
-        "y": 133
+        "x": 532,
+        "y": 89
       },
       "mages-of-high-sorcery": {
         "x": 246,
