@@ -2275,7 +2275,7 @@
       "visibility": "private",
       "status": "active",
       "seededFrom": "codex-site",
-      "updated": "2026-07-25T06:37:30.015Z"
+      "updated": "2026-07-25T06:41:37.371Z"
     },
     "identity": {
       "name": "Bud Turtlefoot",
@@ -2851,6 +2851,13 @@
       }
     },
     "_slot": "bud-turtlefoot",
-    "_canEdit": true
+    "_canEdit": true,
+    "theme": {
+      "accent": "#2f6f9c",
+      "accent2": "#2f8a8a",
+      "gold": "#3f93a0",
+      "cxAccent": "#7fc4e0",
+      "cxBg": "#101820"
+    }
   }
 }
