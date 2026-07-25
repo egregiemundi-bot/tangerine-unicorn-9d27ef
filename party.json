@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-25T05:39:54.709Z",
+  "updatedAt": "2026-07-25T05:40:14.397Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -1536,7 +1536,10 @@
         "kind": "factions",
         "alignment": "",
         "faction": "",
-        "domains": [],
+        "domains": [
+          "Loyalty",
+          "Obedience"
+        ],
         "symbol": "✧",
         "accent": "#c9a24a",
         "history": "Most knights begin their journey as squires in the Knights of the Crown, who honor the god  Habbakuk as their patron. The order emphasizes ideals of loyalty and obedience that serve as a bedrock whether a knight chooses to remain within the order or move beyond it. Knights of the Crown are expected to aid any knight who requires assistance and any kingdom on the List of Loyalty, the official roll of the Knights’ allies.",
