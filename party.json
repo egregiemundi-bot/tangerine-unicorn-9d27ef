@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-25T05:04:10.796Z",
+  "updatedAt": "2026-07-25T05:04:18.562Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -1483,7 +1483,9 @@
         "subtitle": "Historical Age",
         "kind": "ages",
         "alignment": "",
-        "domains": [],
+        "domains": [
+          "Creation"
+        ],
         "symbol": "⏳",
         "accent": "#c9a24a",
         "major": true,
