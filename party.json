@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-25T05:43:58.157Z",
+  "updatedAt": "2026-07-25T05:45:52.051Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -1597,6 +1597,25 @@
         "hidden": false,
         "updated": "Jul 25, 2026",
         "img": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/pantheon-pmrzy150p513.jpg?v=1784958236892"
+      },
+      {
+        "id": "pmrzy46wr3jl",
+        "created": "Jul 25, 2026",
+        "name": "Mages of High Sorcery",
+        "subtitle": "",
+        "kind": "factions",
+        "alignment": "",
+        "faction": "",
+        "domains": [],
+        "symbol": "✧",
+        "accent": "#c9a24a",
+        "history": "Most magic-users on Krynn are members of an ancient organization known as the Mages of High Sorcery. Predominantly composed of wizards—with a lesser number of sorcerers and other spellcasters—members are divided into three orders. Each order dedicates itself to virtues extolled by a god of magic and honors the moon its deity is associated with. The three orders cooperate as part of a single organization, overseen by a council of experienced members known as the Conclave.\n\nEqually devoted to the study of magic and united in defending their knowledge and traditions, the three orders differ in their fundamental reasons for using magic. \n\nAn apprentice mage who seeks to join one of the three orders must first pass a trial known as the Test of High Sorcery. Every mage’s test is different, tailored to both the order they wish to join and their own personal challenges and aspirations. Nonetheless, a few elements are always present.",
+        "cleric": "",
+        "secrets": "",
+        "major": false,
+        "deceased": false,
+        "hidden": false,
+        "updated": "Jul 25, 2026"
       }
     ]
   },
