@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-25T05:30:32.963Z",
+  "updatedAt": "2026-07-25T05:30:55.511Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -1455,7 +1455,8 @@
         "cleric": "",
         "secrets": "",
         "deceased": false,
-        "hidden": false
+        "hidden": false,
+        "img": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/pantheon-pmryzyajg263.jpg?v=1784957455293"
       },
       {
         "id": "pmryzyajg50i",
