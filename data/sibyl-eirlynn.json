@@ -1270,7 +1270,7 @@
       "visibility": "private",
       "status": "active",
       "seededFrom": "codex-site",
-      "updated": "2026-07-25T07:06:26.294Z"
+      "updated": "2026-07-25T07:11:27.868Z"
     },
     "identity": {
       "name": "Sibyl Eirlynn",
@@ -1655,7 +1655,7 @@
         {
           "die": "d8",
           "total": 3,
-          "remaining": 3
+          "remaining": 2
         }
       ],
       "deathSaves": {
@@ -1855,5 +1855,69 @@
       "cxAccent": "#c9a0e0",
       "cxBg": "#161020"
     }
+  },
+  "backstory": {
+    "sections": [
+      {
+        "id": "bs_vyfl1",
+        "title": "Overview",
+        "text": "",
+        "hidden": false
+      },
+      {
+        "id": "bs_3f4wd",
+        "title": "Early Life",
+        "text": "",
+        "hidden": false
+      },
+      {
+        "id": "bs_mjbs0",
+        "title": "Important People",
+        "text": "",
+        "hidden": false
+      },
+      {
+        "id": "bs_6oszr",
+        "title": "Organizations",
+        "text": "",
+        "hidden": false
+      },
+      {
+        "id": "bs_zva4n",
+        "title": "Motivations",
+        "text": "",
+        "hidden": false
+      },
+      {
+        "id": "bs_yuk87",
+        "title": "Bonds",
+        "text": "",
+        "hidden": false
+      },
+      {
+        "id": "bs_1v5ml",
+        "title": "Flaws",
+        "text": "",
+        "hidden": false
+      },
+      {
+        "id": "bs_scu4h",
+        "title": "Secrets",
+        "text": "",
+        "hidden": false
+      },
+      {
+        "id": "bs_uxpq7",
+        "title": "Goals",
+        "text": "",
+        "hidden": false
+      },
+      {
+        "id": "bs_r3w47",
+        "title": "Notes",
+        "text": "",
+        "hidden": false
+      }
+    ]
   }
 }
