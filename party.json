@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-25T05:32:12.463Z",
+  "updatedAt": "2026-07-25T05:32:14.204Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -1420,21 +1420,25 @@
       },
       {
         "id": "pmryzyajg6aq",
-        "name": "The Tide Power",
-        "subtitle": "Prime Deity",
+        "name": "Lunitari",
+        "subtitle": "Deity",
         "kind": "gods",
-        "alignment": "Chaotic Neutral",
+        "alignment": "Neutral",
         "domains": [
-          "Water",
-          "Tempest",
-          "Change"
+          "Neutral Magic"
         ],
         "symbol": "≈",
-        "accent": "#5b93c8",
+        "accent": "#c9a24a",
         "major": true,
         "created": "Jul 24, 2026",
         "updated": "Jul 25, 2026",
-        "img": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/pantheon-pmryzyajg6aq.jpg?v=1784957532248"
+        "img": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/pantheon-pmryzyajg6aq.jpg?v=1784957532248",
+        "faction": "",
+        "history": "Lunitari, the god of neutral magic and illusions, is patron of the Mages of High Sorcery's Order of the Red Robes and other neutral mages. With her cousins Solinari and Nuitari, she watches over the people of Krynn from the heavens, conveying her power through the red moon that shares her name. She appears as a trickster figure in mythology, using her mastery of illusions to fool gods and heroes alike.",
+        "cleric": "",
+        "secrets": "",
+        "deceased": false,
+        "hidden": false
       },
       {
         "id": "pmryzyajg263",
