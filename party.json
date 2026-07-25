@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-25T06:35:50.530Z",
+  "updatedAt": "2026-07-25T06:35:53.007Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -629,7 +629,7 @@
         "id": "pc-bud-turtlefoot",
         "name": "Bud Turtlefoot",
         "pc": true,
-        "init": "",
+        "init": "9",
         "hp": "5",
         "maxhp": "15",
         "ac": "14",
@@ -641,7 +641,7 @@
         "id": "pc-ayeluna-lou",
         "name": "Ayeluna \"Lou\"",
         "pc": true,
-        "init": "",
+        "init": "4",
         "hp": "",
         "maxhp": "",
         "ac": "10",
@@ -653,7 +653,7 @@
         "id": "pc-kena-price",
         "name": "Kena Price",
         "pc": true,
-        "init": "",
+        "init": "20",
         "hp": "20",
         "maxhp": "32",
         "ac": "18",
