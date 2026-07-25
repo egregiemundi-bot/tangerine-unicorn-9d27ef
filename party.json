@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-25T05:04:58.128Z",
+  "updatedAt": "2026-07-25T05:06:02.918Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -1624,6 +1624,27 @@
         "symbol": "⏳",
         "accent": "#d07b3a",
         "history": "Next came the Age of Dreams, a time when heroes battled the forces of evil. Many modern cultures and institutions saw their origins in this era, including the Knights of Solamnia, the Mages of High Sorcery, and the dwarven kingdom of Thorbardin. Ironically, these cultures often dismiss one another’s foundational stories as baseless myths while fiercely insisting on the veracity of their own.",
+        "cleric": "",
+        "secrets": "",
+        "major": false,
+        "deceased": false,
+        "hidden": false,
+        "updated": "Jul 25, 2026"
+      },
+      {
+        "id": "ahmrzwoze97i0",
+        "created": "Jul 25, 2026",
+        "name": "Age of Might",
+        "subtitle": "Historical Age",
+        "kind": "ages",
+        "alignment": "",
+        "faction": "",
+        "domains": [
+          "Civilization"
+        ],
+        "symbol": "🏛",
+        "accent": "#c9a24a",
+        "history": "During the thousand years before the Cataclysm, known as the Age of Might, several human nations flourished, conquering vast swaths of the continent of Ansalon in the name of good. But the triumph of the Age of Might sowed the seeds of its downfall.",
         "cleric": "",
         "secrets": "",
         "major": false,
