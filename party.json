@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-25T05:02:41.419Z",
+  "updatedAt": "2026-07-25T05:03:48.703Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -1605,6 +1605,29 @@
         "created": "Jul 24, 2026",
         "updated": "Jul 24, 2026",
         "deceased": true
+      },
+      {
+        "id": "ahmrzwm3vu6ts",
+        "created": "Jul 25, 2026",
+        "name": "Age of Dreams",
+        "subtitle": "Historical Age",
+        "kind": "ages",
+        "alignment": "",
+        "faction": "",
+        "domains": [
+          "War",
+          "magic",
+          "building"
+        ],
+        "symbol": "🏛",
+        "accent": "#d07b3a",
+        "history": "Next came the Age of Dreams, a time when heroes battled the forces of evil. Many modern cultures and institutions saw their origins in this era, including the Knights of Solamnia, the Mages of High Sorcery, and the dwarven kingdom of Thorbardin. Ironically, these cultures often dismiss one another’s foundational stories as baseless myths while fiercely insisting on the veracity of their own.",
+        "cleric": "",
+        "secrets": "",
+        "major": false,
+        "deceased": false,
+        "hidden": false,
+        "updated": "Jul 25, 2026"
       }
     ]
   }
