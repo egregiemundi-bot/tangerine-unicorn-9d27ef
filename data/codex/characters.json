@@ -19,7 +19,11 @@
     {
       "id": "kena-price",
       "label": "Kena Price"
+    },
+    {
+      "id": "test-character",
+      "label": "test character"
     }
   ],
-  "updatedAt": "2026-07-13T11:21:12.006Z"
+  "updatedAt": "2026-07-27T17:21:27.290Z"
 }
