@@ -202,7 +202,7 @@
       "visibility": "private",
       "status": "active",
       "importedFrom": "dndbeyond",
-      "updated": "2026-07-27T19:52:27.957Z"
+      "updated": "2026-07-27T20:03:36.121Z"
     },
     "identity": {
       "name": "Caryl Ka'o"
@@ -388,7 +388,7 @@
         "atLevel": 1,
         "description": "A pool of healing = 5 × level.",
         "activation": {
-          "type": "passive"
+          "type": "action"
         },
         "modifiers": [],
         "tags": [
@@ -599,6 +599,66 @@
           "class",
           "asi"
         ]
+      },
+      {
+        "id": "feat_vy6i5eje",
+        "name": "Move Hex",
+        "desc": "If the target drops to 0 hit points before this spell ends, you can use a bonus action on a subsequent turn of yours to curse a new creature.",
+        "description": "If the target drops to 0 hit points before this spell ends, you can use a bonus action on a subsequent turn of yours to curse a new creature.",
+        "activation": {
+          "type": "bonus"
+        },
+        "source": "ddb-action"
+      },
+      {
+        "id": "feat_fw7l564c",
+        "name": "Crown of Madness - Maintain Control",
+        "desc": "On your subsequent turns, you must use your action to maintain control over the target, or the spell ends.",
+        "description": "On your subsequent turns, you must use your action to maintain control over the target, or the spell ends.",
+        "activation": {
+          "type": "action"
+        },
+        "source": "ddb-action"
+      },
+      {
+        "id": "feat_emrnkkn7",
+        "name": "Create Pact Weapon",
+        "desc": "You can use your action to create a pact weapon in your empty hand.",
+        "description": "You can use your action to create a pact weapon in your empty hand.",
+        "activation": {
+          "type": "action"
+        },
+        "source": "ddb-action"
+      },
+      {
+        "id": "feat_jgw10q50",
+        "name": "Adjust Hood (Cloak of Elvenkind)",
+        "desc": "Pulling the hood up or down requires an action.",
+        "description": "Pulling the hood up or down requires an action.",
+        "activation": {
+          "type": "action"
+        },
+        "source": "ddb-action"
+      },
+      {
+        "id": "feat_67l2fjtf",
+        "name": "Scimitar of Speed (Off-Hand)",
+        "desc": "Weapon attack (Bonus Action) — magic bonus +2",
+        "description": "Weapon attack (Bonus Action) — magic bonus +2",
+        "activation": {
+          "type": "bonus"
+        },
+        "source": "ddb-action"
+      },
+      {
+        "id": "feat_m7gbl4mk",
+        "name": "Scimitar of Speed (Bonus Action)",
+        "desc": "Weapon attack (Bonus Action) — magic bonus +2",
+        "description": "Weapon attack (Bonus Action) — magic bonus +2",
+        "activation": {
+          "type": "bonus"
+        },
+        "source": "ddb-action"
       }
     ],
     "resources": [
@@ -668,11 +728,36 @@
     ],
     "actions": [
       {
-        "id": "act_65",
+        "id": "act_41",
+        "name": "Scimitar of Speed",
+        "actionCost": "action",
+        "kind": "weapon",
+        "ref": "itm_qbah5",
+        "attack": {
+          "ability": "str",
+          "proficient": true,
+          "reach": 5,
+          "range": null
+        },
+        "damage": [
+          {
+            "dice": "1d6",
+            "mod": "str",
+            "type": "slashing",
+            "versatile": null
+          }
+        ],
+        "properties": [
+          "finesse",
+          "light"
+        ]
+      },
+      {
+        "id": "act_42",
         "name": "Cast Burning Hands",
         "actionCost": "action",
         "kind": "spell",
-        "ref": "spl_rhb96",
+        "ref": "spl_vycj8",
         "consumes": {
           "resource": "slot1",
           "amount": 1,
@@ -680,11 +765,11 @@
         }
       },
       {
-        "id": "act_66",
+        "id": "act_43",
         "name": "Cast Hellish Rebuke",
         "actionCost": "reaction",
         "kind": "spell",
-        "ref": "spl_kebd5",
+        "ref": "spl_7r8jq",
         "consumes": {
           "resource": "slot1",
           "amount": 1,
@@ -692,11 +777,11 @@
         }
       },
       {
-        "id": "act_67",
+        "id": "act_44",
         "name": "Cast Fireball",
         "actionCost": "action",
         "kind": "spell",
-        "ref": "spl_ogx7t",
+        "ref": "spl_fovzl",
         "consumes": {
           "resource": "slot3",
           "amount": 1,
@@ -704,11 +789,11 @@
         }
       },
       {
-        "id": "act_68",
+        "id": "act_45",
         "name": "Cast Hex",
         "actionCost": "bonus",
         "kind": "spell",
-        "ref": "spl_ccycu",
+        "ref": "spl_ydy11",
         "consumes": {
           "resource": "slot1",
           "amount": 1,
@@ -716,19 +801,19 @@
         }
       },
       {
-        "id": "act_69",
+        "id": "act_46",
         "name": "Cast Eldritch Blast",
         "actionCost": "action",
         "kind": "spell",
-        "ref": "spl_p9ux1",
+        "ref": "spl_8fhlo",
         "consumes": null
       },
       {
-        "id": "act_70",
+        "id": "act_47",
         "name": "Cast Inflict Wounds",
         "actionCost": "action",
         "kind": "spell",
-        "ref": "spl_you12",
+        "ref": "spl_6pw0p",
         "consumes": {
           "resource": "slot1",
           "amount": 1,
@@ -736,37 +821,37 @@
         }
       },
       {
-        "id": "act_71",
+        "id": "act_48",
         "name": "Dash",
         "actionCost": "action",
         "kind": "generic"
       },
       {
-        "id": "act_72",
+        "id": "act_49",
         "name": "Disengage",
         "actionCost": "action",
         "kind": "generic"
       },
       {
-        "id": "act_73",
+        "id": "act_50",
         "name": "Dodge",
         "actionCost": "action",
         "kind": "generic"
       },
       {
-        "id": "act_74",
+        "id": "act_51",
         "name": "Hide",
         "actionCost": "action",
         "kind": "generic"
       },
       {
-        "id": "act_75",
+        "id": "act_52",
         "name": "Help",
         "actionCost": "action",
         "kind": "generic"
       },
       {
-        "id": "act_76",
+        "id": "act_53",
         "name": "Search",
         "actionCost": "action",
         "kind": "generic"
@@ -774,7 +859,7 @@
     ],
     "spells": [
       {
-        "id": "spl_uigc6",
+        "id": "spl_f7iq6",
         "_key": "identify",
         "name": "Identify",
         "level": 1,
@@ -794,7 +879,7 @@
         "source": "D&D Beyond"
       },
       {
-        "id": "spl_5uaqu",
+        "id": "spl_0inq0",
         "_key": "green-flame-blade",
         "name": "Green-Flame Blade",
         "level": 0,
@@ -814,7 +899,7 @@
         "source": "D&D Beyond"
       },
       {
-        "id": "spl_rhb96",
+        "id": "spl_vycj8",
         "_key": "burning-hands",
         "name": "Burning Hands",
         "level": 1,
@@ -841,7 +926,7 @@
         "source": "D&D Beyond"
       },
       {
-        "id": "spl_2b07f",
+        "id": "spl_k0r49",
         "_key": "prestidigitation",
         "name": "Prestidigitation",
         "level": 0,
@@ -861,7 +946,7 @@
         "source": "D&D Beyond"
       },
       {
-        "id": "spl_egfgy",
+        "id": "spl_o2bt4",
         "_key": "hold-person",
         "name": "Hold Person",
         "level": 2,
@@ -883,7 +968,7 @@
         "source": "D&D Beyond"
       },
       {
-        "id": "spl_dvna4",
+        "id": "spl_t75jc",
         "_key": "invisibility",
         "name": "Invisibility",
         "level": 2,
@@ -903,7 +988,7 @@
         "source": "D&D Beyond"
       },
       {
-        "id": "spl_3md2q",
+        "id": "spl_8f6wz",
         "_key": "armor-of-agathys",
         "name": "Armor of Agathys",
         "level": 1,
@@ -923,7 +1008,7 @@
         "source": "D&D Beyond"
       },
       {
-        "id": "spl_kebd5",
+        "id": "spl_7r8jq",
         "_key": "hellish-rebuke",
         "name": "Hellish Rebuke",
         "level": 1,
@@ -950,7 +1035,7 @@
         "source": "D&D Beyond"
       },
       {
-        "id": "spl_ogx7t",
+        "id": "spl_fovzl",
         "_key": "fireball",
         "name": "Fireball",
         "level": 3,
@@ -977,7 +1062,7 @@
         "source": "D&D Beyond"
       },
       {
-        "id": "spl_58l6v",
+        "id": "spl_ev0qe",
         "_key": "command",
         "name": "Command",
         "level": 1,
@@ -999,7 +1084,7 @@
         "source": "D&D Beyond"
       },
       {
-        "id": "spl_97f5o",
+        "id": "spl_sd0xb",
         "_key": "lesser-restoration",
         "name": "Lesser Restoration",
         "level": 2,
@@ -1019,7 +1104,7 @@
         "source": "D&D Beyond"
       },
       {
-        "id": "spl_ccycu",
+        "id": "spl_ydy11",
         "_key": "hex",
         "name": "Hex",
         "level": 1,
@@ -1044,7 +1129,7 @@
         "source": "D&D Beyond"
       },
       {
-        "id": "spl_btm7i",
+        "id": "spl_50o0o",
         "_key": "darkness",
         "name": "Darkness",
         "level": 2,
@@ -1064,7 +1149,7 @@
         "source": "D&D Beyond"
       },
       {
-        "id": "spl_liwcp",
+        "id": "spl_pbmju",
         "_key": "counterspell",
         "name": "Counterspell",
         "level": 3,
@@ -1084,7 +1169,7 @@
         "source": "D&D Beyond"
       },
       {
-        "id": "spl_p9ux1",
+        "id": "spl_8fhlo",
         "_key": "eldritch-blast",
         "name": "Eldritch Blast",
         "level": 0,
@@ -1109,7 +1194,7 @@
         "source": "D&D Beyond"
       },
       {
-        "id": "spl_you12",
+        "id": "spl_6pw0p",
         "_key": "inflict-wounds",
         "name": "Inflict Wounds",
         "level": 1,
@@ -1134,7 +1219,7 @@
         "source": "D&D Beyond"
       },
       {
-        "id": "spl_dzc6b",
+        "id": "spl_o9k88",
         "_key": "comprehend-languages",
         "name": "Comprehend Languages",
         "level": 1,
@@ -1154,7 +1239,7 @@
         "source": "D&D Beyond"
       },
       {
-        "id": "spl_qt9n4",
+        "id": "spl_1y3s4",
         "_key": "crown-of-madness",
         "name": "Crown of Madness",
         "level": 2,
@@ -1178,109 +1263,131 @@
     ],
     "inventory": [
       {
-        "id": "itm_dyl3r",
+        "id": "itm_0iis5",
         "name": "Common Clothes",
         "category": "gear",
         "quantity": 1,
         "weight": 0,
-        "equipped": true,
+        "equipped": false,
+        "attuned": false,
         "effect": ""
       },
       {
-        "id": "itm_cd40w",
+        "id": "itm_qbah5",
+        "_key": "scimitar",
         "name": "Scimitar of Speed",
-        "category": "gear",
+        "category": "weapon",
         "quantity": 1,
-        "weight": 0,
+        "weight": 3,
         "equipped": true,
-        "effect": ""
+        "rarity": "common",
+        "attuned": true,
+        "weapon": {
+          "category": "martial-melee",
+          "properties": [
+            "finesse",
+            "light"
+          ],
+          "damage": {
+            "dice": "1d6",
+            "type": "slashing"
+          }
+        }
       },
       {
-        "id": "itm_zo0ua",
+        "id": "itm_0p9fc",
         "name": "Pouch",
         "category": "gear",
         "quantity": 1,
         "weight": 0,
-        "equipped": true,
-        "effect": ""
+        "equipped": false,
+        "attuned": false,
+        "effect": "A cloth or leather pouch can hold up to 20 sling bullets or 50 blowgun needles, "
       },
       {
-        "id": "itm_af4e0",
+        "id": "itm_gto0n",
         "name": "Amulet",
         "category": "gear",
         "quantity": 1,
         "weight": 0,
-        "equipped": true,
-        "effect": ""
+        "equipped": false,
+        "attuned": false,
+        "effect": "A holy symbol is a representation of a god or pantheon. It might be an amulet de"
       },
       {
-        "id": "itm_q3asb",
+        "id": "itm_8pl9m",
         "name": "Belt of Hill Giant Strength",
         "category": "gear",
         "quantity": 1,
         "weight": 0,
         "equipped": true,
-        "effect": ""
+        "attuned": true,
+        "effect": "While wearing this belt, your Strength score changes 21. The item has no effect "
       },
       {
-        "id": "itm_7lnwz",
+        "id": "itm_84gyt",
         "name": "Prayer Book",
         "category": "gear",
         "quantity": 1,
         "weight": 0,
-        "equipped": true,
+        "equipped": false,
+        "attuned": false,
         "effect": ""
       },
       {
-        "id": "itm_bgw0a",
-        "_key": null,
-        "name": "Half Plate +2",
+        "id": "itm_6qx9x",
+        "_key": "half-plate",
+        "name": "Half Plate",
         "category": "armor",
         "quantity": 1,
-        "weight": 10,
+        "weight": 40,
         "equipped": true,
         "rarity": "common",
+        "attuned": false,
         "armor": {
-          "baseAc": 11,
-          "type": "light",
-          "dexCap": 99
+          "baseAc": 15,
+          "type": "medium",
+          "dexCap": 2
         },
         "modifiers": [
           {
             "target": "ac",
             "op": "set-base",
-            "value": 11,
+            "value": 15,
             "type": "armor",
             "condition": "equipped",
-            "source": "Half Plate +2"
+            "source": "Half Plate"
           }
         ]
       },
       {
-        "id": "itm_6cik1",
+        "id": "itm_nqrz6",
         "name": "Incense",
         "category": "gear",
         "quantity": 5,
         "weight": 0,
-        "equipped": true,
+        "equipped": false,
+        "attuned": false,
         "effect": ""
       },
       {
-        "id": "itm_h8fbb",
+        "id": "itm_h68sb",
         "name": "Cloak of Elvenkind",
         "category": "gear",
         "quantity": 1,
         "weight": 0,
         "equipped": true,
-        "effect": ""
+        "attuned": true,
+        "effect": "While you wear this cloak with its hood up, Wisdom (Perception) checks made to s"
       },
       {
-        "id": "itm_wxhwq",
+        "id": "itm_5q3ke",
         "name": "Vestments",
         "category": "gear",
         "quantity": 1,
         "weight": 0,
-        "equipped": true,
+        "equipped": false,
+        "attuned": false,
         "effect": ""
       }
     ],
@@ -1407,7 +1514,7 @@
         "stealth": 3,
         "survival": 0
       },
-      "armorClass": 14,
+      "armorClass": 17,
       "initiative": 3,
       "maxHp": 94,
       "speed": 30,
