@@ -202,7 +202,7 @@
       "visibility": "private",
       "status": "active",
       "importedFrom": "dndbeyond",
-      "updated": "2026-07-27T19:52:26.731Z"
+      "updated": "2026-07-27T19:52:27.957Z"
     },
     "identity": {
       "name": "Caryl Ka'o"
@@ -668,7 +668,7 @@
     ],
     "actions": [
       {
-        "id": "act_53",
+        "id": "act_65",
         "name": "Cast Burning Hands",
         "actionCost": "action",
         "kind": "spell",
@@ -680,7 +680,7 @@
         }
       },
       {
-        "id": "act_54",
+        "id": "act_66",
         "name": "Cast Hellish Rebuke",
         "actionCost": "reaction",
         "kind": "spell",
@@ -692,7 +692,7 @@
         }
       },
       {
-        "id": "act_55",
+        "id": "act_67",
         "name": "Cast Fireball",
         "actionCost": "action",
         "kind": "spell",
@@ -704,7 +704,7 @@
         }
       },
       {
-        "id": "act_56",
+        "id": "act_68",
         "name": "Cast Hex",
         "actionCost": "bonus",
         "kind": "spell",
@@ -716,7 +716,7 @@
         }
       },
       {
-        "id": "act_57",
+        "id": "act_69",
         "name": "Cast Eldritch Blast",
         "actionCost": "action",
         "kind": "spell",
@@ -724,7 +724,7 @@
         "consumes": null
       },
       {
-        "id": "act_58",
+        "id": "act_70",
         "name": "Cast Inflict Wounds",
         "actionCost": "action",
         "kind": "spell",
@@ -736,37 +736,37 @@
         }
       },
       {
-        "id": "act_59",
+        "id": "act_71",
         "name": "Dash",
         "actionCost": "action",
         "kind": "generic"
       },
       {
-        "id": "act_60",
+        "id": "act_72",
         "name": "Disengage",
         "actionCost": "action",
         "kind": "generic"
       },
       {
-        "id": "act_61",
+        "id": "act_73",
         "name": "Dodge",
         "actionCost": "action",
         "kind": "generic"
       },
       {
-        "id": "act_62",
+        "id": "act_74",
         "name": "Hide",
         "actionCost": "action",
         "kind": "generic"
       },
       {
-        "id": "act_63",
+        "id": "act_75",
         "name": "Help",
         "actionCost": "action",
         "kind": "generic"
       },
       {
-        "id": "act_64",
+        "id": "act_76",
         "name": "Search",
         "actionCost": "action",
         "kind": "generic"
@@ -1238,7 +1238,7 @@
         "category": "armor",
         "quantity": 1,
         "weight": 10,
-        "equipped": false,
+        "equipped": true,
         "rarity": "common",
         "armor": {
           "baseAc": 11,
