@@ -202,61 +202,100 @@
       "visibility": "private",
       "status": "active",
       "importedFrom": "dndbeyond",
-      "updated": "2026-07-27T18:40:09.594Z"
+      "updated": "2026-07-27T19:52:26.731Z"
     },
     "identity": {
       "name": "Caryl Ka'o"
     },
     "origin": {
-      "species": "human",
-      "background": "soldier",
+      "species": "high-elf",
+      "background": "acolyte",
       "alignment": "N",
       "size": "medium"
     },
     "abilities": {
       "str": {
-        "base": 10,
-        "score": 10
+        "base": 21,
+        "score": 21
       },
       "dex": {
-        "base": 10,
-        "score": 10
+        "base": 17,
+        "score": 17
       },
       "con": {
-        "base": 10,
-        "score": 10
+        "base": 14,
+        "score": 14
       },
       "int": {
-        "base": 10,
-        "score": 10
+        "base": 11,
+        "score": 11
       },
       "wis": {
         "base": 10,
         "score": 10
       },
       "cha": {
-        "base": 10,
-        "score": 10
+        "base": 15,
+        "score": 15
       }
     },
     "classes": [
       {
-        "id": "cls_3",
-        "class": "fighter",
-        "subclass": null,
-        "level": 1,
+        "id": "cls_7",
+        "class": "paladin",
+        "subclass": "oathbreaker",
+        "level": 6,
         "hitDie": "d10",
-        "spellcasting": null
+        "spellcasting": {
+          "ability": "cha",
+          "type": "prepared",
+          "progression": "half"
+        }
+      },
+      {
+        "id": "cls_23",
+        "class": "warlock",
+        "subclass": null,
+        "level": 6,
+        "hitDie": "d8",
+        "spellcasting": {
+          "ability": "cha",
+          "type": "known",
+          "progression": "pact"
+        }
       }
     ],
     "selections": [],
     "features": [
       {
         "id": "ft_1",
-        "name": "Versatile",
+        "name": "Darkvision",
         "source": "Species",
         "grantedBy": "species",
-        "description": "+1 to every ability score.",
+        "description": "See 60 ft in the dark.",
+        "activation": {
+          "type": "passive"
+        },
+        "modifiers": [
+          {
+            "target": "sense.darkvision",
+            "op": "atLeast",
+            "value": 60,
+            "type": "untyped",
+            "condition": null,
+            "source": "Elf"
+          }
+        ],
+        "tags": [
+          "species"
+        ]
+      },
+      {
+        "id": "ft_2",
+        "name": "Fey Ancestry",
+        "source": "Species",
+        "grantedBy": "species",
+        "description": "Advantage vs. charmed; immune to magical sleep.",
         "activation": {
           "type": "passive"
         },
@@ -266,8 +305,50 @@
         ]
       },
       {
-        "id": "ft_2",
-        "name": "Military Rank",
+        "id": "ft_3",
+        "name": "Trance",
+        "source": "Species",
+        "grantedBy": "species",
+        "description": "Meditate 4 hours instead of sleeping 8.",
+        "activation": {
+          "type": "passive"
+        },
+        "modifiers": [],
+        "tags": [
+          "species"
+        ]
+      },
+      {
+        "id": "ft_4",
+        "name": "Keen Senses",
+        "source": "Species",
+        "grantedBy": "species",
+        "description": "Proficiency in Perception.",
+        "activation": {
+          "type": "passive"
+        },
+        "modifiers": [],
+        "tags": [
+          "species"
+        ]
+      },
+      {
+        "id": "ft_5",
+        "name": "Cantrip",
+        "source": "Species",
+        "grantedBy": "species",
+        "description": "Know one wizard cantrip (Int).",
+        "activation": {
+          "type": "passive"
+        },
+        "modifiers": [],
+        "tags": [
+          "species"
+        ]
+      },
+      {
+        "id": "ft_6",
+        "name": "Shelter of the Faithful",
         "source": "Background",
         "grantedBy": "background",
         "description": "Background feature.",
@@ -280,11 +361,46 @@
         ]
       },
       {
-        "id": "ft_4",
-        "name": "Fighting Style",
-        "source": "Fighter",
+        "id": "ft_8",
+        "name": "Divine Sense",
+        "source": "Paladin",
         "grantedBy": "class",
         "atLevel": 1,
+        "description": "Detect celestials, fiends, and undead nearby.",
+        "activation": {
+          "type": "action"
+        },
+        "modifiers": [],
+        "tags": [
+          "class"
+        ],
+        "uses": {
+          "max": 3,
+          "per": "long",
+          "current": 3
+        }
+      },
+      {
+        "id": "ft_10",
+        "name": "Lay on Hands",
+        "source": "Paladin",
+        "grantedBy": "class",
+        "atLevel": 1,
+        "description": "A pool of healing = 5 × level.",
+        "activation": {
+          "type": "passive"
+        },
+        "modifiers": [],
+        "tags": [
+          "class"
+        ]
+      },
+      {
+        "id": "ft_12",
+        "name": "Fighting Style",
+        "source": "Paladin",
+        "grantedBy": "class",
+        "atLevel": 2,
         "description": "Choose a combat specialty.",
         "activation": {
           "type": "passive"
@@ -295,12 +411,57 @@
         ]
       },
       {
-        "id": "ft_5",
-        "name": "Second Wind",
-        "source": "Fighter",
+        "id": "ft_13",
+        "name": "Spellcasting",
+        "source": "Paladin",
         "grantedBy": "class",
-        "atLevel": 1,
-        "description": "Bonus action: regain 1d10 + fighter level HP.",
+        "atLevel": 2,
+        "description": "You can prepare and cast paladin spells (Cha).",
+        "activation": {
+          "type": "passive"
+        },
+        "modifiers": [],
+        "tags": [
+          "class"
+        ]
+      },
+      {
+        "id": "ft_14",
+        "name": "Divine Smite",
+        "source": "Paladin",
+        "grantedBy": "class",
+        "atLevel": 2,
+        "description": "On a melee hit, expend a slot for +2d8 radiant (+1d8/level above 1st; +1d8 vs undead/fiends).",
+        "activation": {
+          "type": "passive"
+        },
+        "modifiers": [],
+        "tags": [
+          "class"
+        ]
+      },
+      {
+        "id": "ft_15",
+        "name": "Divine Health",
+        "source": "Paladin",
+        "grantedBy": "class",
+        "atLevel": 3,
+        "description": "Immune to disease.",
+        "activation": {
+          "type": "passive"
+        },
+        "modifiers": [],
+        "tags": [
+          "class"
+        ]
+      },
+      {
+        "id": "ft_16",
+        "name": "Channel Divinity",
+        "source": "Paladin",
+        "grantedBy": "class",
+        "atLevel": 3,
+        "description": "Use your oath's Channel Divinity option.",
         "activation": {
           "type": "action"
         },
@@ -313,208 +474,814 @@
           "per": "short",
           "current": 1
         }
+      },
+      {
+        "id": "ft_18",
+        "name": "Ability Score Improvement",
+        "source": "Paladin",
+        "grantedBy": "class",
+        "atLevel": 4,
+        "description": "",
+        "activation": {
+          "type": "passive"
+        },
+        "modifiers": [],
+        "tags": [
+          "class",
+          "asi"
+        ]
+      },
+      {
+        "id": "ft_19",
+        "name": "Extra Attack",
+        "source": "Paladin",
+        "grantedBy": "class",
+        "atLevel": 5,
+        "description": "Attack twice when you take the Attack action.",
+        "activation": {
+          "type": "passive"
+        },
+        "modifiers": [
+          {
+            "target": "attacksPerAction",
+            "op": "set",
+            "value": 2,
+            "type": "untyped",
+            "condition": null,
+            "source": "Extra Attack"
+          }
+        ],
+        "tags": [
+          "class"
+        ]
+      },
+      {
+        "id": "ft_20",
+        "name": "Aura of Protection",
+        "source": "Paladin",
+        "grantedBy": "class",
+        "atLevel": 6,
+        "description": "You and allies within 10 ft add your Cha modifier (min +1) to all saves.",
+        "activation": {
+          "type": "passive"
+        },
+        "modifiers": [
+          {
+            "target": "save.*",
+            "op": "add",
+            "value": "max(1, cha_mod)",
+            "type": "aura",
+            "condition": null,
+            "source": "Aura of Protection"
+          }
+        ],
+        "tags": [
+          "class"
+        ]
+      },
+      {
+        "id": "ft_24",
+        "name": "Pact Magic",
+        "source": "Warlock",
+        "grantedBy": "class",
+        "atLevel": 1,
+        "description": "Cast warlock spells using short-rest Pact slots (Charisma).",
+        "activation": {
+          "type": "passive"
+        },
+        "modifiers": [],
+        "tags": [
+          "class"
+        ]
+      },
+      {
+        "id": "ft_25",
+        "name": "Eldritch Invocations",
+        "source": "Warlock",
+        "grantedBy": "class",
+        "atLevel": 2,
+        "description": "Gain fragments of forbidden knowledge that grant magical abilities.",
+        "activation": {
+          "type": "passive"
+        },
+        "modifiers": [],
+        "tags": [
+          "class"
+        ]
+      },
+      {
+        "id": "ft_26",
+        "name": "Pact Boon",
+        "source": "Warlock",
+        "grantedBy": "class",
+        "atLevel": 3,
+        "description": "Pact of the Blade, Chain, or Tome.",
+        "activation": {
+          "type": "passive"
+        },
+        "modifiers": [],
+        "tags": [
+          "class"
+        ]
+      },
+      {
+        "id": "ft_27",
+        "name": "Ability Score Improvement",
+        "source": "Warlock",
+        "grantedBy": "class",
+        "atLevel": 4,
+        "description": "",
+        "activation": {
+          "type": "passive"
+        },
+        "modifiers": [],
+        "tags": [
+          "class",
+          "asi"
+        ]
       }
     ],
     "resources": [
       {
-        "id": "res_6",
-        "name": "Second Wind",
-        "source": "Fighter",
+        "id": "res_9",
+        "name": "Divine Sense",
+        "source": "Paladin",
+        "grantedBy": "class",
+        "kind": "feature-use",
+        "max": 3,
+        "per": "long",
+        "current": 3
+      },
+      {
+        "id": "res_11",
+        "name": "Lay on Hands Pool",
+        "source": "Paladin",
+        "grantedBy": "class",
+        "kind": "pool",
+        "max": 30,
+        "per": "long",
+        "current": 30
+      },
+      {
+        "id": "res_17",
+        "name": "Channel Divinity",
+        "source": "Paladin",
         "grantedBy": "class",
         "kind": "feature-use",
         "max": 1,
         "per": "short",
         "current": 1
+      },
+      {
+        "id": "res_21",
+        "name": "Spell Slots — Level 1",
+        "source": "Paladin",
+        "grantedBy": "class",
+        "kind": "spell-slot",
+        "slotLevel": 1,
+        "max": 4,
+        "per": "long",
+        "current": 4
+      },
+      {
+        "id": "res_22",
+        "name": "Spell Slots — Level 2",
+        "source": "Paladin",
+        "grantedBy": "class",
+        "kind": "spell-slot",
+        "slotLevel": 2,
+        "max": 2,
+        "per": "long",
+        "current": 2
+      },
+      {
+        "id": "res_28",
+        "name": "Pact Slots — Level 3",
+        "source": "Warlock",
+        "grantedBy": "class",
+        "kind": "pact-slot",
+        "slotLevel": 3,
+        "max": 2,
+        "per": "short",
+        "current": 2
       }
     ],
     "actions": [
       {
-        "id": "act_19",
-        "name": "Longsword",
+        "id": "act_53",
+        "name": "Cast Burning Hands",
         "actionCost": "action",
-        "kind": "weapon",
-        "ref": "itm_8",
-        "attack": {
-          "ability": "str",
-          "proficient": true,
-          "reach": 5,
-          "range": null
-        },
-        "damage": [
-          {
-            "dice": "1d8",
-            "mod": "str",
-            "type": "slashing",
-            "versatile": "1d10"
-          }
-        ],
-        "properties": [
-          "versatile"
-        ]
+        "kind": "spell",
+        "ref": "spl_rhb96",
+        "consumes": {
+          "resource": "slot1",
+          "amount": 1,
+          "scalable": true
+        }
       },
       {
-        "id": "act_20",
-        "name": "Light Crossbow",
-        "actionCost": "action",
-        "kind": "weapon",
-        "ref": "itm_10",
-        "attack": {
-          "ability": "dex",
-          "proficient": true,
-          "reach": null,
-          "range": [
-            80,
-            320
-          ]
-        },
-        "damage": [
-          {
-            "dice": "1d8",
-            "mod": "dex",
-            "type": "piercing",
-            "versatile": null
-          }
-        ],
-        "properties": [
-          "ammunition",
-          "loading",
-          "two-handed"
-        ]
+        "id": "act_54",
+        "name": "Cast Hellish Rebuke",
+        "actionCost": "reaction",
+        "kind": "spell",
+        "ref": "spl_kebd5",
+        "consumes": {
+          "resource": "slot1",
+          "amount": 1,
+          "scalable": true
+        }
       },
       {
-        "id": "act_21",
+        "id": "act_55",
+        "name": "Cast Fireball",
+        "actionCost": "action",
+        "kind": "spell",
+        "ref": "spl_ogx7t",
+        "consumes": {
+          "resource": "slot3",
+          "amount": 1,
+          "scalable": true
+        }
+      },
+      {
+        "id": "act_56",
+        "name": "Cast Hex",
+        "actionCost": "bonus",
+        "kind": "spell",
+        "ref": "spl_ccycu",
+        "consumes": {
+          "resource": "slot1",
+          "amount": 1,
+          "scalable": true
+        }
+      },
+      {
+        "id": "act_57",
+        "name": "Cast Eldritch Blast",
+        "actionCost": "action",
+        "kind": "spell",
+        "ref": "spl_p9ux1",
+        "consumes": null
+      },
+      {
+        "id": "act_58",
+        "name": "Cast Inflict Wounds",
+        "actionCost": "action",
+        "kind": "spell",
+        "ref": "spl_you12",
+        "consumes": {
+          "resource": "slot1",
+          "amount": 1,
+          "scalable": true
+        }
+      },
+      {
+        "id": "act_59",
         "name": "Dash",
         "actionCost": "action",
         "kind": "generic"
       },
       {
-        "id": "act_22",
+        "id": "act_60",
         "name": "Disengage",
         "actionCost": "action",
         "kind": "generic"
       },
       {
-        "id": "act_23",
+        "id": "act_61",
         "name": "Dodge",
         "actionCost": "action",
         "kind": "generic"
       },
       {
-        "id": "act_24",
+        "id": "act_62",
         "name": "Hide",
         "actionCost": "action",
         "kind": "generic"
       },
       {
-        "id": "act_25",
+        "id": "act_63",
         "name": "Help",
         "actionCost": "action",
         "kind": "generic"
       },
       {
-        "id": "act_26",
+        "id": "act_64",
         "name": "Search",
         "actionCost": "action",
         "kind": "generic"
       }
     ],
-    "spells": [],
+    "spells": [
+      {
+        "id": "spl_uigc6",
+        "_key": "identify",
+        "name": "Identify",
+        "level": 1,
+        "school": "divination",
+        "castingTime": "1 Minute",
+        "actionCost": "action",
+        "ritual": true,
+        "concentration": false,
+        "range": "Touch",
+        "duration": "Instantaneous",
+        "save": null,
+        "attack": null,
+        "damage": null,
+        "healing": null,
+        "description": "You choose one object that you must touch throughout the casting of the spell. If it is a magic item or some other magic-imbued object, you learn its properties and how to use them, whether it requires attunement to use, and how many charges it has, if any. You learn whether any spells are affecting the item and what they are. If the item was created by a spell, you learn which spell created it. If you instead touch a creature throughout the casting, you learn what spells, if any, are currently affecting it.",
+        "prepared": true,
+        "source": "D&D Beyond"
+      },
+      {
+        "id": "spl_5uaqu",
+        "_key": "green-flame-blade",
+        "name": "Green-Flame Blade",
+        "level": 0,
+        "school": "evocation",
+        "castingTime": "1 Action",
+        "actionCost": "action",
+        "ritual": false,
+        "concentration": false,
+        "range": "Self (5 ft)",
+        "duration": "Instantaneous",
+        "save": null,
+        "attack": "melee",
+        "damage": null,
+        "healing": null,
+        "description": "You brandish the weapon used in the spell’s casting and make a melee attack with it against one creature within 5 feet of you. On a hit, the target suffers the weapon attack’s normal effects, and you can cause green fire to leap from the target to a different creature of your choice that you can see within 5 feet of it. The second creature takes fire damage equal to your spellcasting ability modifier. This spell’s damage increases when you reach certain levels. At 5th level, the melee attack deals an extra 1d8 fire damage to the target on a hit, and the fire damage to the second creature increases to 1d8 + your spellcasting ability modifier. Both damage rolls increase by 1d8 at 11th level (2d8 and 2d8) and 17th level (3d8 and 3d8).",
+        "prepared": true,
+        "source": "D&D Beyond"
+      },
+      {
+        "id": "spl_rhb96",
+        "_key": "burning-hands",
+        "name": "Burning Hands",
+        "level": 1,
+        "school": "evocation",
+        "castingTime": "1 action",
+        "actionCost": "action",
+        "ritual": false,
+        "concentration": false,
+        "range": "self (15 ft)",
+        "duration": "Instantaneous",
+        "save": {
+          "ability": "dex"
+        },
+        "attack": null,
+        "damage": [
+          {
+            "dice": "3d6",
+            "type": "fire"
+          }
+        ],
+        "healing": null,
+        "description": "As you hold your hands with thumbs touching and fingers spread, a thin sheet of flames shoots forth from your outstretched fingertips. Each creature in a 15-foot cone must make a Dexterity saving throw. A creature takes 3d6 fire damage on a failed save, or half as much damage on a successful one. The fire ignites any flammable objects in the area that aren't being worn or carried. At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.",
+        "prepared": true,
+        "source": "D&D Beyond"
+      },
+      {
+        "id": "spl_2b07f",
+        "_key": "prestidigitation",
+        "name": "Prestidigitation",
+        "level": 0,
+        "school": "transmutation",
+        "castingTime": "1 action",
+        "actionCost": "action",
+        "ritual": false,
+        "concentration": false,
+        "range": "10 ft",
+        "duration": "up to 1 hr",
+        "save": null,
+        "attack": null,
+        "damage": null,
+        "healing": null,
+        "description": "This spell is a minor magical trick that novice spellcasters use for practice. You create one of the following magical effects within range: You create an instantaneous, harmless sensory effect, such as a shower of sparks, a puff of wind, faint musical notes, or an odd odor. You instantaneously light or snuff out a candle, a torch, or a small campfire. You instantaneously clean or soil an object no larger than 1 cubic foot. You chill, warm, or flavor up to 1 cubic foot of nonliving material for 1 hour. You make a color, a small mark, or a symbol appear on an object or a surface for 1 hour. You create a nonmagical trinket or an illusory image that can fit in your hand and that lasts until the end of your next turn. If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.",
+        "prepared": true,
+        "source": "D&D Beyond"
+      },
+      {
+        "id": "spl_egfgy",
+        "_key": "hold-person",
+        "name": "Hold Person",
+        "level": 2,
+        "school": "enchantment",
+        "castingTime": "1 action",
+        "actionCost": "action",
+        "ritual": false,
+        "concentration": true,
+        "range": "60 ft",
+        "duration": "1 Minute",
+        "save": {
+          "ability": "wis"
+        },
+        "attack": null,
+        "damage": null,
+        "healing": null,
+        "description": "Choose a humanoid that you can see within range. The target must succeed on a Wisdom saving throw or be paralyzed for the duration. At the end of each of its turns, the target can make another Wisdom saving throw. On a success, the spell ends on the target. At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, you can target one additional humanoid for each slot level above 2nd. The humanoids must be within 30 feet of each other when you target them.",
+        "prepared": true,
+        "source": "D&D Beyond"
+      },
+      {
+        "id": "spl_dvna4",
+        "_key": "invisibility",
+        "name": "Invisibility",
+        "level": 2,
+        "school": "illusion",
+        "castingTime": "1 action",
+        "actionCost": "action",
+        "ritual": false,
+        "concentration": true,
+        "range": "touch",
+        "duration": "1 Hour",
+        "save": null,
+        "attack": null,
+        "damage": null,
+        "healing": null,
+        "description": "A creature you touch becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target's person. The spell ends for a target that attacks or casts a spell. At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.",
+        "prepared": true,
+        "source": "D&D Beyond"
+      },
+      {
+        "id": "spl_3md2q",
+        "_key": "armor-of-agathys",
+        "name": "Armor of Agathys",
+        "level": 1,
+        "school": "abjuration",
+        "castingTime": "1 Action",
+        "actionCost": "action",
+        "ritual": false,
+        "concentration": false,
+        "range": "Self",
+        "duration": "1 Hour",
+        "save": null,
+        "attack": null,
+        "damage": null,
+        "healing": null,
+        "description": "A protective magical force surrounds you, manifesting as a spectral frost that covers you and your gear. You gain 5 temporary hit points for the duration. If a creature hits you with a melee attack while you have these hit points, the creature takes 5 cold damage. At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, both the temporary hit points and the cold damage increase by 5 for each slot level above 1st.",
+        "prepared": true,
+        "source": "D&D Beyond"
+      },
+      {
+        "id": "spl_kebd5",
+        "_key": "hellish-rebuke",
+        "name": "Hellish Rebuke",
+        "level": 1,
+        "school": "evocation",
+        "castingTime": "1 Reaction *",
+        "actionCost": "reaction",
+        "ritual": false,
+        "concentration": false,
+        "range": "60 ft",
+        "duration": "Instantaneous",
+        "save": {
+          "ability": "dex"
+        },
+        "attack": null,
+        "damage": [
+          {
+            "dice": "2d10",
+            "type": "fire"
+          }
+        ],
+        "healing": null,
+        "description": "You point your finger, and the creature that damaged you is momentarily surrounded by hellish flames. The creature must make a Dexterity saving throw. It takes 2d10 fire damage on a failed save, or half as much damage on a successful one. At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st.",
+        "prepared": true,
+        "source": "D&D Beyond"
+      },
+      {
+        "id": "spl_ogx7t",
+        "_key": "fireball",
+        "name": "Fireball",
+        "level": 3,
+        "school": "evocation",
+        "castingTime": "1 action",
+        "actionCost": "action",
+        "ritual": false,
+        "concentration": false,
+        "range": "150 ft",
+        "duration": "Instantaneous",
+        "save": {
+          "ability": "dex"
+        },
+        "attack": null,
+        "damage": [
+          {
+            "dice": "8d6",
+            "type": "fire"
+          }
+        ],
+        "healing": null,
+        "description": "A bright streak flashes from your pointing finger to a point you choose within range and then blossoms with a low roar into an explosion of flame. Each creature in a 20-foot-radius sphere centered on that point must make a Dexterity saving throw. A target takes 8d6 fire damage on a failed save, or half as much damage on a successful one. The fire spreads around corners. It ignites flammable objects in the area that aren't being worn or carried. At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.",
+        "prepared": true,
+        "source": "D&D Beyond"
+      },
+      {
+        "id": "spl_58l6v",
+        "_key": "command",
+        "name": "Command",
+        "level": 1,
+        "school": "enchantment",
+        "castingTime": "1 action",
+        "actionCost": "action",
+        "ritual": false,
+        "concentration": false,
+        "range": "60 ft",
+        "duration": "1 Round",
+        "save": {
+          "ability": "wis"
+        },
+        "attack": null,
+        "damage": null,
+        "healing": null,
+        "description": "You speak a one-word command to a creature you can see within range. The target must succeed on a Wisdom saving throw or follow the command on its next turn. The spell has no effect if the target is undead, if it doesn't understand your language, or if your command is directly harmful to it. Some typical commands and their effects follow. You might issue a command other than one described here. If you do so, the GM determines how the target behaves. If the target can't follow your command, the spell ends. Approach. The target moves toward you by the shortest and most direct route, ending its turn if it moves within 5 feet of you. Drop. The target drops whatever it is holding and then ends its turn. Flee. The target spends its turn moving away from you by the fastest available means. Grovel. The target falls prone and then ends its turn. Halt. The target doesn't move and takes no actions. A flying creature stays aloft, provided that it is able to do so. If it must move to stay aloft, it flies the minimum distance needed to remain in the air. At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, you can affect one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them.",
+        "prepared": true,
+        "source": "D&D Beyond"
+      },
+      {
+        "id": "spl_97f5o",
+        "_key": "lesser-restoration",
+        "name": "Lesser Restoration",
+        "level": 2,
+        "school": "abjuration",
+        "castingTime": "1 action",
+        "actionCost": "action",
+        "ritual": false,
+        "concentration": false,
+        "range": "touch",
+        "duration": "Instantaneous",
+        "save": null,
+        "attack": null,
+        "damage": null,
+        "healing": null,
+        "description": "You touch a creature and can end either one disease or one condition afflicting it. The condition can be blinded, deafened, paralyzed, or poisoned.",
+        "prepared": true,
+        "source": "D&D Beyond"
+      },
+      {
+        "id": "spl_ccycu",
+        "_key": "hex",
+        "name": "Hex",
+        "level": 1,
+        "school": "enchantment",
+        "castingTime": "1 action",
+        "actionCost": "bonus",
+        "ritual": false,
+        "concentration": true,
+        "range": "90 ft",
+        "duration": "1 Hour",
+        "save": null,
+        "attack": null,
+        "damage": [
+          {
+            "dice": "1d6",
+            "type": "necrotic"
+          }
+        ],
+        "healing": null,
+        "description": "You place a curse on a creature that you can see within range. Until the spell ends, you deal an extra ld6 necrotic damage to the target whenever you hit it with an attack. Also, choose one ability when you cast the spell. The target has disadvantage on ability checks made with the chosen ability. If the target drops to 0 hit points before this spell ends, you can use a bonus action on a subsequent turn of yours to curse a new creature. A remove curse cast on the target ends this spell early. At Higher Levels. When you cast this spell using a spell slot of 3rd or 4th level, you can maintain your concentration on the spell for up to 8 hours. When you use a spell slot of 5th level or higher, you can maintain your concentration on the spell for up to 24 hours.",
+        "prepared": true,
+        "source": "D&D Beyond"
+      },
+      {
+        "id": "spl_btm7i",
+        "_key": "darkness",
+        "name": "Darkness",
+        "level": 2,
+        "school": "evocation",
+        "castingTime": "1 action",
+        "actionCost": "action",
+        "ritual": false,
+        "concentration": true,
+        "range": "60 ft",
+        "duration": "10 min",
+        "save": null,
+        "attack": null,
+        "damage": null,
+        "healing": null,
+        "description": "Magical darkness spreads from a point you choose within range to fill a 15-foot-radius sphere for the duration. The darkness spreads around corners. A creature with darkvision can't see through this darkness, and nonmagical light can't illuminate it. If the point you choose is on an object you are holding or one that isn't being worn or carried, the darkness emanates from the object and moves with it. Completely covering the source of the darkness with an opaque object, such as a bowl or a helm, blocks the darkness. If any of this spell's area overlaps with an area of light created by a spell of 2nd level or lower, the spell that created the light is dispelled.",
+        "prepared": true,
+        "source": "D&D Beyond"
+      },
+      {
+        "id": "spl_liwcp",
+        "_key": "counterspell",
+        "name": "Counterspell",
+        "level": 3,
+        "school": "abjuration",
+        "castingTime": "1 action",
+        "actionCost": "reaction",
+        "ritual": false,
+        "concentration": false,
+        "range": "60 ft",
+        "duration": "Instantaneous",
+        "save": null,
+        "attack": null,
+        "damage": null,
+        "healing": null,
+        "description": "You attempt to interrupt a creature in the process of casting a spell. If the creature is casting a spell of 3rd level or lower, its spell fails and has no effect. If it is casting a spell of 4th level or higher, make an ability check using your spellcasting ability. The DC equals 10 + the spell's level. On a success, the creature's spell fails and has no effect. At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the interrupted spell has no effect if its level is less than or equal to the level of the spell slot you used.",
+        "prepared": true,
+        "source": "D&D Beyond"
+      },
+      {
+        "id": "spl_p9ux1",
+        "_key": "eldritch-blast",
+        "name": "Eldritch Blast",
+        "level": 0,
+        "school": "evocation",
+        "castingTime": "1 action",
+        "actionCost": "action",
+        "ritual": false,
+        "concentration": false,
+        "range": "120 ft",
+        "duration": "Instantaneous",
+        "save": null,
+        "attack": true,
+        "damage": [
+          {
+            "dice": "1d10",
+            "type": "force"
+          }
+        ],
+        "healing": null,
+        "description": "A beam of crackling energy streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 force damage. The spell creates more than one beam when you reach higher levels: two beams at 5th level, three beams at 11th level, and four beams at 17th level. You can direct the beams at the same target or at different ones. Make a separate attack roll for each beam.",
+        "prepared": true,
+        "source": "D&D Beyond"
+      },
+      {
+        "id": "spl_you12",
+        "_key": "inflict-wounds",
+        "name": "Inflict Wounds",
+        "level": 1,
+        "school": "necromancy",
+        "castingTime": "1 action",
+        "actionCost": "action",
+        "ritual": false,
+        "concentration": false,
+        "range": "touch",
+        "duration": "Instantaneous",
+        "save": null,
+        "attack": true,
+        "damage": [
+          {
+            "dice": "3d10",
+            "type": "necrotic"
+          }
+        ],
+        "healing": null,
+        "description": "Make a melee spell attack against a creature you can reach. On a hit, the target takes 3d10 necrotic damage. At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st.",
+        "prepared": true,
+        "source": "D&D Beyond"
+      },
+      {
+        "id": "spl_dzc6b",
+        "_key": "comprehend-languages",
+        "name": "Comprehend Languages",
+        "level": 1,
+        "school": "divination",
+        "castingTime": "1 action",
+        "actionCost": "action",
+        "ritual": true,
+        "concentration": false,
+        "range": "self",
+        "duration": "1 hr",
+        "save": null,
+        "attack": null,
+        "damage": null,
+        "healing": null,
+        "description": "For the duration, you understand the literal meaning of any spoken language that you hear. You also understand any written language that you see, but you must be touching the surface on which the words are written. It takes about 1 minute to read one page of text. This spell doesn't decode secret messages in a text or a glyph, such as an arcane sigil, that isn't part of a written language.",
+        "prepared": true,
+        "source": "D&D Beyond"
+      },
+      {
+        "id": "spl_qt9n4",
+        "_key": "crown-of-madness",
+        "name": "Crown of Madness",
+        "level": 2,
+        "school": "enchantment",
+        "castingTime": "1 Action",
+        "actionCost": "action",
+        "ritual": false,
+        "concentration": true,
+        "range": "120 ft",
+        "duration": "1 Minute",
+        "save": {
+          "ability": "wis"
+        },
+        "attack": null,
+        "damage": null,
+        "healing": null,
+        "description": "One humanoid of your choice that you can see within range must succeed on a Wisdom saving throw or become charmed by you for the duration. While the target is charmed in this way, a twisted crown of jagged iron appears on its head, and a madness glows in its eyes. The charmed target must use its action before moving on each of its turns to make a melee attack against a creature other than itself that you mentally choose. The target can act normally on its turn if you choose no creature or if none are within its reach. On your subsequent turns, you must use your action to maintain control over the target, or the spell ends. Also, the target can make a Wisdom saving throw at the end of each of its turns. On a success, the spell ends.",
+        "prepared": true,
+        "source": "D&D Beyond"
+      }
+    ],
     "inventory": [
       {
-        "id": "itm_7",
-        "_key": "chain-mail",
-        "name": "Chain Mail",
+        "id": "itm_dyl3r",
+        "name": "Common Clothes",
+        "category": "gear",
+        "quantity": 1,
+        "weight": 0,
+        "equipped": true,
+        "effect": ""
+      },
+      {
+        "id": "itm_cd40w",
+        "name": "Scimitar of Speed",
+        "category": "gear",
+        "quantity": 1,
+        "weight": 0,
+        "equipped": true,
+        "effect": ""
+      },
+      {
+        "id": "itm_zo0ua",
+        "name": "Pouch",
+        "category": "gear",
+        "quantity": 1,
+        "weight": 0,
+        "equipped": true,
+        "effect": ""
+      },
+      {
+        "id": "itm_af4e0",
+        "name": "Amulet",
+        "category": "gear",
+        "quantity": 1,
+        "weight": 0,
+        "equipped": true,
+        "effect": ""
+      },
+      {
+        "id": "itm_q3asb",
+        "name": "Belt of Hill Giant Strength",
+        "category": "gear",
+        "quantity": 1,
+        "weight": 0,
+        "equipped": true,
+        "effect": ""
+      },
+      {
+        "id": "itm_7lnwz",
+        "name": "Prayer Book",
+        "category": "gear",
+        "quantity": 1,
+        "weight": 0,
+        "equipped": true,
+        "effect": ""
+      },
+      {
+        "id": "itm_bgw0a",
+        "_key": null,
+        "name": "Half Plate +2",
         "category": "armor",
         "quantity": 1,
-        "weight": 55,
-        "equipped": true,
+        "weight": 10,
+        "equipped": false,
         "rarity": "common",
         "armor": {
-          "baseAc": 16,
-          "type": "heavy",
-          "dexCap": 0,
-          "stealthDisadvantage": true,
-          "strReq": 13
+          "baseAc": 11,
+          "type": "light",
+          "dexCap": 99
         },
         "modifiers": [
           {
             "target": "ac",
             "op": "set-base",
-            "value": 16,
+            "value": 11,
             "type": "armor",
             "condition": "equipped",
-            "source": "Chain Mail"
+            "source": "Half Plate +2"
           }
         ]
       },
       {
-        "id": "itm_8",
-        "_key": "longsword",
-        "name": "Longsword",
-        "category": "weapon",
-        "quantity": 1,
-        "weight": 3,
+        "id": "itm_6cik1",
+        "name": "Incense",
+        "category": "gear",
+        "quantity": 5,
+        "weight": 0,
         "equipped": true,
-        "rarity": "common",
-        "weapon": {
-          "category": "martial-melee",
-          "properties": [
-            "versatile"
-          ],
-          "damage": {
-            "dice": "1d8",
-            "type": "slashing",
-            "versatile": "1d10"
-          }
-        },
-        "modifiers": []
+        "effect": ""
       },
       {
-        "id": "itm_9",
-        "_key": "shield",
-        "name": "Shield",
-        "category": "armor",
+        "id": "itm_h8fbb",
+        "name": "Cloak of Elvenkind",
+        "category": "gear",
         "quantity": 1,
-        "weight": 6,
+        "weight": 0,
         "equipped": true,
-        "rarity": "common",
-        "modifiers": [
-          {
-            "target": "ac",
-            "op": "add",
-            "value": 2,
-            "type": "shield",
-            "condition": "equipped",
-            "source": "Shield"
-          }
-        ]
+        "effect": ""
       },
       {
-        "id": "itm_10",
-        "_key": "light-crossbow",
-        "name": "Light Crossbow",
-        "category": "weapon",
+        "id": "itm_wxhwq",
+        "name": "Vestments",
+        "category": "gear",
         "quantity": 1,
-        "weight": 3,
+        "weight": 0,
         "equipped": true,
-        "rarity": "common",
-        "weapon": {
-          "category": "simple-ranged",
-          "properties": [
-            "ammunition",
-            "loading",
-            "two-handed"
-          ],
-          "damage": {
-            "dice": "1d8",
-            "type": "piercing"
-          },
-          "range": [
-            80,
-            320
-          ]
-        },
-        "modifiers": []
+        "effect": ""
       }
     ],
     "currency": {
@@ -530,15 +1297,23 @@
     "overrides": [
       {
         "target": "maxHp",
-        "value": 8,
+        "value": 94,
         "reason": "Imported from D&D Beyond"
       }
     ],
     "proficiencies": {
-      "skills": {},
+      "skills": {
+        "religion": true,
+        "perception": true,
+        "arcana": true,
+        "intimidation": true,
+        "persuasion": true,
+        "insight": true,
+        "deception": true
+      },
       "saves": {
-        "str": true,
-        "con": true
+        "wis": true,
+        "cha": true
       },
       "armor": {
         "light": true,
@@ -555,11 +1330,12 @@
     },
     "languages": [
       "Common",
-      "one of your choice"
+      "Elvish",
+      "one extra"
     ],
     "state": {
       "hp": {
-        "current": 8,
+        "current": 94,
         "temp": 0
       },
       "activeConditions": [],
@@ -568,8 +1344,13 @@
       "hitDice": [
         {
           "die": "d10",
-          "total": 1,
-          "remaining": 1
+          "total": 6,
+          "remaining": 6
+        },
+        {
+          "die": "d8",
+          "total": 6,
+          "remaining": 6
         }
       ],
       "deathSaves": {
@@ -580,99 +1361,124 @@
     "speedBase": 30,
     "derivedCache": {
       "resistances": [],
-      "proficiencyBonus": 2,
-      "level": 1,
+      "proficiencyBonus": 4,
+      "level": 12,
       "abilityScores": {
-        "str": 10,
-        "dex": 10,
-        "con": 10,
-        "int": 10,
+        "str": 21,
+        "dex": 17,
+        "con": 14,
+        "int": 11,
         "wis": 10,
-        "cha": 10
+        "cha": 15
       },
       "abilityMods": {
-        "str": 0,
-        "dex": 0,
-        "con": 0,
-        "int": 0,
-        "wis": 0,
-        "cha": 0
-      },
-      "saves": {
-        "str": 2,
-        "dex": 0,
+        "str": 5,
+        "dex": 3,
         "con": 2,
         "int": 0,
         "wis": 0,
-        "cha": 0
+        "cha": 2
+      },
+      "saves": {
+        "str": 7,
+        "dex": 5,
+        "con": 4,
+        "int": 2,
+        "wis": 6,
+        "cha": 8
       },
       "skills": {
-        "acrobatics": 0,
+        "acrobatics": 3,
         "animal handling": 0,
-        "arcana": 0,
-        "athletics": 0,
-        "deception": 0,
+        "arcana": 4,
+        "athletics": 5,
+        "deception": 6,
         "history": 0,
-        "insight": 0,
-        "intimidation": 0,
+        "insight": 4,
+        "intimidation": 6,
         "investigation": 0,
         "medicine": 0,
         "nature": 0,
-        "perception": 0,
-        "performance": 0,
-        "persuasion": 0,
-        "religion": 0,
-        "sleight of hand": 0,
-        "stealth": 0,
+        "perception": 4,
+        "performance": 2,
+        "persuasion": 6,
+        "religion": 4,
+        "sleight of hand": 3,
+        "stealth": 3,
         "survival": 0
       },
-      "armorClass": 18,
-      "initiative": 0,
-      "maxHp": 8,
+      "armorClass": 14,
+      "initiative": 3,
+      "maxHp": 94,
       "speed": 30,
-      "darkvision": 0,
-      "attacksPerAction": 1,
-      "spellSaveDc": null,
-      "spellAttackBonus": null,
-      "spellcastingAbility": null,
-      "spellcasting": [],
-      "passivePerception": 10,
+      "darkvision": 60,
+      "attacksPerAction": 2,
+      "spellSaveDc": 14,
+      "spellAttackBonus": 6,
+      "spellcastingAbility": "cha",
+      "spellcasting": [
+        {
+          "cls": "paladin",
+          "className": "Paladin",
+          "type": "prepared",
+          "ability": "cha",
+          "cantripsKnown": 0,
+          "limit": 5,
+          "limitKind": "prepared"
+        },
+        {
+          "cls": "warlock",
+          "className": "Warlock",
+          "type": "known",
+          "ability": "cha",
+          "cantripsKnown": 3,
+          "limit": 7,
+          "limitKind": "known"
+        }
+      ],
+      "passivePerception": 14,
       "passiveInvestigation": 10,
-      "passiveInsight": 10
+      "passiveInsight": 14
     },
     "_core": {
       "identity": {
         "name": "Caryl Ka'o"
       },
       "origin": {
-        "species": "human",
-        "background": "soldier",
+        "species": "high-elf",
+        "background": "acolyte",
         "alignment": "N"
       },
       "abilities": {
         "str": {
-          "base": 10
+          "base": 21
         },
         "dex": {
-          "base": 10
+          "base": 17
         },
         "con": {
-          "base": 10
+          "base": 14
         },
         "int": {
-          "base": 10
+          "base": 11
         },
         "wis": {
           "base": 10
         },
         "cha": {
-          "base": 10
+          "base": 15
         }
       },
       "classes": [
         {
-          "class": "fighter",
-          "level": 1
+          "class": "paladin",
+          "level": 6,
+          "subclass": "oathbreaker"
+        },
+        {
+          "class": "warlock",
+          "level": 6,
+          "subclass": null
         }
       ],
       "choices": {},
