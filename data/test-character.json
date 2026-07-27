@@ -202,7 +202,7 @@
       "visibility": "private",
       "status": "active",
       "importedFrom": "dndbeyond",
-      "updated": "2026-07-27T20:03:36.121Z"
+      "updated": "2026-07-27T20:05:05.837Z"
     },
     "identity": {
       "name": "Caryl Ka'o"
@@ -1659,7 +1659,21 @@
         "body": "",
         "custom": false
       }
-    ]
+    ],
+    "theme": {
+      "accent": "#2f6f9c",
+      "accent2": "#2f8a8a",
+      "gold": "#3f93a0",
+      "cxAccent": "#7fc4e0",
+      "cxBg": "#101820"
+    },
+    "diceStyle": {
+      "body": "#171004",
+      "num": "#f4c867",
+      "edge": "#b98a3b",
+      "texture": "none",
+      "customUrl": ""
+    }
   },
   "backstory": {
     "sections": [
