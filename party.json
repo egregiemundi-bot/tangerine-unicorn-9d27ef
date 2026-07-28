@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-28T05:59:42.861Z",
+  "updatedAt": "2026-07-28T06:00:07.799Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -746,12 +746,12 @@
         "castingTime": "1 action",
         "range": "Touch",
         "duration": "Instantaneous",
-        "components": "V, S",
+        "components": "",
         "description": "A creature you touch regains a number of hit points equal to 2d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.",
         "higherLevels": "When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st.",
         "damageType": "",
         "saveType": "",
-        "sourceClass": "Bard, Cleric, Druid, Paladin, Ranger",
+        "sourceClass": "",
         "notes": "",
         "level": 1,
         "concentration": false,
@@ -766,7 +766,7 @@
         "status": "active",
         "submittedBy": "dm",
         "createdAt": "2026-07-28T05:59:42.589Z",
-        "updatedAt": "2026-07-28T05:59:42.589Z"
+        "updatedAt": "2026-07-28T06:00:07.609Z"
       }
     ]
   },
