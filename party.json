@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-28T04:30:01.126Z",
+  "updatedAt": "2026-07-28T05:59:42.861Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -739,6 +739,34 @@
         "submittedBy": "dm",
         "createdAt": "2026-07-17T19:36:13.084Z",
         "updatedAt": "2026-07-17T19:36:13.084Z"
+      },
+      {
+        "name": "Cure Wounds",
+        "school": "Evocation",
+        "castingTime": "1 action",
+        "range": "Touch",
+        "duration": "Instantaneous",
+        "components": "V, S",
+        "description": "A creature you touch regains a number of hit points equal to 2d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.",
+        "higherLevels": "When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st.",
+        "damageType": "",
+        "saveType": "",
+        "sourceClass": "Bard, Cleric, Druid, Paladin, Ranger",
+        "notes": "",
+        "level": 1,
+        "concentration": false,
+        "ritual": false,
+        "componentsData": {
+          "verbal": true,
+          "somatic": true,
+          "material": false,
+          "materialText": ""
+        },
+        "id": "cs-ms48xjwc-wxs2fg",
+        "status": "active",
+        "submittedBy": "dm",
+        "createdAt": "2026-07-28T05:59:42.589Z",
+        "updatedAt": "2026-07-28T05:59:42.589Z"
       }
     ]
   },
