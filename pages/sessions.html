@@ -1,0 +1,113 @@
+<div id="page-sessions" class="page">
+  <div class="page-header">
+    <div class="page-eyebrow">Campaign Chronicle</div>
+    <h1 class="page-title">Session Notes</h1>
+    <p class="page-description">A living record of every session in your campaign. Add, edit and navigate between sessions below.</p>
+  </div>
+
+  <div class="session-nav-bar">
+    <button class="session-nav-btn" id="sess-prev-btn" data-call="sessNav" data-args="[-1]">← Previous Session</button>
+    <div style="display:flex;flex-direction:column;align-items:center;gap:4px;">
+      <span class="session-counter" id="sess-counter">Session 1 of 1</span>
+      <span id="sess-status" style="font-size:11px;color:#9a8f7e;font-family:'EB Garamond',serif;"></span>
+    </div>
+    <div style="display:flex;gap:8px;">
+      <button class="session-nav-btn" id="sess-overview-btn" data-call="sessOverviewToggle" title="Browse, search and jump to any recorded session">☰ All Sessions</button>
+      <button class="session-nav-btn" id="sess-next-btn" data-call="sessNav" data-args="[1]">Next Session →</button>
+      <button class="new-session-btn" data-call="sessNew">+ New Session</button>
+    </div>
+  </div>
+
+  <!-- Session Overview (deploy145 #4): searchable, sortable index of every session -->
+  <div id="sess-overview" style="display:none;">
+    <div class="sess-ov-bar">
+      <input type="search" class="session-meta-input" id="sess-overview-search" placeholder="Search sessions… (title, notes, events, loot)" data-call="sessOverviewSearch" data-event="input" data-pass-value="true" style="flex:1;min-width:200px;">
+      <select class="session-meta-input" id="sess-overview-sort" data-call="sessOverviewSort" data-event="change" data-pass-value="true" title="Sort sessions">
+        <option value="num-desc">Newest first</option>
+        <option value="num-asc">Oldest first</option>
+        <option value="date-desc">By date (newest)</option>
+        <option value="date-asc">By date (oldest)</option>
+        <option value="title">By title</option>
+      </select>
+      <span id="sess-overview-count" style="font-size:12px;color:#9a8f7e;font-family:'EB Garamond',serif;white-space:nowrap;"></span>
+    </div>
+    <div id="sess-overview-list"></div>
+  </div>
+
+  <div class="session-layout">
+    <div class="session-main">
+
+      <!-- Header card -->
+      <div class="session-header-card">
+        <div class="session-number" id="sess-number">Session 1</div>
+        <input class="session-title-input" id="sess-title" placeholder="Session title..." data-call="sessSave" data-event="input">
+        <div class="session-meta">
+          <div class="session-meta-field">
+            <span class="session-meta-label">Date</span>
+            <input class="session-meta-input" id="sess-date" type="date" data-call="sessSave" data-event="input">
+          </div>
+          <div class="session-meta-field">
+            <span class="session-meta-label">In-Game Date</span>
+            <input class="session-meta-input" id="sess-ingame-date" placeholder="e.g. 14 Mirtul, 1494 DR" data-call="sessSave" data-event="input" title="The date inside the campaign world — any calendar format">
+          </div>
+          <div class="session-meta-field">
+            <span class="session-meta-label">Duration</span>
+            <input class="session-meta-input" id="sess-duration" placeholder="e.g. 4h 30m" data-call="sessSave" data-event="input">
+          </div>
+          <div class="session-meta-field">
+            <span class="session-meta-label">Location</span>
+            <input class="session-meta-input" id="sess-location" placeholder="Where?" data-call="sessSave" data-event="input">
+          </div>
+        </div>
+      </div>
+
+      <!-- Summary -->
+      <div class="session-card">
+        <h3>Session Summary</h3>
+        <textarea class="session-textarea" id="sess-summary" rows="4" placeholder="What happened this session? A brief overview..." data-call="sessSave" data-event="input"></textarea>
+      </div>
+
+      <!-- Key Events -->
+      <div class="session-card">
+        <h3>Key Events</h3>
+        <div class="event-list" id="sess-events"></div>
+        <button class="add-event-btn" data-call="sessAddEvent">+ Add Event</button>
+      </div>
+
+      <!-- Notes -->
+      <div class="session-card">
+        <h3>Notes &amp; Observations</h3>
+        <textarea class="session-textarea" id="sess-notes" rows="5" placeholder="Loose notes, theories, things to remember..." data-call="sessSave" data-event="input"></textarea>
+      </div>
+
+
+
+    </div>
+    <div class="session-sidebar">
+
+      <!-- Summary stats -->
+      <div class="session-card">
+        <h3>Session Info</h3>
+        <div class="sidebar-stat"><span class="sidebar-stat-label">Session</span><span class="sidebar-stat-value" id="sess-info-num">1</span></div>
+        <div class="sidebar-stat"><span class="sidebar-stat-label">Date</span><span class="sidebar-stat-value" id="sess-info-date">—</span></div>
+        <div class="sidebar-stat"><span class="sidebar-stat-label">In-Game</span><span class="sidebar-stat-value" id="sess-info-ingame">—</span></div>
+        <div class="sidebar-stat"><span class="sidebar-stat-label">Duration</span><span class="sidebar-stat-value" id="sess-info-dur">—</span></div>
+        <div class="sidebar-stat"><span class="sidebar-stat-label">Location</span><span class="sidebar-stat-value" id="sess-info-loc">—</span></div>
+      </div>
+
+      <!-- XP & Loot -->
+      <div class="session-card">
+        <h3>Loot &amp; Rewards</h3>
+        <div id="sess-loot-list"></div>
+        <button class="add-event-btn" data-call="sessAddLoot">+ Add Item</button>
+      </div>
+
+      <!-- Quest progress -->
+      <div class="session-card">
+        <h3 data-cx-hidden="1">XP Gained</h3>
+        <input class="session-meta-input" id="sess-xp" placeholder="e.g. 820 XP" style="width:100%;" data-call="sessSave" data-event="input">
+      </div>
+
+    </div>
+  </div>
+</div>
