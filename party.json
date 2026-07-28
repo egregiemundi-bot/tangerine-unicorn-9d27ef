@@ -10,28 +10,12 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-28T01:23:57.899Z",
+  "updatedAt": "2026-07-28T01:30:47.131Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
         "x": 795,
         "y": 451
-      },
-      "the-rival-adventurer": {
-        "x": 422,
-        "y": 161
-      },
-      "the-faction-envoy": {
-        "x": 259,
-        "y": 448
-      },
-      "the-hidden-villain": {
-        "x": 632,
-        "y": 325
-      },
-      "the-local-sage": {
-        "x": 826,
-        "y": 89
       },
       "new-npc": {
         "x": 481,
@@ -44,48 +28,8 @@
     },
     "edges": [
       {
-        "a": "the-rival-adventurer",
-        "b": "the-local-sage",
-        "type": "friends"
-      },
-      {
-        "a": "the-hidden-villain",
-        "b": "the-rival-adventurer",
-        "type": "enemies"
-      },
-      {
-        "a": "the-rival-adventurer",
-        "b": "the-faction-envoy",
-        "type": "colleagues"
-      },
-      {
-        "a": "the-local-sage",
-        "b": "the-helpful-innkeeper",
-        "type": "colleagues"
-      },
-      {
-        "a": "the-rival-adventurer",
-        "b": "new-npc",
-        "type": "related"
-      },
-      {
-        "a": "new-npc",
-        "b": "the-helpful-innkeeper",
-        "type": "colleagues"
-      },
-      {
         "a": "the-helpful-innkeeper",
-        "b": "the-hidden-villain",
-        "type": "enemies"
-      },
-      {
-        "a": "the-local-sage",
-        "b": "the-hidden-villain",
-        "type": "enemies"
-      },
-      {
-        "a": "new-npc",
-        "b": "the-hidden-villain",
+        "b": "new-npc",
         "type": "related"
       }
     ]
