@@ -1,16 +1,16 @@
 {
   "productName": "The Adventurer’s Campaign Codex",
   "campaignName": "Dragonlance: Shadow of the Dragon Queen",
-  "campaignSubtitle": "A D&D 5.5e Campaign",
+  "campaignSubtitle": "A Tabletop RPG Campaign",
   "tagline": "\"Who would've thought that in a war game there'd be no good choices\"",
   "welcome": "Welcome to",
   "description": "From a humble fishing village to the besieged walls of Kalaman, you must become the heroes Krynn desperately needs to survive the coming darkness.",
-  "statusBadge": "Test · Edit in Admin Mode",
+  "statusBadge": "Template Ready · Edit in Admin Mode",
   "setupComplete": true,
   "footerBranding": "Powered by The Adventurer’s Campaign Codex",
   "theme": {
-    "accent": "#8a10cb",
-    "secondary": "#db06c9",
+    "accent": "#04ff00",
+    "secondary": "#ffd500",
     "background": "#17110b",
     "surface": "#241a11",
     "text": "#f2e4c8",
@@ -43,7 +43,7 @@
     {
       "title": "Characters",
       "icon": "⚔",
-      "image": "",
+      "image": "Alteriaus-bedroom.png",
       "page": "party",
       "cta": "View Characters ↗",
       "text": "Player rooms, character sheets, inventory, combat tools, and custom 3D dice."
@@ -91,48 +91,53 @@
   ],
   "characters": [
     {
-      "id": "sibyl-eirlynn",
-      "name": "Sibyl Eirlynn",
-      "player": "Claire",
-      "sigil": "",
-      "accent": "#21974e",
-      "portrait": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/1784514802043-sibyl.jpg?v=1784514804102"
-    },
-    {
       "id": "zacharia-horn-axe",
       "name": "Zacharia Horn-Axe",
       "player": "Dragon",
       "sigil": "",
-      "accent": "#a81f1f",
-      "portrait": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/1784919734870-zacharia.jpg?v=1784919735681"
+      "accent": "#1235e2",
+      "portrait": "",
+      "portraitAt": 0
     },
     {
       "id": "bud-turtlefoot",
       "name": "Bud Turtlefoot",
       "player": "Jess",
       "sigil": "",
-      "accent": "#dcf906",
-      "portrait": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/1784066822271-bud.jpg?v=1784066823535"
+      "accent": "#179b27",
+      "portrait": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/1784066822271-bud.jpg?v=1784066823535",
+      "portraitAt": 0
     },
     {
       "id": "ayeluna-lou",
       "name": "Ayeluna \"Lou\"",
       "player": "Mary",
       "sigil": "",
-      "accent": "#ed02ce",
-      "portrait": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/1784919788588-lou.jpg?v=1784919789489"
+      "accent": "#bcd408",
+      "portrait": "",
+      "portraitAt": 0
     },
     {
       "id": "kena-price",
       "name": "Kena Price",
       "player": "Brittney",
       "sigil": "",
-      "accent": "#0e0adb",
-      "portrait": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/1784919682456-kena.jpg?v=1784919683433"
+      "accent": "#c412a3",
+      "portrait": "",
+      "portraitAt": 0
+    },
+    {
+      "id": "sibyl-eirlynn",
+      "name": "Sibyl Eirlynn",
+      "player": "Claire",
+      "sigil": "",
+      "accent": "#ff0000",
+      "portrait": "",
+      "portraitAt": 0
     }
   ],
   "productVersion": "1.0 Foundation",
-  "updatedAt": "2026-07-28T01:05:11.303Z",
+  "updatedAt": "2026-07-28T01:58:13.984Z",
   "backgroundImage": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/1784257856245-wallpapersden.com-k-cool-2020-art-3840x2160.jpg?v=1784257860462",
   "heroImage": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/1784257876492-wallpapersden.com-k-cool-2020-art-3840x2160.jpg?v=1784257879434"
 }
