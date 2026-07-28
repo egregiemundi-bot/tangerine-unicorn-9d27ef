@@ -15,7 +15,11 @@
     {
       "id": "kena-price",
       "label": "Kena Price"
+    },
+    {
+      "id": "sibyl-eirlynn",
+      "label": "Sibyl Eirlynn"
     }
   ],
-  "updatedAt": "2026-07-28T01:02:22.329Z"
+  "updatedAt": "2026-07-28T01:02:42.743Z"
 }
