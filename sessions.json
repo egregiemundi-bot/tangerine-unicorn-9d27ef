@@ -56,7 +56,7 @@
       "num": 4,
       "title": "The vogler ultimatum",
       "date": "2026-07-09",
-      "duration": "",
+      "duration": "4hrs",
       "location": "",
       "summary": "",
       "notes": "",
@@ -70,5 +70,5 @@
       "inGameDate": "16th & 17th Gildember"
     }
   ],
-  "updatedAt": "2026-07-28T05:45:04.938Z"
+  "updatedAt": "2026-07-28T05:45:08.137Z"
 }
