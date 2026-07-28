@@ -71,7 +71,7 @@
     },
     {
       "num": 5,
-      "title": "",
+      "title": "Lord Bakaris goes to Kalaman",
       "date": "",
       "duration": "",
       "location": "",
@@ -83,8 +83,9 @@
       ],
       "loot": [
         ""
-      ]
+      ],
+      "inGameDate": ""
     }
   ],
-  "updatedAt": "2026-07-28T05:45:46.180Z"
+  "updatedAt": "2026-07-28T05:46:05.563Z"
 }
