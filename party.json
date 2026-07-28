@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-28T01:21:30.907Z",
+  "updatedAt": "2026-07-28T01:23:57.899Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -602,68 +602,68 @@
   "dmcombat": {
     "combatants": [
       {
-        "id": "pc-sibyl-eirlynn",
-        "name": "Sibyl Eirlynn",
-        "pc": true,
-        "init": "19",
-        "hp": "14",
-        "maxhp": "23",
-        "ac": "16",
-        "notes": "",
-        "temp": 0,
-        "conditions": []
-      },
-      {
         "id": "pc-zacharia-horn-axe",
         "name": "Zacharia Horn-Axe",
         "pc": true,
-        "init": "8",
+        "init": "",
         "hp": "0",
         "maxhp": "30",
         "ac": "10",
-        "notes": "",
         "temp": 0,
-        "conditions": []
+        "conditions": [],
+        "notes": ""
       },
       {
         "id": "pc-bud-turtlefoot",
         "name": "Bud Turtlefoot",
         "pc": true,
-        "init": "9",
+        "init": "",
         "hp": "5",
         "maxhp": "15",
         "ac": "14",
-        "notes": "",
         "temp": 0,
-        "conditions": []
+        "conditions": [],
+        "notes": ""
       },
       {
         "id": "pc-ayeluna-lou",
         "name": "Ayeluna \"Lou\"",
         "pc": true,
-        "init": "4",
+        "init": "",
         "hp": "",
         "maxhp": "",
         "ac": "10",
-        "notes": "",
         "temp": 0,
-        "conditions": []
+        "conditions": [],
+        "notes": ""
       },
       {
         "id": "pc-kena-price",
         "name": "Kena Price",
         "pc": true,
-        "init": "20",
+        "init": "",
         "hp": "20",
         "maxhp": "32",
         "ac": "18",
-        "notes": "",
         "temp": 0,
-        "conditions": []
+        "conditions": [],
+        "notes": ""
+      },
+      {
+        "id": "pc-sibyl-eirlynn",
+        "name": "Sibyl Eirlynn",
+        "pc": true,
+        "init": "",
+        "hp": "",
+        "maxhp": "",
+        "ac": "",
+        "temp": 0,
+        "conditions": [],
+        "notes": ""
       }
     ],
     "round": 1,
-    "turn": 0
+    "turn": 3
   },
   "compendium": {
     "settings": {
