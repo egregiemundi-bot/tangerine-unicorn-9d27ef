@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-29T19:24:38.309Z",
+  "updatedAt": "2026-07-29T23:43:45.076Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -493,7 +493,12 @@
             "v": "new item test"
           }
         ],
-        "abilities": []
+        "abilities": [
+          {
+            "name": "Ability Name",
+            "desc": "Ability description."
+          }
+        ]
       }
     ],
     "bud-turtlefoot": [
