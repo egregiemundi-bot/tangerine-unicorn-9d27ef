@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-29T23:48:26.491Z",
+  "updatedAt": "2026-07-29T23:48:35.815Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -532,7 +532,7 @@
     "kena-price": [
       {
         "name": "Irven's rose shield",
-        "type": "Common",
+        "type": "Uncommon",
         "img": "",
         "stats": [
           {
