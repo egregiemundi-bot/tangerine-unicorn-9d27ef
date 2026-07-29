@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-29T23:48:18.120Z",
+  "updatedAt": "2026-07-29T23:48:26.491Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -546,7 +546,7 @@
         ],
         "abilities": [
           {
-            "name": "Ability Name",
+            "name": "Save a friend",
             "desc": "Once per day, when you succeed on a saving throw, you can extend that success to one ally within 10 feet who failed the same save."
           }
         ]
