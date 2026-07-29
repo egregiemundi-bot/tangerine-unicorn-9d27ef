@@ -1,33 +1,822 @@
 {
-  "character": {
-    "name": "Sibyl Eirlynn",
-    "epithet": "",
-    "portrait": "",
-    "player": "",
-    "race": "",
-    "charClass": "",
-    "alignment": "",
-    "status": "Active",
-    "location": "",
-    "godForm": "",
-    "worldLevels": [],
-    "biography": "",
-    "accomplishments": [],
-    "items": [],
-    "relationships": [],
-    "quotes": [],
-    "footerQuote": "",
-    "coreStats": {
-      "str": "",
-      "dex": "",
-      "con": "",
-      "int": "",
-      "wis": "",
-      "cha": ""
-    },
-    "combatAbilities": [],
-    "divineResources": [],
-    "spellbook": []
+  "name": "Sibyl Eirlynn",
+  "epithet": "",
+  "portrait": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/1784514802043-sibyl.jpg?v=1784514804102",
+  "player": "",
+  "race": "",
+  "charClass": "",
+  "alignment": "",
+  "status": "Active",
+  "location": "",
+  "godForm": "",
+  "worldLevels": [],
+  "biography": "",
+  "accomplishments": [],
+  "items": [],
+  "relationships": [],
+  "quotes": [],
+  "footerQuote": "",
+  "coreStats": {
+    "str": "",
+    "dex": "",
+    "con": "",
+    "int": "",
+    "wis": "",
+    "cha": ""
   },
-  "updatedAt": "2026-07-28T01:02:42.066Z"
+  "combatAbilities": [],
+  "divineResources": [],
+  "spellbook": [],
+  "divine": {
+    "version": 3,
+    "form": "planet",
+    "activePlanetId": "",
+    "favoriteSpells": [],
+    "ui": {
+      "tab": "combat",
+      "form": "divine",
+      "activePlanetId": "",
+      "expanded": {},
+      "pinned": [],
+      "searchFilters": [],
+      "searchMode": "AND",
+      "dice": {
+        "count": 1,
+        "sides": 20,
+        "mod": 0
+      },
+      "combat": {
+        "currentHp": null,
+        "tempHp": 0,
+        "notes": "",
+        "conditions": [],
+        "concentration": "",
+        "spellSearch": "",
+        "hpAdjustAmount": 10,
+        "mobileTab": "combat",
+        "sendRoll20": false,
+        "dice3d": false,
+        "diceStyle": {
+          "body": "#171004",
+          "num": "#f4c867",
+          "edge": "#b98a3b",
+          "texture": "none",
+          "customUrl": ""
+        },
+        "colors": {
+          "accent": "#d6a647",
+          "secondary": "#8b6b2f",
+          "panel": "#14120c",
+          "background": "#080603"
+        },
+        "customization": {
+          "textSize": "normal",
+          "density": "normal",
+          "buttonStyle": "rounded",
+          "hpStyle": "classic",
+          "diceTheme": "classic",
+          "sections": {
+            "hp": true,
+            "vitals": true,
+            "abilities": true,
+            "saves": true,
+            "skills": true,
+            "concentration": true,
+            "conditions": true,
+            "dice": true,
+            "notes": true,
+            "actions": true,
+            "bonus": true,
+            "reactions": true,
+            "resources": true,
+            "slots": true,
+            "spells": true,
+            "rolls": true
+          }
+        },
+        "wallpaper": "",
+        "slotsUsed": {},
+        "rollLog": []
+      }
+    },
+    "artifacts": [],
+    "awards": [],
+    "planets": []
+  },
+  "_divineCache": {
+    "generatedAt": 1785350456709,
+    "totalLevel": 0,
+    "hp": {
+      "max": 0
+    },
+    "proficiencyBonus": 2,
+    "peakAbilityScores": {
+      "str": 10,
+      "dex": 10,
+      "con": 10,
+      "int": 10,
+      "wis": 10,
+      "cha": 10
+    },
+    "classes": [],
+    "subclasses": [],
+    "features": [],
+    "actions": [],
+    "bonusActions": [],
+    "reactions": [],
+    "passives": [],
+    "utilityFeatures": [],
+    "freeActions": [],
+    "legendaryActions": [],
+    "otherActions": [],
+    "spells": [],
+    "spellsByLevel": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": [],
+      "4": [],
+      "5": [],
+      "6": [],
+      "7": [],
+      "8": [],
+      "9": [],
+      "unassigned": []
+    },
+    "spellSlots": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0
+    },
+    "spellSaveDC": 10,
+    "spellAttackBonus": 2,
+    "resources": [],
+    "skills": [],
+    "expertise": [],
+    "savingThrows": [],
+    "resistances": [],
+    "immunities": [],
+    "languages": [],
+    "weaponProfs": [],
+    "toolProfs": [],
+    "feats": [],
+    "epicBoons": [],
+    "asi": [],
+    "counts": {
+      "planets": 0,
+      "classes": 0,
+      "subclasses": 0,
+      "features": 0,
+      "actions": 0,
+      "bonusActions": 0,
+      "reactions": 0,
+      "passives": 0,
+      "spells": 0,
+      "cantrips": 0,
+      "resources": 0,
+      "skills": 0,
+      "expertise": 0,
+      "savingThrows": 0,
+      "languages": 0,
+      "resistances": 0,
+      "immunities": 0,
+      "feats": 0,
+      "epicBoons": 0
+    }
+  },
+  "_divineCacheRev": 0,
+  "forge": {
+    "schemaVersion": "1.0",
+    "id": "sibyl-eirlynn",
+    "meta": {
+      "rulesVersion": "2014",
+      "sources": [
+        "SRD 5.1"
+      ],
+      "visibility": "private",
+      "status": "active",
+      "seededFrom": "codex-site",
+      "updated": "2026-07-29T18:40:56.435Z"
+    },
+    "identity": {
+      "name": "Sibyl Eirlynn",
+      "player": "Claire",
+      "alignment": "N",
+      "portrait": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/1784514802043-sibyl.jpg?v=1784514804102"
+    },
+    "origin": {
+      "species": "human",
+      "background": "soldier",
+      "alignment": "N",
+      "size": "medium"
+    },
+    "abilities": {
+      "str": {
+        "base": 10,
+        "score": 11
+      },
+      "dex": {
+        "base": 10,
+        "score": 11
+      },
+      "con": {
+        "base": 10,
+        "score": 11
+      },
+      "int": {
+        "base": 10,
+        "score": 11
+      },
+      "wis": {
+        "base": 10,
+        "score": 11
+      },
+      "cha": {
+        "base": 10,
+        "score": 11
+      }
+    },
+    "classes": [
+      {
+        "id": "cls_3",
+        "class": "fighter",
+        "subclass": null,
+        "level": 1,
+        "hitDie": "d10",
+        "spellcasting": null
+      }
+    ],
+    "selections": [],
+    "features": [
+      {
+        "id": "ft_1",
+        "name": "Versatile",
+        "source": "Species",
+        "grantedBy": "species",
+        "description": "+1 to every ability score.",
+        "activation": {
+          "type": "passive"
+        },
+        "modifiers": [],
+        "tags": [
+          "species"
+        ]
+      },
+      {
+        "id": "ft_2",
+        "name": "Military Rank",
+        "source": "Background",
+        "grantedBy": "background",
+        "description": "Background feature.",
+        "activation": {
+          "type": "passive"
+        },
+        "modifiers": [],
+        "tags": [
+          "background"
+        ]
+      },
+      {
+        "id": "ft_4",
+        "name": "Fighting Style",
+        "source": "Fighter",
+        "grantedBy": "class",
+        "atLevel": 1,
+        "description": "Choose a combat specialty.",
+        "activation": {
+          "type": "passive"
+        },
+        "modifiers": [],
+        "tags": [
+          "class"
+        ]
+      },
+      {
+        "id": "ft_5",
+        "name": "Second Wind",
+        "source": "Fighter",
+        "grantedBy": "class",
+        "atLevel": 1,
+        "description": "Bonus action: regain 1d10 + fighter level HP.",
+        "activation": {
+          "type": "action"
+        },
+        "modifiers": [],
+        "tags": [
+          "class"
+        ],
+        "uses": {
+          "max": 1,
+          "per": "short",
+          "current": 1
+        }
+      }
+    ],
+    "resources": [
+      {
+        "id": "res_6",
+        "name": "Second Wind",
+        "source": "Fighter",
+        "grantedBy": "class",
+        "kind": "feature-use",
+        "max": 1,
+        "per": "short",
+        "current": 1
+      }
+    ],
+    "actions": [
+      {
+        "id": "act_11",
+        "name": "Longsword",
+        "actionCost": "action",
+        "kind": "weapon",
+        "ref": "itm_8",
+        "attack": {
+          "ability": "str",
+          "proficient": true,
+          "reach": 5,
+          "range": null
+        },
+        "damage": [
+          {
+            "dice": "1d8",
+            "mod": "str",
+            "type": "slashing",
+            "versatile": "1d10"
+          }
+        ],
+        "properties": [
+          "versatile"
+        ]
+      },
+      {
+        "id": "act_12",
+        "name": "Light Crossbow",
+        "actionCost": "action",
+        "kind": "weapon",
+        "ref": "itm_10",
+        "attack": {
+          "ability": "dex",
+          "proficient": true,
+          "reach": null,
+          "range": [
+            80,
+            320
+          ]
+        },
+        "damage": [
+          {
+            "dice": "1d8",
+            "mod": "dex",
+            "type": "piercing",
+            "versatile": null
+          }
+        ],
+        "properties": [
+          "ammunition",
+          "loading",
+          "two-handed"
+        ]
+      },
+      {
+        "id": "act_13",
+        "name": "Dash",
+        "actionCost": "action",
+        "kind": "generic"
+      },
+      {
+        "id": "act_14",
+        "name": "Disengage",
+        "actionCost": "action",
+        "kind": "generic"
+      },
+      {
+        "id": "act_15",
+        "name": "Dodge",
+        "actionCost": "action",
+        "kind": "generic"
+      },
+      {
+        "id": "act_16",
+        "name": "Hide",
+        "actionCost": "action",
+        "kind": "generic"
+      },
+      {
+        "id": "act_17",
+        "name": "Help",
+        "actionCost": "action",
+        "kind": "generic"
+      },
+      {
+        "id": "act_18",
+        "name": "Search",
+        "actionCost": "action",
+        "kind": "generic"
+      }
+    ],
+    "spells": [],
+    "inventory": [
+      {
+        "id": "itm_7",
+        "_key": "chain-mail",
+        "name": "Chain Mail",
+        "category": "armor",
+        "quantity": 1,
+        "weight": 55,
+        "equipped": true,
+        "rarity": "common",
+        "armor": {
+          "baseAc": 16,
+          "type": "heavy",
+          "dexCap": 0,
+          "stealthDisadvantage": true,
+          "strReq": 13
+        },
+        "modifiers": [
+          {
+            "target": "ac",
+            "op": "set-base",
+            "value": 16,
+            "type": "armor",
+            "condition": "equipped",
+            "source": "Chain Mail"
+          }
+        ]
+      },
+      {
+        "id": "itm_8",
+        "_key": "longsword",
+        "name": "Longsword",
+        "category": "weapon",
+        "quantity": 1,
+        "weight": 3,
+        "equipped": true,
+        "rarity": "common",
+        "weapon": {
+          "category": "martial-melee",
+          "properties": [
+            "versatile"
+          ],
+          "damage": {
+            "dice": "1d8",
+            "type": "slashing",
+            "versatile": "1d10"
+          }
+        },
+        "modifiers": []
+      },
+      {
+        "id": "itm_9",
+        "_key": "shield",
+        "name": "Shield",
+        "category": "armor",
+        "quantity": 1,
+        "weight": 6,
+        "equipped": true,
+        "rarity": "common",
+        "modifiers": [
+          {
+            "target": "ac",
+            "op": "add",
+            "value": 2,
+            "type": "shield",
+            "condition": "equipped",
+            "source": "Shield"
+          }
+        ]
+      },
+      {
+        "id": "itm_10",
+        "_key": "light-crossbow",
+        "name": "Light Crossbow",
+        "category": "weapon",
+        "quantity": 1,
+        "weight": 3,
+        "equipped": true,
+        "rarity": "common",
+        "weapon": {
+          "category": "simple-ranged",
+          "properties": [
+            "ammunition",
+            "loading",
+            "two-handed"
+          ],
+          "damage": {
+            "dice": "1d8",
+            "type": "piercing"
+          },
+          "range": [
+            80,
+            320
+          ]
+        },
+        "modifiers": []
+      }
+    ],
+    "currency": {
+      "gp": 0
+    },
+    "companions": [],
+    "transformations": [],
+    "vehicles": [],
+    "notes": [],
+    "relationships": [],
+    "quests": [],
+    "custom": [],
+    "overrides": [],
+    "proficiencies": {
+      "skills": {
+        "athletics": true,
+        "intimidation": true,
+        "acrobatics": true,
+        "animal handling": true
+      },
+      "saves": {
+        "str": true,
+        "con": true
+      },
+      "armor": {
+        "light": true,
+        "medium": true,
+        "heavy": true,
+        "shields": true
+      },
+      "weapons": {
+        "simple": true,
+        "martial": true
+      },
+      "tools": {},
+      "expertise": {}
+    },
+    "languages": [
+      "Common",
+      "one of your choice"
+    ],
+    "state": {
+      "hp": {
+        "current": 10,
+        "temp": 0
+      },
+      "hitDice": [
+        {
+          "die": "d10",
+          "total": 1,
+          "remaining": 1
+        }
+      ],
+      "deathSaves": {
+        "successes": 0,
+        "failures": 0,
+        "stable": false
+      },
+      "exhaustion": 0,
+      "inspiration": false,
+      "concentratingOn": null,
+      "activeConditions": [],
+      "activeEffects": [],
+      "attunedCount": 0
+    },
+    "speedBase": 30,
+    "derivedCache": {
+      "resistances": [],
+      "proficiencyBonus": 2,
+      "level": 1,
+      "abilityScores": {
+        "str": 11,
+        "dex": 11,
+        "con": 11,
+        "int": 11,
+        "wis": 11,
+        "cha": 11
+      },
+      "abilityMods": {
+        "str": 0,
+        "dex": 0,
+        "con": 0,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "saves": {
+        "str": 2,
+        "dex": 0,
+        "con": 2,
+        "int": 0,
+        "wis": 0,
+        "cha": 0
+      },
+      "skills": {
+        "acrobatics": 2,
+        "animal handling": 2,
+        "arcana": 0,
+        "athletics": 2,
+        "deception": 0,
+        "history": 0,
+        "insight": 0,
+        "intimidation": 2,
+        "investigation": 0,
+        "medicine": 0,
+        "nature": 0,
+        "perception": 0,
+        "performance": 0,
+        "persuasion": 0,
+        "religion": 0,
+        "sleight of hand": 0,
+        "stealth": 0,
+        "survival": 0
+      },
+      "armorClass": 18,
+      "initiative": 0,
+      "maxHp": 10,
+      "speed": 30,
+      "darkvision": 0,
+      "attacksPerAction": 1,
+      "spellSaveDc": null,
+      "spellAttackBonus": null,
+      "spellcastingAbility": null,
+      "spellcasting": [],
+      "passivePerception": 10,
+      "passiveInvestigation": 10,
+      "passiveInsight": 10
+    },
+    "_core": {
+      "identity": {
+        "name": "Sibyl Eirlynn",
+        "player": "Claire",
+        "alignment": "N",
+        "portrait": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/1784514802043-sibyl.jpg?v=1784514804102"
+      },
+      "origin": {
+        "species": "human",
+        "background": "soldier",
+        "alignment": "N"
+      },
+      "abilities": {
+        "str": {
+          "base": 10
+        },
+        "dex": {
+          "base": 10
+        },
+        "con": {
+          "base": 10
+        },
+        "int": {
+          "base": 10
+        },
+        "wis": {
+          "base": 10
+        },
+        "cha": {
+          "base": 10
+        }
+      },
+      "classes": [
+        {
+          "class": "fighter",
+          "level": 1,
+          "subclass": null
+        }
+      ],
+      "choices": {},
+      "meta": {
+        "seededFrom": "codex-site"
+      }
+    },
+    "backstory": [
+      {
+        "id": "bs_vlovo",
+        "title": "Overview",
+        "body": "",
+        "custom": false
+      },
+      {
+        "id": "bs_4mwqu",
+        "title": "Early Life",
+        "body": "",
+        "custom": false
+      },
+      {
+        "id": "bs_tvjcs",
+        "title": "Important People",
+        "body": "",
+        "custom": false
+      },
+      {
+        "id": "bs_9o8b0",
+        "title": "Organizations",
+        "body": "",
+        "custom": false
+      },
+      {
+        "id": "bs_pcy24",
+        "title": "Motivations",
+        "body": "",
+        "custom": false
+      },
+      {
+        "id": "bs_fv4nj",
+        "title": "Bonds",
+        "body": "",
+        "custom": false
+      },
+      {
+        "id": "bs_fgshq",
+        "title": "Flaws",
+        "body": "",
+        "custom": false
+      },
+      {
+        "id": "bs_fztaa",
+        "title": "Secrets",
+        "body": "",
+        "custom": false
+      },
+      {
+        "id": "bs_r7fjl",
+        "title": "Goals",
+        "body": "",
+        "custom": false
+      },
+      {
+        "id": "bs_tsda4",
+        "title": "Notes",
+        "body": "",
+        "custom": false
+      }
+    ],
+    "_slot": "sibyl-eirlynn",
+    "_canEdit": true
+  },
+  "backstory": {
+    "sections": [
+      {
+        "id": "bs_vlovo",
+        "title": "Overview",
+        "text": "",
+        "hidden": false
+      },
+      {
+        "id": "bs_4mwqu",
+        "title": "Early Life",
+        "text": "",
+        "hidden": false
+      },
+      {
+        "id": "bs_tvjcs",
+        "title": "Important People",
+        "text": "",
+        "hidden": false
+      },
+      {
+        "id": "bs_9o8b0",
+        "title": "Organizations",
+        "text": "",
+        "hidden": false
+      },
+      {
+        "id": "bs_pcy24",
+        "title": "Motivations",
+        "text": "",
+        "hidden": false
+      },
+      {
+        "id": "bs_fv4nj",
+        "title": "Bonds",
+        "text": "",
+        "hidden": false
+      },
+      {
+        "id": "bs_fgshq",
+        "title": "Flaws",
+        "text": "",
+        "hidden": false
+      },
+      {
+        "id": "bs_fztaa",
+        "title": "Secrets",
+        "text": "",
+        "hidden": false
+      },
+      {
+        "id": "bs_r7fjl",
+        "title": "Goals",
+        "text": "",
+        "hidden": false
+      },
+      {
+        "id": "bs_tsda4",
+        "title": "Notes",
+        "text": "",
+        "hidden": false
+      }
+    ]
+  }
 }
