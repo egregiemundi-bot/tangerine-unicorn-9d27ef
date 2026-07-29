@@ -13,12 +13,11 @@
       "visibility": "private",
       "status": "active",
       "importedFrom": "dndbeyond",
-      "updated": "2026-07-29T19:47:14.845Z"
+      "updated": "2026-07-29T19:53:28.688Z"
     },
     "identity": {
       "name": "Sibyl Eirlynn",
-      "alignment": "NG",
-      "portrait": ""
+      "alignment": "NG"
     },
     "origin": {
       "species": "human",
@@ -186,7 +185,7 @@
         ]
       },
       {
-        "id": "feat_u48ze5t3",
+        "id": "feat_47vvfwhs",
         "name": "Unarmed Strike",
         "desc": "Your practice of martial arts gives you mastery of combat styles that use your Unarmed Strike and Monk weapons, which are the following: Simple Melee weapons Martial Melee weapons that have the [wprop]Light[/wprop] property You gain the following benefits while you are unarmed or wielding only Monk weapons and you aren&rsquo;t wearing armor or wielding a Shield. Bonus Unarmed Strike. You can make an [rules]Unarmed Strike[/rules] as a Bonus Action. Martial Arts Die. You can roll 1d6 in place of the normal damage of your Unarmed Strike or Monk weapons. This die changes as you gain Monk levels, as shown in the Martial Arts column of the Monk Features table. Dexterous Attacks. You can use your Dexterity modifier instead of your Strength modifier for the attack and damage rolls of your Unarmed Strikes and Monk weapons. In addition, when you use the Grapple or Shove option of your Unarmed Strike, you can use your Dexterity modifier instead of your Strength modifier to determine the save DC.",
         "description": "Your practice of martial arts gives you mastery of combat styles that use your Unarmed Strike and Monk weapons, which are the following: Simple Melee weapons Martial Melee weapons that have the [wprop]Light[/wprop] property You gain the following benefits while you are unarmed or wielding only Monk weapons and you aren&rsquo;t wearing armor or wielding a Shield. Bonus Unarmed Strike. You can make an [rules]Unarmed Strike[/rules] as a Bonus Action. Martial Arts Die. You can roll 1d6 in place of the normal damage of your Unarmed Strike or Monk weapons. This die changes as you gain Monk levels, as shown in the Martial Arts column of the Monk Features table. Dexterous Attacks. You can use your Dexterity modifier instead of your Strength modifier for the attack and damage rolls of your Unarmed Strikes and Monk weapons. In addition, when you use the Grapple or Shove option of your Unarmed Strike, you can use your Dexterity modifier instead of your Strength modifier to determine the save DC.",
@@ -196,7 +195,7 @@
         "source": "ddb-action"
       },
       {
-        "id": "feat_r75m64rl",
+        "id": "feat_x964jewl",
         "name": "Flurry of Blows",
         "desc": "Your focus and martial training allow you to harness a well of extraordinary energy within yourself. This energy is represented by Focus Points. Your Monk level determines the number of points you have, as shown in the Focus Points column of the Monk Features table. You can expend these points to enhance or fuel certain Monk features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind, each of which is detailed below. When you expend a Focus Point, it is unavailable until you finish a [rules]short rest;Short[/rules] or [rules]Long Rest[/rules], at the end of which you regain all your expended points. Some features that use Focus Points require your target to make a saving throw. The save DC equals 8 plus your Wisdom modifier and Proficiency Bonus. Flurry of Blows. You can expend 1 Focus Point to make two [rules]unarmed strike;Unarmed Strikes[/rules] as a Bonus Action.",
         "description": "Your focus and martial training allow you to harness a well of extraordinary energy within yourself. This energy is represented by Focus Points. Your Monk level determines the number of points you have, as shown in the Focus Points column of the Monk Features table. You can expend these points to enhance or fuel certain Monk features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind, each of which is detailed below. When you expend a Focus Point, it is unavailable until you finish a [rules]short rest;Short[/rules] or [rules]Long Rest[/rules], at the end of which you regain all your expended points. Some features that use Focus Points require your target to make a saving throw. The save DC equals 8 plus your Wisdom modifier and Proficiency Bonus. Flurry of Blows. You can expend 1 Focus Point to make two [rules]unarmed strike;Unarmed Strikes[/rules] as a Bonus Action.",
@@ -206,7 +205,7 @@
         "source": "ddb-action"
       },
       {
-        "id": "feat_pzmaasgc",
+        "id": "feat_kvf4evdq",
         "name": "Patient Defense",
         "desc": "Your focus and martial training allow you to harness a well of extraordinary energy within yourself. This energy is represented by Focus Points. Your Monk level determines the number of points you have, as shown in the Focus Points column of the Monk Features table. You can expend these points to enhance or fuel certain Monk features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind, each of which is detailed below. When you expend a Focus Point, it is unavailable until you finish a Short or Long Rest, at the end of which you regain all your expended points. Some features that use Focus Points require your target to make a saving throw. The save DC equals 8 plus your Wisdom modifier and Proficiency Bonus. Patient Defense. You can take the [action]Disengage[/action] action as a Bonus Action. Alternatively, you can expend 1 Focus Point to take both the [action]Disengage[/action] and the [action]Dodge[/action] actions as a Bonus Action.",
         "description": "Your focus and martial training allow you to harness a well of extraordinary energy within yourself. This energy is represented by Focus Points. Your Monk level determines the number of points you have, as shown in the Focus Points column of the Monk Features table. You can expend these points to enhance or fuel certain Monk features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind, each of which is detailed below. When you expend a Focus Point, it is unavailable until you finish a Short or Long Rest, at the end of which you regain all your expended points. Some features that use Focus Points require your target to make a saving throw. The save DC equals 8 plus your Wisdom modifier and Proficiency Bonus. Patient Defense. You can take the [action]Disengage[/action] action as a Bonus Action. Alternatively, you can expend 1 Focus Point to take both the [action]Disengage[/action] and the [action]Dodge[/action] actions as a Bonus Action.",
@@ -216,7 +215,7 @@
         "source": "ddb-action"
       },
       {
-        "id": "feat_a3cpzitv",
+        "id": "feat_89ytv3ri",
         "name": "Step of the Wind",
         "desc": "Your focus and martial training allow you to harness a well of extraordinary energy within yourself. This energy is represented by Focus Points. Your Monk level determines the number of points you have, as shown in the Focus Points column of the Monk Features table. You can expend these points to enhance or fuel certain Monk features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind, each of which is detailed below. When you expend a Focus Point, it is unavailable until you finish a Short or Long Rest, at the end of which you regain all your expended points. Some features that use Focus Points require your target to make a saving throw. The save DC equals 8 plus your Wisdom modifier and Proficiency Bonus. Step of the Wind. You can take the [action]Dash[/action] action as a Bonus Action. Alternatively, you can expend 1 Focus Point to take both the [action]Disengage[/action] and [action]Dash[/action] actions as a Bonus Action, and your jump distance is doubled for the turn.",
         "description": "Your focus and martial training allow you to harness a well of extraordinary energy within yourself. This energy is represented by Focus Points. Your Monk level determines the number of points you have, as shown in the Focus Points column of the Monk Features table. You can expend these points to enhance or fuel certain Monk features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind, each of which is detailed below. When you expend a Focus Point, it is unavailable until you finish a Short or Long Rest, at the end of which you regain all your expended points. Some features that use Focus Points require your target to make a saving throw. The save DC equals 8 plus your Wisdom modifier and Proficiency Bonus. Step of the Wind. You can take the [action]Dash[/action] action as a Bonus Action. Alternatively, you can expend 1 Focus Point to take both the [action]Disengage[/action] and [action]Dash[/action] actions as a Bonus Action, and your jump distance is doubled for the turn.",
@@ -226,7 +225,7 @@
         "source": "ddb-action"
       },
       {
-        "id": "feat_wypu5jqd",
+        "id": "feat_9ymhc13s",
         "name": "Deflect Attack",
         "desc": "When an attack roll hits you and its damage includes Bludgeoning, Piercing, or Slashing damage, you can take a Reaction to reduce the attack&rsquo;s total damage against you. The reduction equals 1d10 plus your Dexterity modifier and Monk level. If you reduce the damage to 0, you can expend 1 Focus Point to redirect some of the attack&rsquo;s force. If you do so, choose a creature you can see within 5 feet of yourself if the attack was a melee attack or a creature you can see within 60 feet of yourself that isn&rsquo;t behind [rules]Total Cover[/rules] if the attack was a ranged attack. That creature must succeed on a Dexterity saving throw or take damage equal to two rolls of your Martial Arts die plus your Dexterity modifier. The damage is the same type dealt by the attack.",
         "description": "When an attack roll hits you and its damage includes Bludgeoning, Piercing, or Slashing damage, you can take a Reaction to reduce the attack&rsquo;s total damage against you. The reduction equals 1d10 plus your Dexterity modifier and Monk level. If you reduce the damage to 0, you can expend 1 Focus Point to redirect some of the attack&rsquo;s force. If you do so, choose a creature you can see within 5 feet of yourself if the attack was a melee attack or a creature you can see within 60 feet of yourself that isn&rsquo;t behind [rules]Total Cover[/rules] if the attack was a ranged attack. That creature must succeed on a Dexterity saving throw or take damage equal to two rolls of your Martial Arts die plus your Dexterity modifier. The damage is the same type dealt by the attack.",
@@ -236,7 +235,7 @@
         "source": "ddb-action"
       },
       {
-        "id": "feat_2x41lomx",
+        "id": "feat_r07oj5px",
         "name": "Deflect Attack: Redirect Attack",
         "desc": "When an attack roll hits you and its damage includes Bludgeoning, Piercing, or Slashing damage, you can take a Reaction to reduce the attack&rsquo;s total damage against you. The reduction equals 1d10 plus your Dexterity modifier and Monk level. If you reduce the damage to 0, you can expend 1 Focus Point to redirect some of the attack&rsquo;s force. If you do so, choose a creature you can see within 5 feet of yourself if the attack was a melee attack or a creature you can see within 60 feet of yourself that isn&rsquo;t behind [rules]Total Cover[/rules] if the attack was a ranged attack. That creature must succeed on a Dexterity saving throw or take damage equal to two rolls of your Martial Arts die plus your Dexterity modifier. The damage is the same type dealt by the attack.",
         "description": "When an attack roll hits you and its damage includes Bludgeoning, Piercing, or Slashing damage, you can take a Reaction to reduce the attack&rsquo;s total damage against you. The reduction equals 1d10 plus your Dexterity modifier and Monk level. If you reduce the damage to 0, you can expend 1 Focus Point to redirect some of the attack&rsquo;s force. If you do so, choose a creature you can see within 5 feet of yourself if the attack was a melee attack or a creature you can see within 60 feet of yourself that isn&rsquo;t behind [rules]Total Cover[/rules] if the attack was a ranged attack. That creature must succeed on a Dexterity saving throw or take damage equal to two rolls of your Martial Arts die plus your Dexterity modifier. The damage is the same type dealt by the attack.",
@@ -246,7 +245,7 @@
         "source": "ddb-action"
       },
       {
-        "id": "feat_0ewxf45v",
+        "id": "feat_56g57azm",
         "name": "Flurry of Blows: Addle",
         "desc": "Whenever you hit a creature with an attack granted by your Flurry of Blows, you can impose one of the following effects on that target. Addle. The target can&rsquo;t make [action]Opportunity Attack;Opportunity Attacks[/action] until the start of its next turn. Push. The target must succeed on a Strength saving throw or be pushed up to 15 feet away from you. Topple. The target must succeed on a Dexterity saving throw or have the [condition]Prone[/condition] condition.",
         "description": "Whenever you hit a creature with an attack granted by your Flurry of Blows, you can impose one of the following effects on that target. Addle. The target can&rsquo;t make [action]Opportunity Attack;Opportunity Attacks[/action] until the start of its next turn. Push. The target must succeed on a Strength saving throw or be pushed up to 15 feet away from you. Topple. The target must succeed on a Dexterity saving throw or have the [condition]Prone[/condition] condition.",
@@ -256,7 +255,7 @@
         "source": "ddb-action"
       },
       {
-        "id": "feat_s1m9t6r8",
+        "id": "feat_8xi2bjo4",
         "name": "Flurry of Blows: Push",
         "desc": "Whenever you hit a creature with an attack granted by your Flurry of Blows, you can impose one of the following effects on that target. Addle. The target can&rsquo;t make [action]Opportunity Attack;Opportunity Attacks[/action] until the start of its next turn. Push. The target must succeed on a Strength saving throw or be pushed up to 15 feet away from you. Topple. The target must succeed on a Dexterity saving throw or have the [condition]Prone[/condition] condition.",
         "description": "Whenever you hit a creature with an attack granted by your Flurry of Blows, you can impose one of the following effects on that target. Addle. The target can&rsquo;t make [action]Opportunity Attack;Opportunity Attacks[/action] until the start of its next turn. Push. The target must succeed on a Strength saving throw or be pushed up to 15 feet away from you. Topple. The target must succeed on a Dexterity saving throw or have the [condition]Prone[/condition] condition.",
@@ -266,7 +265,7 @@
         "source": "ddb-action"
       },
       {
-        "id": "feat_21jl5me6",
+        "id": "feat_810k1dp0",
         "name": "Flurry of Blows: Topple",
         "desc": "Whenever you hit a creature with an attack granted by your Flurry of Blows, you can impose one of the following effects on that target. Addle. The target can&rsquo;t make [action]Opportunity Attack;Opportunity Attacks[/action] until the start of its next turn. Push. The target must succeed on a Strength saving throw or be pushed up to 15 feet away from you. Topple. The target must succeed on a Dexterity saving throw or have the [condition]Prone[/condition] condition.",
         "description": "Whenever you hit a creature with an attack granted by your Flurry of Blows, you can impose one of the following effects on that target. Addle. The target can&rsquo;t make [action]Opportunity Attack;Opportunity Attacks[/action] until the start of its next turn. Push. The target must succeed on a Strength saving throw or be pushed up to 15 feet away from you. Topple. The target must succeed on a Dexterity saving throw or have the [condition]Prone[/condition] condition.",
@@ -288,7 +287,7 @@
         "current": 3
       },
       {
-        "id": "feat_54p4s3or",
+        "id": "feat_1qh1vf20",
         "name": "Focus Points",
         "source": "D&D Beyond",
         "grantedBy": "import",
@@ -299,7 +298,7 @@
         "current": 3
       },
       {
-        "id": "feat_o7il3ign",
+        "id": "feat_v260auh5",
         "name": "Uncanny Metabolism",
         "source": "D&D Beyond",
         "grantedBy": "import",
@@ -316,7 +315,7 @@
         "name": "Dagger",
         "actionCost": "action",
         "kind": "weapon",
-        "ref": "itm_ujr50",
+        "ref": "itm_cwieu",
         "attack": {
           "ability": "dex",
           "proficient": true,
@@ -345,7 +344,7 @@
         "name": "Dagger",
         "actionCost": "action",
         "kind": "weapon",
-        "ref": "itm_4o2b9",
+        "ref": "itm_0qmyw",
         "attack": {
           "ability": "dex",
           "proficient": true,
@@ -374,7 +373,7 @@
         "name": "Dagger",
         "actionCost": "action",
         "kind": "weapon",
-        "ref": "itm_032es",
+        "ref": "itm_jounr",
         "attack": {
           "ability": "dex",
           "proficient": true,
@@ -403,7 +402,7 @@
         "name": "Dagger",
         "actionCost": "action",
         "kind": "weapon",
-        "ref": "itm_j8ybz",
+        "ref": "itm_tlnkm",
         "attack": {
           "ability": "dex",
           "proficient": true,
@@ -432,7 +431,7 @@
         "name": "Dagger",
         "actionCost": "action",
         "kind": "weapon",
-        "ref": "itm_ti9oa",
+        "ref": "itm_f8uc9",
         "attack": {
           "ability": "dex",
           "proficient": true,
@@ -461,7 +460,7 @@
         "name": "Spear",
         "actionCost": "action",
         "kind": "weapon",
-        "ref": "itm_c1eh4",
+        "ref": "itm_yf4qd",
         "attack": {
           "ability": "str",
           "proficient": true,
@@ -524,7 +523,7 @@
     "spells": [],
     "inventory": [
       {
-        "id": "itm_ujr50",
+        "id": "itm_cwieu",
         "_key": "dagger",
         "name": "Dagger",
         "category": "weapon",
@@ -551,7 +550,7 @@
         }
       },
       {
-        "id": "itm_4o2b9",
+        "id": "itm_0qmyw",
         "_key": "dagger",
         "name": "Dagger",
         "category": "weapon",
@@ -578,7 +577,7 @@
         }
       },
       {
-        "id": "itm_032es",
+        "id": "itm_jounr",
         "_key": "dagger",
         "name": "Dagger",
         "category": "weapon",
@@ -605,7 +604,7 @@
         }
       },
       {
-        "id": "itm_j8ybz",
+        "id": "itm_tlnkm",
         "_key": "dagger",
         "name": "Dagger",
         "category": "weapon",
@@ -632,7 +631,7 @@
         }
       },
       {
-        "id": "itm_ti9oa",
+        "id": "itm_f8uc9",
         "_key": "dagger",
         "name": "Dagger",
         "category": "weapon",
@@ -659,7 +658,7 @@
         }
       },
       {
-        "id": "itm_c1eh4",
+        "id": "itm_yf4qd",
         "_key": "spear",
         "name": "Spear",
         "category": "weapon",
@@ -686,7 +685,7 @@
         }
       },
       {
-        "id": "itm_8fidb",
+        "id": "itm_enbx1",
         "name": "Backpack",
         "category": "gear",
         "quantity": 1,
@@ -696,7 +695,7 @@
         "effect": "A Backpack holds up to 30 pounds within 1 cubic foot. It can also serve as a sad"
       },
       {
-        "id": "itm_ojjdj",
+        "id": "itm_u3coj",
         "name": "Tinker's Tools",
         "category": "gear",
         "quantity": 1,
@@ -706,7 +705,7 @@
         "effect": "Ability: Dexterity Utilize: Assemble a Tiny item composed of scrap, which falls "
       },
       {
-        "id": "itm_fsmbr",
+        "id": "itm_lfm46",
         "name": "Talharpa",
         "category": "gear",
         "quantity": 1,
@@ -716,7 +715,7 @@
         "effect": "A musical instrument with two to four strings similar to a lyre and played with "
       },
       {
-        "id": "itm_862zr",
+        "id": "itm_fw4w7",
         "name": "Oil",
         "category": "gear",
         "quantity": 2,
@@ -726,7 +725,7 @@
         "effect": "You can douse a creature, object, or space with Oil or use it as fuel, as detail"
       },
       {
-        "id": "itm_t5mwq",
+        "id": "itm_g68az",
         "name": "Rations",
         "category": "gear",
         "quantity": 10,
@@ -736,7 +735,7 @@
         "effect": "Rations consist of travel-ready food, including jerky, dried fruit, hardtack, an"
       },
       {
-        "id": "itm_xpz29",
+        "id": "itm_ztvm2",
         "name": "Rope",
         "category": "gear",
         "quantity": 1,
@@ -746,7 +745,7 @@
         "effect": "As a Utilize action, you can tie a knot with Rope if you succeed on a DC 10 Dext"
       },
       {
-        "id": "itm_3xgqc",
+        "id": "itm_tun6z",
         "name": "Bedroll",
         "category": "gear",
         "quantity": 1,
@@ -756,7 +755,7 @@
         "effect": "A Bedroll sleeps one Small or Medium creature. While in a Bedroll, you automatic"
       },
       {
-        "id": "itm_oxbg8",
+        "id": "itm_o05h3",
         "name": "Tinderbox",
         "category": "gear",
         "quantity": 1,
@@ -766,7 +765,7 @@
         "effect": "A Tinderbox is a small container holding flint, fire steel, and tinder (usually "
       },
       {
-        "id": "itm_79ifp",
+        "id": "itm_jbn63",
         "name": "Torch",
         "category": "gear",
         "quantity": 10,
@@ -776,7 +775,7 @@
         "effect": "A Torch burns for 1 hour, casting Bright Light in a 20-foot radius and Dim Light"
       },
       {
-        "id": "itm_pqmp4",
+        "id": "itm_awpcd",
         "name": "Waterskin",
         "category": "gear",
         "quantity": 1,
@@ -1021,8 +1020,7 @@
         "body": "",
         "custom": false
       }
-    ],
-    "ddbId": "169013667"
+    ]
   },
   "backstory": {
     "sections": [
