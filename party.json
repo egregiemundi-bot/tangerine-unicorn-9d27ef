@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-28T06:00:08.882Z",
+  "updatedAt": "2026-07-29T19:24:38.309Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -1835,5 +1835,30 @@
         "updated": "Jul 25, 2026"
       }
     ]
+  },
+  "forgeContent": {
+    "classes": {},
+    "species": {},
+    "feats": {
+      "hb-dark-bargain": {
+        "name": "Dark Bargain",
+        "prereq": "",
+        "desc": "At your GM's discretion, you have taken a Dark Bargain."
+      },
+      "hb-character-threads": {
+        "name": "Character Threads",
+        "prereq": "",
+        "desc": "Threads are aspects added to characters at any time during their career that have a specific short or long-term goal."
+      },
+      "hb-runestones": {
+        "name": "Runestones",
+        "prereq": "",
+        "desc": "At the beginning of the Northlands Sagas adventure path, each player should draw one Runestone randomly."
+      }
+    },
+    "items": {},
+    "weapons": {},
+    "spells": {},
+    "version": 1785353078309
   }
 }
