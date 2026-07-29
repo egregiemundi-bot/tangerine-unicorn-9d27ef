@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-29T23:43:45.076Z",
+  "updatedAt": "2026-07-29T23:47:52.883Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -496,7 +496,7 @@
         "abilities": [
           {
             "name": "Ability Name",
-            "desc": "Ability description."
+            "desc": ""
           }
         ]
       }
