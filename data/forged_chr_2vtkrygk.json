@@ -1,61 +1,63 @@
 {
-  "name": "Human Fighter",
+  "name": "Sibyl Eirlynn",
   "player": "",
   "forged": true,
   "forge": {
     "schemaVersion": "1.0",
-    "id": "chr_2vtkrygk",
+    "id": "forged_chr_2vtkrygk",
     "meta": {
       "rulesVersion": "2014",
       "sources": [
-        "SRD 5.1"
+        "D&D Beyond"
       ],
       "visibility": "private",
       "status": "active",
-      "updated": "2026-07-29T17:25:11.148Z"
+      "importedFrom": "dndbeyond",
+      "updated": "2026-07-29T19:24:37.216Z"
     },
     "identity": {
-      "name": "Human Fighter"
+      "name": "Sibyl Eirlynn",
+      "alignment": "NG"
     },
     "origin": {
       "species": "human",
       "background": "soldier",
-      "alignment": "N",
+      "alignment": "NG",
       "size": "medium"
     },
     "abilities": {
       "str": {
-        "base": 15,
-        "score": 16
-      },
-      "dex": {
-        "base": 14,
-        "score": 15
-      },
-      "con": {
-        "base": 13,
-        "score": 14
-      },
-      "int": {
-        "base": 12,
-        "score": 13
-      },
-      "wis": {
         "base": 10,
         "score": 11
       },
+      "dex": {
+        "base": 16,
+        "score": 16
+      },
+      "con": {
+        "base": 13,
+        "score": 13
+      },
+      "int": {
+        "base": 11,
+        "score": 12
+      },
+      "wis": {
+        "base": 17,
+        "score": 17
+      },
       "cha": {
-        "base": 8,
-        "score": 9
+        "base": 11,
+        "score": 12
       }
     },
     "classes": [
       {
         "id": "cls_3",
-        "class": "fighter",
-        "subclass": "champion",
-        "level": 5,
-        "hitDie": "d10",
+        "class": "monk",
+        "subclass": null,
+        "level": 3,
+        "hitDie": "d8",
         "spellcasting": null
       }
     ],
@@ -91,255 +93,428 @@
       },
       {
         "id": "ft_4",
-        "name": "Fighting Style",
-        "source": "Fighter",
+        "name": "Unarmored Defense",
+        "source": "Monk",
         "grantedBy": "class",
         "atLevel": 1,
-        "description": "Choose a combat specialty.",
-        "activation": {
-          "type": "passive"
-        },
-        "modifiers": [],
-        "tags": [
-          "class"
-        ]
-      },
-      {
-        "id": "ft_5",
-        "name": "Second Wind",
-        "source": "Fighter",
-        "grantedBy": "class",
-        "atLevel": 1,
-        "description": "Bonus action: regain 1d10 + fighter level HP.",
-        "activation": {
-          "type": "action"
-        },
-        "modifiers": [],
-        "tags": [
-          "class"
-        ],
-        "uses": {
-          "max": 1,
-          "per": "short",
-          "current": 1
-        }
-      },
-      {
-        "id": "ft_7",
-        "name": "Action Surge",
-        "source": "Fighter",
-        "grantedBy": "class",
-        "atLevel": 2,
-        "description": "Take one extra action on your turn.",
-        "activation": {
-          "type": "action"
-        },
-        "modifiers": [],
-        "tags": [
-          "class"
-        ],
-        "uses": {
-          "max": 1,
-          "per": "short",
-          "current": 1
-        }
-      },
-      {
-        "id": "ft_9",
-        "name": "Improved Critical",
-        "source": "Champion",
-        "grantedBy": "class",
-        "atLevel": 3,
-        "description": "Your weapon attacks crit on a 19–20.",
-        "activation": {
-          "type": "passive"
-        },
-        "modifiers": [
-          {
-            "target": "critRange",
-            "op": "atLeast",
-            "value": 19,
-            "type": "untyped",
-            "condition": null,
-            "source": "Champion"
-          }
-        ],
-        "tags": [
-          "class"
-        ]
-      },
-      {
-        "id": "ft_10",
-        "name": "Ability Score Improvement",
-        "source": "Fighter",
-        "grantedBy": "class",
-        "atLevel": 4,
-        "description": "+2 to one ability or +1 to two (or a feat).",
-        "activation": {
-          "type": "passive"
-        },
-        "modifiers": [],
-        "tags": [
-          "class",
-          "asi"
-        ]
-      },
-      {
-        "id": "ft_11",
-        "name": "Extra Attack",
-        "source": "Fighter",
-        "grantedBy": "class",
-        "atLevel": 5,
-        "description": "Attack twice when you take the Attack action.",
-        "activation": {
-          "type": "passive"
-        },
-        "modifiers": [
-          {
-            "target": "attacksPerAction",
-            "op": "set",
-            "value": 2,
-            "type": "untyped",
-            "condition": null,
-            "source": "Extra Attack"
-          }
-        ],
-        "tags": [
-          "class"
-        ]
-      },
-      {
-        "id": "ft_16",
-        "name": "Fighting Style: Defense",
-        "source": "Class",
-        "grantedBy": "choice",
-        "description": "+1 AC while wearing armor.",
+        "description": "While unarmored and unshielded, your AC = 10 + Dex + Wis.",
         "activation": {
           "type": "passive"
         },
         "modifiers": [
           {
             "target": "ac",
-            "op": "add",
-            "value": 1,
-            "type": "untyped",
-            "condition": "wearing armor",
-            "source": "Fighting Style: Defense"
+            "op": "set-base",
+            "value": "10 + wis_mod",
+            "type": "natural",
+            "condition": "no armor",
+            "source": "Unarmored Defense"
           }
         ],
         "tags": [
-          "fighting-style"
+          "class"
         ]
+      },
+      {
+        "id": "ft_5",
+        "name": "Martial Arts",
+        "source": "Monk",
+        "grantedBy": "class",
+        "atLevel": 1,
+        "description": "Use Dex for unarmed strikes, roll a Martial Arts die for damage, and make a bonus-action unarmed strike.",
+        "activation": {
+          "type": "passive"
+        },
+        "modifiers": [],
+        "tags": [
+          "class"
+        ]
+      },
+      {
+        "id": "ft_6",
+        "name": "Ki",
+        "source": "Monk",
+        "grantedBy": "class",
+        "atLevel": 2,
+        "description": "Fuel special techniques (Flurry of Blows, Patient Defense, Step of the Wind) with Ki points.",
+        "activation": {
+          "type": "passive"
+        },
+        "modifiers": [],
+        "tags": [
+          "class"
+        ]
+      },
+      {
+        "id": "ft_7",
+        "name": "Unarmored Movement",
+        "source": "Monk",
+        "grantedBy": "class",
+        "atLevel": 2,
+        "description": "Your speed increases by 10 ft while unarmored.",
+        "activation": {
+          "type": "passive"
+        },
+        "modifiers": [
+          {
+            "target": "speed.walk",
+            "op": "add",
+            "value": 10,
+            "type": "untyped",
+            "condition": "no armor",
+            "source": "Unarmored Movement"
+          }
+        ],
+        "tags": [
+          "class"
+        ]
+      },
+      {
+        "id": "ft_8",
+        "name": "Deflect Missiles",
+        "source": "Monk",
+        "grantedBy": "class",
+        "atLevel": 3,
+        "description": "Reaction: reduce ranged weapon damage against you.",
+        "activation": {
+          "type": "passive"
+        },
+        "modifiers": [],
+        "tags": [
+          "class"
+        ]
+      },
+      {
+        "id": "feat_u48ze5t3",
+        "name": "Unarmed Strike",
+        "desc": "Your practice of martial arts gives you mastery of combat styles that use your Unarmed Strike and Monk weapons, which are the following: Simple Melee weapons Martial Melee weapons that have the [wprop]Light[/wprop] property You gain the following benefits while you are unarmed or wielding only Monk weapons and you aren&rsquo;t wearing armor or wielding a Shield. Bonus Unarmed Strike. You can make an [rules]Unarmed Strike[/rules] as a Bonus Action. Martial Arts Die. You can roll 1d6 in place of the normal damage of your Unarmed Strike or Monk weapons. This die changes as you gain Monk levels, as shown in the Martial Arts column of the Monk Features table. Dexterous Attacks. You can use your Dexterity modifier instead of your Strength modifier for the attack and damage rolls of your Unarmed Strikes and Monk weapons. In addition, when you use the Grapple or Shove option of your Unarmed Strike, you can use your Dexterity modifier instead of your Strength modifier to determine the save DC.",
+        "description": "Your practice of martial arts gives you mastery of combat styles that use your Unarmed Strike and Monk weapons, which are the following: Simple Melee weapons Martial Melee weapons that have the [wprop]Light[/wprop] property You gain the following benefits while you are unarmed or wielding only Monk weapons and you aren&rsquo;t wearing armor or wielding a Shield. Bonus Unarmed Strike. You can make an [rules]Unarmed Strike[/rules] as a Bonus Action. Martial Arts Die. You can roll 1d6 in place of the normal damage of your Unarmed Strike or Monk weapons. This die changes as you gain Monk levels, as shown in the Martial Arts column of the Monk Features table. Dexterous Attacks. You can use your Dexterity modifier instead of your Strength modifier for the attack and damage rolls of your Unarmed Strikes and Monk weapons. In addition, when you use the Grapple or Shove option of your Unarmed Strike, you can use your Dexterity modifier instead of your Strength modifier to determine the save DC.",
+        "activation": {
+          "type": "bonus"
+        },
+        "source": "ddb-action"
+      },
+      {
+        "id": "feat_r75m64rl",
+        "name": "Flurry of Blows",
+        "desc": "Your focus and martial training allow you to harness a well of extraordinary energy within yourself. This energy is represented by Focus Points. Your Monk level determines the number of points you have, as shown in the Focus Points column of the Monk Features table. You can expend these points to enhance or fuel certain Monk features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind, each of which is detailed below. When you expend a Focus Point, it is unavailable until you finish a [rules]short rest;Short[/rules] or [rules]Long Rest[/rules], at the end of which you regain all your expended points. Some features that use Focus Points require your target to make a saving throw. The save DC equals 8 plus your Wisdom modifier and Proficiency Bonus. Flurry of Blows. You can expend 1 Focus Point to make two [rules]unarmed strike;Unarmed Strikes[/rules] as a Bonus Action.",
+        "description": "Your focus and martial training allow you to harness a well of extraordinary energy within yourself. This energy is represented by Focus Points. Your Monk level determines the number of points you have, as shown in the Focus Points column of the Monk Features table. You can expend these points to enhance or fuel certain Monk features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind, each of which is detailed below. When you expend a Focus Point, it is unavailable until you finish a [rules]short rest;Short[/rules] or [rules]Long Rest[/rules], at the end of which you regain all your expended points. Some features that use Focus Points require your target to make a saving throw. The save DC equals 8 plus your Wisdom modifier and Proficiency Bonus. Flurry of Blows. You can expend 1 Focus Point to make two [rules]unarmed strike;Unarmed Strikes[/rules] as a Bonus Action.",
+        "activation": {
+          "type": "bonus"
+        },
+        "source": "ddb-action"
+      },
+      {
+        "id": "feat_pzmaasgc",
+        "name": "Patient Defense",
+        "desc": "Your focus and martial training allow you to harness a well of extraordinary energy within yourself. This energy is represented by Focus Points. Your Monk level determines the number of points you have, as shown in the Focus Points column of the Monk Features table. You can expend these points to enhance or fuel certain Monk features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind, each of which is detailed below. When you expend a Focus Point, it is unavailable until you finish a Short or Long Rest, at the end of which you regain all your expended points. Some features that use Focus Points require your target to make a saving throw. The save DC equals 8 plus your Wisdom modifier and Proficiency Bonus. Patient Defense. You can take the [action]Disengage[/action] action as a Bonus Action. Alternatively, you can expend 1 Focus Point to take both the [action]Disengage[/action] and the [action]Dodge[/action] actions as a Bonus Action.",
+        "description": "Your focus and martial training allow you to harness a well of extraordinary energy within yourself. This energy is represented by Focus Points. Your Monk level determines the number of points you have, as shown in the Focus Points column of the Monk Features table. You can expend these points to enhance or fuel certain Monk features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind, each of which is detailed below. When you expend a Focus Point, it is unavailable until you finish a Short or Long Rest, at the end of which you regain all your expended points. Some features that use Focus Points require your target to make a saving throw. The save DC equals 8 plus your Wisdom modifier and Proficiency Bonus. Patient Defense. You can take the [action]Disengage[/action] action as a Bonus Action. Alternatively, you can expend 1 Focus Point to take both the [action]Disengage[/action] and the [action]Dodge[/action] actions as a Bonus Action.",
+        "activation": {
+          "type": "bonus"
+        },
+        "source": "ddb-action"
+      },
+      {
+        "id": "feat_a3cpzitv",
+        "name": "Step of the Wind",
+        "desc": "Your focus and martial training allow you to harness a well of extraordinary energy within yourself. This energy is represented by Focus Points. Your Monk level determines the number of points you have, as shown in the Focus Points column of the Monk Features table. You can expend these points to enhance or fuel certain Monk features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind, each of which is detailed below. When you expend a Focus Point, it is unavailable until you finish a Short or Long Rest, at the end of which you regain all your expended points. Some features that use Focus Points require your target to make a saving throw. The save DC equals 8 plus your Wisdom modifier and Proficiency Bonus. Step of the Wind. You can take the [action]Dash[/action] action as a Bonus Action. Alternatively, you can expend 1 Focus Point to take both the [action]Disengage[/action] and [action]Dash[/action] actions as a Bonus Action, and your jump distance is doubled for the turn.",
+        "description": "Your focus and martial training allow you to harness a well of extraordinary energy within yourself. This energy is represented by Focus Points. Your Monk level determines the number of points you have, as shown in the Focus Points column of the Monk Features table. You can expend these points to enhance or fuel certain Monk features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind, each of which is detailed below. When you expend a Focus Point, it is unavailable until you finish a Short or Long Rest, at the end of which you regain all your expended points. Some features that use Focus Points require your target to make a saving throw. The save DC equals 8 plus your Wisdom modifier and Proficiency Bonus. Step of the Wind. You can take the [action]Dash[/action] action as a Bonus Action. Alternatively, you can expend 1 Focus Point to take both the [action]Disengage[/action] and [action]Dash[/action] actions as a Bonus Action, and your jump distance is doubled for the turn.",
+        "activation": {
+          "type": "bonus"
+        },
+        "source": "ddb-action"
+      },
+      {
+        "id": "feat_wypu5jqd",
+        "name": "Deflect Attack",
+        "desc": "When an attack roll hits you and its damage includes Bludgeoning, Piercing, or Slashing damage, you can take a Reaction to reduce the attack&rsquo;s total damage against you. The reduction equals 1d10 plus your Dexterity modifier and Monk level. If you reduce the damage to 0, you can expend 1 Focus Point to redirect some of the attack&rsquo;s force. If you do so, choose a creature you can see within 5 feet of yourself if the attack was a melee attack or a creature you can see within 60 feet of yourself that isn&rsquo;t behind [rules]Total Cover[/rules] if the attack was a ranged attack. That creature must succeed on a Dexterity saving throw or take damage equal to two rolls of your Martial Arts die plus your Dexterity modifier. The damage is the same type dealt by the attack.",
+        "description": "When an attack roll hits you and its damage includes Bludgeoning, Piercing, or Slashing damage, you can take a Reaction to reduce the attack&rsquo;s total damage against you. The reduction equals 1d10 plus your Dexterity modifier and Monk level. If you reduce the damage to 0, you can expend 1 Focus Point to redirect some of the attack&rsquo;s force. If you do so, choose a creature you can see within 5 feet of yourself if the attack was a melee attack or a creature you can see within 60 feet of yourself that isn&rsquo;t behind [rules]Total Cover[/rules] if the attack was a ranged attack. That creature must succeed on a Dexterity saving throw or take damage equal to two rolls of your Martial Arts die plus your Dexterity modifier. The damage is the same type dealt by the attack.",
+        "activation": {
+          "type": "reaction"
+        },
+        "source": "ddb-action"
+      },
+      {
+        "id": "feat_2x41lomx",
+        "name": "Deflect Attack: Redirect Attack",
+        "desc": "When an attack roll hits you and its damage includes Bludgeoning, Piercing, or Slashing damage, you can take a Reaction to reduce the attack&rsquo;s total damage against you. The reduction equals 1d10 plus your Dexterity modifier and Monk level. If you reduce the damage to 0, you can expend 1 Focus Point to redirect some of the attack&rsquo;s force. If you do so, choose a creature you can see within 5 feet of yourself if the attack was a melee attack or a creature you can see within 60 feet of yourself that isn&rsquo;t behind [rules]Total Cover[/rules] if the attack was a ranged attack. That creature must succeed on a Dexterity saving throw or take damage equal to two rolls of your Martial Arts die plus your Dexterity modifier. The damage is the same type dealt by the attack.",
+        "description": "When an attack roll hits you and its damage includes Bludgeoning, Piercing, or Slashing damage, you can take a Reaction to reduce the attack&rsquo;s total damage against you. The reduction equals 1d10 plus your Dexterity modifier and Monk level. If you reduce the damage to 0, you can expend 1 Focus Point to redirect some of the attack&rsquo;s force. If you do so, choose a creature you can see within 5 feet of yourself if the attack was a melee attack or a creature you can see within 60 feet of yourself that isn&rsquo;t behind [rules]Total Cover[/rules] if the attack was a ranged attack. That creature must succeed on a Dexterity saving throw or take damage equal to two rolls of your Martial Arts die plus your Dexterity modifier. The damage is the same type dealt by the attack.",
+        "activation": {
+          "type": "reaction"
+        },
+        "source": "ddb-action"
+      },
+      {
+        "id": "feat_0ewxf45v",
+        "name": "Flurry of Blows: Addle",
+        "desc": "Whenever you hit a creature with an attack granted by your Flurry of Blows, you can impose one of the following effects on that target. Addle. The target can&rsquo;t make [action]Opportunity Attack;Opportunity Attacks[/action] until the start of its next turn. Push. The target must succeed on a Strength saving throw or be pushed up to 15 feet away from you. Topple. The target must succeed on a Dexterity saving throw or have the [condition]Prone[/condition] condition.",
+        "description": "Whenever you hit a creature with an attack granted by your Flurry of Blows, you can impose one of the following effects on that target. Addle. The target can&rsquo;t make [action]Opportunity Attack;Opportunity Attacks[/action] until the start of its next turn. Push. The target must succeed on a Strength saving throw or be pushed up to 15 feet away from you. Topple. The target must succeed on a Dexterity saving throw or have the [condition]Prone[/condition] condition.",
+        "activation": {
+          "type": "bonus"
+        },
+        "source": "ddb-action"
+      },
+      {
+        "id": "feat_s1m9t6r8",
+        "name": "Flurry of Blows: Push",
+        "desc": "Whenever you hit a creature with an attack granted by your Flurry of Blows, you can impose one of the following effects on that target. Addle. The target can&rsquo;t make [action]Opportunity Attack;Opportunity Attacks[/action] until the start of its next turn. Push. The target must succeed on a Strength saving throw or be pushed up to 15 feet away from you. Topple. The target must succeed on a Dexterity saving throw or have the [condition]Prone[/condition] condition.",
+        "description": "Whenever you hit a creature with an attack granted by your Flurry of Blows, you can impose one of the following effects on that target. Addle. The target can&rsquo;t make [action]Opportunity Attack;Opportunity Attacks[/action] until the start of its next turn. Push. The target must succeed on a Strength saving throw or be pushed up to 15 feet away from you. Topple. The target must succeed on a Dexterity saving throw or have the [condition]Prone[/condition] condition.",
+        "activation": {
+          "type": "bonus"
+        },
+        "source": "ddb-action"
+      },
+      {
+        "id": "feat_21jl5me6",
+        "name": "Flurry of Blows: Topple",
+        "desc": "Whenever you hit a creature with an attack granted by your Flurry of Blows, you can impose one of the following effects on that target. Addle. The target can&rsquo;t make [action]Opportunity Attack;Opportunity Attacks[/action] until the start of its next turn. Push. The target must succeed on a Strength saving throw or be pushed up to 15 feet away from you. Topple. The target must succeed on a Dexterity saving throw or have the [condition]Prone[/condition] condition.",
+        "description": "Whenever you hit a creature with an attack granted by your Flurry of Blows, you can impose one of the following effects on that target. Addle. The target can&rsquo;t make [action]Opportunity Attack;Opportunity Attacks[/action] until the start of its next turn. Push. The target must succeed on a Strength saving throw or be pushed up to 15 feet away from you. Topple. The target must succeed on a Dexterity saving throw or have the [condition]Prone[/condition] condition.",
+        "activation": {
+          "type": "bonus"
+        },
+        "source": "ddb-action"
       }
     ],
     "resources": [
       {
-        "id": "res_6",
-        "name": "Second Wind",
-        "source": "Fighter",
+        "id": "res_9",
         "grantedBy": "class",
-        "kind": "feature-use",
-        "max": 1,
+        "name": "Ki Points",
+        "source": "Monk",
+        "kind": "points",
+        "max": 3,
         "per": "short",
-        "current": 1
+        "current": 3
       },
       {
-        "id": "res_8",
-        "name": "Action Surge",
-        "source": "Fighter",
-        "grantedBy": "class",
+        "id": "feat_54p4s3or",
+        "name": "Focus Points",
+        "source": "D&D Beyond",
+        "grantedBy": "import",
         "kind": "feature-use",
-        "max": 1,
+        "die": null,
+        "max": 3,
         "per": "short",
+        "current": 3
+      },
+      {
+        "id": "feat_o7il3ign",
+        "name": "Uncanny Metabolism",
+        "source": "D&D Beyond",
+        "grantedBy": "import",
+        "kind": "feature-use",
+        "die": "1d6 + 3",
+        "max": 1,
+        "per": "long",
         "current": 1
       }
     ],
     "actions": [
       {
-        "id": "act_17",
-        "name": "Longsword",
+        "id": "act_20",
+        "name": "Dagger",
         "actionCost": "action",
         "kind": "weapon",
-        "ref": "itm_13",
-        "attack": {
-          "ability": "str",
-          "proficient": true,
-          "reach": 5,
-          "range": null
-        },
-        "damage": [
-          {
-            "dice": "1d8",
-            "mod": "str",
-            "type": "slashing",
-            "versatile": "1d10"
-          }
-        ],
-        "properties": [
-          "versatile"
-        ]
-      },
-      {
-        "id": "act_18",
-        "name": "Light Crossbow",
-        "actionCost": "action",
-        "kind": "weapon",
-        "ref": "itm_15",
+        "ref": "itm_ujr50",
         "attack": {
           "ability": "dex",
           "proficient": true,
-          "reach": null,
+          "reach": 5,
           "range": [
-            80,
-            320
+            20,
+            60
           ]
         },
         "damage": [
           {
-            "dice": "1d8",
+            "dice": "1d4",
             "mod": "dex",
             "type": "piercing",
             "versatile": null
           }
         ],
         "properties": [
-          "ammunition",
-          "loading",
-          "two-handed"
+          "finesse",
+          "light",
+          "thrown"
         ]
       },
       {
-        "id": "act_19",
+        "id": "act_21",
+        "name": "Dagger",
+        "actionCost": "action",
+        "kind": "weapon",
+        "ref": "itm_4o2b9",
+        "attack": {
+          "ability": "dex",
+          "proficient": true,
+          "reach": 5,
+          "range": [
+            20,
+            60
+          ]
+        },
+        "damage": [
+          {
+            "dice": "1d4",
+            "mod": "dex",
+            "type": "piercing",
+            "versatile": null
+          }
+        ],
+        "properties": [
+          "finesse",
+          "light",
+          "thrown"
+        ]
+      },
+      {
+        "id": "act_22",
+        "name": "Dagger",
+        "actionCost": "action",
+        "kind": "weapon",
+        "ref": "itm_032es",
+        "attack": {
+          "ability": "dex",
+          "proficient": true,
+          "reach": 5,
+          "range": [
+            20,
+            60
+          ]
+        },
+        "damage": [
+          {
+            "dice": "1d4",
+            "mod": "dex",
+            "type": "piercing",
+            "versatile": null
+          }
+        ],
+        "properties": [
+          "finesse",
+          "light",
+          "thrown"
+        ]
+      },
+      {
+        "id": "act_23",
+        "name": "Dagger",
+        "actionCost": "action",
+        "kind": "weapon",
+        "ref": "itm_j8ybz",
+        "attack": {
+          "ability": "dex",
+          "proficient": true,
+          "reach": 5,
+          "range": [
+            20,
+            60
+          ]
+        },
+        "damage": [
+          {
+            "dice": "1d4",
+            "mod": "dex",
+            "type": "piercing",
+            "versatile": null
+          }
+        ],
+        "properties": [
+          "finesse",
+          "light",
+          "thrown"
+        ]
+      },
+      {
+        "id": "act_24",
+        "name": "Dagger",
+        "actionCost": "action",
+        "kind": "weapon",
+        "ref": "itm_ti9oa",
+        "attack": {
+          "ability": "dex",
+          "proficient": true,
+          "reach": 5,
+          "range": [
+            20,
+            60
+          ]
+        },
+        "damage": [
+          {
+            "dice": "1d4",
+            "mod": "dex",
+            "type": "piercing",
+            "versatile": null
+          }
+        ],
+        "properties": [
+          "finesse",
+          "light",
+          "thrown"
+        ]
+      },
+      {
+        "id": "act_25",
+        "name": "Spear",
+        "actionCost": "action",
+        "kind": "weapon",
+        "ref": "itm_c1eh4",
+        "attack": {
+          "ability": "str",
+          "proficient": true,
+          "reach": 5,
+          "range": [
+            20,
+            60
+          ]
+        },
+        "damage": [
+          {
+            "dice": "1d6",
+            "mod": "str",
+            "type": "piercing",
+            "versatile": "1d8"
+          }
+        ],
+        "properties": [
+          "versatile",
+          "thrown"
+        ]
+      },
+      {
+        "id": "act_26",
         "name": "Dash",
         "actionCost": "action",
         "kind": "generic"
       },
       {
-        "id": "act_20",
+        "id": "act_27",
         "name": "Disengage",
         "actionCost": "action",
         "kind": "generic"
       },
       {
-        "id": "act_21",
+        "id": "act_28",
         "name": "Dodge",
         "actionCost": "action",
         "kind": "generic"
       },
       {
-        "id": "act_22",
+        "id": "act_29",
         "name": "Hide",
         "actionCost": "action",
         "kind": "generic"
       },
       {
-        "id": "act_23",
+        "id": "act_30",
         "name": "Help",
         "actionCost": "action",
         "kind": "generic"
       },
       {
-        "id": "act_24",
+        "id": "act_31",
         "name": "Search",
         "actionCost": "action",
         "kind": "generic"
@@ -348,100 +523,266 @@
     "spells": [],
     "inventory": [
       {
-        "id": "itm_12",
-        "_key": "chain-mail",
-        "name": "Chain Mail",
-        "category": "armor",
-        "quantity": 1,
-        "weight": 55,
-        "equipped": true,
-        "rarity": "common",
-        "armor": {
-          "baseAc": 16,
-          "type": "heavy",
-          "dexCap": 0,
-          "stealthDisadvantage": true,
-          "strReq": 13
-        },
-        "modifiers": [
-          {
-            "target": "ac",
-            "op": "set-base",
-            "value": 16,
-            "type": "armor",
-            "condition": "equipped",
-            "source": "Chain Mail"
-          }
-        ]
-      },
-      {
-        "id": "itm_13",
-        "_key": "longsword",
-        "name": "Longsword",
+        "id": "itm_ujr50",
+        "_key": "dagger",
+        "name": "Dagger",
         "category": "weapon",
         "quantity": 1,
         "weight": 3,
-        "equipped": true,
+        "equipped": false,
         "rarity": "common",
+        "attuned": false,
         "weapon": {
-          "category": "martial-melee",
+          "category": "simple-melee",
           "properties": [
-            "versatile"
+            "finesse",
+            "light",
+            "thrown"
           ],
           "damage": {
-            "dice": "1d8",
-            "type": "slashing",
-            "versatile": "1d10"
-          }
-        },
-        "modifiers": []
-      },
-      {
-        "id": "itm_14",
-        "_key": "shield",
-        "name": "Shield",
-        "category": "armor",
-        "quantity": 1,
-        "weight": 6,
-        "equipped": true,
-        "rarity": "common",
-        "modifiers": [
-          {
-            "target": "ac",
-            "op": "add",
-            "value": 2,
-            "type": "shield",
-            "condition": "equipped",
-            "source": "Shield"
-          }
-        ]
-      },
-      {
-        "id": "itm_15",
-        "_key": "light-crossbow",
-        "name": "Light Crossbow",
-        "category": "weapon",
-        "quantity": 1,
-        "weight": 3,
-        "equipped": true,
-        "rarity": "common",
-        "weapon": {
-          "category": "simple-ranged",
-          "properties": [
-            "ammunition",
-            "loading",
-            "two-handed"
-          ],
-          "damage": {
-            "dice": "1d8",
+            "dice": "1d4",
             "type": "piercing"
           },
           "range": [
-            80,
-            320
+            20,
+            60
           ]
-        },
-        "modifiers": []
+        }
+      },
+      {
+        "id": "itm_4o2b9",
+        "_key": "dagger",
+        "name": "Dagger",
+        "category": "weapon",
+        "quantity": 1,
+        "weight": 3,
+        "equipped": false,
+        "rarity": "common",
+        "attuned": false,
+        "weapon": {
+          "category": "simple-melee",
+          "properties": [
+            "finesse",
+            "light",
+            "thrown"
+          ],
+          "damage": {
+            "dice": "1d4",
+            "type": "piercing"
+          },
+          "range": [
+            20,
+            60
+          ]
+        }
+      },
+      {
+        "id": "itm_032es",
+        "_key": "dagger",
+        "name": "Dagger",
+        "category": "weapon",
+        "quantity": 1,
+        "weight": 3,
+        "equipped": false,
+        "rarity": "common",
+        "attuned": false,
+        "weapon": {
+          "category": "simple-melee",
+          "properties": [
+            "finesse",
+            "light",
+            "thrown"
+          ],
+          "damage": {
+            "dice": "1d4",
+            "type": "piercing"
+          },
+          "range": [
+            20,
+            60
+          ]
+        }
+      },
+      {
+        "id": "itm_j8ybz",
+        "_key": "dagger",
+        "name": "Dagger",
+        "category": "weapon",
+        "quantity": 1,
+        "weight": 3,
+        "equipped": false,
+        "rarity": "common",
+        "attuned": false,
+        "weapon": {
+          "category": "simple-melee",
+          "properties": [
+            "finesse",
+            "light",
+            "thrown"
+          ],
+          "damage": {
+            "dice": "1d4",
+            "type": "piercing"
+          },
+          "range": [
+            20,
+            60
+          ]
+        }
+      },
+      {
+        "id": "itm_ti9oa",
+        "_key": "dagger",
+        "name": "Dagger",
+        "category": "weapon",
+        "quantity": 1,
+        "weight": 3,
+        "equipped": false,
+        "rarity": "common",
+        "attuned": false,
+        "weapon": {
+          "category": "simple-melee",
+          "properties": [
+            "finesse",
+            "light",
+            "thrown"
+          ],
+          "damage": {
+            "dice": "1d4",
+            "type": "piercing"
+          },
+          "range": [
+            20,
+            60
+          ]
+        }
+      },
+      {
+        "id": "itm_c1eh4",
+        "_key": "spear",
+        "name": "Spear",
+        "category": "weapon",
+        "quantity": 1,
+        "weight": 3,
+        "equipped": false,
+        "rarity": "common",
+        "attuned": false,
+        "weapon": {
+          "category": "simple-melee",
+          "properties": [
+            "versatile",
+            "thrown"
+          ],
+          "damage": {
+            "dice": "1d6",
+            "type": "piercing",
+            "versatile": "1d8"
+          },
+          "range": [
+            20,
+            60
+          ]
+        }
+      },
+      {
+        "id": "itm_8fidb",
+        "name": "Backpack",
+        "category": "gear",
+        "quantity": 1,
+        "weight": 5,
+        "equipped": false,
+        "attuned": false,
+        "effect": "A Backpack holds up to 30 pounds within 1 cubic foot. It can also serve as a sad"
+      },
+      {
+        "id": "itm_ojjdj",
+        "name": "Tinker's Tools",
+        "category": "gear",
+        "quantity": 1,
+        "weight": 10,
+        "equipped": false,
+        "attuned": false,
+        "effect": "Ability: Dexterity Utilize: Assemble a Tiny item composed of scrap, which falls "
+      },
+      {
+        "id": "itm_fsmbr",
+        "name": "Talharpa",
+        "category": "gear",
+        "quantity": 1,
+        "weight": 1,
+        "equipped": false,
+        "attuned": false,
+        "effect": "A musical instrument with two to four strings similar to a lyre and played with "
+      },
+      {
+        "id": "itm_862zr",
+        "name": "Oil",
+        "category": "gear",
+        "quantity": 2,
+        "weight": 1,
+        "equipped": false,
+        "attuned": false,
+        "effect": "You can douse a creature, object, or space with Oil or use it as fuel, as detail"
+      },
+      {
+        "id": "itm_t5mwq",
+        "name": "Rations",
+        "category": "gear",
+        "quantity": 10,
+        "weight": 2,
+        "equipped": false,
+        "attuned": false,
+        "effect": "Rations consist of travel-ready food, including jerky, dried fruit, hardtack, an"
+      },
+      {
+        "id": "itm_xpz29",
+        "name": "Rope",
+        "category": "gear",
+        "quantity": 1,
+        "weight": 5,
+        "equipped": false,
+        "attuned": false,
+        "effect": "As a Utilize action, you can tie a knot with Rope if you succeed on a DC 10 Dext"
+      },
+      {
+        "id": "itm_3xgqc",
+        "name": "Bedroll",
+        "category": "gear",
+        "quantity": 1,
+        "weight": 7,
+        "equipped": false,
+        "attuned": false,
+        "effect": "A Bedroll sleeps one Small or Medium creature. While in a Bedroll, you automatic"
+      },
+      {
+        "id": "itm_oxbg8",
+        "name": "Tinderbox",
+        "category": "gear",
+        "quantity": 1,
+        "weight": 1,
+        "equipped": false,
+        "attuned": false,
+        "effect": "A Tinderbox is a small container holding flint, fire steel, and tinder (usually "
+      },
+      {
+        "id": "itm_79ifp",
+        "name": "Torch",
+        "category": "gear",
+        "quantity": 10,
+        "weight": 1,
+        "equipped": false,
+        "attuned": false,
+        "effect": "A Torch burns for 1 hour, casting Bright Light in a 20-foot radius and Dim Light"
+      },
+      {
+        "id": "itm_pqmp4",
+        "name": "Waterskin",
+        "category": "gear",
+        "quantity": 1,
+        "weight": 5,
+        "equipped": false,
+        "attuned": false,
+        "effect": "A Waterskin holds up to 4 pints. If you don’t drink sufficient water, you risk d"
       }
     ],
     "currency": {
@@ -454,27 +795,32 @@
     "relationships": [],
     "quests": [],
     "custom": [],
-    "overrides": [],
+    "overrides": [
+      {
+        "target": "maxHp",
+        "value": 15,
+        "reason": "Imported from D&D Beyond"
+      }
+    ],
     "proficiencies": {
       "skills": {
-        "athletics": true,
-        "intimidation": true,
+        "medicine": true,
         "acrobatics": true,
-        "animal handling": true
+        "insight": true,
+        "survival": true,
+        "nature": true,
+        "religion": true,
+        "perception": true,
+        "stealth": true
       },
       "saves": {
         "str": true,
-        "con": true
+        "dex": true
       },
-      "armor": {
-        "light": true,
-        "medium": true,
-        "heavy": true,
-        "shields": true
-      },
+      "armor": {},
       "weapons": {
         "simple": true,
-        "martial": true
+        "shortswords": true
       },
       "tools": {},
       "expertise": {}
@@ -485,94 +831,91 @@
     ],
     "state": {
       "hp": {
-        "current": 44,
+        "current": 15,
         "temp": 0
       },
+      "activeConditions": [],
+      "exhaustion": 0,
+      "inspiration": false,
       "hitDice": [
         {
-          "die": "d10",
-          "total": 5,
-          "remaining": 5
+          "die": "d8",
+          "total": 3,
+          "remaining": 3
         }
       ],
       "deathSaves": {
         "successes": 0,
-        "failures": 0,
-        "stable": false
-      },
-      "exhaustion": 0,
-      "inspiration": false,
-      "concentratingOn": null,
-      "activeConditions": [],
-      "activeEffects": [],
-      "attunedCount": 0
+        "failures": 0
+      }
     },
     "speedBase": 30,
     "derivedCache": {
       "resistances": [],
-      "proficiencyBonus": 3,
-      "level": 5,
+      "proficiencyBonus": 2,
+      "level": 3,
       "abilityScores": {
-        "str": 16,
-        "dex": 15,
-        "con": 14,
-        "int": 13,
-        "wis": 11,
-        "cha": 9
+        "str": 11,
+        "dex": 16,
+        "con": 13,
+        "int": 12,
+        "wis": 17,
+        "cha": 12
       },
       "abilityMods": {
-        "str": 3,
-        "dex": 2,
-        "con": 2,
+        "str": 0,
+        "dex": 3,
+        "con": 1,
         "int": 1,
-        "wis": 0,
-        "cha": -1
+        "wis": 3,
+        "cha": 1
       },
       "saves": {
-        "str": 6,
-        "dex": 2,
-        "con": 5,
+        "str": 2,
+        "dex": 5,
+        "con": 1,
         "int": 1,
-        "wis": 0,
-        "cha": -1
+        "wis": 3,
+        "cha": 1
       },
       "skills": {
         "acrobatics": 5,
         "animal handling": 3,
         "arcana": 1,
-        "athletics": 6,
-        "deception": -1,
+        "athletics": 0,
+        "deception": 1,
         "history": 1,
-        "insight": 0,
-        "intimidation": 2,
+        "insight": 5,
+        "intimidation": 1,
         "investigation": 1,
-        "medicine": 0,
-        "nature": 1,
-        "perception": 0,
-        "performance": -1,
-        "persuasion": -1,
-        "religion": 1,
-        "sleight of hand": 2,
-        "stealth": 2,
-        "survival": 0
+        "medicine": 5,
+        "nature": 3,
+        "perception": 5,
+        "performance": 1,
+        "persuasion": 1,
+        "religion": 3,
+        "sleight of hand": 3,
+        "stealth": 5,
+        "survival": 5
       },
-      "armorClass": 19,
-      "initiative": 2,
-      "maxHp": 44,
-      "speed": 30,
+      "armorClass": 16,
+      "initiative": 3,
+      "maxHp": 15,
+      "speed": 40,
       "darkvision": 0,
-      "attacksPerAction": 2,
+      "attacksPerAction": 1,
       "spellSaveDc": null,
       "spellAttackBonus": null,
       "spellcastingAbility": null,
       "spellcasting": [],
-      "passivePerception": 10,
+      "passivePerception": 15,
       "passiveInvestigation": 11,
-      "passiveInsight": 10
+      "passiveInsight": 15
     },
     "_core": {
       "identity": {
-        "name": "Human Fighter"
+        "name": "Sibyl Eirlynn",
+        "alignment": "NG"
       },
       "origin": {
         "species": "human",
@@ -581,54 +924,41 @@
       },
       "abilities": {
         "str": {
-          "base": 15
+          "base": 10
         },
         "dex": {
-          "base": 14
+          "base": 16
         },
         "con": {
           "base": 13
         },
         "int": {
-          "base": 12
+          "base": 11
         },
         "wis": {
-          "base": 10
+          "base": 17
         },
         "cha": {
-          "base": 8
+          "base": 11
         }
       },
       "classes": [
         {
-          "class": "fighter",
-          "subclass": "champion",
-          "level": 5
+          "class": "monk",
+          "level": 3,
+          "subclass": null
         }
       ],
-      "choices": {
-        "classSkills": [
-          "acrobatics",
-          "animal handling"
-        ],
-        "spells": [],
-        "fightingStyle": "defense",
-        "speciesAbilities": [
-          "str",
-          "dex"
-        ],
-        "speciesSkills": [
-          "perception",
-          "persuasion"
-        ],
-        "equipment": [
-          "chain-mail",
-          "longsword",
-          "shield",
-          "light-crossbow"
+      "choices": {},
+      "meta": {
+        "importedFrom": "dndbeyond",
+        "sources": [
+          "D&D Beyond"
         ]
       }
     },
+    "_slot": "forged_chr_2vtkrygk",
+    "_canEdit": true,
     "backstory": [
       {
         "id": "bs_k99aa",
@@ -691,7 +1021,7 @@
         "custom": false
       }
     ],
-    "_slot": "forged_chr_2vtkrygk"
+    "ddbId": "169013667"
   },
   "backstory": {
     "sections": [
@@ -756,5 +1086,6 @@
         "hidden": false
       }
     ]
-  }
+  },
+  "ddbId": "169013667"
 }
