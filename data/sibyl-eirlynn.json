@@ -202,7 +202,7 @@
       "visibility": "private",
       "status": "active",
       "seededFrom": "codex-site",
-      "updated": "2026-07-30T01:31:15.185Z"
+      "updated": "2026-07-30T01:31:59.869Z"
     },
     "identity": {
       "name": "Sibyl Eirlynn",
@@ -245,10 +245,10 @@
     "classes": [
       {
         "id": "cls_3",
-        "class": "fighter",
+        "class": "monk",
         "subclass": null,
-        "level": 1,
-        "hitDie": "d10",
+        "level": 3,
+        "hitDie": "d8",
         "spellcasting": null
       }
     ],
@@ -284,11 +284,35 @@
       },
       {
         "id": "ft_4",
-        "name": "Fighting Style",
-        "source": "Fighter",
+        "name": "Unarmored Defense",
+        "source": "Monk",
         "grantedBy": "class",
         "atLevel": 1,
-        "description": "Choose a combat specialty.",
+        "description": "While unarmored and unshielded, your AC = 10 + Dex + Wis.",
+        "activation": {
+          "type": "passive"
+        },
+        "modifiers": [
+          {
+            "target": "ac",
+            "op": "set-base",
+            "value": "10 + wis_mod",
+            "type": "natural",
+            "condition": "no armor",
+            "source": "Unarmored Defense"
+          }
+        ],
+        "tags": [
+          "class"
+        ]
+      },
+      {
+        "id": "ft_5",
+        "name": "Martial Arts",
+        "source": "Monk",
+        "grantedBy": "class",
+        "atLevel": 1,
+        "description": "Use Dex for unarmed strikes, roll a Martial Arts die for damage, and make a bonus-action unarmed strike.",
         "activation": {
           "type": "passive"
         },
@@ -298,45 +322,79 @@
         ]
       },
       {
-        "id": "ft_5",
-        "name": "Second Wind",
-        "source": "Fighter",
+        "id": "ft_6",
+        "name": "Ki",
+        "source": "Monk",
         "grantedBy": "class",
-        "atLevel": 1,
-        "description": "Bonus action: regain 1d10 + fighter level HP.",
+        "atLevel": 2,
+        "description": "Fuel special techniques (Flurry of Blows, Patient Defense, Step of the Wind) with Ki points.",
         "activation": {
-          "type": "action"
+          "type": "passive"
         },
         "modifiers": [],
         "tags": [
           "class"
+        ]
+      },
+      {
+        "id": "ft_7",
+        "name": "Unarmored Movement",
+        "source": "Monk",
+        "grantedBy": "class",
+        "atLevel": 2,
+        "description": "Your speed increases by 10 ft while unarmored.",
+        "activation": {
+          "type": "passive"
+        },
+        "modifiers": [
+          {
+            "target": "speed.walk",
+            "op": "add",
+            "value": 10,
+            "type": "untyped",
+            "condition": "no armor",
+            "source": "Unarmored Movement"
+          }
         ],
-        "uses": {
-          "max": 1,
-          "per": "short",
-          "current": 1
-        }
+        "tags": [
+          "class"
+        ]
+      },
+      {
+        "id": "ft_8",
+        "name": "Deflect Missiles",
+        "source": "Monk",
+        "grantedBy": "class",
+        "atLevel": 3,
+        "description": "Reaction: reduce ranged weapon damage against you.",
+        "activation": {
+          "type": "passive"
+        },
+        "modifiers": [],
+        "tags": [
+          "class"
+        ]
       }
     ],
     "resources": [
       {
-        "id": "res_6",
-        "name": "Second Wind",
-        "source": "Fighter",
+        "id": "res_9",
         "grantedBy": "class",
-        "kind": "feature-use",
-        "max": 1,
+        "name": "Ki Points",
+        "source": "Monk",
+        "kind": "points",
+        "max": 3,
         "per": "short",
-        "current": 1
+        "current": 3
       }
     ],
     "actions": [
       {
-        "id": "act_11",
-        "name": "Longsword",
+        "id": "act_12",
+        "name": "Shortsword",
         "actionCost": "action",
         "kind": "weapon",
-        "ref": "itm_8",
+        "ref": "itm_10",
         "attack": {
           "ability": "str",
           "proficient": true,
@@ -345,77 +403,77 @@
         },
         "damage": [
           {
-            "dice": "1d8",
+            "dice": "1d6",
             "mod": "str",
-            "type": "slashing",
-            "versatile": "1d10"
+            "type": "piercing",
+            "versatile": null
           }
         ],
         "properties": [
-          "versatile"
+          "finesse",
+          "light"
         ]
       },
       {
-        "id": "act_12",
-        "name": "Light Crossbow",
+        "id": "act_13",
+        "name": "Dart",
         "actionCost": "action",
         "kind": "weapon",
-        "ref": "itm_10",
+        "ref": "itm_11",
         "attack": {
           "ability": "dex",
           "proficient": true,
           "reach": null,
           "range": [
-            80,
-            320
+            20,
+            60
           ]
         },
         "damage": [
           {
-            "dice": "1d8",
+            "dice": "1d4",
             "mod": "dex",
             "type": "piercing",
             "versatile": null
           }
         ],
         "properties": [
-          "ammunition",
-          "loading",
-          "two-handed"
+          "finesse",
+          "thrown"
         ]
       },
       {
-        "id": "act_13",
+        "id": "act_14",
         "name": "Dash",
         "actionCost": "action",
         "kind": "generic"
       },
       {
-        "id": "act_14",
+        "id": "act_15",
         "name": "Disengage",
         "actionCost": "action",
         "kind": "generic"
       },
       {
-        "id": "act_15",
+        "id": "act_16",
         "name": "Dodge",
         "actionCost": "action",
         "kind": "generic"
       },
       {
-        "id": "act_16",
+        "id": "act_17",
         "name": "Hide",
         "actionCost": "action",
         "kind": "generic"
       },
       {
-        "id": "act_17",
+        "id": "act_18",
         "name": "Help",
         "actionCost": "action",
         "kind": "generic"
       },
       {
-        "id": "act_18",
+        "id": "act_19",
         "name": "Search",
         "actionCost": "action",
         "kind": "generic"
@@ -518,6 +576,54 @@
           ]
         },
         "modifiers": []
+      },
+      {
+        "id": "itm_10",
+        "_key": "shortsword",
+        "name": "Shortsword",
+        "category": "weapon",
+        "quantity": 1,
+        "weight": 3,
+        "equipped": true,
+        "rarity": "common",
+        "weapon": {
+          "category": "martial-melee",
+          "properties": [
+            "finesse",
+            "light"
+          ],
+          "damage": {
+            "dice": "1d6",
+            "type": "piercing"
+          }
+        },
+        "modifiers": []
+      },
+      {
+        "id": "itm_11",
+        "_key": "dart",
+        "name": "Dart",
+        "category": "weapon",
+        "quantity": 1,
+        "weight": 3,
+        "equipped": true,
+        "rarity": "common",
+        "weapon": {
+          "category": "simple-ranged",
+          "properties": [
+            "finesse",
+            "thrown"
+          ],
+          "damage": {
+            "dice": "1d4",
+            "type": "piercing"
+          },
+          "range": [
+            20,
+            60
+          ]
+        },
+        "modifiers": []
       }
     ],
     "currency": {
@@ -535,22 +641,16 @@
       "skills": {
         "athletics": true,
         "intimidation": true,
-        "acrobatics": true,
-        "animal handling": true
+        "acrobatics": true
       },
       "saves": {
         "str": true,
-        "con": true
+        "dex": true
       },
-      "armor": {
-        "light": true,
-        "medium": true,
-        "heavy": true,
-        "shields": true
-      },
+      "armor": {},
       "weapons": {
         "simple": true,
-        "martial": true
+        "shortswords": true
       },
       "tools": {},
       "expertise": {}
@@ -561,14 +661,14 @@
     ],
     "state": {
       "hp": {
-        "current": 10,
+        "current": 18,
         "temp": 0
       },
       "hitDice": [
         {
-          "die": "d10",
-          "total": 1,
-          "remaining": 1
+          "die": "d8",
+          "total": 3,
+          "remaining": 3
         }
       ],
       "deathSaves": {
@@ -587,7 +687,7 @@
     "derivedCache": {
       "resistances": [],
       "proficiencyBonus": 2,
-      "level": 1,
+      "level": 3,
       "abilityScores": {
         "str": 11,
         "dex": 11,
@@ -606,15 +706,15 @@
       },
       "saves": {
         "str": 2,
-        "dex": 0,
-        "con": 2,
+        "dex": 2,
+        "con": 0,
         "int": 0,
         "wis": 0,
         "cha": 0
       },
       "skills": {
         "acrobatics": 2,
-        "animal handling": 2,
+        "animal handling": 0,
         "arcana": 0,
         "athletics": 2,
         "deception": 0,
@@ -632,10 +732,10 @@
         "stealth": 0,
         "survival": 0
       },
-      "armorClass": 18,
+      "armorClass": 10,
       "initiative": 0,
-      "maxHp": 10,
-      "speed": 30,
+      "maxHp": 18,
+      "speed": 40,
       "darkvision": 0,
       "attacksPerAction": 1,
       "spellSaveDc": null,
@@ -680,8 +780,8 @@
       },
       "classes": [
         {
-          "class": "fighter",
-          "level": 1,
+          "class": "monk",
+          "level": 3,
           "subclass": null
         }
       ],
