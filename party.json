@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-30T04:37:44.475Z",
+  "updatedAt": "2026-07-30T04:38:31.764Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -922,6 +922,23 @@
         }
       ],
       "at": 1785386264248
+    },
+    {
+      "id": "roll_0xxb17toms70wups",
+      "characterId": "sibyl-eirlynn",
+      "kind": "roll",
+      "label": "1d20+5",
+      "formula": "1d20+5",
+      "detail": "d20: 12",
+      "total": 17,
+      "dice": [
+        {
+          "sides": 20,
+          "value": 12,
+          "sign": 1
+        }
+      ],
+      "at": 1785386311552
     }
   ],
   "wikipages": {
