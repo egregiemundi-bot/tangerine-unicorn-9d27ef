@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-30T02:09:11.775Z",
+  "updatedAt": "2026-07-30T02:09:23.495Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -1883,7 +1883,7 @@
         "status": "active",
         "client": "Marta Sohen",
         "location": "Kalaman",
-        "dateIssued": "",
+        "dateIssued": "16th Gildember, 351",
         "description": "",
         "characters": [],
         "objectives": [],
@@ -1892,9 +1892,9 @@
         "journal": "",
         "history": "",
         "createdAt": "2026-07-30T02:08:43.671Z",
-        "updatedAt": "2026-07-30T02:09:10.357Z"
+        "updatedAt": "2026-07-30T02:09:22.107Z"
       }
     ],
-    "updatedAt": "2026-07-30T02:09:11.775Z"
+    "updatedAt": "2026-07-30T02:09:23.495Z"
   }
 }
