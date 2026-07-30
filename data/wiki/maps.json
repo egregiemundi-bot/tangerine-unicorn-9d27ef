@@ -65,7 +65,19 @@
       "lore": {},
       "loreHiddenFields": [],
       "loreSections": [],
-      "pins": []
+      "pins": [
+        {
+          "id": "pin-ms6sl2cd324tk",
+          "x": 845.6997102991107,
+          "y": 525.2588044435884,
+          "title": "Vogler",
+          "note": "",
+          "targetType": "none",
+          "targetId": "",
+          "color": "brass",
+          "secret": false
+        }
+      ]
     },
     {
       "id": "map-mrr5e4kbeqs49",
