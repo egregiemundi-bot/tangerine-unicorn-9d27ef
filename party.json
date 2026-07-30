@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-30T02:12:57.814Z",
+  "updatedAt": "2026-07-30T02:13:04.374Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -1883,7 +1883,7 @@
         "status": "active",
         "client": "Meulara",
         "location": "Kalaman",
-        "dateIssued": "",
+        "dateIssued": "16th Gildember, 351",
         "description": "",
         "characters": [],
         "objectives": [],
@@ -1892,7 +1892,7 @@
         "journal": "",
         "history": "",
         "createdAt": "2026-07-30T02:12:41.703Z",
-        "updatedAt": "2026-07-30T02:12:56.407Z"
+        "updatedAt": "2026-07-30T02:13:02.973Z"
       },
       {
         "id": "quest_iui96cs5ms6vk7mf",
@@ -1942,6 +1942,6 @@
         "updatedAt": "2026-07-30T02:12:17.423Z"
       }
     ],
-    "updatedAt": "2026-07-30T02:12:57.814Z"
+    "updatedAt": "2026-07-30T02:13:04.374Z"
   }
 }
