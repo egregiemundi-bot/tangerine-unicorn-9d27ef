@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-30T02:09:40.976Z",
+  "updatedAt": "2026-07-30T02:09:53.190Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -1887,8 +1887,8 @@
         "description": "On the noticeboard at Kalaman Castle: \n\n\"My husband Aldric set out twelve days ago to find his brother Peryn at the Redstream farmhouse, a day's journey south of the city. He has not returned and the guard say they cannot spare anyone. I can offer 40 gold, everything I have saved. Please. — Marta Sohen, 14 Coppergate Lane\"",
         "characters": [
           {
-            "name": "",
-            "summary": ""
+            "name": "Marta Sohen",
+            "summary": "Quest Giver, Adlric's "
           }
         ],
         "objectives": [],
@@ -1897,9 +1897,9 @@
         "journal": "",
         "history": "",
         "createdAt": "2026-07-30T02:08:43.671Z",
-        "updatedAt": "2026-07-30T02:09:39.587Z"
+        "updatedAt": "2026-07-30T02:09:51.690Z"
       }
     ],
-    "updatedAt": "2026-07-30T02:09:40.976Z"
+    "updatedAt": "2026-07-30T02:09:53.188Z"
   }
 }
