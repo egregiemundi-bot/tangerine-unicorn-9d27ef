@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-30T05:49:25.812Z",
+  "updatedAt": "2026-07-30T06:03:16.765Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -2077,7 +2077,7 @@
     "vars": {
       "cx-accent": "#e8a2b8",
       "cx-accent-deep": "#c47a94",
-      "cx-bg": "#f000a0",
+      "cx-bg": "#100a0e",
       "cx-surface": "#180f16",
       "cx-field": "#120a10",
       "cx-text": "#eedde4",
@@ -2087,6 +2087,6 @@
       "cx-success": "#98c8a0"
     },
     "preset": "",
-    "updatedAt": "2026-07-30T05:49:25.812Z"
+    "updatedAt": "2026-07-30T06:03:16.765Z"
   }
 }
