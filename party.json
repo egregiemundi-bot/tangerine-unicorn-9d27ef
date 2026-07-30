@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-30T02:12:18.892Z",
+  "updatedAt": "2026-07-30T02:12:43.206Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -1878,6 +1878,23 @@
   "quests": {
     "quests": [
       {
+        "id": "quest_krfwq98qms6vpbaf",
+        "title": "New Quest",
+        "status": "active",
+        "client": "",
+        "location": "",
+        "dateIssued": "",
+        "description": "",
+        "characters": [],
+        "objectives": [],
+        "updates": [],
+        "rewards": "",
+        "journal": "",
+        "history": "",
+        "createdAt": "2026-07-30T02:12:41.703Z",
+        "updatedAt": "2026-07-30T02:12:41.704Z"
+      },
+      {
         "id": "quest_iui96cs5ms6vk7mf",
         "title": "Missing Husband",
         "status": "active",
@@ -1925,6 +1942,6 @@
         "updatedAt": "2026-07-30T02:12:17.423Z"
       }
     ],
-    "updatedAt": "2026-07-30T02:12:18.892Z"
+    "updatedAt": "2026-07-30T02:12:43.206Z"
   }
 }
