@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-30T02:09:33.418Z",
+  "updatedAt": "2026-07-30T02:09:40.976Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -1885,16 +1885,21 @@
         "location": "Kalaman",
         "dateIssued": "16th Gildember, 351",
         "description": "On the noticeboard at Kalaman Castle: \n\n\"My husband Aldric set out twelve days ago to find his brother Peryn at the Redstream farmhouse, a day's journey south of the city. He has not returned and the guard say they cannot spare anyone. I can offer 40 gold, everything I have saved. Please. — Marta Sohen, 14 Coppergate Lane\"",
-        "characters": [],
+        "characters": [
+          {
+            "name": "",
+            "summary": ""
+          }
+        ],
         "objectives": [],
         "updates": [],
         "rewards": "",
         "journal": "",
         "history": "",
         "createdAt": "2026-07-30T02:08:43.671Z",
-        "updatedAt": "2026-07-30T02:09:32.024Z"
+        "updatedAt": "2026-07-30T02:09:39.587Z"
       }
     ],
-    "updatedAt": "2026-07-30T02:09:33.417Z"
+    "updatedAt": "2026-07-30T02:09:40.976Z"
   }
 }
