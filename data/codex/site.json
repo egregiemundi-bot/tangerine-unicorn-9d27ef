@@ -9,8 +9,8 @@
   "setupComplete": true,
   "footerBranding": "Powered by The Adventurer’s Campaign Codex",
   "theme": {
-    "accent": "#04ff00",
-    "secondary": "#ffd500",
+    "accent": "#823483",
+    "secondary": "#e641ba",
     "background": "#17110b",
     "surface": "#241a11",
     "text": "#f2e4c8",
@@ -137,7 +137,7 @@
     }
   ],
   "productVersion": "1.0 Foundation",
-  "updatedAt": "2026-07-30T06:03:37.328Z",
+  "updatedAt": "2026-07-30T06:03:56.131Z",
   "backgroundImage": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/1785215099859-background.jpg?v=1785215102602",
   "heroImage": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/1785215331236-background.jpg?v=1785215333039"
 }
