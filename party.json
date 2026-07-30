@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-30T02:11:20.204Z",
+  "updatedAt": "2026-07-30T02:11:31.675Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -1909,7 +1909,7 @@
             "done": false
           },
           {
-            "text": "",
+            "text": "Rescue ",
             "done": false
           }
         ],
@@ -1918,9 +1918,9 @@
         "journal": "",
         "history": "",
         "createdAt": "2026-07-30T02:08:43.671Z",
-        "updatedAt": "2026-07-30T02:11:18.789Z"
+        "updatedAt": "2026-07-30T02:11:30.223Z"
       }
     ],
-    "updatedAt": "2026-07-30T02:11:20.204Z"
+    "updatedAt": "2026-07-30T02:11:31.675Z"
   }
 }
