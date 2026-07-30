@@ -202,7 +202,7 @@
       "visibility": "private",
       "status": "active",
       "importedFrom": "dndbeyond",
-      "updated": "2026-07-30T15:06:28.726Z"
+      "updated": "2026-07-30T15:06:29.592Z"
     },
     "identity": {
       "name": "Sibyl Eirlynn",
@@ -1253,11 +1253,11 @@
       "customUrl": ""
     },
     "theme": {
-      "accent": "#2f7d4f",
-      "accent2": "#5a7d2f",
-      "gold": "#7a9a3f",
-      "cxAccent": "#7fd6a0",
-      "cxBg": "#101a14"
+      "accent": "#6a3ca0",
+      "accent2": "#8a5da0",
+      "gold": "#a06db8",
+      "cxAccent": "#c9a0e0",
+      "cxBg": "#161020"
     }
   },
   "backstory": {
