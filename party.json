@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-30T02:12:50.477Z",
+  "updatedAt": "2026-07-30T02:12:57.814Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -1881,8 +1881,8 @@
         "id": "quest_krfwq98qms6vpbaf",
         "title": "Meulara's Odd Package",
         "status": "active",
-        "client": "",
-        "location": "",
+        "client": "Meulara",
+        "location": "Kalaman",
         "dateIssued": "",
         "description": "",
         "characters": [],
@@ -1892,7 +1892,7 @@
         "journal": "",
         "history": "",
         "createdAt": "2026-07-30T02:12:41.703Z",
-        "updatedAt": "2026-07-30T02:12:49.006Z"
+        "updatedAt": "2026-07-30T02:12:56.407Z"
       },
       {
         "id": "quest_iui96cs5ms6vk7mf",
@@ -1942,6 +1942,6 @@
         "updatedAt": "2026-07-30T02:12:17.423Z"
       }
     ],
-    "updatedAt": "2026-07-30T02:12:50.477Z"
+    "updatedAt": "2026-07-30T02:12:57.814Z"
   }
 }
