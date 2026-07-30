@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-29T23:50:47.273Z",
+  "updatedAt": "2026-07-30T02:08:45.405Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -1874,5 +1874,27 @@
     "weapons": {},
     "spells": {},
     "version": 1785353078309
+  },
+  "quests": {
+    "quests": [
+      {
+        "id": "quest_iui96cs5ms6vk7mf",
+        "title": "New Quest",
+        "status": "active",
+        "client": "",
+        "location": "",
+        "dateIssued": "",
+        "description": "",
+        "characters": [],
+        "objectives": [],
+        "updates": [],
+        "rewards": "",
+        "journal": "",
+        "history": "",
+        "createdAt": "2026-07-30T02:08:43.671Z",
+        "updatedAt": "2026-07-30T02:08:43.673Z"
+      }
+    ],
+    "updatedAt": "2026-07-30T02:08:45.405Z"
   }
 }
