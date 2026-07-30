@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-30T02:08:56.045Z",
+  "updatedAt": "2026-07-30T02:09:08.257Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -1881,7 +1881,7 @@
         "id": "quest_iui96cs5ms6vk7mf",
         "title": "Missing Husband",
         "status": "active",
-        "client": "",
+        "client": "Marta Sohen",
         "location": "",
         "dateIssued": "",
         "description": "",
@@ -1892,9 +1892,9 @@
         "journal": "",
         "history": "",
         "createdAt": "2026-07-30T02:08:43.671Z",
-        "updatedAt": "2026-07-30T02:08:54.653Z"
+        "updatedAt": "2026-07-30T02:09:06.841Z"
       }
     ],
-    "updatedAt": "2026-07-30T02:08:56.045Z"
+    "updatedAt": "2026-07-30T02:09:08.256Z"
   }
 }
