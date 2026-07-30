@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-30T02:10:00.846Z",
+  "updatedAt": "2026-07-30T02:10:03.295Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -1901,9 +1901,9 @@
         "journal": "",
         "history": "",
         "createdAt": "2026-07-30T02:08:43.671Z",
-        "updatedAt": "2026-07-30T02:09:59.421Z"
+        "updatedAt": "2026-07-30T02:10:01.891Z"
       }
     ],
-    "updatedAt": "2026-07-30T02:10:00.846Z"
+    "updatedAt": "2026-07-30T02:10:03.295Z"
   }
 }
