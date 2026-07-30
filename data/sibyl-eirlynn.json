@@ -2,7 +2,7 @@
   "name": "Sibyl Eirlynn",
   "epithet": "",
   "portrait": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/1784514802043-sibyl.jpg?v=1784514804102",
-  "player": "",
+  "player": "Claire",
   "race": "",
   "charClass": "",
   "alignment": "",
@@ -202,7 +202,7 @@
       "visibility": "private",
       "status": "active",
       "importedFrom": "dndbeyond",
-      "updated": "2026-07-30T04:38:33.322Z"
+      "updated": "2026-07-30T15:06:28.726Z"
     },
     "identity": {
       "name": "Sibyl Eirlynn",
@@ -1244,7 +1244,21 @@
         "custom": false
       }
     ],
-    "ddbId": "169013667"
+    "ddbId": "169013667",
+    "diceStyle": {
+      "body": "#171004",
+      "num": "#f4c867",
+      "edge": "#b98a3b",
+      "texture": "none",
+      "customUrl": ""
+    },
+    "theme": {
+      "accent": "#2f7d4f",
+      "accent2": "#5a7d2f",
+      "gold": "#7a9a3f",
+      "cxAccent": "#7fd6a0",
+      "cxBg": "#101a14"
+    }
   },
   "backstory": {
     "sections": [
@@ -1310,5 +1324,26 @@
       }
     ]
   },
-  "ddbId": "169013667"
+  "ddbId": "169013667",
+  "accent": "#ff0000",
+  "planetRuns": [],
+  "stackedSlots": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "stacked": [],
+  "resistances": [],
+  "immunities": [],
+  "skills": [],
+  "epicBoons": [],
+  "asiLog": [],
+  "combatMode": "Character Sheet",
+  "currentHP": 0
 }
