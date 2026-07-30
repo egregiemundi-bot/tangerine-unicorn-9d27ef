@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-30T02:11:16.739Z",
+  "updatedAt": "2026-07-30T02:11:20.204Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -1905,6 +1905,10 @@
         ],
         "objectives": [
           {
+            "text": "Find Aldric",
+            "done": false
+          },
+          {
             "text": "",
             "done": false
           }
@@ -1914,9 +1918,9 @@
         "journal": "",
         "history": "",
         "createdAt": "2026-07-30T02:08:43.671Z",
-        "updatedAt": "2026-07-30T02:11:15.288Z"
+        "updatedAt": "2026-07-30T02:11:18.789Z"
       }
     ],
-    "updatedAt": "2026-07-30T02:11:16.739Z"
+    "updatedAt": "2026-07-30T02:11:20.204Z"
   }
 }
