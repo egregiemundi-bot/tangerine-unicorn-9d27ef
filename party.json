@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-30T02:11:42.493Z",
+  "updatedAt": "2026-07-30T02:11:47.634Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -1903,7 +1903,7 @@
             "summary": "Peryn's prize chicken"
           },
           {
-            "name": "",
+            "name": "Durstan Rial",
             "summary": ""
           }
         ],
@@ -1922,9 +1922,9 @@
         "journal": "",
         "history": "",
         "createdAt": "2026-07-30T02:08:43.671Z",
-        "updatedAt": "2026-07-30T02:11:40.621Z"
+        "updatedAt": "2026-07-30T02:11:46.240Z"
       }
     ],
-    "updatedAt": "2026-07-30T02:11:42.493Z"
+    "updatedAt": "2026-07-30T02:11:47.634Z"
   }
 }
