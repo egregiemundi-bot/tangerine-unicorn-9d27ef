@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-30T02:55:11.217Z",
+  "updatedAt": "2026-07-30T04:20:45.989Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -837,6 +837,23 @@
         }
       ],
       "at": 1785201690426
+    },
+    {
+      "id": "roll_xaa9eoybms70a0dv",
+      "characterId": "kena-price",
+      "kind": "roll",
+      "label": "1d20+6",
+      "formula": "1d20+6",
+      "detail": "d20: 14",
+      "total": 20,
+      "dice": [
+        {
+          "sides": 20,
+          "value": 14,
+          "sign": 1
+        }
+      ],
+      "at": 1785385245811
     }
   ],
   "wikipages": {
