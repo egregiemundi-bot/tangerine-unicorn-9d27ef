@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-30T02:10:30.115Z",
+  "updatedAt": "2026-07-30T02:10:45.654Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -1896,7 +1896,11 @@
           },
           {
             "name": "Peryn Ambervane",
-            "summary": ""
+            "summary": "Aldric's brother"
+          },
+          {
+            "name": "Bertha",
+            "summary": "Peryn's prize chicken"
           }
         ],
         "objectives": [],
@@ -1905,9 +1909,9 @@
         "journal": "",
         "history": "",
         "createdAt": "2026-07-30T02:08:43.671Z",
-        "updatedAt": "2026-07-30T02:10:28.641Z"
+        "updatedAt": "2026-07-30T02:10:44.240Z"
       }
     ],
-    "updatedAt": "2026-07-30T02:10:30.115Z"
+    "updatedAt": "2026-07-30T02:10:45.654Z"
   }
 }
