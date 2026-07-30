@@ -840,5 +840,759 @@
     }
   },
   "_rev": 188,
-  "dmNotes": "Wants to become a Knight of Solamnia and carry on her grandfather's legacy.\nWants to improve the world's perception of the Knights of Solamnia."
+  "dmNotes": "Wants to become a Knight of Solamnia and carry on her grandfather's legacy.\nWants to improve the world's perception of the Knights of Solamnia.",
+  "forge": {
+    "schemaVersion": "1.0",
+    "id": "kena-price",
+    "meta": {
+      "rulesVersion": "2014",
+      "sources": [
+        "SRD 5.1"
+      ],
+      "visibility": "private",
+      "status": "active",
+      "seededFrom": "codex-site",
+      "updated": "2026-07-30T04:20:45.790Z"
+    },
+    "identity": {
+      "name": "Kena Price",
+      "player": "Brittney",
+      "alignment": "N",
+      "portrait": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/1784919682456-kena.jpg?v=1784919683433"
+    },
+    "origin": {
+      "species": "kalashtar",
+      "background": "soldier",
+      "alignment": "N",
+      "size": "medium"
+    },
+    "abilities": {
+      "str": {
+        "base": 19,
+        "score": 19
+      },
+      "dex": {
+        "base": 8,
+        "score": 8
+      },
+      "con": {
+        "base": 15,
+        "score": 15
+      },
+      "int": {
+        "base": 17,
+        "score": 17
+      },
+      "wis": {
+        "base": 14,
+        "score": 14
+      },
+      "cha": {
+        "base": 10,
+        "score": 10
+      }
+    },
+    "classes": [
+      {
+        "id": "cls_8",
+        "class": "fighter",
+        "subclass": "champion",
+        "level": 3,
+        "hitDie": "d10",
+        "spellcasting": null
+      }
+    ],
+    "selections": [],
+    "features": [
+      {
+        "id": "ft_1",
+        "name": "ASI: +1 (x1)",
+        "source": "Species",
+        "grantedBy": "species",
+        "description": "",
+        "activation": {
+          "type": "passive"
+        },
+        "modifiers": [],
+        "tags": [
+          "species"
+        ]
+      },
+      {
+        "id": "ft_2",
+        "name": "Dual Mind",
+        "source": "Species",
+        "grantedBy": "species",
+        "description": "",
+        "activation": {
+          "type": "passive"
+        },
+        "modifiers": [],
+        "tags": [
+          "species"
+        ]
+      },
+      {
+        "id": "ft_3",
+        "name": "Mental Discipline",
+        "source": "Species",
+        "grantedBy": "species",
+        "description": "",
+        "activation": {
+          "type": "passive"
+        },
+        "modifiers": [],
+        "tags": [
+          "species"
+        ]
+      },
+      {
+        "id": "ft_4",
+        "name": "Mind Link",
+        "source": "Species",
+        "grantedBy": "species",
+        "description": "",
+        "activation": {
+          "type": "passive"
+        },
+        "modifiers": [],
+        "tags": [
+          "species"
+        ]
+      },
+      {
+        "id": "ft_5",
+        "name": "Psychic Glamour",
+        "source": "Species",
+        "grantedBy": "species",
+        "description": "",
+        "activation": {
+          "type": "passive"
+        },
+        "modifiers": [],
+        "tags": [
+          "species"
+        ]
+      },
+      {
+        "id": "ft_6",
+        "name": "Severed from Dreams",
+        "source": "Species",
+        "grantedBy": "species",
+        "description": "",
+        "activation": {
+          "type": "passive"
+        },
+        "modifiers": [],
+        "tags": [
+          "species"
+        ]
+      },
+      {
+        "id": "ft_7",
+        "name": "Military Rank",
+        "source": "Background",
+        "grantedBy": "background",
+        "description": "Background feature.",
+        "activation": {
+          "type": "passive"
+        },
+        "modifiers": [],
+        "tags": [
+          "background"
+        ]
+      },
+      {
+        "id": "ft_9",
+        "name": "Fighting Style",
+        "source": "Fighter",
+        "grantedBy": "class",
+        "atLevel": 1,
+        "description": "Choose a combat specialty.",
+        "activation": {
+          "type": "passive"
+        },
+        "modifiers": [],
+        "tags": [
+          "class"
+        ]
+      },
+      {
+        "id": "ft_10",
+        "name": "Second Wind",
+        "source": "Fighter",
+        "grantedBy": "class",
+        "atLevel": 1,
+        "description": "Bonus action: regain 1d10 + fighter level HP.",
+        "activation": {
+          "type": "action"
+        },
+        "modifiers": [],
+        "tags": [
+          "class"
+        ],
+        "uses": {
+          "max": 1,
+          "per": "short",
+          "current": 1
+        }
+      },
+      {
+        "id": "ft_12",
+        "name": "Action Surge",
+        "source": "Fighter",
+        "grantedBy": "class",
+        "atLevel": 2,
+        "description": "Take one extra action on your turn.",
+        "activation": {
+          "type": "action"
+        },
+        "modifiers": [],
+        "tags": [
+          "class"
+        ],
+        "uses": {
+          "max": 1,
+          "per": "short",
+          "current": 1
+        }
+      },
+      {
+        "id": "ft_14",
+        "name": "Improved Critical",
+        "source": "Champion",
+        "grantedBy": "class",
+        "atLevel": 3,
+        "description": "Your weapon attacks crit on a 19–20.",
+        "activation": {
+          "type": "passive"
+        },
+        "modifiers": [
+          {
+            "target": "critRange",
+            "op": "atLeast",
+            "value": 19,
+            "type": "untyped",
+            "condition": null,
+            "source": "Champion"
+          }
+        ],
+        "tags": [
+          "class"
+        ]
+      }
+    ],
+    "resources": [
+      {
+        "id": "res_11",
+        "name": "Second Wind",
+        "source": "Fighter",
+        "grantedBy": "class",
+        "kind": "feature-use",
+        "max": 1,
+        "per": "short",
+        "current": 1
+      },
+      {
+        "id": "res_13",
+        "name": "Action Surge",
+        "source": "Fighter",
+        "grantedBy": "class",
+        "kind": "feature-use",
+        "max": 1,
+        "per": "short",
+        "current": 1
+      }
+    ],
+    "actions": [
+      {
+        "id": "act_19",
+        "name": "Longsword",
+        "actionCost": "action",
+        "kind": "weapon",
+        "ref": "itm_16",
+        "attack": {
+          "ability": "str",
+          "proficient": true,
+          "reach": 5,
+          "range": null
+        },
+        "damage": [
+          {
+            "dice": "1d8",
+            "mod": "str",
+            "type": "slashing",
+            "versatile": "1d10"
+          }
+        ],
+        "properties": [
+          "versatile"
+        ]
+      },
+      {
+        "id": "act_20",
+        "name": "Light Crossbow",
+        "actionCost": "action",
+        "kind": "weapon",
+        "ref": "itm_18",
+        "attack": {
+          "ability": "dex",
+          "proficient": true,
+          "reach": null,
+          "range": [
+            80,
+            320
+          ]
+        },
+        "damage": [
+          {
+            "dice": "1d8",
+            "mod": "dex",
+            "type": "piercing",
+            "versatile": null
+          }
+        ],
+        "properties": [
+          "ammunition",
+          "loading",
+          "two-handed"
+        ]
+      },
+      {
+        "id": "act_21",
+        "name": "Dash",
+        "actionCost": "action",
+        "kind": "generic"
+      },
+      {
+        "id": "act_22",
+        "name": "Disengage",
+        "actionCost": "action",
+        "kind": "generic"
+      },
+      {
+        "id": "act_23",
+        "name": "Dodge",
+        "actionCost": "action",
+        "kind": "generic"
+      },
+      {
+        "id": "act_24",
+        "name": "Hide",
+        "actionCost": "action",
+        "kind": "generic"
+      },
+      {
+        "id": "act_25",
+        "name": "Help",
+        "actionCost": "action",
+        "kind": "generic"
+      },
+      {
+        "id": "act_26",
+        "name": "Search",
+        "actionCost": "action",
+        "kind": "generic"
+      }
+    ],
+    "spells": [],
+    "inventory": [
+      {
+        "id": "itm_15",
+        "_key": "chain-mail",
+        "name": "Chain Mail",
+        "category": "armor",
+        "quantity": 1,
+        "weight": 55,
+        "equipped": true,
+        "rarity": "common",
+        "armor": {
+          "baseAc": 16,
+          "type": "heavy",
+          "dexCap": 0,
+          "stealthDisadvantage": true,
+          "strReq": 13
+        },
+        "modifiers": [
+          {
+            "target": "ac",
+            "op": "set-base",
+            "value": 16,
+            "type": "armor",
+            "condition": "equipped",
+            "source": "Chain Mail"
+          }
+        ]
+      },
+      {
+        "id": "itm_16",
+        "_key": "longsword",
+        "name": "Longsword",
+        "category": "weapon",
+        "quantity": 1,
+        "weight": 3,
+        "equipped": true,
+        "rarity": "common",
+        "weapon": {
+          "category": "martial-melee",
+          "properties": [
+            "versatile"
+          ],
+          "damage": {
+            "dice": "1d8",
+            "type": "slashing",
+            "versatile": "1d10"
+          }
+        },
+        "modifiers": []
+      },
+      {
+        "id": "itm_17",
+        "_key": "shield",
+        "name": "Shield",
+        "category": "armor",
+        "quantity": 1,
+        "weight": 6,
+        "equipped": true,
+        "rarity": "common",
+        "modifiers": [
+          {
+            "target": "ac",
+            "op": "add",
+            "value": 2,
+            "type": "shield",
+            "condition": "equipped",
+            "source": "Shield"
+          }
+        ]
+      },
+      {
+        "id": "itm_18",
+        "_key": "light-crossbow",
+        "name": "Light Crossbow",
+        "category": "weapon",
+        "quantity": 1,
+        "weight": 3,
+        "equipped": true,
+        "rarity": "common",
+        "weapon": {
+          "category": "simple-ranged",
+          "properties": [
+            "ammunition",
+            "loading",
+            "two-handed"
+          ],
+          "damage": {
+            "dice": "1d8",
+            "type": "piercing"
+          },
+          "range": [
+            80,
+            320
+          ]
+        },
+        "modifiers": []
+      }
+    ],
+    "currency": {
+      "gp": 0
+    },
+    "companions": [],
+    "transformations": [],
+    "vehicles": [],
+    "notes": [],
+    "relationships": [],
+    "quests": [],
+    "custom": [],
+    "overrides": [],
+    "proficiencies": {
+      "skills": {
+        "athletics": true,
+        "intimidation": true,
+        "acrobatics": true,
+        "animal handling": true
+      },
+      "saves": {
+        "str": true,
+        "con": true
+      },
+      "armor": {
+        "light": true,
+        "medium": true,
+        "heavy": true,
+        "shields": true
+      },
+      "weapons": {
+        "simple": true,
+        "martial": true
+      },
+      "tools": {},
+      "expertise": {}
+    },
+    "languages": [
+      "Common",
+      "Quori"
+    ],
+    "state": {
+      "hp": {
+        "current": 32,
+        "temp": 0
+      },
+      "hitDice": [
+        {
+          "die": "d10",
+          "total": 3,
+          "remaining": 3
+        }
+      ],
+      "deathSaves": {
+        "successes": 0,
+        "failures": 0,
+        "stable": false
+      },
+      "exhaustion": 0,
+      "inspiration": false,
+      "concentratingOn": null,
+      "activeConditions": [],
+      "activeEffects": [],
+      "attunedCount": 0
+    },
+    "speedBase": 30,
+    "derivedCache": {
+      "resistances": [],
+      "proficiencyBonus": 2,
+      "level": 3,
+      "abilityScores": {
+        "str": 20,
+        "dex": 9,
+        "con": 16,
+        "int": 18,
+        "wis": 15,
+        "cha": 11
+      },
+      "abilityMods": {
+        "str": 5,
+        "dex": -1,
+        "con": 3,
+        "int": 4,
+        "wis": 2,
+        "cha": 0
+      },
+      "saves": {
+        "str": 7,
+        "dex": -1,
+        "con": 5,
+        "int": 4,
+        "wis": 2,
+        "cha": 0
+      },
+      "skills": {
+        "acrobatics": 1,
+        "animal handling": 4,
+        "arcana": 4,
+        "athletics": 7,
+        "deception": 0,
+        "history": 4,
+        "insight": 2,
+        "intimidation": 2,
+        "investigation": 4,
+        "medicine": 2,
+        "nature": 4,
+        "perception": 2,
+        "performance": 0,
+        "persuasion": 0,
+        "religion": 4,
+        "sleight of hand": -1,
+        "stealth": -1,
+        "survival": 2
+      },
+      "armorClass": 17,
+      "initiative": -1,
+      "maxHp": 31,
+      "speed": 30,
+      "darkvision": 0,
+      "attacksPerAction": 1,
+      "spellSaveDc": null,
+      "spellAttackBonus": null,
+      "spellcastingAbility": null,
+      "spellcasting": [],
+      "passivePerception": 12,
+      "passiveInvestigation": 14,
+      "passiveInsight": 12
+    },
+    "_core": {
+      "identity": {
+        "name": "Kena Price",
+        "player": "Brittney",
+        "alignment": "N",
+        "portrait": "https://raw.githubusercontent.com/egregiemundi-bot/tangerine-unicorn-9d27ef/main/uploads/site/1784919682456-kena.jpg?v=1784919683433"
+      },
+      "origin": {
+        "species": "kalashtar",
+        "background": "soldier",
+        "alignment": "N"
+      },
+      "abilities": {
+        "str": {
+          "base": 19
+        },
+        "dex": {
+          "base": 8
+        },
+        "con": {
+          "base": 15
+        },
+        "int": {
+          "base": 17
+        },
+        "wis": {
+          "base": 14
+        },
+        "cha": {
+          "base": 10
+        }
+      },
+      "classes": [
+        {
+          "class": "fighter",
+          "level": 3,
+          "subclass": "champion"
+        }
+      ],
+      "choices": {},
+      "worlds": [],
+      "meta": {
+        "seededFrom": "codex-site"
+      }
+    },
+    "backstory": [
+      {
+        "id": "bs_gf0ow",
+        "title": "Overview",
+        "body": "",
+        "custom": false
+      },
+      {
+        "id": "bs_uc8et",
+        "title": "Early Life",
+        "body": "",
+        "custom": false
+      },
+      {
+        "id": "bs_fnrvt",
+        "title": "Important People",
+        "body": "",
+        "custom": false
+      },
+      {
+        "id": "bs_ymmiz",
+        "title": "Organizations",
+        "body": "",
+        "custom": false
+      },
+      {
+        "id": "bs_9ei4k",
+        "title": "Motivations",
+        "body": "",
+        "custom": false
+      },
+      {
+        "id": "bs_gbdxw",
+        "title": "Bonds",
+        "body": "",
+        "custom": false
+      },
+      {
+        "id": "bs_bvavo",
+        "title": "Flaws",
+        "body": "",
+        "custom": false
+      },
+      {
+        "id": "bs_cqlt9",
+        "title": "Secrets",
+        "body": "",
+        "custom": false
+      },
+      {
+        "id": "bs_7v253",
+        "title": "Goals",
+        "body": "",
+        "custom": false
+      },
+      {
+        "id": "bs_a5c86",
+        "title": "Notes",
+        "body": "",
+        "custom": false
+      }
+    ],
+    "world": "",
+    "_slot": "kena-price",
+    "_canEdit": true
+  },
+  "backstory": {
+    "sections": [
+      {
+        "id": "bs_gf0ow",
+        "title": "Overview",
+        "text": "",
+        "hidden": false
+      },
+      {
+        "id": "bs_uc8et",
+        "title": "Early Life",
+        "text": "",
+        "hidden": false
+      },
+      {
+        "id": "bs_fnrvt",
+        "title": "Important People",
+        "text": "",
+        "hidden": false
+      },
+      {
+        "id": "bs_ymmiz",
+        "title": "Organizations",
+        "text": "",
+        "hidden": false
+      },
+      {
+        "id": "bs_9ei4k",
+        "title": "Motivations",
+        "text": "",
+        "hidden": false
+      },
+      {
+        "id": "bs_gbdxw",
+        "title": "Bonds",
+        "text": "",
+        "hidden": false
+      },
+      {
+        "id": "bs_bvavo",
+        "title": "Flaws",
+        "text": "",
+        "hidden": false
+      },
+      {
+        "id": "bs_cqlt9",
+        "title": "Secrets",
+        "text": "",
+        "hidden": false
+      },
+      {
+        "id": "bs_7v253",
+        "title": "Goals",
+        "text": "",
+        "hidden": false
+      },
+      {
+        "id": "bs_a5c86",
+        "title": "Notes",
+        "text": "",
+        "hidden": false
+      }
+    ]
+  }
 }
