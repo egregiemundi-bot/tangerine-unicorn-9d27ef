@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-30T02:55:05.737Z",
+  "updatedAt": "2026-07-30T02:55:11.217Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -1902,7 +1902,7 @@
         "journal": "",
         "history": "",
         "createdAt": "2026-07-30T02:12:41.703Z",
-        "updatedAt": "2026-07-30T02:55:04.320Z"
+        "updatedAt": "2026-07-30T02:55:09.763Z"
       },
       {
         "id": "quest_iui96cs5ms6vk7mf",
@@ -1952,6 +1952,6 @@
         "updatedAt": "2026-07-30T02:12:17.423Z"
       }
     ],
-    "updatedAt": "2026-07-30T02:55:05.736Z"
+    "updatedAt": "2026-07-30T02:55:11.217Z"
   }
 }
