@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-30T04:37:41.997Z",
+  "updatedAt": "2026-07-30T04:37:44.475Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -905,6 +905,23 @@
         }
       ],
       "at": 1785386261772
+    },
+    {
+      "id": "roll_q6bptwphms70vu7s",
+      "characterId": "zacharia-horn-axe",
+      "kind": "roll",
+      "label": "1d6",
+      "formula": "1d6",
+      "detail": "d6: 5",
+      "total": 5,
+      "dice": [
+        {
+          "sides": 6,
+          "value": 5,
+          "sign": 1
+        }
+      ],
+      "at": 1785386264248
     }
   ],
   "wikipages": {
