@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-30T02:09:53.190Z",
+  "updatedAt": "2026-07-30T02:09:59.307Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -1888,7 +1888,7 @@
         "characters": [
           {
             "name": "Marta Sohen",
-            "summary": "Quest Giver, Adlric's "
+            "summary": "Quest Giver, Aldric's wife"
           }
         ],
         "objectives": [],
@@ -1897,9 +1897,9 @@
         "journal": "",
         "history": "",
         "createdAt": "2026-07-30T02:08:43.671Z",
-        "updatedAt": "2026-07-30T02:09:51.690Z"
+        "updatedAt": "2026-07-30T02:09:57.898Z"
       }
     ],
-    "updatedAt": "2026-07-30T02:09:53.188Z"
+    "updatedAt": "2026-07-30T02:09:59.307Z"
   }
 }
