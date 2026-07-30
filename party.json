@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-30T02:12:43.206Z",
+  "updatedAt": "2026-07-30T02:12:47.350Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -1879,7 +1879,7 @@
     "quests": [
       {
         "id": "quest_krfwq98qms6vpbaf",
-        "title": "New Quest",
+        "title": "Meulara's ",
         "status": "active",
         "client": "",
         "location": "",
@@ -1892,7 +1892,7 @@
         "journal": "",
         "history": "",
         "createdAt": "2026-07-30T02:12:41.703Z",
-        "updatedAt": "2026-07-30T02:12:41.704Z"
+        "updatedAt": "2026-07-30T02:12:45.956Z"
       },
       {
         "id": "quest_iui96cs5ms6vk7mf",
@@ -1942,6 +1942,6 @@
         "updatedAt": "2026-07-30T02:12:17.423Z"
       }
     ],
-    "updatedAt": "2026-07-30T02:12:43.206Z"
+    "updatedAt": "2026-07-30T02:12:47.350Z"
   }
 }
