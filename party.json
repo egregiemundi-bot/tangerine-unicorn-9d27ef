@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-30T06:03:16.765Z",
+  "updatedAt": "2026-07-30T15:03:00.140Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -2075,18 +2075,18 @@
   },
   "sitetheme": {
     "vars": {
-      "cx-accent": "#e8a2b8",
-      "cx-accent-deep": "#c47a94",
-      "cx-bg": "#100a0e",
-      "cx-surface": "#180f16",
-      "cx-field": "#120a10",
-      "cx-text": "#eedde4",
-      "cx-text-soft": "#c2a8b2",
-      "cx-text-dim": "#8f7a86",
-      "cx-danger": "#e06868",
-      "cx-success": "#98c8a0"
+      "cx-accent": "#c9a2f4",
+      "cx-accent-deep": "#a684d6",
+      "cx-bg": "#0b0a12",
+      "cx-surface": "#141020",
+      "cx-field": "#0e0b18",
+      "cx-text": "#e2dcf0",
+      "cx-text-soft": "#b0a8c8",
+      "cx-text-dim": "#837a94",
+      "cx-danger": "#e06878",
+      "cx-success": "#7fbf9d"
     },
     "preset": "",
-    "updatedAt": "2026-07-30T06:03:16.765Z"
+    "updatedAt": "2026-07-30T15:03:00.140Z"
   }
 }
