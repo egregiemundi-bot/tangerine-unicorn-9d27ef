@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-30T02:11:31.675Z",
+  "updatedAt": "2026-07-30T02:11:42.493Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -1901,6 +1901,10 @@
           {
             "name": "Bertha",
             "summary": "Peryn's prize chicken"
+          },
+          {
+            "name": "",
+            "summary": ""
           }
         ],
         "objectives": [
@@ -1918,9 +1922,9 @@
         "journal": "",
         "history": "",
         "createdAt": "2026-07-30T02:08:43.671Z",
-        "updatedAt": "2026-07-30T02:11:30.223Z"
+        "updatedAt": "2026-07-30T02:11:40.621Z"
       }
     ],
-    "updatedAt": "2026-07-30T02:11:31.675Z"
+    "updatedAt": "2026-07-30T02:11:42.493Z"
   }
 }
