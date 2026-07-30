@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-30T02:10:56.461Z",
+  "updatedAt": "2026-07-30T02:11:16.739Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -1903,15 +1903,20 @@
             "summary": "Peryn's prize chicken"
           }
         ],
-        "objectives": [],
+        "objectives": [
+          {
+            "text": "",
+            "done": false
+          }
+        ],
         "updates": [],
         "rewards": "40g",
         "journal": "",
         "history": "",
         "createdAt": "2026-07-30T02:08:43.671Z",
-        "updatedAt": "2026-07-30T02:10:55.057Z"
+        "updatedAt": "2026-07-30T02:11:15.288Z"
       }
     ],
-    "updatedAt": "2026-07-30T02:10:56.461Z"
+    "updatedAt": "2026-07-30T02:11:16.739Z"
   }
 }
