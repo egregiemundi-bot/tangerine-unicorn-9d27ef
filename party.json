@@ -10,7 +10,7 @@
       "mvp": {}
     }
   },
-  "updatedAt": "2026-07-30T02:13:30.949Z",
+  "updatedAt": "2026-07-30T02:13:43.280Z",
   "npcweb": {
     "positions": {
       "the-helpful-innkeeper": {
@@ -1886,13 +1886,18 @@
         "dateIssued": "16th Gildember, 351",
         "description": "From the Kalaman Gazette:\n\n\"Meulara's Oddities has taken delivery of a crate from Mount Nevermind that reportedly hums when no one's looking. Meulara insists it's \"perfectly safe, probably,\" and is offering a discount to anyone willing to help her open it.\"",
         "characters": [],
-        "objectives": [],
+        "objectives": [
+          {
+            "text": "Help Meulara open her package",
+            "done": false
+          }
+        ],
         "updates": [],
         "rewards": "",
         "journal": "",
         "history": "",
         "createdAt": "2026-07-30T02:12:41.703Z",
-        "updatedAt": "2026-07-30T02:13:29.568Z"
+        "updatedAt": "2026-07-30T02:13:41.891Z"
       },
       {
         "id": "quest_iui96cs5ms6vk7mf",
@@ -1942,6 +1947,6 @@
         "updatedAt": "2026-07-30T02:12:17.423Z"
       }
     ],
-    "updatedAt": "2026-07-30T02:13:30.949Z"
+    "updatedAt": "2026-07-30T02:13:43.280Z"
   }
 }
